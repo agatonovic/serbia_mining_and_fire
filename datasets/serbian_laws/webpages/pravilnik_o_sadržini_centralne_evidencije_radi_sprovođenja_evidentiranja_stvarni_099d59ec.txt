@@ -1,0 +1,78 @@
+Title: PRAVILNIKO SADRŽINI CENTRALNE EVIDENCIJE RADI SPROVOĐENJA EVIDENTIRANJA
+STVARNIH VLASNIKA REGISTROVANOG SUBJEKTA
+URL: https://www.paragraf.rs/propisi/pravilnik-sadrzini-centralne-evidencije-radi-sprovodjenja-evidentiranja-stvarnih-vlasnika.html
+Extracted: 2025-07-06T23:13:41.127706
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O SADRŽINI CENTRALNE EVIDENCIJE RADI SPROVOĐENJA EVIDENTIRANJA
+STVARNIH VLASNIKA REGISTROVANOG SUBJEKTA
+("Sl. glasnik RS", br. 94/2018)
+Član 1
+Ovim pravilnikom bliže se propisuje sadržina Centralne evidencije radi
+sprovođenja evidentiranja stvarnih vlasnika Registrovanog subjekta iz člana 2. stav 1. Zakona
+o Centralnoj evidenciji stvarnih vlasnika (u daljem tekstu: Zakon).
+Član 2
+Podaci o osnovu za sticanje svojstva stvarnog vlasnika iz člana 3. stav
+1. tačka 3) podtač. (1)-(5) i stav 2. Zakona evidentiraju se označavanjem na sledeći način:
+1) OSV 1 - ako je stvarni vlasnik fizičko lice, koje je neposredno ili
+posredno imalac 25% ili više udela, akcija ili prava glasa, na osnovu kojih učestvuje u upravljanju
+Registrovanim subjektom:
+(1) OSV 1A - ako je stvarni vlasnik fizičko lice, koje je neposredno
+ili posredno imalac 25% ili više udela/akcija:
+- OSV 1A/N - ako je stvarni vlasnik fizičko lice, koje je neposredno
+imalac 25% ili više udela/akcija u kapitalu Registrovanog subjekta;
+- OSV 1A/P - ako je stvarni vlasnik fizičko lice, koje je posredno
+imalac 25% ili više udela/akcija;
+(2) OSV 1B - ako je stvarni vlasnik fizičko lice, koje je neposredno
+ili posredno imalac 25% ili više prava glasa:
+- OSV 1B/N - ako je stvarni vlasnik fizičko lice, koje je neposredno
+imalac 25% prava glasa;
+- OSV 1B/P - ako je stvarni vlasnik fizičko lice, koje je posredno
+imalac 25% prava glasa;
+2) OSV 2 - ako je stvarni vlasnik fizičko lice koje neposredno ili posredno
+ima preovlađujući uticaj na vođenje poslova i donošenje odluka;
+3) OSV 3 - ako je stvarni vlasnik fizičko lice, koje Registrovanom subjektu
+posredno obezbedi ili obezbeđuje sredstva i po tom osnovu bitno utiče na donošenje odluka
+organa upravljanja Registrovanog subjekta prilikom odlučivanja o finansiranju i poslovanju;
+4) OSV 4 - ako je stvarni vlasnik fizičko lice koje je osnivač, poverenik,
+zaštitnik, korisnik ako je određen, kao i lice koje ima dominantan položaj u upravljanju
+trastom, odnosno u drugom licu stranog prava:
+(1) OSV 4/1 za fizičko lice koje je osnivač trasta;
+(2) OSV 4/2 za fizičko lice koje je poverenik trasta;
+(3) OSV 4/3 za fizičko lice koje je zaštitnik trasta;
+(4) OSV 4/4 za fizičko lice koje je korisnik trasta;
+(5) OSV 4/5 za fizičko lice koje ima dominantan položaj u upravljanju
+trastom, odnosno u drugom licu stranog prava;
+5) OSV 5 - ako je stvarni vlasnik fizičko lice koje je registrovano za
+zastupanje zadruga, udruženja, fondacija, zadužbina i ustanova, odnosno drugo fizičko lice
+koje je ovlašćeno lice za zastupanje prijavilo kao stvarnog vlasnika:
+(1) OSV 5A - ako je stvarni vlasnik fizičko lice koje je registrovano
+za zastupanje zadruga, udruženja, fondacija, zadužbina i ustanova;
+(2) OSV 5B - ako je ovlašćeno lice za zastupanje prijavilo drugo
+fizičko lice kao stvarnog vlasnika zadruga, udruženja, fondacija, zadužbina i ustanova.
+Podaci o osnovu za sticanje svojstva stvarnog vlasnika Registrovanog subjekta
+iz člana 3. stav 2. Zakona evidentiraju se označavanjem na sledeći način:
+1) OSV 6 - ako nije moguće odrediti fizičko lice iz člana 3. stav 1. tačka
+3) podtač. (1)-(4) Zakona na način kako je to propisano, stvarni vlasnik Registrovanog subjekta
+je fizičko lice koje je registrovano za zastupanje, odnosno koje je registrovano kao član
+organa tog subjekta;
+2) OSV 7 - ako nije moguće odrediti fizičko lice iz člana 3. stav 1. tačka
+3) podtač. (1)-(4) Zakona na način kako je to propisano, iz razloga što nisu dostupni svi
+podaci, odnosno potpuna dokumentacija, stvarni vlasnik Registrovanog subjekta je fizičko
+lice koje je registrovano za zastupanje, odnosno koje je registrovano kao član organa tog
+subjekta.
+Ako je stvarni vlasnik evidentiran oznakom OSV1A/N, OSV1B/N, OSV1A/P i
+OSV1B/P u Centralnu evidenciju evidentiraju se i podaci o procentu udela ili akcija, odnosno
+o procentu prava glasa na osnovu kojih evidentirani stvarni vlasnik učestvuje u upravljanju
+Registrovanim subjektom.
+Član 3
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije".

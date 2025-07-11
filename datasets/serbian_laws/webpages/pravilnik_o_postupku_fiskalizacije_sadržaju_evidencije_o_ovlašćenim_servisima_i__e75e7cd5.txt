@@ -1,0 +1,985 @@
+Title: PRAVILNIKO POSTUPKU FISKALIZACIJE, SADRŽAJU EVIDENCIJE 
+ O OVLAŠĆENIM SERVISIMA I SERVISERIMA I IZGLEDU, SADRŽAJU I NAČINU VOĐENJA 
+ DOSIJEA I SERVISNE KNJIŽICE FISKALNE KASE
+URL: https://www.paragraf.rs/propisi/pravilnik-o-postupku-fiskalizacije-sadrzaju-evidencije-o-ovlascenim-servisima-i-serviserima.html
+Extracted: 2025-07-06T23:12:44.287031
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O POSTUPKU FISKALIZACIJE, SADRŽAJU EVIDENCIJE 
+ O OVLAŠĆENIM SERVISIMA I SERVISERIMA I IZGLEDU, SADRŽAJU I NAČINU VOĐENJA 
+ DOSIJEA I SERVISNE KNJIŽICE FISKALNE KASE
+("Sl. glasnik RS", br. 140/2004 i 44/2018 - dr. zakon)
+Član 1
+Ovim pravilnikom bliže se uređuje postupak fiskalizacije u 
+ skladu sa članom 27 Zakona o fiskalnim kasama ("Službeni glasnik RS", 
+ broj 135/2004 - u daljem tekstu: Zakon), sadržaj evidencije o ovlašćenim servisima 
+ koju vodi ovlašćeni proizvođač i ovlašćenim serviserima, koju vodi ovlašćeni 
+ servis, u skladu sa članom 28 st. 1 i 11 Zakona i izgled, sadržaj i način vođenja 
+ dosijea i servisne knjižice fiskalne kase, u skladu sa članom 31 stav 1 Zakona.
+1. Dodela identifikacionih brojeva fiskalnim kasama
+Član  2
+Identifikacione brojeve fiskalnim kasama (u daljem tekstu: 
+ IB), na pismeni zahtev ovlašćenog proizvođača fiskalnih kasa, kome je data saglasnost 
+ za stavljanje fiskalne kase u promet (u daljem tekstu: proizvođač), dodeljuje 
+ Ministarstvo finansija, Poreska uprava - Centrala (u daljem tekstu: Poreska 
+ uprava) u skladu sa članom 27 stav 1 Zakona.
+Prilikom dodele IB proizvođaču, Poreska uprava vodi računa 
+ da dodeljeni IB bude jedinstven za svaku fiskalnu kasu, po proizvođaču, tipu 
+ i modelu fiskalne kase.
+Zahtev proizvođača podnosi se na Obrascu ZIB - Zahtev za dodelu 
+ identifikacionih brojeva za fiskalne kase, koji je odštampan uz ovaj pravilnik 
+ i čini njegov sastavni deo.
+Uz prvi zahtev za dodelu IB za određeni tip i model fiskalne 
+ kase, proizvođač je dužan da Poreskoj upravi, u elektronskoj formi, dostavi 
+ sledeće podatke, i to:
+1) izgled, dimenzije, materijal od koga je sačinjena i način 
+ postavljanja proizvođačke plombe;
+2) izgled, kod, dimenzije, materijal od koga je sačinjena i 
+ način postavljanja servisnih plombi ovlašćenih servisa;
+3) spisak distributera koje je proizvođač ovlastio za zaključenje 
+ ugovora o kupovini fiskalne kase;
+4) izgled, položaj, dimenzije i mesto postavljanja programske 
+ i fiskalne plombe tako da plombe onemogućuju fizički kontakt sa programskim 
+ i fiskalnim modulom u fiskalnoj kasi;
+5) spisak ovlašćenih servisa i njihovih ovlašćenih servisera 
+ koje je ovlastio proizvođač posebnim aktom o davanju ovlašćenja;
+6) posebno uputstvo za potrebe poreske kontrole o načinu korišćenja 
+ fiskalne kase, softvera fiskalne kase i svim njegovim mogućnostima, odnosno 
+ sertifikovane softverske aplikacije na računaru povezanim sa fiskalnom kasom 
+ i svim njenim mogućnostima.
+Ugovor iz stava 4 tačka 3) ovog člana, naročito sadrži:
+1) PIB ovlašćenog distributera;
+2) pun naziv ovlašćenog distributera;
+3) adresu sedišta ovlašćenog distributera;
+4) naziv i adresu objekata ovlašćenog distributera u kojima 
+ se vrši prodaja fiskalnih kasa.
+Spisak iz stav 4 tačka 5) ovog člana, naročito sadrži:
+1) PIB ovlašćenog servisa;
+2) pun naziv ovlašćenog servisa;
+3) adresu sedišta ovlašćenog servisa;
+4) naziv i adresu objekata servisa za fiskalizaciju;
+5) prezime i ime ovlašćenih servisera i kod njihove servisne 
+ plombe.
+2. Identifikacioni brojevi fiskalnih kasa
+Član  3
+IB se sastoji od osam alfanumeričkih znakova - XXNNNNNN, pri 
+ čemu prva dva slovna znaka (XX) označavaju proizvođača, tip i model fiskalne 
+ kase, a ostalih pet znakova (NNNNN) su progresivni rastući brojevi koji počinju 
+ od 00000 i uvek se završavaju sa "0", kao osmim alfanumeričkim znakom.
+Prvih sedam alfanumeričkih znakova sa nulom, kao osmim alfanumeričkim 
+ znakom, su jedinstveni IB fiskalne kase.
+Kada proizvođač utroši dodeljeni raspon IB brojeva, obraća 
+ se Poreskoj upravi za dodelu novih IB.
+Evidenciju o odobrenim i dodeljenim IB vodi Poreska uprava 
+ pojedinačno po proizvođačima, tipu i modelu fiskalne kase, u elektronskoj formi.
+Evidencija iz stava 4 ovog člana, naročito sadrži:
+1) pun naziv proizvođača;
+2) poštanski broj i mesto sedišta proizvođača;
+3) adresu proizvođača;
+4) poreski identifikacioni broj (PIB) proizvođača;
+5) matični broj proizvođača;
+6) broj akta Vlade Republike Srbije, i datum davanja 
+ saglasnosti proizvođaču iz člana 22 stav 1 Zakona;
+7) broj i datum iz evidencije Ministarstva trgovine, 
+ turizma i usluga;
+8) tip i model fiskalne kase;
+9) broj i datum zahteva za dodelu IB za tip i model fiskalne 
+ kase;
+10) dodeljeni raspon IB za tip i model fiskalne kase.
+Član  4
+Proizvođač je dužan da IB na vidljiv način i trajno obeleži 
+ na gornjoj stranici svake proizvedene fiskalne kase. Obeležavanje IB proizvođač 
+ može izvršiti tako što će:
+1) IB utisnuti na gornjoj stranici fiskalne kase;
+2) ili IB ispisati na gornjoj stranici fiskalne kase, sredstvom 
+ koje će trajno sačuvati taj zapis;
+3) ili IB, utisnut ili ispisan sredstvom koje će trajno sačuvati 
+ taj zapis na aluminijumskoj pločici, zaheftati ili zalepiti na gornjoj stranici 
+ fiskalne kase;
+4) ili IB, ispisan sredstvom koje će trajno sačuvati taj zapis 
+ na vodootpornoj nalepnici zalepiti na gornjoj stranici fiskalne kase;
+5) ili IB na drugi način postaviti na gornjoj stranici fiskalne 
+ kase, tako da ono bude trajno zabeleženo.
+3. Identifikacioni brojevi fiskalnih modula fiskalne kase
+Član  5
+Identifikacioni broj prvog fiskalnog modula fiskalne kase (u 
+ daljem tekstu: IBFM) se sastoji od osam alfanumeričkih znakova - XXNNNNNN, pri 
+ čemu je prvih sedam znaka nepromenjivo, a osmi znak je uvek "0", što 
+ znači da je prvi fiskalni modul u konkretnoj fiskalnoj kasi uvek identičan IB 
+ fiskalne kase.
+Svaki sledeći, novi, fiskalni modul koji se ugrađuje u konkretnu 
+ fiskalnu kasu mora imati jedan i jedinstveni neponovljiv IBFM, u kojem se kao 
+ poslednji, osmi alfanumerički znak kreće od 1 do 9, u skladu sa članom 9 stav 
+ 1 tačka 2) Zakona.
+Ovlašćeni proizvođač je dužan da, u procesu proizvodnje, IBFM 
+ upiše u fiskalnu memoriju, kao i prilikom zamene fiskalnog modula, o čemu ovlašćeni 
+ proizvođač vodi posebnu evidenciju.
+4. Proizvođačka i servisna plomba
+Član  6
+Svaka proizvedena fiskalna kasa mora da nosi proizvođačku plombu 
+ identičnu proizvođačkoj plombi i načinu plombiranja iz člana 22 stav 4 tačka 
+ 4) Zakona, od trenutka proizvodnje do početka fiskalizacije.
+Svaka fiskalna kasa, posle izvršene fiskalizacije mora nositi 
+ servisnu plombu identičnu servisnoj plombi iz člana 27 st. 5 i 6 Zakona.
+Servisna plomba obavezno sadrži pet alfanumerika, i to: AANNN, 
+ od čega su prva dva alfanumerika (AA) slovna oznaka servisa, a druga tri (NNN) 
+ redni broj dodeljen serviseru.
+Proizvođač je dužan da, u slučaju dodele novog ovlašćenja servisu, 
+ koji do tada nije bio ovlašćen od strane tog proizvođača, Poreskoj upravi dostavi 
+ izgled njegove servisne plombe.
+Servisna plomba se obavezno izrađuje od materijala u koji ovlašćeni 
+ serviser utiskuje kod servisne plombe pomoću posebnog alata ili na drugi pogodan 
+ način, tako da servisna plomba spreči pristup fiskalnoj i programskoj plombi, 
+ bez njenog vidljivog oštećenja.
+5. Fiskalna i programska plomba
+Član  7
+Fiskalna plomba se izrađuje od specijalnog materijala za jednokratnu 
+ upotrebu, koji u sebi sadrži sigurnosnu zaštitu.
+Fiskalna plomba pokriva deo konektora koji spaja fiskalni modul 
+ sa matičnom pločom i deo matične ploče, čime onemogućava razdvajanje fiskalnog 
+ modula od matične ploče bez vidljivog oštećenja fiskalne plombe.
+Programska plomba se izrađuje od specijalnog materijala za 
+ jednokratnu upotrebu, koji u sebi sadrži sigurnosnu zaštitu.
+Programska plomba pokriva deo programske memorije, deo podnožja 
+ programske memorije i deo matične ploče, čime onemogućava razdvajanje programske 
+ memorije od matične ploče bez vidljivog oštećenja programske plombe.
+Svaka fiskalna i programska plomba sadrži hologram i osam alfanumeričkih 
+ znakova, i to: AAXXXXXX, od čega su prva dva kombinacija slovnih oznaka, koje 
+ polaze od AA i završavaju se sa ŠŠ, a ostalih šest znakova su brojevi koji polaze 
+ od 000001 i završavaju se sa 999999.
+6. Postupak prve fiskalizacije fiskalne kase
+Član  8
+Proizvođač, odnosno ovlašćeni distributer, može da isporuči 
+ neposredno ovlašćenom servisu proizvedenu fiskalnu kasu samo ako sadrži IB, 
+ IBFM i proizvođačku plombu.
+Po isporuci fiskalne kase u ovlašćeni servis, ovlašćeni serviser 
+ proverava proizvođačku plombu i ako je verodostojna, pismeno obaveštava obveznika 
+ sa kojim je zaključen ugovor o nabavci, servisiranju, popravci, obuci i tehničkoj 
+ podršci o prispeću fiskalne kase u ovlašćeni servis, najkasnije u roku od dva 
+ dana od dana kada je fiskalna kasa isporučena u ovlašćeni servis.
+Ako ovlašćeni serviser, prilikom preuzimanja fiskalne kase 
+ od ovlašćenog proizvođača, odnosno distributera, utvrdi da proizvođačka plomba 
+ nije verodostojna, ovlašćeni servis fiskalnu kasu vraća proizvođaču.
+Obveznik je dužan da, najkasnije u roku od tri dana od dana 
+ prijema obaveštenja, ovlašćenom servisu podnese Zahtev za fiskalizaciju, na 
+ Obrascu IPU-1 - Zahtev za fiskalizaciju, koji je odštampan uz ovaj pravilnik 
+ i čini njegov sastavni deo.
+Obrazac IPU-1 sastoji se iz dela koji ispunjava obveznik, dela 
+ koji popunjava ovlašćeni servis i dela koji popunjava Poreska uprava.
+Uz zahtev, obveznik prilaže i dokaz da je maloprodajni objekat, 
+ odnosno mesto na kome vrši promet dobara ili usluga prijavljen nadležnoj organizacionoj 
+ jedinici Poreske uprave (u daljem tekstu: poreski organ).
+Član  9
+Prilikom podnošenja Obrasca IPU-1 obveznik se izjašnjava o 
+ kojoj vrsti zahteva se radi, zaokružavanjem jednog od ponuđenih razloga za podnošenje 
+ zahteva, i to zbog:
+1) kupovine nove fiskalne kase (prva fiskalizacija);
+2) promene naziva obveznika, adrese sedišta obveznika ili PIB-a;
+3) promene naziva i adrese objekta u kome se nalazi fiskalna 
+ kasa;
+4) zamene programske i/ili fiskalne memorije;
+5) odjave/prestanka obavljanja delatnosti.
+Član  10
+Ako obveznik - preduzetnik ne obavlja delatnost navedenu u 
+ Pravilniku o određivanju delatnosti za čije obavljanje nije potreban poseban 
+ prostor ("Službeni glasnik RS", broj 9/96), u prvom delu Obrasca IPU-1, 
+ I Popunjava obveznik, u tački 1. Obveznik, u delu Podaci, obveznik iz ovog stava, 
+ kao i sva pravna lica, obavezno upisuju:
+1) poreski identifikacioni broj (PIB) obveznika;
+2) pun naziv obveznika;
+3) poštanski broj mesta i naziv mesta sedišta obveznika;
+4) adresu sedišta obveznika (naziv ulice i kućni broj);
+5) telefon/telefaks u sedištu obveznika, lica za kontakt.
+Ako obveznik - preduzetnik obavlja delatnost navedenu u pravilniku 
+ iz stava 1 ovog člana, odnosno delatnosti koje se mogu obavljati kod naručioca 
+ posla ili od mesta do mesta (poslovanje, opravka, montaža i slično), u prvom 
+ delu Obrasca IPU-1, I Popunjava obveznik, u tački 1. Obveznik, u delu Podaci, 
+ obveznik unosi podatke o sedištu i adresi onako kako su upisani u odgovarajući 
+ registar, odnosno:
+1) tip i marku prevoznog sredstva kojim se obavlja delatnost;
+2) registarski broj prevoznog sredstva;
+3) telefon/telefaks lica za kontakt.
+Član  11
+Ako je mesto instaliranja fiskalne kase objekat, odnosno prostor 
+ koji ispunjava propisane uslove, ili se delatnost obavlja u stanu, u prvom delu 
+ Obrasca IPU-1, tačka 2. Objekat, odnosno mesto instaliranja fiskalne kase, u 
+ delu Podaci, obveznik upisuje:
+1) naziv objekta, odnosno prostora u kojem obavlja delatnost;
+2) poštanski broj mesta i naziv mesta gde se objekat, prostor, 
+ odnosno stan nalazi;
+3) adresu (naziv ulice i kućni broj) gde se objekat, prostor, 
+ odnosno stan nalazi;
+4) telefon/telefaks u objektu, prostoru, odnosno stanu lica 
+ za kontakt.
+Ako obveznik obavlja delatnost navedenu u pravilniku iz člana 
+ 10 stav 1 ovog pravilnika, odnosno delatnosti koje se mogu obavljati kod naručioca 
+ posla ili od mesta do mesta (poslovanje, opravka, montaža i slično), u prvom 
+ delu Obrasca IPU-1, tačka 2. Objekat, odnosno mesto instaliranja fiskalne kase, 
+ u delu Podaci, obveznik upisuje:
+1) tip i marku prevoznog sredstva kojim se obavlja delatnost;
+2) registarski broj prevoznog sredstva;
+3) telefon/telefaks lica za kontakt.
+Na Obrascu IPU-1, ovlašćeni servis popunjava drugi deo zahteva 
+ za fiskalizaciju i dostavlja poreskom organu. Direktor Poreske uprave određuje 
+ način dostavljanja podataka na obrascu IPU-1, u elektronskoj formi.
+Član  12
+Po prijemu Obrasca IPU-1 iz člana 8 stav 4 ovog pravilnika, 
+ poreski organ telefonom obaveštava ovlašćeni servis o datumu i vremenu fiskalizacije, 
+ koji ne može biti duži od dva dana od dana prijema Obrasca IPU-1 od strane poreskog 
+ organa.
+Postupak fiskalizacije otpočinje tako što ovlašćeni serviser 
+ u prisustvu ovlašćenog radnika poreskog organa najpre proverava da li je IB 
+ fiskalne kase identičan broju navedenom u dokumentaciji za fiskalnu kasu, pa 
+ ako jeste skida ispravnu proizvođačku plombu i proverava da li je IBFM upisan 
+ u fiskalnoj memoriji identičan IBFM navedenom u pratećoj dokumentaciji fiskalne 
+ kase.
+Kada ovlašćeni serviser postupi na način iz stava 2 ovog člana, 
+ ovlašćeni radnik poreskog organa proverava da li se IBFM upisan u fiskalnoj 
+ memoriji nalazi u rasponu IB odobrenih od strane Poreske uprave, da li je već 
+ izvršena fiskalizacija sa tim IBFM ili IB i ako su rezultati tih provera pozitivni, 
+ dozvoljava ovlašćenom serviseru da u fiskalnu memoriju unese preostale podatke 
+ propisane članom 9 Zakona.
+Kada ovlašćeni radnik poreskog organa dozvoli ovlašćenom serviseru 
+ unos preostalih podataka u fiskalnu memoriju, ovlašćeni serviser unosi i proverava 
+ preostale podatke u fiskalnoj memoriji i operativnoj memoriji.
+U operativnu memoriju ovlašćeni serviser upisuje naziv obveznika, 
+ naziv i adresu prodajnog objekta, odnosno mesta i poštanski broj i naziv mesta 
+ prodajnog objekta, odnosno mesta, naznačenog u Obrascu IPU-1. Posle unosa podataka 
+ iz st. 1-5 ovog člana, ovlašćeni radnik poreskog organa konstatuje da li su 
+ uneti podaci ispravni, tako što štampa jedan fiskalni isečak broj BI 1, presek 
+ stanja, dnevni izveštaj broj BD 1 i periodičan izveštaj, kontroliše njihovu 
+ sadržinu i ako su svi potrebni podaci tačno uneti, postavlja fiskalnu i programsku 
+ plombu na delovima fiskalne kase navedenim u članu 7 st. 2 i 4 ovog pravilnika.
+Član  13
+Posle postavljanja fiskalne i programske plombe, ovlašćeni 
+ serviser postavlja servisnu plombu u prisustvu ovlašćenog radnika poreskog organa.
+Posle postavljanja servisne plombe, ovlašćeni radnik poreskog 
+ organa popunjava i potpisuje Obrazac IPU-1.
+O postupku fiskalizacije ovlašćeni radnik poreskog organa sastavlja 
+ zapisnik.
+Posle izvršene fiskalizacije poreski organ donosi rešenje o 
+ fiskalizaciji, najkasnije narednog radnog dana od dana fiskalizacije.
+7. Fiskalizacije zbog promene naziva obveznika, adrese sedišta 
+ obveznika ili PIB-a obveznika
+Član  14
+Ako obveznik vrši promenu naziva obveznika zbog statusnih promena 
+ i sl., adrese sedišta obveznika ili promene PIB-a, dužan je da pre početka obavljanja 
+ delatnosti prometa preko fiskalne kase pod novim nazivom obveznika, adrese sedišta 
+ obveznika ili novog PIB-a podnese poreskom organu zahtev za fiskalizaciju, na 
+ Obrascu IPU-1, zaokruženjem opcije 2 - promena naziva obveznika, adrese sedišta 
+ obveznika ili PIB-a, preko ovlašćenog servisa.
+U slučaju iz stava 1 ovog člana, u prvom delu Obrasca IPU-1, 
+ I Popunjava obveznik, u tački 1. Obveznik, u delu: Podaci: upisuje nove podatke 
+ iz člana 10 ovog pravilnika.
+Po prijemu Obrasca IPU-1 iz stava 1 ovog člana, poreski organ 
+ telefonom obaveštava ovlašćeni servis o datumu i vremenu nove fiskalizacije, 
+ koji ne može biti duži od dva dana od dana prijema Obrasca IPU-1 od strane poreskog 
+ organa.
+Postupak fiskalizacije otpočinje tako što ovlašćeni serviser 
+ u ovlašćenom servisu u prisustvu ovlašćenog radnika poreskog organa najpre proverava 
+ da li je IB fiskalne kase identičan broju IB navedenom u dokumentaciji za fiskalnu 
+ kasu, pa ako jeste skida ispravnu servisnu plombu i otvara fiskalnu kasu.
+Kada ovlašćeni serviser postupi na način iz stava 4 ovog člana, 
+ ovlašćeni radnik poreskog organa proverava da li su fiskalna i programska plomba 
+ verodostojne i neoštećene, pa ako su rezultati tih provera pozitivni, dozvoljava 
+ ovlašćenom serviseru skidanje fiskalne plombe radi nove fiskalizacije.
+Ako poreski obveznik pored promene naziva obveznika i adrese 
+ sedišta obveznika menja i PIB, ovlašćeni serviser pre unosa novih podataka u 
+ fiskalnu memoriju vrši zamenu fiskalnog modula, novim, čiji je IBFM za jedan 
+ broj veći od IBFM koji se zamenjuje.
+Kada ovlašćeni radnik poreskog organa dozvoli ovlašćenom serviseru 
+ unos preostalih podataka u fiskalnu memoriju, odnosno operativnu memoriju ovlašćeni 
+ serviser unosi i proverava preostale podatke u fiskalnoj i operativnoj memoriji.
+U operativnu memoriju ovlašćeni serviser upisuje novi naziv 
+ obveznika, novu adresu obveznika, odnosno mesta i poštanski broj i naziv mesta 
+ prodajnog objekta, odnosno mesta, naznačenog u Obrascu IPU-1.
+Posle unosa podataka iz st. 1-5 ovog člana, ovlašćeni radnik 
+ poreskog organa konstatuje da li su uneti podaci ispravni tako što štampa jedan 
+ fiskalni isečak - BI, presek stanja, dnevni izveštaj - BD i periodičan izveštaj, 
+ kontroliše njihovu sadržinu, pa ako su svi potrebni podaci tačno uneti, stavlja 
+ novu fiskalnu plombu i dozvoljava ovlašćenom serviseru postavljanje servisne 
+ plombe.
+Posle postavljanja servisne plombe, ovlašćeni radnik poreskog 
+ organa popunjava i potpisuje Obrazac IPU-1.
+O postupku nove fiskalizacije zbog razloga iz stava 1 ovog 
+ člana, ovlašćeni radnik poreskog organa sastavlja zapisnik.
+Posle izvršene fiskalizacije poreski organ donosi rešenje o 
+ fiskalizaciji, najkasnije narednog radnog dana od dana fiskalizacije.
+Promena podataka o obvezniku, adresi i PIB-u, ako i adresi 
+ objekta u kome se fiskalna kasa nalazi obavezno se evidentira u servisnoj knjižici 
+ fiskalne kase.
+8. Fiskalizacija zbog promene adrese objekta u kome se nalazi 
+ fiskalna kasa
+Član  15
+Ako obveznik vrši promenu podataka o objektu u kome obavlja 
+ delatnost, dužan je da najkasnije u roku od tri dana pre promene mesta prodaje 
+ dobara, odnosno pružanja usluga u novom objektu, odnosno mestu prometa preko 
+ fiskalne kase podnese poreskom organu zahtev za fiskalizaciju, na Obrascu IPU-1, 
+ zaokruženjem opcije 3. - promena naziva i adrese objekta u kome se nalazi fiskalna 
+ kasa, preko ovlašćenog servisa.
+U prvom delu, tačka 2. Objekat, odnosno mesto instaliranja 
+ fiskalne kase - Obrasca IPU-1, u delu Podaci - obveznik upisuje podatke iz člana 
+ 11 ovog pravilnika.
+Po prijemu Obrasca IPU-1 iz stava 1 ovog člana, poreski organ 
+ telefonom obaveštava ovlašćeni servis o datumu i vremenu nove fiskalizacije, 
+ koji ne može biti duži od dva dana od dana prijema Obrasca IPU-1 od strane poreskog 
+ organa.
+Postupak fiskalizacije otpočinje tako što ovlašćeni serviser 
+ na licu mesta u novom objektu, odnosno mestu obavljanja delatnosti, u prisustvu 
+ ovlašćenog radnika poreskog organa najpre proverava da li je IB fiskalne kase 
+ identičan broju navedenom u dokumentaciji za fiskalnu kasu, pa ako jeste skida 
+ ispravnu servisnu plombu i otvara fiskalnu kasu.
+Kada ovlašćeni serviser postupi na način iz stava 4 ovog člana, 
+ ovlašćeni radnik poreskog organa proverava da li su fiskalna i programska plomba 
+ verodostojne i ako su rezultati tih provera pozitivni, dozvoljava ovlašćenom 
+ serviseru da u operativnu memoriju unese podatke propisane članom 9 Zakona.
+Kada ovlašćeni radnik poreskog organa dozvoli ovlašćenom serviseru 
+ unos preostalih podataka u operativnu memoriju, ovlašćeni serviser unosi i proverava 
+ preostale podatke u operativnoj memoriji.
+U operativnu memoriju ovlašćeni serviser upisuje naziv obveznika, 
+ naziv i adresu obveznika, odnosno mesta i poštanski broj i naziv mesta prodajnog 
+ objekta, odnosno mesta, naznačenog u Obrascu IPU-1.
+Posle unosa podataka iz st. 1-5 ovog člana, ovlašćeni radnik 
+ poreskog organa konstatuje da li su uneti podaci ispravni tako što štampa jedan 
+ fiskalni isečak - BI, presek stanja, dnevni izveštaj - BD i periodičan izveštaj, 
+ kontroliše njihovu sadržinu i ako su svi potrebni podaci tačno uneti, dozvoljava 
+ ovlašćenom serviseru postavljanje servisne plombe.
+Posle postavljanja servisne plombe, ovlašćeni radnik poreskog 
+ organa popunjava i potpisuje Obrazac IPU-1.
+O postupku fiskalizacije ovlašćeni radnik poreskog organa sastavlja 
+ zapisnik.
+Posle izvršene fiskalizacije poreski organ donosi rešenje o 
+ fiskalizaciji, najkasnije narednog radnog dana od dana fiskalizacije.
+Promena podataka o adresi objekta u kome se fiskalna kasa nalazi 
+ obavezno se evidentira u servisnoj knjižici fiskalne kase.
+9. Fiskalizacija zbog zamene fiskalnog ili programskog modula 
+ u fiskalnoj kasi
+Član  16
+Ako obveznik vrši zamenu fiskalnog modula zbog iskorišćenog 
+ kapaciteta fiskalnog modula ili zamene softvera u programskom modulu, dužan 
+ je da pre početka obavljanja delatnosti prometa preko fiskalne kase podnese 
+ poreskom organu zahtev za fiskalizaciju, na Obrascu IPU-1, zaokruženjem opcije 
+ 4. - zamene programske i/ili fiskalne memorije, preko ovlašćenog servisa.
+Po prijemu Obrasca IPU-1 iz stava 1 ovog člana, poreski organ 
+ telefonom obaveštava ovlašćeni servis o datumu i vremenu nove fiskalizacije, 
+ koji ne može biti duži od dva dana od dana prijema Obrasca IPU-1 od strane poreskog 
+ organa.
+Postupak fiskalizacije otpočinje tako što ovlašćeni serviser 
+ u ovlašćenom servisu, u prisustvu ovlašćenog radnika poreskog organa najpre 
+ proverava da li je IB fiskalne kase identičan broju navedenom u dokumentaciji 
+ za fiskalnu kasu, pa ako jeste skida ispravnu servisnu plombu i otvara fiskalnu 
+ kasu.
+Kada ovlašćeni serviser postupi na način iz stava 3 ovog člana, 
+ ovlašćeni radnik poreskog organa proverava da li su fiskalna i programska plomba 
+ verodostojne i neoštećene, pa ako su rezultati tih provera pozitivni, dozvoljava 
+ ovlašćenom serviseru da iz fiskalne memorije odštampa periodičan izveštaj od 
+ datuma i vremena odštampanog prvog fiskalnog isečka pa do datuma i vremena odštampanog 
+ poslednjeg fiskalnog isečka zabeleženog u fiskalnoj memoriji sa svim promenama 
+ poreskih stopa i svim resetima.
+Kada ovlašćeni radnik poreskog organa primi periodičan izveštaj 
+ iz stava 4 ovog člana, dozvoljava ovlašćenom serviseru skidanje fiskalne i/ili 
+ programske plombe i zamenu fiskalnog modula i/ili programske memorije.
+Kada ovlašćeni serviser postupi na način iz stava 5 ovog člana, 
+ ovlašćeni radnik poreskog organa proverava da li IBFM upisan u fiskalnoj memoriji 
+ odgovara IB fiskalne kase, odnosno da li je već izvršena fiskalizacija sa tim 
+ IBFM, i ako su rezultati tih provera pozitivni, dozvoljava ovlašćenom serviseru 
+ da u fiskalnu memoriju unese preostale podatke propisane članom 9 Zakona.
+Kada ovlašćeni radnik poreskog organa dozvoli ovlašćenom serviseru 
+ unos preostalih podataka u fiskalnu memoriju, ovlašćeni serviser unosi i proverava 
+ preostale podatke u fiskalnoj memoriji i operativnoj memoriji.
+U operativnu memoriju ovlašćeni serviser upisuje naziv obveznika, 
+ naziv i adresu prodajnog objekta, odnosno mesta i poštanski broj i naziv mesta 
+ prodajnog objekta, odnosno mesta, naznačenog u Obrascu IPU-1.
+Posle unosa podataka iz st. 1-5 ovog člana, ovlašćeni radnik 
+ poreskog organa konstatuje da li su uneti podaci ispravni tako što štampa jedan 
+ fiskalni isečak BI, presek stanja, dnevni izveštaj BD i periodičan izveštaj, 
+ kontroliše njihovu sadržinu i ako su svi potrebni podaci tačno uneti, postavlja 
+ fiskalnu i programsku plombu na delovima fiskalne kase navedenim u članu 8 st. 
+ 2 i 4 ovog pravilnika i ako su svi potrebni podaci tačno uneti, postavlja fiskalnu 
+ i/ili programsku plombu i dozvoljava ovlašćenom serviseru postavljanje servisne 
+ plombe.
+Posle postavljanja servisne plombe, ovlašćeni radnik poreskog 
+ organa popunjava i potpisuje Obrazac IPU-1.
+O postupku fiskalizacije zbog razloga iz stava 1 ovog člana, 
+ ovlašćeni radnik poreskog organa sastavlja zapisnik.
+Posle izvršene fiskalizacije poreski organ donosi rešenje o 
+ fiskalizaciji, najkasnije narednog radnog dana od dana fiskalizacije.
+Promena podataka o IBFM i broju fiskalne, programske i servisne 
+ plombe obavezno se evidentiraju u servisnoj knjižici fiskalne kase.
+10. Promena podataka u operativnoj memoriji fiskalne kase o adresi 
+ objekta ili mesta prodaje u slučaju prodaje dobara ili pružanja usluga na sajmovima, 
+ izložbama, vašarima i sličnim manifestacijama
+Član  17
+Ako obveznik, pored vršenja prometa u maloprodajnom objektu, 
+ odnosno mestu vršenja prometa, vrši i promet dobara, odnosno pružanja usluga 
+ na sajmovima, izložbama, vašarima i sličnim manifestacijama, dužan je da za 
+ vreme vršenja prometa na sajmovima, izložbama, vašarima i sličnim manifestacijama 
+ u operativnu memoriju fiskalne kase, u prvom opcionom bloku unese:
+1) naziv sajma, izložbe, vašara ili slične manifestacije;
+2) vreme trajanja sajma, izložbe, vašara ili slične manifestacije;
+3) poštanski broj i naziv mesta održavanja sajma, izložbe, 
+ vašara ili slične manifestacije;
+4) adresu (ulicu i broj), odnosno broj štanda.
+Ako fiskalna kasa nema mogućnost upisa podataka u prvom opcionom 
+ bloku predviđenom za reklamu, ovi podaci se upisuju neposredno ispod podataka 
+ iz člana 11 ovog pravilnika.
+11. Postupak u slučaju prestanka obavljanja delatnosti
+Član  18*
+Ako poreski obveznik prestane sa obavljanjem delatnosti dužan 
+ je da pre podnošenja zahteva za brisanje iz odgovarajućeg registra podnese zahtev 
+ za odjavu/prestanak obavljanja delatnosti, na Obrascu IPU-1 zaokruženjem opcije 
+ 4 - odjava/prestanak obavljanja delatnosti, preko ovlašćenog servisa.
+Po prijemu Obrasca IPU-1 iz stava 1 ovog člana, poreski organ 
+ telefonom obaveštava ovlašćeni servis o datumu i vremenu kada će se postupiti 
+ po zahtevu obveznika za brisanje fiskalne kase iz registra fiskalizovanih kasa 
+ zbog prestanka obavljanja delatnosti, koji ne može biti duži od dva dana od 
+ dana prijema Obrasca IPU-1 od strane poreskog organa.
+U slučaju iz stava 1 ovog člana, postupak otpočinje tako što 
+ ovlašćeni serviser u ovlašćenom servisu, u prisustvu ovlašćenog radnika poreskog 
+ organa i poreskog obveznika, ako to želi, najpre proverava da li je IB fiskalne 
+ kase identičan IB navedenom u dokumentaciji za fiskalnu kasu, pa ako jeste skida 
+ ispravnu servisnu plombu i otvara fiskalnu kasu.
+Kada ovlašćeni serviser postupi na način iz stava 3 ovog člana, 
+ ovlašćeni radnik poreskog organa proverava da li su fiskalna i programska plomba 
+ verodostojne i neoštećene, pa ako su rezultati tih provera pozitivni, dozvoljava 
+ ovlašćenom serviseru da iz fiskalne memorije odštampa periodičan izveštaj za 
+ period od datuma i vremena odštampanog prvog fiskalnog isečka pa do datuma i 
+ vremena odštampanog poslednjeg fiskalnog isečka zabeleženog u fiskalnoj memoriji 
+ sa svim promenama poreskih stopa i svim resetima.
+Kada ovlašćeni radnik poreskog organa primi periodičan izveštaj 
+ iz stava 4 ovog člana, dozvoljava ovlašćenom serviseru skidanje fiskalne plombe 
+ i fiskalnog modula iz fiskalne kase.
+Posle skidanja fiskalnog modula, ovlašćeni radnik poreskog 
+ organa popunjava i potpisuje Obrazac IPU-1.
+O postupku skidanja fiskalnog modula zbog razloga iz stava 
+ 1 ovog člana, ovlašćeni radnik poreskog organa sastavlja zapisnik.
+Na osnovu zapisnika iz stava 7 ovog člana, poreski organ donosi 
+ rešenje o brisanju fiskalne kase iz registra fiskalizovanih kasa zbog prestanka 
+ obavljanja delatnosti, najkasnije narednog radnog dana od dana sastavljanja 
+ zapisnika.
+Na osnovu donetog rešenja, Poreska uprava najkasnije narednog 
+ dana od dana donošenja rešenja briše fiskalnu kasu iz registra fiskalizovanih 
+ kasa.
+Odjava fiskalne kase obavezno se evidentira u delu 7. servisne 
+ knjižice fiskalne kase i overava potpisima i pečatima ovlašćenog servisera i 
+ ovlašćenog radnika poreskog organa.
+12. Evidencija ovlašćenih proizvođača o ovlašćenim servisima
+Član  19
+Ovlašćeni proizvođač vodi evidenciju o servisima kojima je 
+ posebnim aktom dao ovlašćenje o servisiranju i popravci fiskalne kase.
+Evidencija iz stava 1 ovog člana sadrži naročito:
+1) broj i datum akta o davanju ovlašćenja;
+2) pun naziv ovlašćenog servisa;
+3) poštanski broj i naziv mesta sedišta ovlašćenog servisa;
+4) adresu sedišta ovlašćenog servisa;
+5) poreski indentifikacioni broj ovlašćenog servisa (PIB);
+6) matični broj ovlašćenog servisa;
+7) površinu poslovnog prostora ovlašćenog servisa za 
+ potrebe servisiranja i popravke fiskalne kase;
+8) broj servisera kvalifikovanih za obuku, servisiranje 
+ i popravku fiskalnih kasa;
+9) tip i model fiskalne kase za koju je dato ovlašćenje 
+ ovlašćenom servisu;
+10) broj i datum akta o oduzimanju ovlašćenja ovlašćenom servisu.
+13. Evidencija ovlašćenih servisa o ovlašćenim serviserima
+Član  20
+Ovlašćeni servisi vode evidenciju o ovlašćenim serviserima 
+ kojima su dali ovlašćenje za servisiranje i popravku fiskalne kase.
+Evidencija iz stava 1 ovog člana naročito sadrži:
+1) naziv, mesto i adresu servisa;
+2) ime i prezime servisera;
+3) jedinstveni matični broj građana;
+4) datum zasnivanja i prestanka radnog odnosa servisera;
+5) kod servisne plombe servisera;
+6) broj identifikacione karte servisera.
+Svaka promena podataka o ovlašćenim serviserima unosi se u 
+ evidenciju iz stava 2 ovog člana.
+Svaki ovlašćeni serviser za servisiranje i tehničko održavanje 
+ fiskalnih kasa ima identifikacionu kartu koja sadrži:
+1) ime, prezime i potpis ovlašćenog servisera;
+2) fotografiju ovlašćenog servisera;
+3) kod servisne plombe;
+4) broj identifikacione karte;
+5) naziv servisa.
+Ako nastanu promene u evidenciji ovlašćenih servisera, ovlašćeni 
+ servis za servisiranje i tehničko održavanje fiskalnih kasa dostavlja Poreskoj 
+ upravi spisak ovlašćenih servisera sa unetim izmenama.
+Poreska uprava se obavezno obaveštava o svakoj promeni ovlašćenog 
+ servisa za servisiranje, redovno i vanredno tehničko održavanje fiskalnih kasa.
+Ovlašćeni servis oduzima ovlašćenje serviseru po prestanku 
+ radnog odnosa, odnosno raskida ugovora sa ovlašćenim servisom.
+Ovlašćeni servis oduzima ovlašćenje serviseru i na osnovu pismenog 
+ i obrazloženog zahteva Poreske uprave, ako ovlašćeni serviser ne postupa u skladu 
+ sa Zakonom i ovim pravilnikom.
+14. Evidencija Poreske uprave o fiskalizovanim kasama
+Član  21
+Pored evidencija iz čl. 15 i 16 ovog pravilnika, Poreska uprava 
+ vodi u elektronskoj formi Evidenciju o fiskalizovanim kasama - fiskalnim kasama 
+ za koje je doneto rešenje o fiskalizaciji.
+Evidencija iz stava 1 ovog člana, naročito sadrži:
+1) podatke o obvezniku (vlasniku fiskalne kase), i to:
+(1) redni broj,
+(2) datum,
+(3) pun naziv obveznika, poštanski broj i sedište obveznika 
+ i adresu,
+(4) poreski identifikacioni broj (PIB),
+(5) matični broj,
+(6) naziv objekta, odnosno mesta u kojoj je fiskalna kasa instalirana, 
+ poštanski broj i naziv mesta i adresu;
+2) podatke o fiskalnoj kasi, i to:
+(1) naziv,
+(2) tip,
+(3) IB fiskalnog modula,
+(4) broj rešenja o fiskalizaciji,
+(5) datum fiskalizacije,
+(6) datum zamene fiskalnog modula i IB novog fiskalnog modula,
+(7) broj servisne plombe,
+(8) barkod i broj fiskalne plombe,
+(9) barkod i broj programske plombe,
+(10) datum prestanka korišćenja fiskalizovane fiskalne kase;
+3) podatke o ostvarenom prometu preko fiskalne kase, i to:
+(1) ukupan promet za kalendarski mesec po oznaci poreske stope 
+ "A",
+(1) ukupan promet za kalendarski mesec po oznaci poreske stope 
+ "G",
+(2) ukupan promet za kalendarski mesec po oznaci poreske stope 
+ "Đ",
+(3) ukupan promet za kalendarski mesec po oznaci poreske stope 
+ "E",
+(4) ukupan porez na dodatu vrednost za kalendarski mesec po 
+ oznaci poreske stope "Đ",
+(5) ukupan porez na dodatu vrednost za kalendarski mesec po 
+ oznaci poreske stope "E".
+15. Izgled i način vođenja dosijea
+Član  22
+Ovlašćeni servis za svaku fiskalnu kasu za koju je zaključio 
+ ugovor o servisiranju i popravci fiskalne kase formira dosije fiskalne kase 
+ u elektronskoj formi ili u slobodnim listovima, čiji je sadržaj propisan članom 
+ 31 stav 4 Zakona.
+Dosije iz stava 1 ovog člana se vodi na taj način što se svi 
+ podaci koji se obavezno upisuju u servisnu knjižicu istovremeno i obavezno upisuju 
+ i u dosije fiskalne kase.
+Ovlašćeni serviser po završetku servisiranja evidentira izvršene 
+ radnje u dosijeu fiskalne kase, koje obuhvataju skidanje i postavljanje svih 
+ plombi, zamenu i popravku svih delova fiskalne kase i tehnički pregled fiskalne 
+ kase. Dosije fiskalne kase sastoji se od osam delova i sadrži sve podatke kao 
+ i servisna knjižica fiskalne kase.
+U slučaju prestanka obavljanja delatnosti i brisanja fiskalne 
+ kase iz Evidencije o fiskalizovanim kasama Poreske uprave, ovlašćeni serviser 
+ zaključuje dosije za konkretnu fiskalnu kasu, izdvaja ga i čuva na posebnom 
+ mestu u zakonom propisanom roku za čuvanje fiskalnih dokumenata.
+16. Izgled i način vođenja servisne knjižice
+Član  23
+Izgled servisne knjižice sa propisanom sadržinom članom 31 
+ stav 4 Zakona, dat je na Obrascu SK - Servisna knjižica (sa osam delova), koji 
+ je odštampan uz ovaj pravilnik i čini njegov sastavni deo.
+Servisna knjižica se štampa tako da sadrži po više istih delova 
+ u kojima se hronološkim redom upisuju sve radnje koje se vrše na fiskalnoj kasi.
+Servisna knjižica vodi se tako što ovlašćeni serviser po završetku 
+ servisiranja ili popravke fiskalne kase, u odgovarajućem delu servisne knjižice, 
+ evidentira sve izvršene radnje na fiskalnoj kasi koje obuhvataju skidanje i 
+ postavljanje svih plombi i zamenu i popravku svih delova fiskalne kase.
+Član  24
+Danom početka primene ovog pravilnika, prestaje da važi Pravilnik 
+ o postupku fiskalizacije, obliku, sadržini i načinu vođenja evidencija, izgledu 
+ i sadržini servisne knjižice registar kase sa fiskalnom memorijom ("Službeni 
+ glasnik RS", broj 78/2003).
+Član  25
+Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja 
+ u "Službenom glasniku Republike Srbije", a primenjivaće se od 1. januara 
+ 2005. godine.
+Obrazac ZIB*
+MINISTARSTVU FINANSIJA
+Datum
+PORESKOJ UPRAVI - CENTRALA
+___________________
+Ul. Save Maškovića 3-5
+BEOGRAD
+_________________________
+ZAHTEV ZA DODELU IDENTIFIKACIONIH BROJEVA 
+   ZA FISKALNE KASE
+Zahtevamo da se dodele identifikacioni brojevi za fiskalne 
+ kase:
+R.b.
+Opis
+Podaci
+1
+Pun naziv ovlašćenog proizvođača
+2
+PIB
+|   |   |   |   |   |   |   |   |   |
+3
+Poštanski broj i naziv mesta sedišta ovlašćenog proizvođača
+|   |   |   |   |
+4
+Opština
+5
+Ulica i broj
+6
+Tip i model fiskalne kase
+7
+Broj i datum saglasnosti Vlade Republike Srbije
+8
+Broj i datum upisa u evidenciju Ministarstva trgovine, 
+ turizma i usluga
+9
+Količina fiskalnih kasa za koje se traži dodela IB
+(M.P.)
+____________________
+(Potpis ovlašćenog lica)
+Obrazac IPU-1*
+ZAHTEV ZA FISKALIZACIJU
+Zbog:
+1) kupovine nove fiskalne kase
+2) promene naziva obveznika, adrese sedišta obveznika ili PIB-a
+3) promene naziva i adrese objekta u kome se nalazi fiskalna 
+ kasa
+4) zamene programske i/ili fiskalne memorije
+5) odjave/prestanka obavljanja delatnosti
+6) ________________________
+Ovlašćeni servis: _________________
+Ul. i br. ___________________________
+Mesto: ________________________________
+Zahtevamo da se izvrši fiskalizacija fiskalne kase, koja se 
+ nalazi u vašem servisu
+I. POPUNJAVA OBVEZNIK
+1. Poreski obveznik
+Podaci
+PIB obveznika
+|   |   |   |   |   |   |   |   |   |
+Skraćeni naziv obveznika
+Poštanski broj i mesto sedišta obveznika
+|   |   |   |   |
+Ulica i broj
+Telefon i telefaks
+2. Objekat, odnosno mesto instaliranja fiskalne kase
+Podaci
+Naziv objekta, odnosno mesta instaliranja 
+ fiskalne kase
+Poštanski broj mesta u kome se nalazi 
+ objekat
+|   |   |   |   |
+Ulica i broj
+Telefon i telefaks
+3. Pečat i potpis obveznika
+II. POPUNJAVA SERVIS
+1. Fiskalna kasa
+Podaci
+Pun naziv proizvođača
+Tip fiskalne kase
+Identifikacioni broj fiskalne kase
+|   |   |   |   |   |   |   |   |
+Identifikacioni broj fiskalnog modula
+|   |   |   |   |   |   |   |   |
+Proizvođačka plomba ispravna
+DA
+NE
+2. Ovlašćeni servis
+Podaci
+Pun naziv ovlašćenog servisa
+PIB ovlašćenog servisa
+|   |   |   |   |   |   |   |   |   |
+Poštanski broj i naziv mesta sedišta
+|   |   |   |   |
+Ulica i broj
+Telefon i telefaks
+Ime i prezime ovlašćenog servisera
+Potpis i pečat ovlašćenog servisera
+III. POPUNJAVA PORESKA UPRAVA
+1. Podaci u fiskalnoj memoriji
+Potrebna vrednost podatka
+Stvarna vrednost podatka
+Rezultat Poređenja
+Identifikacioni broj fiskalnog modula
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+PIB obveznika
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+Datum fiskalizacije
+Vreme fiskalizacije
+2. Parametar
+Podaci
+Identičnost sadržaja programske memorije
+Kod fiskalne plombe
+Kod programske plombe
+Kod servisne plombe
+Uspešnost fiskalizacije
+3. Događaj
+Datum i vreme
+Prijem ovog zahteva
+Početak fiskalizacije
+Kraj fiskalizacije
+Oduzimanje fiskalne kase
+Oduzimanje fiskalnog modula
+Oduzimanje programske memorije
+4. Nadležna organizaciona jedinica Poreske uprave
+Podaci
+Naziv organizacione jedinice Poreske uprave
+Mesto i opština
+Ulica i broj
+Telefon i telefaks
+Ime i prezime ovlašćenog radnika Poreske 
+ uprave
+Potpis ovlašćenog radnika Poreske uprave
+Obrazac SK*
+SERVISNA KNJIŽICA
+1. OPŠTI PODACI
+Fiskalna kasa
+Podaci
+Proizvođač
+Tip
+Identifikacioni broj fiskalne kase
+Lokacija fiskalne kase
+Podaci
+Naziv objekta
+Mesto i opština
+Ulica i broj
+Telefon i telefaks
+Poreski obveznik
+Podaci
+PIB
+Naziv
+Mesto i opština
+Ulica i broj
+Telefon i telefaks
+Ovlašćeni servis
+Podaci
+Naziv
+Mesto i opština
+Ulica i broj
+Telefon i telefaks
+Organizaciona jedinica Poreske uprave
+Podaci
+Naziv
+Mesto i opština
+Ulica i broj
+Telefon i telefaks
+2. FISKALIZACIJA
+Redosled događaja
+Datum i vreme
+Prijem zahteva za fiskalizacijom
+Prijem fiskalne kase
+Početak fiskalizacije
+Kraj fiskalizacije
+Predaja fiskalne kase
+Parametar pri fiskalizaciji
+Podaci
+Identičnost sadržaja programske memorije
+Identifikacioni broj fiskalnog modula
+PIB iz fiskalne memorije
+Broj poslednjeg fiskalnog isečka
+Broj poslednjeg dnevnog izveštaja
+Ukupan broj reseta
+Ukupan broj promena poreskih stopa
+Kod fiskalne plombe
+Kod programske plombe
+Kod servisne plombe
+Tip potvrde
+Podaci
+Ime i prezime, potpis i pečat
+ovlašćenog servisera
+Ime i prezime, potpis i pečat
+ovlašćenog radnika Poreske uprave
+Ime i prezime, potpis i pečat
+poreskog obveznika
+3. TEHNIČKI PREGLED
+Redosled događaja
+Datum
+Prijem zahteva za tehničkim pregledom
+Prijem fiskalne kase
+Početak tehničkog pregleda
+Kraj tehničkog pregleda
+Predaja fiskalne kase
+Parametar
+Podaci
+Vizuelni pregled stanja kućišta
+Opšta ispravnost funkcionisanja
+Ispravnost štampanja, sadržaj i čitljivost 
+ fiskalnih dokumenata
+Kompletnost sastavnih delova
+Identifikacioni broj fiskalnog modula
+PIB iz fiskalne memorije
+Parametar pri tehničkom pregledu
+Podaci
+Broj poslednjeg fiskalnog isečka
+Broj poslednjeg dnevnog izveštaja
+Ukupan broj reseta
+Ukupan broj promena poreskih stopa
+Kod servisne plombe
+Kod programske plombe
+Kod fiskalne plombe
+Tip potvrde
+Podaci
+Ime i prezime, potpis i pečat
+ovlašćenog servisera
+Ime i prezime, potpis i pečat
+opunomoćenika poreskog obveznika
+4. SERVISIRANJE
+Redosled događaja
+Datum i vreme
+Prijem zahteva za servisiranjem
+Prijem fiskalne kase
+Početak servisiranja
+Kraj servisiranja
+Predaja fiskalne kase
+Specifikacija
+Objašnjenje
+Spisak prijavljenih neispravnosti
+Spisak detektovanih neispravnosti
+Specifikacija izvršenih radova
+Parametri pre servisiranja
+Podaci
+Broj poslednjeg fiskalnog isečka
+Broj poslednjeg dnevnog izveštaja
+Ukupan broj reseta
+Ukupan broj promena poreskih stopa
+Kod servisne plombe
+Kod programske plombe
+Kod fiskalne plombe
+Parametri posle servisiranja
+Podaci
+Broj poslednjeg fiskalnog isečka
+Broj poslednjeg dnevnog izveštaja
+Ukupan broj reseta
+Ukupan broj promena poreskih stopa
+Kod servisne plombe
+Kod programske plombe
+Kod fiskalne plombe
+Tip potvrde
+Podaci
+Ime i prezime, potpis i pečat
+prijavioca neispravnosti
+Ime i prezime, potpis i pečat
+ovlašćenog servisera
+Ime i prezime, potpis i pečat
+opunomoćenika poreskog obveznika
+5. ZAMENA FISKALNE MEMORIJE
+Redosled događaja
+Datum i vreme
+Prijem zahteva za zamenom
+Prijem fiskalne kase
+Početak zamene
+Kraj fiskalizacije
+Kraj zamene
+Predaja fiskalne kase
+Parametri pre zamene
+Podatak
+PIB u fiskalnoj memoriji
+Identifikacioni broj fiskalnog modula
+Broj poslednjeg fiskalnog isečka
+Broj poslednjeg dnevnog izveštaja
+Ukupan broj reseta
+Ukupan broj promena poreskih stopa
+Kod servisne plombe
+Kod programske plombe
+Kod fiskalne plombe
+Parametri posle zamene
+Podaci
+PIB u fiskalnoj memoriji
+Identifikacioni broj fiskalnog modula
+Broj poslednjeg fiskalnog isečka
+Broj poslednjeg dnevnog izveštaja
+Ukupan broj reseta
+Ukupan broj promena poreskih stopa
+Kod servisne plombe
+Kod programske plombe
+Kod fiskalne plombe
+Tip potvrde
+Podaci
+Ime i prezime, potpis i pečat
+ovlašćenog servisera
+Ime i prezime, potpis i pečat
+ovlašćenog radnika Poreske uprave
+Ime i prezime, potpis i pečat
+opunomoćenika poreskog obveznika
+6. ZAMENA PROGRAMSKE MEMORIJE
+Redosled događaja
+Datum i vreme
+Prijem zahteva za zamenom
+Prijem fiskalne kase
+Početak zamene
+Kraj zamene
+Predaja fiskalne kase
+Parametri pre zamene
+Podatak
+Verzija programa
+Broj poslednjeg fiskalnog isečka
+Broj poslednjeg dnevnog izveštaja
+Ukupan broj reseta
+Ukupan broj promena poreskih stopa
+Kod servisne plombe
+Kod programske plombe
+Kod fiskalne plombe
+Parametri posle zamene
+Podaci
+Verzija programa
+Broj poslednjeg fiskalnog isečka
+Broj poslednjeg dnevnog izveštaja
+Ukupan broj reseta
+Ukupan broj promena poreskih stopa
+Kod servisne plombe
+Kod programske plombe
+Kod fiskalne plombe
+Tip potvrde
+Podaci
+Ime i prezime, potpis i pečat
+ovlašćenog servisera
+Ime i prezime, potpis i pečat
+ovlašćenog radnika Poreske uprave
+Ime i prezime, potpis i pečat
+opunomoćenika poreskog obveznika
+7. PRESTANAK OBAVLJANJA DELATNOSTI
+Redosled događaja
+Datum i vreme
+Prijem zahteva za prestankom obavljanja 
+ delatnosti
+Prijem fiskalne kase
+Početak rada na preuzimanju podataka
+Kraj rada na preuzimanju podataka
+Predaja fiskalne kase
+Parametri pri preuzimanju fiskalnog modula
+Podaci
+PIB u fiskalnoj memoriji
+Identifikacioni broj fiskalnog modula
+Broj poslednjeg fiskalnog isečka
+Broj poslednjeg dnevnog izveštaja
+Ukupan broj reseta
+Ukupan broj promena poreskih stopa
+Kod servisne plombe
+Kod programske plombe
+Kod fiskalne plombe
+Tip potvrde
+Podaci
+Ime i prezime, potpis i pečat
+ovlašćenog servisera
+Ime i prezime, potpis i pečat
+ovlašćenog radnika Poreske uprave
+Ime i prezime, potpis i pečat
+opunomoćenika poreskog obveznika
+8. POSEBNE MERE KONTROLE
+Posebni događaji
+Datum i vreme
+Poziv ovlašćenog radnika Poreske uprave
+Oduzimanje fiskalne kase
+Oduzimanje fiskalnog modula
+Oduzimanje programske memorije
+Objašnjenja
+Podaci
+Razlozi za oduzimanje fiskalne kase
+Razlozi za oduzimanje fiskalnog modula
+Razlozi za oduzimanje programske memorije
+Tip potvrde
+Podaci
+Ime i prezime, potpis i pečat
+ovlašćenog servisera
+Ime i prezime, potpis i pečat
+ovlašćenog radnika Poreske uprave

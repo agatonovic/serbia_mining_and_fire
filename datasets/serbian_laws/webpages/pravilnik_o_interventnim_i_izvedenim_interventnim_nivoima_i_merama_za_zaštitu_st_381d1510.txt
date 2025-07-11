@@ -1,0 +1,1896 @@
+Title: Pravilnik o interventnim nivoima i merama zaštite stanovništva, životinja, poljoprivrede u vanrednom događaju
+URL: https://www.paragraf.rs/propisi/pravilnik-o-interventnim-nivoima-i-merama-za-zastitu-stanovnistva-zivotinja-poljoprivrede.html
+Extracted: 2025-07-06T23:09:55.090889
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O INTERVENTNIM I IZVEDENIM INTERVENTNIM NIVOIMA 
+ I MERAMA ZA ZAŠTITU STANOVNIŠTVA, DOMAĆIH ŽIVOTINJA I POLJOPRIVREDE (VETERINARSTVO, 
+ BILJNA PROIZVODNJA I VODOPRIVREDA) U VANREDNOM DOGAĐAJU
+("Sl. list SRJ", br. 18/92 i "Sl. 
+ list SCG", br. 1/2003 - Ustavna povelja)
+I OSNOVNE ODREDBE
+Član 1
+Ovim pravilnikom propisuju se interventni nivoi i izvedeni 
+ interventni nivoi, kao i mere za zaštitu stanovništva, domaćih životinja i poljoprivrede 
+ (veterinarstvo, biljna proizvodnja i vodoprivreda) u vanrednom događaju u cilju 
+ zaštite od jonizujućih zračenja.
+Član 2
+1. Vanredni događaj, u smislu ovog pravilnika, je nuklearni 
+ akcident ili radijaciona opasnost, nekontrolisani događaj u nuklearnoj elektrani, 
+ istraživačkom reaktoru ili drugoj instalaciji koji može izazvati ili je izazvao 
+ kontaminaciju radne sredine, ozračenje radnika na samoj instalaciji ili kontaminaciju 
+ životne sredine i stanovništva.
+2. Interventni nivoi zračenja su predviđene doze ozračenja 
+ u nuklearnom akcidentu koji zbog svojih posledica po ljudsko zdravlje zahtevaju 
+ razmatranje potrebe za preduzimanje mera zaštite.
+3. Izvedeni interventni nivoi zračenja izražavaju se kao količina 
+ radionuklida u vazduhu, vodi za piće i hrani ili jačina spoljašnjeg gama-zračenja, 
+ koji se dobijaju iz interventnih nivoa doza zračenja.
+Član 3
+Nuklearni akcident, s obzirom na mere zaštite, deli se na tri 
+ faze:
+1) rana faza deli se na period pre ispuštanja radionuklida 
+ kada je utvrđena potencijalna opasnost ozračivanja i period kada se javlja najveće 
+ ispuštanje radionuklida,
+2) međufaza je period koji se nastavlja na ranu fazu u kojoj 
+ se radionuklidi deponuju na zemljište na osnovu merenja spoljašnje jačine doze 
+ i aktivnosti radionuklida u vazduhu, vodi za piće i hrani u kojem se vrši procena 
+ doza ozračenosti stanovništva, na osnovu koje se preduzimaju mere zaštite,
+3) kasna faza (faza oporavka) počinje povratkom stanovništva 
+ na normalne uslove življenja.
+Rana faza traje od pola časa do nekoliko dana, međufaza - od 
+ nekoliko časova posle početka ispuštanja radionuklida do nekoliko dana ili nedelja, 
+ a kasna faza - od nekoliko nedelja do više meseci ili godina, što zavisi od 
+ količine i sastava ispuštenih radionuklida, doba godine i teritorije na kojoj 
+ su mere zaštite bile na snazi.
+Član 4
+U okolini nuklearnog akcidenta razlikuju se dva područja, i 
+ to:
+1) područje u blizini mesta nuklearnog akcidenta u poluprečniku 
+ do nekoliko desetina km u kojem su glavni načini ozračivanja stanovništva:
+a) spoljašnje ozračenje iz radioaktivnog oblika,
+b) udisanje radioaktivnih plemenitih gasova i aerosola,
+v) spoljašnje ozračenje od deponovanih radionuklida na zemljištu,
+2) šire područje na udaljenosti do više stotina km od mesta 
+ akcidenta u kojem je glavni način ozračivanja stanovništva preko hrane i vode 
+ za piće.
+Član 5
+U ranoj fazi nuklearnog akcidenta mogući način izloženosti 
+ zračenju su:
+1) direktna izloženost iz radioaktivnog oblaka,
+2) udisanje isparljivih i aerosolnih čestica,
+3) kontaminacija kože i odeće.
+U međufazi mogući načini izloženosti zračenju su:
+1) kontaminacija kože i odeće,
+2) udisanje resuspendovanih čestica,
+3) izloženost zračenju od radioaktivnog materijala deponovanog 
+ na tlu.
+U kasnoj fazi nuklearnog akcidenta mogući način izloženosti 
+ zračenju je upotreba kontaminirane hrane i vode za piće.
+Član 6
+Planiranje mera zaštite u nuklearnom akcidentu zasniva se na 
+ sledećem:
+1) izbegavanju ili maksimalnom smanjivanju teških nestohastičkih 
+ efekata akutne radijacione bolesti (ARB) organizovanim, planskim i na vreme 
+ preduzetim odgovarajućim merama zaštite kako bi se primljena pojedinačna apsorbovana 
+ doza smanjila na nivo niži od značajnog biološkog delovanja,
+2) ograničavanju rizika od stohastičkih efekata sprovođenjem 
+ mera kojima se smanjuje opasnost za svakog kontaminiranog ili ozračenog pojedinca,
+3) smanjivanju, koliko je god to praktično opravdano, opšte 
+ učestalosti stohastičkih efekata smanjivanjem zajedničkog doznog ekvivalenta.
+II INTERVENTNI NIVOI I IZVEDENI INTERVENTNI NIVOI
+Član 7
+Izvedeni interventni nivo za pojedini radionuklid i način na 
+ koji se ostvaruje izloženost osobe zračenju određuju se prema obrascu:
+IL
+DIL =
+--------
+DCF
+gde je:
+DIL izvedeni interventni nivo za pojedini radionuklid u određenoj 
+ sredini,
+IL dozni interventni nivo za određenu sredinu (medijum),
+DCF dozni konverzioni faktor u jedinicama određenim s obzirom 
+ na IL i DIL.
+Za procenu izvedenih interventnih nivoa koristi se metodologija 
+ Međunarodne agencije za atomsku energiju br. 81 iz 1986. godine.
+Procena izvedenih interventnih nivoa radi se za svaki radionuklid 
+ i sve načine, odnosno puteve izloženosti radionuklidima.
+U ranoj fazi akcidenta uzimaju se u obzir samo najznačajniji 
+ radionuklidi.
+U slučaju kontaminacije lanca ishrane mogu se postaviti sopstveni 
+ izvedeni interventni nivou pomoću formule koja osigurava da interventni nivo 
+ doze (5 mSv) nije premašen, tj.
+S
+S
+C(i,f)
+gde je
+----------------
+£
+1
+i f DIL(i,f)
+C(i,f) unesena aktivnost radionuklida (i) u grupi životnih 
+ namirnica (f) i
+DIL(i,f) izvedeni interventni nivo za radionuklid (i) u grupi 
+ životnih namirnica (f).
+Mere zaštite potrebno je da se primene u sledećim uslovima, 
+ prema obrascu:
+S
+S
+L(i,p)
+gde je
+-----------------
+³
+1
+p i DIL(i,f)
+gde je:
+L(i,p) izmereni nivo radioaktivnosti nuklida (i) u određenom 
+ medijumu vezanom za put izloženosti (p), i
+DIL(i,p) izvedeni interventni nivo za radionuklid (i) u istom 
+ medijumu i načinu izloženosti (p) određen prema predloženim merama zaštite.
+Član 8
+Interventni nivoi doza zračenja u mSv dati su za celo telo 
+ ili pojedine organe u dva nivoa koji se međusobno razlikuju za faktor 10. Donji 
+ nivo doze je nivo ispod koga mere zaštite nisu opravdane, a gornji nivo doze 
+ je nivo iznad kojeg mere zaštite skoro sigurno treba primeniti, što podrazumeva 
+ sagledavanje odnosa koristi dobijene preduzimanjem mera i troškova koje te mere 
+ zahtevaju.
+Mere zaštite u pojedinim fazama nuklearnog akcidenta i zavisno 
+ od načina izlaganja, date su u tabelama 1 i 2, koje su odštampane uz ovaj pravilnik 
+ i čine njegov sastavni deo.
+Interventni nivoi i pregled mera zaštite u zavisnosti od faze 
+ nuklearnog akcidenta dati su u tabeli:
+1
+2
+3
+a) Rana faza
+Doza mSv
+celo telo
+pluća, štitna žlezda ili bilo koji pojedinačni organ
+Mere zaštite
+5 do 50
+50 do 500
+sklanjanje
+50 do 500
+500 do 5000
+50 do 500 upotreba stabilnog joda evakuacija
+b) Međufaza
+Očekivana doza u prvoj godini (mSv)
+5 do 50
+50 do 500
+nadzor prehrambenih proizvoda i vode za piće preseljenje
+50 do 500
+ne očekuje se
+Kod akcidenta kod koga se ocenjuje da bi se ozračenje moglo 
+ u prvoj nedelji od pojave akcidenta kretati između donjeg i gornjeg nivoa, mere 
+ zaštite predlažu se u skladu s interventnim nivoima koji su dati u tabeli:
+Doza u mSv
+celo telo
+pluća, štitna žlezda ili drugi pojedini organ
+Mere zaštite
+5 do 25
+250
+sklonište
+upotreba preparata
+250
+joda
+100
+300
+evakuacija
+Član 9
+Izvedeni interventni nivoi pojedinih radionuklida u hrani i 
+ vodi za piće dati su u tabeli:
+Dečja hrana
+Bq/kg
+131
+l
+500
+90
+Sr
+125
+137
+Cs
+1000
+239
+Pu
+20
+Voda za piće
+90
+Sr
+160
+239
+Pu
+7
+Hrana za odrasle
+131
+l
+2000
+90
+Sr
+750
+137
+Cs
+1000-1250
+239
+Pu
+20
+Voda za piće
+90
+Sr
+700*
+239
+Pu
+7
+*odnosi se na radionuklide niske doze (10
+-8
+Sv/Bq)
+Dozni faktori za najvažnije radionuklide:
+90
+Sr,
+131
+l,
+134
+Cs,
+137
+Cs 
+ i
+239
+Pu za malu decu do jedne godine života, decu 
+ do 10 godina i za odrasle osobe dati su u tabeli:
+Radionuklid
+Dozni faktori Sv/Bq
+odojčad
+deca
+odrasli
+(do 1 godine)
+(do 10 godina)
+90
+Sr,
+1,1 x 10
+-7
+40 x 10
+-8
+3,6 x 10
+-8
+131
+l (*),
+3,6 x 10
+-6
+1,0 x 10
+-6
+4,4 x 10
+-7
+134
+Cs,
+1,2 x 10
+-8
+1,2 x 10
+-8
+2,0 x 10
+-8
+137
+Cs,
+1,0 x 10
+-8
+1,0 x 10
+-8
+1,3 x 10
+-8
+239
+Pu,
+2,4 x 10
+-6
+1,4 x 10
+-6
+1,3 x 10
+-6
+(*)Vredi samo za štitnu žlezdu.
+Za korišćenje izvedenih interventnih nivoa pretpostavlja se 
+ prosečna potrošnja hrane po stanovniku godišnje od 550 kg i vode za piće od 
+ 700 l, odnosno za malo dete do jedne godine - 275 l mleka i 275 l vode.
+Za izračunavanje količina iz prethodnog stava koriste se statistički 
+ podaci o prosečnoj potrošnji najvažnijih namirnica po stanovniku godišnje u 
+ Jugoslaviji.
+Član 10
+U nuklearnom objektu obrazuju se četiri grupe radnika za zaštitu 
+ stanovništva, i to:
+I grupa
+- radnici koji otklanjaju posledice akcidenta 
+ koji je van kontrole zaštitnog sistema i osoblje ekipa za akcidentnu situaciju,
+II grupa
+- radnici u nuklearnom objektu koji obavljaju 
+ poslove za preduzimanje mera za smanjenje izloženosti ozračenju i za smanjenje 
+ emisije radionuklida iz nuklearnog objekta,
+III grupa
+- radnici izvan nuklearnog objekta koji su 
+ zaduženi za primenu zaštitnih mera i
+IV grupa
+- radnici izvan nuklearnog objekta koji obavljaju 
+ poslove sanacije (stambeni objekti, objekti od vitalnog značaja za snabdevanje 
+ stanovništva hranom i vodom za piće, drugi objekti od prioritetnog značaja, 
+ važne saobraćajnice i dr.).
+Za radnike prve grupe interventni nivo doze za zaštitu od nestohastičkih 
+ efekata je 500 mSv za celo telo, odnosno 5000 mSv za pojedine organe, a za radnike 
+ druge, treće i četvrte grupe - nivoi doza dati su u tabeli:
+Grupa
+radnika
+Nivo doze koji ne treba prekoračiti mSv
+u toku jedne godine
+odjednom
+za ceo život
+II
+celo telo
+50
+100
+250
+poj. organ
+500
+1000
+2500
+III
+celo telo
+50
+100
+250
+poj. organ
+500
+1000
+2500
+IV
+celo telo
+50
+poj. organ
+500
+Pod nivoom doze zračenja podrazumeva se ozračenje osobe od 
+ spoljašnjih i unutrašnjih radionuklida - interne kontaminacije ljudskog tela 
+ ili pojedinih organa.
+Korekcije za utvrđivanje nivoa godišnjih doza koje se ne smeju 
+ prekoračiti vrše se na osnovu merenja trenutnih intenziteta jonizujućih zračenja 
+ spoljašnjih izvora i stepena ozračenja od internih kontaminacija u celom telu 
+ ili pojedinim organima u toku godine.
+Sabrane doze od spoljašnjeg i unutrašnjeg ozračenja osobe čine 
+ ukupnu dozu zračenja navedenu u tabeli i izražava se u sivertima (Sv).
+Radnici iz svake grupe mogu da budu ozračeni, kontaminirani 
+ bez fizičkih oštećenja i s povredama (udružena radijaciona povreda). Stepen 
+ ozlede određuje se prema individualnoj dozi ozračenja, odnosno kontaminacije 
+ svakog ispitanika i stepenu udružene povrede.
+U ranoj fazi akcidenta, ako je došlo do ozračenja, kao hitna 
+ medicinska pomoć primenjuje se samo simptomatsko lečenje (sedativi, analgetici, 
+ sredstva protiv povraćanja).
+III MERE ZA ZAŠTITU STANOVNIŠTVA
+1) Zaštitne mere u ranoj fazi nuklearnog akcidenta
+Član 11
+U ranoj fazi nuklearnog akcidenta preduzimaju se sledeće mere:
+1) brzo i tačno obaveštavanje stanovništva i davanje uputstva,
+2) produženo zadržavanje u stanovima, odnosno kućama s uspostavljanjem 
+ sanitarnog propusnika,
+3) korišćenje namenskih skloništa,
+4) upotreba stabilnih preparata joda (SPJ),
+5) evakuacija stanovništva,
+6) kontrola pristupa lica u kontaminiranu zonu.
+Član 12
+Obaveštavanje stanovništva koje može da bude ozračeno ili kontaminirano 
+ vrši se propisanim zvučnim signalima, preko radija i drugih sredstava javnog 
+ informisanja. Obaveštavanje treba da bude jasno i razumljivo za stanovništvo, 
+ da zadobije poverenje slušalaca i da izbegne stvaranje panike, straha i pojave 
+ psihogenih reakcija kod osetljivih osoba.
+Član 13
+Radi sprečavanja unutrašnje kontaminacije osoba preko disajnih 
+ organa primenjuje se produženo zadržavanje u stanovima, odnosno kućama (sklanjanje, 
+ zaklanjanje) sa (zaptivenim) zatvorenim vratima i prozorima i isključenim sistemom 
+ provetravanja koji povremeno treba uključivati. Sistem provetravanja ne treba 
+ isključivati ako ima filtar za vazduh koji se češće menja. Na nos i usta stavlja 
+ se zaštitna maska, respirator ili drugo priručno sredstvo (maramica, parče gaze 
+ ili čisto platno).
+Stambeni (kućni) sanitarni propusnik uspostavlja se u predvorju 
+ stana, odmah iza ulaznih vrata. Na pod se postavlja deblja polivinilska folija. 
+ U predsoblju se odlaže gornja odeća i obuća, a zatim se oblači kućno odelo i 
+ obuvaju papuče. Odeću i obuću koja se nosi napolju ne treba unositi u stan. 
+ Po ulasku u stan, ruke i otkriveni delovi tela moraju se oprati hladnom vodom.
+Pre sprovođenja mera produženog zadržavanja u stanovima treba 
+ pripremiti potrebne količine hrane i vode za piće. U toku sprovođenja ove mere 
+ mala deca i trudnice ne treba da izlaze iz stana, a treba da uzimaju hranu koja 
+ nije bila izložena kontaminaciji. Ne dopuštaju se masovne sportske priredbe, 
+ a za vreme školskih odmora ne treba dopuštati da se deca igraju na prašnjavim 
+ površinama. Može se predložiti prestanak rada predškolskih i školskih ustanova, 
+ a trudnicama omogućiti odsustvovanje s posla.
+Produženo zadržavanje u stambenim objektima treba da traje 
+ onoliko dana dok nadležni organ ne obavesti da prestaje potreba za produženim 
+ zadržavanjem.
+Član 14
+Odlaženje i kraći boravak u namenskim skloništima pruža veći 
+ stepen zaštite od produženog zadržavanja u stanovima i olakšava kontrolu uvođenja, 
+ sprovođenja i ukidanja drugih mera zaštite (davanje stabilnih preparata joda, 
+ evakuacija).
+Član 15
+Pre donošenja odluke o davanju stabilnih preparata joda (SPJ) 
+ procenjuje se dnevni unos joda hranom i vodom za piće, efikasnost sprovođenja 
+ jodiranja soli, učestalost pojave hipofunkcije štitaste žlezde i čvorova, kao 
+ i učestalost pojave povećane funkcije štitaste žlezde, i utvrđuju kontraindikacije 
+ za primenu SPJ. Stabilni preparati joda daju se ugroženim grupama stanovništva 
+ ako se proceni da će ozračenje štitaste žlezde biti preko 50 do 500 mSv, i to:
+1) trudnicama koje se nalaze u blizini nuklearnog akcidenta, 
+ s tim da se trajanje davanja ograniči na najkraći period uz dalju kontrolu i 
+ relativno duže zadržavanje u stanovima,
+2) trudnicama u drugom i trećem tromesečju koje se nalaze u 
+ blizini ili na većoj udaljenosti,
+3) majkama dojiljama,
+4) maloj deci i deci do 16 godina, bez obzira na to da li se 
+ nalaze u blizini ili na većoj udaljenosti od nuklearnog objekta koji je izazvao 
+ kontaminaciju, ako se proceni da će ozračenje štitaste žlezde preći interventni 
+ nivo,
+5) osobama starijim od 16, a mlađim od 45 godina koje se nalaze 
+ u blizini nuklearnog akcidenta gde je udisanje glavni put unosa radiojoda,
+6) osobama preko 45 godina koje se nalaze u blizini nuklearnog 
+ objekta, dok se utvrdi prestanak kritičnog stepena kontaminacije vazduha, hrane 
+ i vode za piće, pri čemu se vodi računa o opštim kontraindikacijama za davanje 
+ jodnih preparata,
+7) spoljnim ekipama za hitne intervencije, koje čine muškarci 
+ uzrasta najmanje 18 godina, odmah čim se sazna za akcident.
+Pojedinačne doze SPJ daju se prema uzrastu osoba i u količinama 
+ (dozama) u skladu s preporukama koje su date u tabeli:
+Uzrasne grupe
+KJ
+mg
+KJO
+3
+mg
+Ekvivalentna količina jodida u mg*
+1
+2
+3
+4
+Novorođenče od jednog meseca
+15
+20
+12,5
+Odojče i malo dete do tri godine
+30-35
+30-45
+25
+Dete od tri do 12 godina
+65
+85
+50
+Odrasli (uključujući trudnice i dojilje) od 13 do 16 
+ godine
+130
+170
+100
+*
+Tablete koje sadrže 50 mg jodida
+Novorođenče: 1/4 do 1/2 tablete.
+Mala deca: 1/2 tablete.
+Deca: 1 tableta.
+Odrasli: 2 tablete
+Novorođenčadi se daje samo jedna odgovarajuća doza, trudnicama 
+ i dojiljama odgovarajuća doza može se još jednom ponoviti, a ostalim licima 
+ može se ponoviti više dana ako je neophodno.
+Kontraindikacije za primenu SPJ su:
+1) poznata preosetljivost na jod, jodna kontrastna sredstva 
+ i lekove,
+2) ranije lečeno ili postojeće oboljenje štitaste žlezde: endemska 
+ ili nodozna struma,
+3) limfocitarni autoimuni tireoiditis,
+4) Hašimotova bolest,
+5) hipertireoformni dermatitis i vaskulitis s niskom koncentracijom 
+ komplementa.
+Rezervu jodnih preparata treba držati u zdravstvenoj ustanovi 
+ u blizini nuklearnog objekta - na udaljenosti od 3 do 5 km, kako bi se SPJ što 
+ pre dali celokupnom stanovništvu.
+Radnici zaposleni u nuklearnom objektu i članovi ekipa za zaštitu 
+ i zbrinjavanje treba da imaju SPJ kod sebe kao sastavni deo zaštitne opreme.
+Član 16
+Evakuacija stanovništva u ranoj fazi nuklearnog akcidenta je 
+ poslednja i najteža mera koju treba preduzeti u cilju sprečavanja pojave nestohastičkih 
+ posledica od akutne i hronične radijacione bolesti.
+Mera evakuacije stanovništva može se primeniti samo kod akcidenta 
+ najvećih razmera na nuklearnom reaktoru i ona se odnosi na stanovništvo u blizini 
+ oštećenog nuklearnog reaktora.
+Prilikom primene plana za evakuaciju i njegove realizacije 
+ treba uzeti u obzir sledeće činioce:
+1) obim, težinu i najvažnije karakteristike kontaminacije,
+2) broj stanovnika koje treba evakuisati i njihovo zdravstveno 
+ i psihofizičko stanje (teški bolesnici, teški duševni bolesnici, nepokretni 
+ bolesnici, trudnice u poslednjem tromesečju trudnoće, mala deca i deca do 10 
+ godina i dr.),
+3) postojanje i stanje saobraćajnica od mesta evakuacije do 
+ mesta na koje će se stanovništvo evakuisati,
+4) raspolaganje, razmeštaj i kapacitete objekata za smeštaj 
+ evakuisanog stanovništva u celini i po pojedinim uzrasnim grupama i po grupama 
+ bolesnika,
+5) period godine i vremenske uslove za izvršenje evakuacije, 
+ kao i doba dana kada je započelo ispuštanje radionuklida,
+6) tekuće i prognozirane meteorološke uslove i ocenu transporta 
+ radionuklida,
+7) veličinu i tip naselja u odnosu na pretežno zanimanje stanovništva 
+ koje treba evakuisati,
+8) ekonomsko-finansijske potrebe za izvršenje evakuacije.
+Član 17
+Kontrola pristupa lica u kontaminiranu zonu prestavlja preventivnu 
+ meru kojom se sprečava ozračenje i kontaminacija lica koja primarno nisu bila 
+ ugrožena ili smanjuje ponovno izlaganje lica. Ugrožena zona se procenjuje u 
+ ranoj fazi akcidenta, a kasnije se precizno utvrđuje dozimetrijskim merenjem 
+ i određivanjem sadržaja radionuklida u uzorcima.
+Zona se obeležava standardnim znacima za radioaktivne materijale, 
+ a na pristupnim komunikacijama u zoni postavljaju se punktovi s dežurnim licima 
+ i ekipom za dozimetriju.
+2) Mere za zaštitu u međufazi nuklearnog akcidenta
+Član 18
+U međufazi nuklearnog akcidenta, pored mera za koje se oceni 
+ opravdanost dalje primene iz rane faze akcidenta, primenjuju se i sledeće mere:
+1) izmeštanje stanovništva,
+2) dekontaminacija osoba, odeće i obuće, predmeta i površina,
+3) kontrola hrane i vode za piće.
+Član 19
+Izmeštanje stanovništva se primenjuje da bi se izbegla dugotrajna 
+ izloženost ozračenja od radionuklida koji su dospeli na zemljište. Obično se 
+ primenjuje kada je završeno ispuštanje radionuklida. Ova mera nije hitna kao 
+ evakuacija stanovništva, a može da bude kratkotrajna ili dugotrajna.
+Član 20
+Dekontaminacija osoba, odnosno otkrivenih delova tela (kože) 
+ obavlja se ako nivoi kontaminacije beta-gama emitera prelaze vrednost masene 
+ aktivnosti površinske kontaminacije koja odgovara jačini doze od 0,8 nGy/s mereno 
+ na površini šake (100 cm
+2
+) na odstojanju od 1 cm 
+ od površine.
+Principi i način dekontaminacije odnosno njena procedura dati 
+ su u tekstu "Dekontaminacija osoba" koji je odštampan uz ovaj pravilnik 
+ i čini njegov sastavni deo.
+Član 21
+Dekontaminacija odeće, donjeg rublja, posteljine, unutrašnjih 
+ površina prostorija ili transportnih sredstava obavlja se ako nivoi kontaminacije 
+ beta-gama emitera prelaze vrednosti masene aktivnosti površinske kontaminacije, 
+ koje odgovaraju sledećim vrednostima jačine doze mereno na 1 cm od površine:
+1) 0,3 nGy/s za odeću, donje rublje, posteljno rublje, obuću 
+ i lična zaštitna sredstva,
+2) 0,6 nGy/s za površine prostorija i unutrašnje površine transportnih 
+ sredstava,
+3) 1,0 nGy/s za spoljašnje površine transportnih sredstava.
+Član 22
+Ako se sistematskim ispitivanjem sadržaja radionuklida u životnoj 
+ sredini utvrdi njihovo povećanje ili prisustvo svežih fisionih produkata, ako 
+ nastane nuklearni akcident ili radijaciona opasnost, ili Međunarodna agencija 
+ za atomsku energiju obavesti o akcidentu koji može da ugrozi teritoriju SRJ, 
+ vrše se u većem obimu ispitivanja životnih namirnica i vode za piće radi utvrđivanja 
+ prisustva radionuklida u njima. Na osnovu izvršenih ispitivanja i intervencionih 
+ nivoa, donosi se odluka o dozvoli upotrebe, ograničenju ili zabrani pojedinih 
+ vrsta životnih namirnica i vode za ljudsku upotrebu.
+3) Mere zaštite u kasnoj fazi nuklearnog akcidenta
+Član 23
+U ovoj fazi nastavljaju se, po potrebi, sledeće mere zaštite:
+1) kontrola pristupa lica u blizinu nuklearnog objekta u kome 
+ je došlo do akcidentne kontaminacije (zonu koja je precizno utvrđena),
+2) dekontaminacija površina, prostorija i najvažnijih komunikacija 
+ u bližoj zoni nuklearnog objekta, a po potrebi i u široj zoni na pojedinim lokacijama, 
+ zavisno od rezultata iz monitoringa,
+3) kontrola sadržaja radionuklida u hrani i vodi za piće, kao 
+ i u stočnoj hrani,
+4) dozimetrijska kontrola radnika u poljoprivredi koji mogu 
+ da budu izloženi jonizujućim zračenjima.
+IV IZVEDENI INTERVENTNI NIVOI RADIO-NUKLIDA 134Cs 
+ + 137Cs U HRANI ZA DOMAĆE ŽIVOTINJE
+Član 24
+U toku vanrednog događaja izvedeni interventni nivoi
+134
+Cs 
+ +
+137
+Cs u stočnoj hrani za ishranu domaćih životinja 
+ iz intenzivnog uzgoja (veći proizvođači društvenog, kooperativnog ili individualnog 
+ sektora) dati su prema kategorijama životinja i vrsti hrane u sledećim tabelama:
+1. Izvedeni interventni nivoi u stočnoj hrani za 
+ ishranu goveda i ovaca
+Tabela 1
+Nivoi aktivnosti
+134
+Cs 
+ +
+137
+Cs za jedan dan (u kBq)
+Vrsta životinja
+Starosna kategorija životinja
+DU
+i
+DU
+v
+DU
+h
+DU
+po kategorijama hrane
+A
+B
+C
+1
+2
+3
+4
+5
+6
+7
+8
+1/
+odrasla grla
+90
+8
+82
+64
+011,5
+6,5
+GOVEDA
+2/
+podmladak
+14,5
+6
+8,5
+7,3
+0,5
+0,7
+3/
+odrasla grla
+90
+5
+85
+65,5
+12,8
+6,7
+OVCE
+4/
+podmladak
+14,5
+0,5
+14
+9,8
+2,2
+2
+gde je:
+1/
+muzne krave
+2/
+tovna junad
+3/
+ovce za mužu i reprodukciju
+4/
+tovna jagnjad i šilježad
+DU
+i
+= dozvoljeno dnevno unošenje ingestijom
+DU
+v
+= dozvoljeno dnevno unošenje vodom
+DU
+h
+= dozvoljeno dnevno unošenje hranom (DU
+h
+= DU
+i
+- DU
+v
+)
+DU
+= dozvoljeno dnevno unošenje po kategorijama hrane
+A = sveža kabasta hrana (trava, detelina, lucerka, silaža)
+B = suva kabasta hrana (seno, slama, lisnik)
+C = koncentrovana hrana (krmne smeše)
+2. Izvedeni interventni nivoi u krmnim smešama za 
+ ishranu svinja i živine
+Tabela 2
+Vrsta životinja
+Proizvodnja kategorija
+Nivoi aktivnosti
+134
+Cs 
+ +
+137
+Cs za jedan dan
+DU
+i
+DU
+v
+DU
+ks
+(kBq)
+(kBq)
+(kBq/kg)
+1
+2
+3
+4
+5
+SVINJE
+odrasla grla
+1/
+14,7
+1,5
+2,2
+2/
+14,7
+1,5
+6
+podmladak
+3/
+14,7
+1,5
+3,3
+ŽIVINA
+odrasla grla
+4/
+14,3
+-
+110
+podmladak
+5/
+14,7
+-
+210
+gde je:
+1/
+priplodne krmače telesne mase oko 150 kg
+2/
+tovljenici starosti do tri meseca, telesne mase do 60 
+ kg
+3/
+tovljenici starosti od sedam meseci, telesne mase do 
+ 100 kg
+4/
+kokoške nosilje starosti do jedne godine, telesne mase 
+ oko 2 kg
+5/
+brojleri starosti 30 do 60 dana, telesne mase 0,5 kg
+DU
+i
+= dozvoljeno dnevno unošenje ingestijom (hrana + voda)
+DU
+v
+= dozvoljeno dnevno unošenje vodom za napajanje
+DU
+ks
+= dozvoljeni nivo aktivnosti u krmnoj smeši
+Pod većim proizvođačima društvenog, kooperativnog i individualnog 
+ sektora podrazumevaju se proizvođači koji gaje preko 100 muznih krava, preko 
+ 200 tovnih junadi u turnusu, preko 100 odraslih ovaca, preko 100 priplodnih 
+ krmača, preko 500 tovljenih svinja u turnusu, preko 1000 kokošaka nosilja i 
+ preko 2000 brojlera u turnusu.
+V MERE ZA ZAŠTITU DOMAĆIH ŽIVOTINJA
+Član 25
+U slučaju opasnosti i nastanka vanrednog događaja (rana faza, 
+ međufaza i kasna faza), u cilju zaštite stočne proizvodnje (domaće životinje, 
+ stočna hrana, voda za napajanje životinja i objekti za uzgoj životinja), kao 
+ i biljne proizvodnje (zemljište, poljoprivredne kulture, skladišta hrane, voda 
+ za navodnjavanje i zalivanje), preduzimaju se sledeće mere:
+1) preventivna radijaciona zaštita,
+2) radiometrijska i dozimetrijska kontrola,
+3) radioaktivna dekontaminacija.
+Mere preventivne radijacione zaštite preduzimaju se pre nastanka 
+ ili neposredno u početku rane faze.
+Mere radioaktivne dekontaminacije preduzimaju se kada radiometrijska 
+ kontrola utvrdi da je nastupila radioaktivna kontaminacija životne sredine i 
+ pojedinih delova ili celog lanca hrane.
+Pojedine mere i postupci zaštite u biotehničkoj proizvodnji 
+ detaljno su razrađeni u "Uputstvu o primeni mera radijacione zaštite u 
+ vanrednom događaju", koje je odštampano uz ovaj pravilnik i čini njegov 
+ sastavni deo (u daljem tekstu: Uputstvo).
+VI MERE RADIJACIONE ZAŠTITE STOČNE PROIZVODNJE
+Član 26
+U slučaju neposredne radijacione ugroženosti (50 kBq/m
+2
+134
+Cs +
+137
+Cs) stočne 
+ proizvodnje moraju se primeniti sledeće mere preventivne radijacione zaštite:
+1) provlačenje životinja s otvorenog prostora;
+2) zaštita izvorišta vode za napajanje životinja;
+3) zaštita stočne hrane na otvorenom i u zatvorenom prostoru;
+4) zaptivanje stajskih objekata.
+Član 27
+Povlačenje životinja s otvorenog prostora je prva mera preventivne 
+ radijacione zaštite životinja koja se mora izvesti što ranije i što brže, kako 
+ bi se domaće životinje s otvorenog prostora (pašnjaci, ispusti, bačije i sl.) 
+ prebacile u zatvorene stajske prostorije.
+Ova mera mora se izvršiti u toku 24 h od objavljivanja radijacione 
+ opasnosti.
+Član 28
+Izvorišta vode za napajanje životinja (obični bunari, kladenci 
+ i dr.) moraju se odmah zaštititi od radioaktivne kontaminacije, prekrivanjem 
+ folijama od plastičnog materijala (PVC).
+Nezaštićena izvorišta vode, kao i otvorene geografske vode, 
+ ne smeju se koristiti za napajanje životinja.
+Ako nema zaštićenih izvorišta za napajanje životinja vodom, 
+ pre korišćenja otvorenih geografskih voda za napajanje životinja mora se izvršiti 
+ radiometrijska kontrola vode i, na osnovu rezultata radijaciono-higijenskog 
+ ispitivanja, takva se voda može koristiti za napajanje životinja, prema članu 
+ 25. ovog pravilnika.
+Radijaciona zaštita izvorišta vode za napajanje životinja vrši 
+ se prema postupcima datim u Uputstvu.
+Član 29
+Stočna hrana na otvorenom prostoru (livadska trava, detelina, 
+ lucerka, mahunarke i dr.) mora se u što kraćem roku i pre radioaktivnih padavina 
+ pokositi i sakupiti u stogove, kamare i sl. koji se moraju zaštititi pokrivačima 
+ od nepromočivog materijala (cirade, folije od PVC i sl.).
+Stočna hrana u otvorenom skladišnom prostoru (ambari i sl.) 
+ mora se zaštititi oblaganjem skladišnog prostora zaštitnim pokrivačima (PVC 
+ folije, cirade i sl.), a u slučaju nedostatka ovakvog materijala - zbijenim 
+ snopovima šaše.
+Stočna hrana u zatvorenom prostoru mora se obezbediti od radioaktivne 
+ kontaminacije zaptivanjem skladišnog prostora. Postupak zaptivanja (hermetizacija) 
+ skladišnog prostora dat je u Uputstvu.
+Član 30
+Zaptivanje (hermetizacija) stajskog prostora preduzima se obavezno 
+ u cilju radijacione zaštite životinja u vanrednom događaju.
+Hermetizovan stajski prostor za uzgoj životinja, ako stajski 
+ objekat ne raspolaže klimatizovanim filtroventilacionim sistemom, mora se provetravati: 
+ staje za goveda i svinje na svakih 12 h u trajanju od 1 h, a živinarnici za 
+ svakih 6 h u trajanju od pola sata.
+Stajski objekti s običnim i klimatizovanim filtroventilacionim 
+ sistemom moraju da budu hermetizovani na način koji je opisan u Uputstvu.
+Član 31
+Radioaktivna dekontaminacija domaćih životinja vrši se obavezno 
+ u sledećim slučajevima:
+a) kad se u radijaciono-higijenski čiste stajske objekte smeštaju 
+ životinje kod kojih spoljašnja radioaktivna kontaminacija fisionim produktima 
+ prelazi više od tri (3) puta nivo mirnodopski utvrđenog gama-fona životne sredine 
+ na dotičnom lokalitetu,
+b) kad se kod životinja za klanje utvrdi spoljašnja radioaktivna 
+ kontaminacija.
+Član 32
+Radioaktivna dekontaminacija životinja izvodi se suvim, vlažnim 
+ ili kombinovanim postupkom, odnosno primenom površinski aktivnih supstancija 
+ (visoko ekspanzivne pene), na način propisan u Uputstvu.
+Organizaciona jedinica u kojoj se izvodi radioaktivna dekontaminacija 
+ životinja je Stanica za R-dekontaminaciju stoke (SDS), za koju su organizacija 
+ i režim rada propisani Uputstvom.
+Član 33
+Radioaktivna dekontaminacija stočne hrane vrši se:
+1) samodekontaminacijom,
+2) uklanjanjem površinskog sloja,
+3) postupkom radioizotopnog razblaženja.
+Samodekontaminacija se izvodi na taj način što se radioaktivno 
+ kontaminirana stočna hrana smešta u posebno skladište u kome mora da ostane 
+ sve dok se radiomaterijskom kontrolom ne utvrdi da se može upotrebiti za ishranu 
+ životinja.
+Samodekontaminacija se može primeniti na sve vrste stočne hrane 
+ - svežu i suvu kabastu hranu i krmne smeše.
+Uklanjanje površinskog sloja primenjuje se u zavisnosti od 
+ vrste stočne hrane, kao i način na koji je ova hrana uskladištena. Debljina 
+ skinutog sloja stočne hrane zavisi od dubine prodora radioaktivnih materija 
+ i utvrđuje se radiometrijskom kontrolom.
+Postupak radioizotopnog razblaženja dozvoljava se samo ako 
+ količina nekontaminirane stočne hrane nije dovoljna do obezbeđivanja novih količina, 
+ a izvodi se tako što se radioaktivno kontaminirana stočna hrana meša u određenom 
+ odnosu s radijaciono čistom hranom, dok se ne postigne takav nivo aktivnosti 
+ u stočnoj hrani da se ona može koristiti za ishranu životinja, u skladu sa članom 
+ 25. ovog pravilnika.
+Član 34
+U toku vanrednog događaja u klanicama se moraju primenjivati 
+ posebni postupci i mere radijaciono-higijenske bezbednosti, kao što su: dozimetrijska 
+ kontrola, radiometrijska kontrola, klinički pregled stoke za klanje na akutni 
+ radijacioni sindrom (ARS) i radiometrijska analiza konzumnog mesa. U tom cilju 
+ pri svakoj klanici se formira punkt za kontrolu i trijažu životinja za klanje.
+Organizacija rada na punktu za kontrolu i trijažu životinja 
+ za klanje, organizacija linija klanja kontaminiranih životinja, kao i mere radijacione 
+ zaštite ljudstva i prostorija opisani su u Uputstvu.
+VII MERE ZA ZAŠTITU BILJNE PROIZVODNJE
+Član 35
+U slučaju radijacione ugroženosti biljne proizvodnje (50 kBq/m
+2
+134
+Cs +
+137
+Cs) moraju 
+ se primeniti sledeće mere zaštite:
+1) tehničko-tehnološke mere preventivne radijacione zaštite,
+2) agrotehničke mere radijacione zaštite u ranoj fazi, međufazi 
+ i kasnoj fazi, odnosno u toku trajanja vanrednog događaja.
+Član 36
+Tehničko-tehnološke mere preventivne radijacione zaštite biljne 
+ proizvodnje, koje se obavezno primenjuju u vreme neposredno pre nastanka vanrednog 
+ događaja, odnosno pre taloženja radioaktivnih padavina su:
+1) ranije skidanje određenih biljnih kultura koje se ubiraju 
+ u nedozrelom stanju, a potom se koriste za pripremanje silaže za ishranu životinja,
+2) ranije ubiranje biljnih plodova i njihovo korišćenje (ako 
+ je moguće) za preradu, odnosno konzervisanje i dobijanje finalnih proizvoda,
+3) zaštita sakupljene kabaste i koncetrovane stočne hrane prekrivanjem 
+ plastičnim prekrivačima ili drugim nepromočivim materijalima.
+Navedene mere moraju se izvršiti što je moguće ranije i brže, 
+ tj. pre taloženja radioaktivnih padavina, a najkasnije za 1 - 2 dana.
+Član 37
+Agrotehničke mere radijacione zaštite biljne proizvodnje u 
+ ranoj fazi i međufazi primenjuju se neposredno posle taloženja radioaktivnih 
+ padavina, odnosno u toku celog vegetacionog perioda jedne proizvodne sezone, 
+ a to su:
+1) korišćenje staklenika i plastenika za proizvodnju povrća 
+ (paradajz, paprika, krastavci, spanać, salata i dr.) kao i obojenog sitnozrnastog 
+ voća (jagode, maline, kupine i dr.),
+2) košenje livadskih površina za dobijanje zelene mase za ishranu 
+ životinja, i to na sledeći način: za dobijanje zelene mase za ishranu goveda 
+ zelena masa kosi se najniže 15 cm od površine tla, a za ishranu ostalih domaćih 
+ životinja - najniže 5 cm od površine tla,
+3) pojačana kalcifikacija obradivog zemljišta,
+4) izostavljanje primene veštačkih đubriva fostatnog porekla 
+ i njihova zamena azotnim đubrivima, odnosno stajskim đubrivom,
+5) odgovarajuća obrada i zasejavanje novim biljnim kulturama,
+6) promena ratarske proizvodnje u slučaju potrebe, pri čemu 
+ izbor biljnih kultura zavisi od vrste i kvaliteta zemljišta i karakteristika 
+ biljnih kultura.
+Konkretne mere određivaće nadležni organi za poslove poljoprivrede 
+ za određeno područje.
+Član 38
+Agrotehničke mere radijacione zaštite biljne proizvodnje u 
+ kasnoj fazi, odnosno u sledećoj proizvodnoj sezoni, kao i narednih nekoliko 
+ godina, obuhvataju primenu sledećih postupaka:
+1) uklanjanje useva i ostataka letine,
+2) češće košenje livadskih površina,
+3) uklanjanje površinskog sloja zemljišta,
+4) duboko zaoravanje radioaktivnog kontaminiranog zemljišta,
+5) primena adekvatnih veštačkih đubriva i poboljšanje kvaliteta 
+ zemljišta,
+6) promena vrste useva i izbor najpogodnijih biljnih vrsta 
+ za gajenje na određenom zemljištu,
+7) ostale mogućnosti za smanjivanje sadržaja fisionih radionuklida 
+ u biljnoj proizvodnji.
+Član 39
+Uklanjanje useva i ostataka letine je obavezna mera, radi smanjivanja 
+ nivoa aktivnosti radionuklida koji su dospeli na zemljišne površine.
+Ova mera izvodi se na dva načina:
+1) kod visokih useva, odnosno kod bujne i raznovrsne vegetacije, 
+ vegetaciona masa uklanja se do same površine tla,
+2) kod niskih, jednoobraznih i proređenih useva, vegetaciona 
+ masa uklanja se zajedno sa slojem zemlje debljine 5 do 10 cm.
+Dalji postupak uklanjanja vegetacione mase može se izvršiti 
+ na neki od sledećih načina:
+1) zakopavanjem - što s obzirom na količinu vegetacione mase 
+ nije praktično, jer traži veliki prostor,
+2) baliranjem - što se može izvršiti samo uz korišćenje mehanizacije.
+Pri izvođenju postupka uklanjanja vegetacione mase moraju se 
+ preduzeti odgovarajuće mere zaštite ljudstva koje uklanja vegetacionu masu (zaštitno 
+ odelo, odeća i lične maske).
+Član 40
+Češće košenje livadskih površina primenjuje se kao mera za 
+ smanjenje sadržaja fisionih radionuklida u zemljištu.
+Pokošena trava i seno mogu se koristiti za ishranu životinja 
+ samo posle radijaciono-higijenskog ispitivanja.
+Član 41
+Uklanjanje površinskog sloja zemljišta, debljine oko 5 cm, 
+ predstavlja meru koja se primenjuje na manjim parcelama zemljišta, u cilju smanjenja 
+ sadržaja fisionih radionuklida u površinskom sloju zemljišta.
+Uklonjeni površinski sloj sakuplja se na krajevima parcele 
+ i ne može se koristiti za gajenje biljnih kultura.
+Dalje korišćenje ovog zemljišta moguće je posle radiometrijskog 
+ ispitivanja i mišljenja agrotehničkih stručnjaka.
+Član 42
+Zaoravanje zemljišta ima za cilj da se radioaktivno kontaminirano 
+ zemljište osposobi za gajenje biljnih kultura.
+Zemljište se može zaoravati na različitim dubinama: do 10 cm, 
+ do 20 cm i do 30 cm.
+Na zemljištu zaoranom do dubine od 10 cm kultivišu se biljke 
+ sa plitkim ili sa korenskim sistemom dubljim od 10 cm, a na zemljištu zaoravanjem 
+ do dubine od 20 do 30 cm mogu se gajiti biljke sa plitkim korenskim sistemom, 
+ odnosno biljke s veoma dubokim korenskim sistemom.
+Zaoravanje se može kombinovati sa navodnjavanjem, pri čemu 
+ se može koristiti nanošenje rastvora odgovarajućih soli pomoću motornih prskalica.
+O primeni ove mere i izboru vrste biljne kulture odlučuju agrotehnički 
+ stručnjaci.
+Član 43
+Primena veštačkih đubriva ima za cilj poboljšanje kvaliteta 
+ zemljišta i prisustvo većih količina kalcijuma, natrijuma, fosfora i kalijuma, 
+ radi suzbijanja resorpcije fisionih radionuklida.
+O izboru vrste i količine veštačkih đubriva, što zavisi od 
+ različitih karakteristika zemljišta i osobenosti biljnih kultura, moraju se 
+ konsultovati agrotehnički stručnjaci.
+Član 44
+Promena vrste useva predstavlja metodu kombinovanja načina 
+ oranja zemljišta i gajenja najpogodnije biljne kulture koja će najmanje resorbovati 
+ fisione radionuklide koji su deponovani u zemljištu.
+Ova mera primenjuje se isključivo uz konsultovanje agrotehničkih 
+ stručnjaka.
+Član 45
+Ostale mogućnosti za smanjenje nivoa aktivnosti fisionih radionuklida 
+ u procesu biljne proizvodnje mogu se podeliti na dve grupe, i to:
+1) postupci koji se primenjuju u periodu rasta biljnih kultura:
+a) ograničavanje navodnjavanja poljoprivrednih kultura vodom 
+ iz otvorenih geografskih vodotokova, ako je nivo aktivnosti ovakvih voda iznad 
+ dozvoljene granice. Navodnjavanje zemljišta može se dozvoliti samo posle radiometrijskog 
+ ispitivanja vode i uz konsultovanje ratarskih stručnjaka,
+b) snižavanje nivoa podzemnih voda u oblasti hidromelioracionih 
+ sistema, sa ciljem da rastvorljivi fisioni radionuklidi brže prodiru u dublje 
+ slojeve zemljišta i izvan domašaja korenskog sistema kultivisanih biljaka,
+2) postupci koji se primenjuju u narednom proizvodnom periodu:
+a) izbor određenih biljnih vrsta i sojeva u odnosu na kvalitet 
+ zemljišta i stepen radioaktivne kontaminacije,
+b) primena adekvatnih agrotehničkih mera.
+Postupci navedeni u ovom članu mogu se primenjivati samo posle 
+ konsultovanja agrotehničkih stručnjaka.
+Član 46
+Radioaktivna dekontaminacija zemljišta kao palijativna mera 
+ vrši se na način predviđen u čl. 39, 41, 42. i 43. ovog pravilnika.
+Član 47
+Radioaktivna dekontaminacija biljaka i biljnih plodova odnosi 
+ se uglavnom na spoljašnju radioaktivnu kontaminaciju povrća, voća i sl.
+Radioaktivna dekontaminacija biljnih kultura na otvorenom prostoru, 
+ zbog veoma velikih zemljišnih površina, uglavnom je prepuštena prirodnim uslovima, 
+ tj. spiranju putem atmosferskih padavina (kiša), koje nisu radioaktivno kontaminirane.
+Ako se na područjima na kojima se uzgajaju određene biljne 
+ kulture koristi veštačko navodnjavanje primenom raspršivača vode, taj je način 
+ zalivanja istovremeno i dobar postupak za dekontaminaciju ovih biljnih kultura, 
+ pod uslovom da korišćena voda ima veoma nizak nivo aktivnosti.
+Biljni plodovi (povrće, voće i dr.) koji su namenjeni za tržište 
+ (pijace i sl.) podležu postupcima radioaktivne dekontaminacije na način opisan 
+ u Uputstvu.
+VIII ZAVRŠNA ODREDBA
+Član 48
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja 
+ u "Službenom listu SRJ".
+Tabela 1
+MERE ZAŠTITE ZA SVAKU FAZU NUKLEARNOG AKCIDENTA
+Rana faza
+Međufaza
+Kasna faza
+Zaklanjanje i primena priručnih zaštitnih respiratora
+Zaklanjanje
+Upotreba stabilnih preparata joda
+Upotreba stabilnih preparata joda
+Evakuacija
+Evakuacija
+Kontrola pristupa
+Kontrola pristupa
+Kontrola pristupa
+Izmeštanje stanovništva
+Dekontaminacija osoba
+Kontrola hrane i vode za piće i upotreba rezervne hrane 
+ za stoku
+Kontrola hrane i vode za piće i upotreba rezervne hrane 
+ za stoku
+Medicinska zaštita
+Dekontaminacija površina/prostora
+Tabela 2
+MERE ZAŠTITE PREMA NAČINU IZLOŽENOSTI JONIZUJUĆIM ZRAČENJIMA
+Način izlaganja
+Raspoložive mere
+Spoljašnje izlaganje zračenju iz radioaktivnog oblaka
+Zaklanjanje, evakuacija, kontrola pristupa
+Unutrašnja izloženost zračenju preko inhalacije radionuklida 
+ iz oblaka (interna kontaminacija)
+Zaklanjanje i primena priručnih respiratora
+Upotreba stabilnih preparata joda, evakuacija i kontrola 
+ pristupa
+Spoljašnja kontaminacija osoba od radionuklida deponovanih 
+ iz oblaka ili depozita na površinu
+Zaklanjanje, evakuacija i izmeštanje stanovništva, kontrola 
+ pristupa i dekontaminacija
+Unutrašnje izlaganje udisanjem od suspendovanih radionuklida 
+ (interna kontaminacija)
+Evakuacija, izmeštaj stanovništva, kontrola pristupa 
+ i dekontaminacija
+Unutrašnje izlaganje zračenju od unosa kontaminirane 
+ hrane i vode za piće (interna kontaminacija)
+Kontrola hrane i vode za piće i upotreba rezervi stočne 
+ hrane
+DEKONTAMINACIJA OSOBA
+Kod primarne i završne dekontaminacije čije izvođenje diriguju 
+ u prvom redu akcidentna situacija i mogućnost izvođenja, treba se pridržavati 
+ osnovnih načela u oceni realne opasnosti od same kontaminacije s aspekta mogućih 
+ primljenih doza, procene efikasnosti dekontaminacije i procene rizika od nepravilno 
+ izvedene dekontaminacije. Opasnost je fiksiranje radionuklida i odsustvo daljeg 
+ efekta ili stvaranje nadražaja kože kada je nemoguće dalje izvoditi postupak. 
+ Posebnu pažnju treba posvetiti sprečavanju širenja kontaminacije na čiste delove, 
+ čime se postupak produžava i otežava, zatim na oštećenja kože izazvana samim 
+ postupkom dekontaminacije, pa treba posedovati razrađenu metodologiju za izvođenje 
+ dekontaminacije u slučaju pojave akcidenata širih razmera.
+Izvesne fizičke i hemijske karakteristike supstancija za dekontaminaciju 
+ mogu da imaju određeni uticaj u njihovoj efikasnosti, a mogu i da uslove ubrzanje 
+ resorpcije radionuklida preko kože. Neki organski rastvarači i kompleksirajuća 
+ jedinjenja primenjeni za dekontaminaciju kože povećavaju sadržaj radionuklida 
+ u organizmu kao rezultat povećane resorpcije.
+Postizanje efikasnosti za kratko vreme od značaja je s aspekta 
+ uštede vremena. Sprečavanje interne kontaminacije pojednostavljuje tretman s 
+ aspekta daljeg lečenja. Hemijska stabilnost supstancija za dekontaminaciju od 
+ velikog je značaja za njihovo skladištenje.
+a) Sapune - Koristiti za delimičnu i potpunu dekontaminaciju.
+Najpogodniji su toaletni sapuni, i to mala pakovanja do 20 
+ grama. Koristi se u obliku sapunice koja se direktno pravi na površini pokvašenog 
+ sapuna ili se može primeniti u obliku 1% rastvora (20 grama sapuna na 2 litra 
+ vode).
+b) Deterdžente koji ne nadražuju kožu - Koristiti pri dekontaminaciji 
+ pojedinih delova tela, a za dekontaminaciju celog tela treba ih izbegavati. 
+ Preporučuju se deterdženti za pranje finog belog rublja. Deterdženti se rastvaraju 
+ u vodi pre upotrebe. Potrebno je 10 grama deterdženta na 1 litar vode (1% rastvor 
+ deterdženta).
+v) Tečni sapun - Koristiti prvenstveno za delimičnu dekontaminaciju. 
+ Upotrebljava se direktno bez rastvaranja.
+Norme utroška supstancija za dekontaminaciju
+Predlažu se sledeće norme utroška supstancija za dekontaminaciju:
+a) Toaletni sapun od 20 grama zadovoljava potrebe jedne osobe 
+ za delimičnu i potpunu dekontaminaciju. Utrošak sapuna i ispiranje vodom kod 
+ potpune dekontaminacije odgovara kod grupne dekontaminacije koje iznose 15 do 
+ 20 grama sapuna i 10 do 20 litara vode po osobi.
+b) Deterdžente koristiti u 1% rastvoru. Utrošak rastvora deterdženta 
+ za dekontaminaciju šake (oko 300 cm
+2
+) iznosi 1 litar 
+ i oko 1 litar vode za 3 do 4 obrade.
+v) Tečni sapun koristi se za delimičnu dekontaminaciju kože 
+ u količini od 5 ml za 300 cm
+2
+. Utrošak vode za ispiranje 
+ iznosi oko 1 litar za 2 - 3 obrade.
+Delimična dekontaminacija vrši se pomoću navlaženog tampona 
+ vate kojih za obradu šaka treba oko 30 (15 grama vate).
+Mogućnosti korišćenja supstancija za dekontaminaciju
+U uslovima kontaminacije neoštećene kože fisionim produktima 
+ moguće je koristiti sledeća sredstva za dekontaminaciju:
+I Kod delimične dekontaminacije:
+- sapunicu od toaletnih sapuna ili 1% rastvor sapuna u vodi,
+- 1% rastvor deterdženta u vodi,
+- tečni sapun bez razblaživanja,
+- u specijalizovanim zdravstvenim ustanovama mogu da se koriste 
+ i druga sredstva.
+Rastvori za dekontaminaciju treba da imaju pH između 7,0 i 
+ 8,5 a temperatura rastvora i vode za ispiranje najpoželjnije je da se kreće 
+ između 20-30 °C.
+II Kod potpune dekontaminacije koja se izvodi kod difuznog 
+ tipa kontaminacije ili kao definitivna obrada posle lokalno izvedene dekontaminacije 
+ predlaže se upotreba toaletnog sapuna, i to malog sapuna od 20 grama po osobi. 
+ Deterdžente treba izbegavati zbog nadražajnog i alergijskog delovanja. Temperatura 
+ vode kao sredstva za ispiranje treba da iznosi 25-35 °C, u zavisnosti od 
+ godišnjeg doba i uslova izvođenja dekontaminacije.
+Pri dekontaminaciji pojedinca treba prvo osetljivim monitorom 
+ utvrditi zračenja na otkrivenim delovima tela, kontaminirana mesta i stepen 
+ kontaminacije.
+Za dekontaminaciju otkrivenih delova tela koristiti sledeće 
+ supstancije i postupke:
+1) Koristiti prvenstveno toaletni sapun, po mogućnosti mali 
+ sapun od 20 grama. Nakvašenim tamponom vate napraviti sapunicu i brisati kontaminiranu 
+ površinu kože od najmanje zaprljanog mesta prema mestu na kojem je utvrđena 
+ najveća kontaminacija. Tampon posle jedne upotrebe ne sme se ponovo koristiti, 
+ već ga ostaviti u kesu predviđenu za radioaktivne otpatke. Istu površinu očistiti 
+ na isti način tamponom natopljenim čistom vodom i posušiti drugim tamponom. 
+ Čišćenje traje oko 1 minut. Kontrolisati pomoću detektora stepen zaostale aktivnosti 
+ i zabeležiti vrednosti (beleži lice koje rukuje detektorom), po potrebi ponoviti 
+ postupak u celini još jedanput. Dekontaminacija ukupno traje 5 minuta.
+2. Ako nema sapuna koristiti deterdžent. Pripremiti 1% rastvor 
+ deterdženta (10 grama deterdženta ili dve kafene kašike na jedan litar vode). 
+ Tamponom nakvašenim rastvorom deterdženta brisati kontaminiranu površinu kože 
+ od najmanje zaprljanog mesta ka mestu sa najvećom kontaminacijom. Tampon staviti 
+ u radioaktivne otpatke. Istu površinu očistiti na isti način tamponom natopljenim 
+ čistom vodom i posušiti tamponom. Čišćenje traje oko 1 minut. Kontrolisati zaostalu 
+ aktivnost pomoću detektora i zabeležiti. Po potrebi ponoviti postupak u celini 
+ još jedanput. Dekontaminacija ukupno traje do 5 minuta.
+Primarna dekontaminacija
+Nakon ukazivanja hitne medicinske pomoći prema vitalnim indikacijama, 
+ ako ima slučajeva, započinje se s primarnom dekontaminacijom, i to:
+- Meriti i zapisati nivo kontaminacije na posebno pripremljenom 
+ formularu ili na anatomskom dijagramu;
+- Ukloniti svu odeću, obuću i lične predmete i zapakovati ih 
+ u plastične kese;
+- Ukloniti svu vidljivu nečistoću i ako je moguće oprati pacijenta 
+ štiteći ranu;
+- Isprati telesne otvore vodom ili fiziološkim rastvorom i 
+ ne dozvoliti kontaminiranoj osobi da guta.
+Principi i pravila dekontaminacije
+1. Kao i prilikom primarne dekontaminacije tako se i u zdravstvenoj 
+ ustanovi u koju dolazi kontaminirano lice na dalju obradu pažnja prvobitno posvećuje 
+ opštem zdravstvenom stanju i reanimaciji ako postoji indikacija.
+2. Postupci dekontaminacije sastoje se od fizičkog uklanjanja 
+ radionuklida sa kože, rana i telesnih otvora.
+3. Dekontaminacija se izvodi na sledeći način:
+a) Započinje se od manje kontaminiranog mesta prema više kontaminiranim 
+ mestima. Izuzetak su jače kontaminirane rane i opekotine. Treba započeti dekontaminaciju 
+ predela glave, lica, vrata i ruku, gde su obično najveći nivoi kontaminacije, 
+ pa tek ostalih delova tela.
+b) Pokretni pacijent bez povreda se tušira.
+v) Započinje se sa najjedostavnijim sredstvima, zatim se koriste 
+ složeniji postupci.
+g) Monitorom zračenja kontroliše se efikasnost dekontaminacije 
+ na osnovu koje rukovodilac ekipe određuje kada treba prestati.
+4. Osoblje koje vrši dekontaminaciju treba da bude odgovarajuće 
+ zaštićeno (lični dozimetri, odeća, navlake na obući i dr). Posebnu pažnju treba 
+ obraćati na sprečavanje prenosa kontaminiranog materijala u čiste delove.
+5. Radi procene nivoa spoljašnje i unutrašnje kontaminacije, 
+ vrste radionuklida i primljene doze zračenja pre dekontaminacije i u toku postupka 
+ uzima se materijal za radijacionu i biološku analizu, i to:
+a) Uzorci materijala koji sadrže spoljašnje kontaminante (brisevi, 
+ odrezani nokti, uzorci tkiva, deo tečnosti nakon dekontaminacije, sadržaj iz 
+ rana i sl.),
+b) Uzorci koji sadrže interne kontaminante (krv, urin, feces, 
+ ispljuvak, sadržaj nosa i sl.),
+v) U slučaju neutronskog ozračenja lični metalni predmeti zbog 
+ indukovane radioaktivnosti (sat, prsten, narukvice, naušnice i dr.),
+g) Hematološki uzorci (krv u čiste epruvete, u epruvete sa 
+ heparinom, s oksalatom, razmazi periferne krvi).
+Svi uzeti uzorci moraju da budu adekvatno pripremljeni u plastične 
+ kesice, epruvete ili druge posude i tačno obeleženi.
+Dekontaminacija rane
+Kontaminiranu ranu ne dirati (ne pristupati nikakvoj proceduri 
+ dekontaminacije).
+- Ranu obavezno treba zaštititi od dalje kontaminacije (u proceduri 
+ dekontaminacije kože kontaminirane osobe).
+- Zaštitu obezbediti tako što će se, ako je rana previjena, 
+ staviti plastična folija i fiksirati (flasterom ili gumicama na ekstremitetima) 
+ tako da se spreči svaka naknadna kontaminacija rane.
+- Dekontaminaciju rane izvršiće lekar odgovarajuće specijalnosti 
+ (hirurg) u proceduri primarne obrade rane.
+Dekontaminacija spoljnog ušnog kanala
+- Pomoću vate na štapiću ili Q - tipsa uzeti uzorak, a potom 
+ blago isprati manjom količinom vode;
+- Izmeriti aktivnost i ako je potrebno ponoviti ispiranje.
+Dekontaminacija nosnih šupljina i usta
+- Okrenuti glavu pacijenta na stranu ili prema dole,
+- Blago isprati manjom količinom vode,
+- Pacijent ne treba da guta,
+- Ako je došlo do gutanja radionuklida, pomoću nazogastrične 
+ sonde aspirirati uzorak iz želuca. Ako je sadržaj radioaktivan treba:
+- Primeniti ispiranje želuca manjim količinama fiziološkog 
+ rastvora do prestanka pojave radioaktivnosti,
+- Započeti s postupcima eliminacije radionuklida iz organizma.
+Dekontaminacija kose
+- Prati kosu sapunom ili šamponom ne dozvoljavajući da kontaminacija 
+ dospe u oči, nos ili usta,
+- Ako više pranja ostaje bez efekta, kosu treba skratiti ili 
+ ošišati bez brijanja.
+Dekontaminacija kože
+Dekontaminacija zdrave kože sapunima i deterdžentima opisana 
+ je ranije. Potrebno je preduzimati sledeće postupke:
+- Pomoću navlažene papirne maramice uzeti bris s površine kože 
+ od oko 100 cm
+2
+.
+- Koristiti hirurške spužve i meke četke koje ne nadražuju 
+ kožu.
+- U slučaju korišćenja kiselih sapuna prekriti kontaminirani 
+ deo bogatom penom, ostaviti 2 do 3 minuta i isprati s puno tekuće vode. Uvek 
+ treba izmeriti i zapisati preostalu aktivnost.
+- Postupak se može ponoviti još jednom, uz pažnju da se ne 
+ pojavi crvenilo ili ozleda kože.
+- U slučaju prisustva i dalje kontaminacije treba koristiti 
+ vodonik-peroksid.
+- Kod upornih kontaminacija primenjuju se abrazivna sredstva 
+ koja fizički uklanjaju fiksiranu kontaminaciju, a to su abrazivni sapun, smeša 
+ titanovog dioksida i lanolina. Nakon primene svih tih sredstava ruke se operu 
+ i namažu nekim od zaštitnih kremova ("Lek 48", vazelin, Octa, Nivea, 
+ Borogal i dr.).
+- Za skidanje površinskog rožastog sloja s preostalom kontaminacijom 
+ može se koristiti rastvor kalijum-permanganata. Ne treba ga primenjivati u blizini 
+ rana, očiju ili usta. Rastvor se prelije po vlažnoj koži i pažljivo trlja pomoću 
+ meke četke do dva minuta, a zatim koža opere vodom. Mrlje se uklanjaju pomoću 
+ rastvora natrijum-sulfita (5 g NaHSO3 u 100 ml destilisane vode) i ispiraju 
+ vodom i posuše, a ruke treba namazati zaštitnom kremom. U slučaju utvrđene prirode 
+ radionuklida mogu se koristiti sledeće materije:
+- za uran koristiti Na-bikarbonat,
+- za fisione produkte, lantanide, plutonijum i super teške 
+ elemente koristiti 1% rastvor DTPA (ph 3-5),
+- za alkalne i zemno-alkalne elemente koristiti vodu.
+Ako postoje povrede kože i kontaminacije radiostroncijumom, 
+ stroncijum se prevodi u nerastvorljiv oblik pomoću rastvora K-rodizonata.
+Korišćenje bezvodnih sredstava za dekontaminaciju kože.
+U nedostatku vode tečni sapun se može koristiti kao bezvodna 
+ supstancija za dekontaminaciju po sledećem postupku:
+- tamponom natopljenim tečnim sapunom obrisati kontaminiranu 
+ površinu kože od najmanje zaprljanog mesta ka mestu s najvišim nivoom kontaminacije. 
+ Posušiti tamponom i kontrolisati nivo zaostale aktivnosti. Čišćenje traje oko 
+ 1 minut. Postupak ponoviti na isti način još jedanput,
+- mešavinu od jednog dela kukuruznog brašna i deterdženta spraviti 
+ u vidu paste i koristiti ga kao bezvodno sredstvo u situaciji kada nedostaje 
+ tekuća voda,
+- smešu od 8% karboksi-metil celuloze, 3% deterdženta, 1% CaEDTA 
+ i 88% vode, homogenizovano u vidu krema, moguće je, isto tako, koristiti u posebnim 
+ situacijama kao bezvodno sredstvo za dekontaminaciju.
+Interna dekontaminacija
+Od sredstava koja se mogu koristiti za internu dekontaminaciju 
+ u specijalizovanim zdravstvenim ustanovama navode se sledeća sredstva:
+- Alginati, Način davanja -
+per os
+10 g (1 x dnevno).
+Tretman se nastavlja narednih dana u dozi od 4 g dnevno podeljeno 
+ na četiri uzimanja.
+- Izotonični natrijum-bikarbonat, način davanja: 250 ml u perfuziji 
+ i.m. lagano.
+- Prusko plavilo (feriferocijanid), način davanja: per os: 
+ 3-4 g PP u malo vode raspoređeno u tri doze.
+DTPA (dietilen triamino pentasirćetna kiselina), način davanja: 
+ 0,5 g u perfuziji i.m. vrlo lagano u izotoničnom rastvoru (250 ml NaCl 0,9% 
+ ili 5% glikoza). Tretman produžiti nekoliko dana prema značaju kontaminacije. 
+ Doza ne treba da pređe 0,5 g dnevno, a ritam davanja se utvrđuje prema svakom 
+ slučaju posebno. Respiratornim putem: inhalacija na pola časa aerosola DTPA 
+ koji se ostvaruje jednom ampulom rastvora (1 g na 4 ml) ili jedna kapsula pudera 
+ (1 g se stavlja u aerosolizator tipa spinhaler).
+Preporučuje se da se na početku tretmana daje Ca DTPA kao efikasniji, 
+ a da se prve nedelje nastavi sa davanjem Zn-DTPA preko kože kao manje toksični 
+ i ispira kiselim rastvorom 1% DTPA.
+- Kobalt-glukonat, način davanja: Sr-Laktat se administrira
+per os
+, i to od 500 do 1500 mg podeljeno u više porcija dnevno sa davanjem 
+ prvenstva u sredini obeda. Sr-Glukonat se daje i.m. putem u laganoj perfuziji, 
+ i to 600 mg u 500 ml izotoničnog rastvora 5% glikoze.
+- Jod, Način davanja: od 375 mg KJ ili 2 ml Lugola rastvoreni 
+ u čaši vode. Tretman nastaviti narednih dana u zavisnosti od važnosti kontaminacije, 
+ i to 1 do 2 ampule LSl ili 1 ml Lugola dnevno.
+- Rodizonat, Način davanja, 1 g radizonata posuti na kontaminiranu 
+ ranu pre hirurške obrade.
+UPUTSTVO
+ZA PRIMENU MERA RADIJACIONE ZAŠTITE U VANREDNOM DOGAĐAJU
+Usled mogućeg nastanka vanrednog radijacionog događaja, odnosno 
+ radioaktivne kontaminacije životne sredine i lanca hrane, radi preduzimanja 
+ preventivne radijacione zaštite ili sanacije radioaktivne kontaminacije, biotehnički 
+ stručnjaci preduzimaju jedinstvene mere radijacione zaštite u stočnoj i biljnoj 
+ proizvodnji, koje su propisane ovim uputstvom.
+1. Radijaciona zaštita izvorišta vode za napajanje 
+ životinja (član 29. stav 4)
+Da bi se postigla radijaciono-higijenska zaštita otvorenih 
+ bunara neophodno je da su postojeći bunari ozidani i sa ogradom od čvrstog materijala 
+ (visine najmanje 1 m), kao i sa nadstrešnicom i poklopcem koji dobro zaptiva. 
+ Oko bunara mora postojati betoniran prostor ili prostor popločan ciglom, a ako 
+ to nije slučaj mora se postaviti sloj gline debljine 20 cm, u širini od 2 do 
+ 3 metra oko bunara. Ovaj nasip mora da ima blagi pad i da se završava slivnim 
+ kanalom, koji odvodi slivne vode što dalje od bunara.
+Arterski i obični bunari, kladenci i česme moraju se prekrivati 
+ folijom od PVC ili sličnim nepromočivim materijalom (cirade, šatorsko platno 
+ i sl.) i povezati konopcem da vetar ne bi odneo zaštitni omotač.
+Kod korišćenja vode za napajanje životinja iz vodovodske mreže 
+ ili drugih zatvorenih sistema, nema potrebe za preduzimanje mera radijacione 
+ zaštite vode, jer to redovno čini određena ovlašćena služba.
+2. Zaptivanje prostora za skladištenje stočne hrane 
+ (član 30. stav 3)
+Zaptivanje (hermetizacija) prostora za skladištenje stočne 
+ hrane ambalažirane u džakovima (krmne smeše i dr.) vrši se zaptivanjem svih 
+ otvora na objektu (vrata, prozori, ventilacioni otvori i dr.).
+Prozori se zaptivaju samolepljivim trakama, a u njihovom nedostatku 
+ koriste se izrezane trake od hartije (širine 10 cm), koje se potapaju u retku 
+ kašu od brašna, a potom lepe po ivicama prozorskih krila.
+Vrata i ventilacioni otvori (naročito za ulazni vazduh) zaptivaju 
+ se pomoću posebno izrađenih ramova od letava, na koje se sa obe strane rama 
+ pričvršćuje sloj sargije ili sličnog poroznog materijala, a između ovih slojeva 
+ stavlja se neki rastresiti materijal (seno, slama, vuna i sl.). Takvi zaštitni 
+ filtri stavljaju se ispred i iza vrata, a sa prednje strane se stavlja i folija 
+ od PVC.
+Zaštitni filtri kontrolišu se i svaka dva do tri dana pomoću 
+ nekog monitora zračenja (npr. KOMO-TM, KOMO-TN, KOMO-TL i drugi) i u slučaju 
+ da pokazuju nivo aktivnosti koji je za više od 10 puta veći od osnovnog zračenja 
+ u unutrašnjosti skladišta hrane, filtracioni ramovi se zamenjuju novim filtrima.
+Radioaktivno kontaminirani filtracioni ramovi mogu se dekontaminirati 
+ i posle radiometrijske kontrole ponovo upotrebljavati ako je nivo zračenja u 
+ dozvoljenim granicama.
+Posle dekontaminacije ramova treba izvršiti zamenu rastresitog 
+ materijala (seno i sl.) nekontaminiranim materijalom.
+3. Zaptivanje stajskih objekata (član 31. stav 
+ 3)
+Radijaciona zaštita stajskih objekata za uzgoj životinja vrši 
+ se zaptivanjem (hermetizacija) svih otvora na stajskim objektima (prozori, vrata, 
+ ventilacioni otvori).
+1) Postupak hermetizacije
+Za izvođenje hermetizacije stajskih objekata mogu se koristiti 
+ priručni materijal (polivinil-folije, tkanine od kudelje, filc, impregnirano 
+ platno, ćebad, terpapir, asure od trske, drveni panel i drugo).
+Zaptivanje prozora
+može se izvršiti korišćenjem samolepljive 
+ trake ili trakama izrezanim od hartije širine 10 cm, koje se potapaju u retku 
+ kašu od brašna i lepe po ivicama prozorskih krila. U istom cilju mogu se koristiti 
+ drvene panel-ploče ili terpapir, a pukotine se zatvaraju blatom od gline.
+Zaptivanje vrata
+vrši se zatvaranjem svih pukotina u 
+ vratima i ragastovima punjenjem krpama i sličnim materijalom i potom premazivanjem 
+ blatom od gline, odnosno lepljenjem samolepljivim trakama.
+U objektima za industrijski uzgoj životinja (stočne farme), 
+ radi radijacione zaštite posebna pažnja se mora posvetiti ulazu u stajski objekt. 
+ Ulazna vrata obezbeđuju se od spoljne sredine izradom posebnih komora, i to: 
+ a) spoljašnje komore sa spoljne strane ulaznih vrata i b) unutrašnje komore 
+ sa unutrašnje strane vrata. Komore se izrađuju od drvenih gredica i oblažu polivinilskom 
+ folijom. Ulazna komora mora imati dva dela: pretkomoru - za ostavljanje odela 
+ i obuće i drugu pretkomoru - za oblačenje radnog odela i obuće radnika koji 
+ rade u stajskom objektu.
+Veličina spoljašnje i unutrašnje komore zavise od veličine 
+ ulaznih vrata.
+Ventilacioni otvori
+zaptivaju se na isti način kao i 
+ otvori u skladištima stočne hrane.
+2) Obezbeđivanje mikroklimatskih uslova
+Postupak hermetizacije staja za uzgoj životinja donosi istovremeno 
+ i niz problema vezanih za mikroklimat stajskog ambijenta, koji neminovno utiču 
+ na zdravstveno stanje, produktivne sposobnosti i kvalitet stočnih proizvoda, 
+ odnosno na kvantitet, kvalitet i konzumnu vrednost namirnica životinjskog porekla.
+Za prevazilaženje nepovoljnih ambijentalnih uslova u hermetizovanim 
+ stajama bez automatizovanog filtroventilacionog sistema neophodno je provetravanje 
+ stajskih objekata u trajanju od pola sata, i to na svakih šest časova. Takav 
+ postupak može se dopustiti pošto je poznato da kod domaćih životinja inhalacija 
+ nije značajan put unošenja biološki značajnih radionuklida u organizam životinja.
+Ako u stajama za intenzivan uzgoj životinja postoji automatizovan 
+ filtroventilacioni sistem, sve teškoće ambijentalne prirode biće svedene na 
+ minimum, pod uslovom da ulazni otvori za izmenu vazduha u staji budu zaštićeni 
+ i filtrima čija izrada je opisana kod filtara za zaptivanje vrata u skladištima 
+ za stočnu hranu.
+Goveda veoma dobro izdržavaju otežane uslove života u hermetizovanim 
+ stajama u kojima nema automatizovanog filtroventilacionog sistema. Goveda mogu 
+ da izdrže u hermetizovanom stajskom prostoru dva do tri dana bez ikakvih zdravstvenih 
+ i proizvodnih posledica.
+Svinje dobro podnose otežane uslove života u hermetizovanoj 
+ staji bez filtroventilacionog automatizovanog sistema i u takvim uslovima mogu 
+ da izdrže bez štete po zdravlje do dva dana.
+Živina je veoma osetljiva na promene faktora mikroklimata, 
+ jer njihov organizam ne raspolaže rezervnim adaptacionim potencijalom i ne može 
+ da savlada bionegativne promene mikroklimata. Boravak živine u živinarniku bez 
+ filtroventilacionog automatizovanog sistema može da traje najduže do 12 časova 
+ bez provetravanja stajskog prostora. Ako živina duže boravi u hermetizovanom 
+ stajskom prostoru bez provetravanja, u 50% slučajeva nastaje ugroženost života. 
+ Takođe, posle prestanka postupka hermetizacije kod živine nastaje period velike 
+ osetljivosti i svaki novi stres može da bude uzrok smrti (naročito u slučaju 
+ transporta). Isto tako, kod živine su neobično izražene promene produkcionih 
+ sposobnosti, jer nastaje smanjenje nosivosti jaja i do 70% što može da potraje 
+ i nekoliko nedelja.
+4. Radioaktivna dekontaminacija životinja (član 
+ 33)
+Za izvođenje postupka radioaktivne (R) dekontaminacije životinja 
+ (naročito stoke za klanje) u vanrednom događaju moraju se primenjivati jedinstvena 
+ načela organizacije prostora i rada u stanici za dekontaminaciju stoke (SDS), 
+ postupaka za izvođenje dekontaminacije, kao i opreme, kadrova i zaštite radnika 
+ koji rade u SDS.
+1) Organizacija prostora SDS
+Pri formiranju SDS mora se voditi računa o izboru mesta, kvalitetu 
+ zemljišta, jačini ekspozicione doze na prostoru SDS, prilaznim putevima i drugim 
+ faktorima od radijaciono-higijenskog značaja.
+Mesto za formiranje SDS može biti izvan područja koje je ugroženo 
+ od zaraznih bolesti za životinje i ljude.
+Zemljište na kome se formira SDS mora da bude zaravnjeno i 
+ da ima veoma dobru propustljivost i filtracionu sposobnost, za ovu svrhu najbolja 
+ su peskovita zemljišta.
+Prilazni putevi moraju da budu vezani za mrežu saobraćajnica, 
+ ali na rastojanju od najmanje 300 m od putne mreže.
+Dozvoljena jačina ekspozicione doze (X) na radioaktivno kontaminiranom 
+ zemljištu (KONZ) mora da bude manja od 3,5 nC/kg s (odnosno manja od 50 mR/h 
+ ).
+Veličina potrebnog prostora za razvoj SDS zavisi od vrste i 
+ broja ugroženih životinja koje treba da budu obrađene u SDS. U načelu se uzima 
+ da je za obradu velikih životinja potrebno 6-10 m
+2
+za jedno grlo, dok je za obradu ovaca i svinja dovoljno 2-4 m
+2
+po grlu.
+Snabdevenost vodom je odlučujući faktor pri formiranju SDS, 
+ pa se stoga SDS postavlja u blizini tekućih ili stajaćih geografskih voda (reke, 
+ rečice, potoci, jezera i sl.), odnosno blizini drugih prirodnih ili veštačkih 
+ izvora vode (arterijski bunari, kaptaže i sl.). Za obradu pojedinih vrsta životinja 
+ potrebna je različita količina vode: za velike domaće životinje potrebno je 
+ od 20 do 30 litara vode po grlu, za ostrižene ovce neophodno je od 10 do 20 
+ litara, a za svinje je potrebno oko pet litara vode po grlu.
+2) Organizacija stanice za dekontaminaciju stoke 
+ (SDS)
+Celokupan prostor SDS deli se na dva dela: a) "kontaminirani 
+ deo", koji obuhvata dve trećine celokupnog prostora SDS: depo za sabiranje 
+ radioaktivno kontaminiranih životinja, punkt za R-dekontaminaciju, punkt za 
+ dozimetrijsku kontrolu izvršene dekontaminacije i b) "čisti deo", 
+ koji obuhvata trećinu prostora SDS depo za sabiranje dekontaminiranih životinja, 
+ punkt za ukazivanje neodložne veterinarske pomoći i čiste stajske prostorije.
+U neposrednoj blizini SDS nalaze se takođe punkt za prijem 
+ i trijažu ugroženih životinja, kao i punkt za klanje stoke u poljskim uslovima.
+Punkt za trijažu ugroženih životinja nalazi se neposredno ispred 
+ SDS, radi veterinarsko-zdravstvenog pregleda i dozimetrijske kontrole životinja. 
+ Iz ovog punkta preko jednog propusnika, životinje prelaze u depo za sabiranje 
+ kontaminiranih životinja.
+Depo za sabiranje kontaminiranih životinja služi za sakupljanje 
+ životinja koje čekaju na postupak dekontaminacije. Ovaj depo mora da bude dovoljno 
+ prostran da može da primi najmanje 20 velikih životinja i odgovarajući broj 
+ malih životinja. Iz ovog depoa, preko propusnika, životinje se prevode u punkt 
+ za R-dekontaminaciju.
+Punkt za R-dekontaminaciju sastoji se od jedne ili više "kolona" 
+ širine 0,8-1 metra, u kojima se vrši postupak dekontaminacije životinja. Broj 
+ kolona za obradu životinja zavisi od planiranog kapaciteta SDS, a dužina kolone 
+ za obradu životinja ne sme biti manja od 10 metara, da bi se sprečio prenos 
+ kontaminanata na čist deo SDS. Uzduž kolone za dekontaminaciju kopa se jarak 
+ širok 30-40 cm i dubok oko 0,5 m, koji omogućava odliv otpadnih voda do sabirne 
+ jame, koja mora biti udaljena 50-100 m od SDS i mora da ima kapaciteta najmanje 
+ 15-20 m
+3
+vode.
+Više kolona za dekontaminaciju stiču se u jednu kolonu koja 
+ ima širinu od 1 m i dužinu od 3 do 5 m, preko koje dekontaminirane životinje 
+ odlaze na punkt za kontrolu izvršene dekontaminacije.
+Punkt za dozimetrijsku kontrolu izvršene dekontaminacije je 
+ prostor na kome se vrši radiometrijska kontrola svih grla pojedinačno o efektu 
+ izvršene R-dekontaminacije. Kontrola se vrši pomoću monitora zračenja. Životinje 
+ kod kojih je ustanovljen pozitivan efekat dekontaminacije upućuju se preko propusne 
+ kolone u "čist deo" SDS, dok se životinje kod kojih nije postignut 
+ zadovoljavajući efekt dekontaminacije vraćaju na punkt za dekontaminaciju, gde 
+ se obrada životinja ponavlja.
+Depo za sabiranje dekontaminiranih životinja po veličini je 
+ sličan depou za sabiranje kontaminiranih životinja. Iz depoa za sabiranje dekontaminiranih 
+ životinja, preko propusnika, životinje se prebacuju u punkt za ukazivanje neodložne 
+ veterinarske pomoći.
+Punkt za ukazivanje neodložne veterinarske pomoći čini prostor 
+ koji je za polovinu manji od depoa za sabiranje dekontaminiranih životinja. 
+ Ovaj punkt je na nivou veterinarske ambulante i snabdeven je potrebnim instrumentima 
+ i lekovima za ukazivanje neodložne veterinarske pomoći životinjama koje će biti 
+ smeštene u čiste stajske prostorije.
+Čiste stajske prostorije treba da budu na domak SDS, odnosno 
+ na rastojanju od najmanje 500 m od SDS.
+Punkt za klanje stoke u poljskim uslovima treba da bude takođe 
+ na domak SDS, odnosno na rastojanju od najmanje 300 m od SDS. Rad na ovom punktu 
+ odvija se prema kautelama radijaciono-higijenskih postupaka pri klanju stoke 
+ u komunalnim i industrijskim klanicama u vreme aktuelnog radijacionog događaja.
+3) Organizacija rada u SDS
+Obrada životinja koje su radioaktivno kontaminirane mora se 
+ vršiti što pre posle nastanka kontaminacije.
+Životinje koje dolaze sa radioaktivno kontaminirane teritorije 
+ (KONZ), pre ulaska u depo za sakupljanje ugroženih životinja u SDS, podvrgavaju 
+ se trijaži. Cilj trijaže je da se utvrdi stepen radioaktivne kontaminacije i 
+ nastale posledice, prognoza upotrebne vrednosti životinja (radna sposobnost, 
+ proizvodna sposobnost, konzumna vrednost stočnih proizvoda), kao i procena potrebe 
+ prinudnog klanja životinja koje su primile pululetalnu, odnosno letalnu dozu 
+ zračenja. Na osnovu rezultata dozimetrijske kontrole, životinje se svrstavaju 
+ u dve grupe:
+- prvu grupu čine životinje koje nisu radioaktivno kontaminirane, 
+ odnosno koje su kontaminirane u dozvoljenim granicama. U ovu grupu svrstavaju 
+ se i životinje koje su povređene i na drugi način,
+- drugu grupu čine životinje na čijem se kožno-dlačnom pokrivaču 
+ ustanovi prisustvo radionuklida, a nivo aktivnosti radionuklida prelazi dozvoljeni 
+ nivo.
+Pri dozimetrijskoj kontroli odlučujuća je dozvoljena jačina 
+ ekspozicione doze zračenja (X), koja se izražava u Si jedinici C/kg, s, odnosno 
+ vansistemskom jedinicom R/h ili mR/h.
+Po izvršenoj dozimetrijskoj kontroli, nepovređene životinje 
+ prve grupe upućuju se na nekontaminiranu teritoriju ili u čiste stajske prostorije 
+ na dalji uzgoj, dok se povređene životinje upućuju na punkt za ukazivanje veterinarske 
+ pomoći. Životinje svrstane u drugu grupu podvrgavaju se režimu obrade koji vlada 
+ u SDS.
+4) Postupak radioaktivne dekontaminacije
+Radioaktivna dekontaminacija stoke za klanje obavlja se na 
+ tri načina: a) vlažnim načinom, b) suvim načinom, v) kombinovanim načinom.
+Vlažni način dekontaminacije (kupanje, pranje, polivanje) primenjuju 
+ se u SDS, pri čemu se postupak može koristiti samo u toplijim mesecima, odnosno 
+ kada spoljna temperatura nije niža od + 10 °C.
+U načelu, cela spoljna površina tela životinje se 2 do 3 minuta 
+ poliva dekontaminacionim rastvorom, a zatim se 2 minuta ispira čistom vodom, 
+ tj. dok se dekontaminaciono sredstvo potpuno ne ispere.
+Obrada životinja radi dekontaminacije po pravilu počinje od 
+ repa, posle čega se rep podvezuje, a zatim se vrši obrada ostalih delova tela 
+ sledećim redosledom: glava, vrat, grudi, trup, sapi i najzad ekstremiteti. Obrada 
+ se vrši prvo s jedne strane, a onda sa druge strane, odnosno ako obradu životinje 
+ obavljaju dve osobe, svaka sa svoje strane. Na kraju, oči i sluzokoža usta i 
+ nosa treba da se isperu 2-3% rastvorom sode bikarbone.
+Za vlažnu obradu svinja, ovaca i teladi može se na kontaminiranom 
+ delu SDS formirati kavez za 8 do 10 grla i izvoditi grupne dekontaminacije.
+Kao sredstva za dekontaminaciju koristi se čista voda, odnosno 
+ voda sa dodatkom 3-5% deterdženta ili sapo kalinusa.
+Posle izvršene vlažne dekontaminacije životinje se prevode 
+ u čisti deo SDS, gde se moraju osušiti čistim krpama, sargijom i sl.
+U hladnijim prilikama životinje treba temeljno osušiti, ali 
+ bez masiranja.
+Suvi način dekontaminacije životinja primenjuje se u hladnim 
+ mesecima, kao i u nedostatku vode.
+Radioaktivna prašina najbolje se uklanja s površine tela životinja 
+ primenom usisivača za prašinu. Ako se ne raspolaže takvim aparatima, kontaminirane 
+ životinje treba zadržati na prostoru za koncentraciju kontaminiranih životinja 
+ i tamo ih mehanički obraditi četkama sa drškama dugačkim 80 do 100 cm. Zatim, 
+ vlažnim krpama treba životinjama istrljati glavu, vrat, trup i ekstremitete 
+ i osušiti čistim krpama ili sargijom. Za ovaj rad krpe se ne smeju potapati 
+ u posude s vodom, već se voda iz posuda naliva na krpe i krpe se ispiraju i 
+ cede nekoliko puta.
+Za suvu dekontaminaciju životinja u zimsko vreme može se koristiti 
+ čist sneg, kojim se pomoću četke, krpe ili gužve sena protrlja telo životinje, 
+ a zatim se temeljno iščetka četkom. Oči, nozdrve i usna duplja isperu se 2% 
+ rastvorom sode bikarbone ili 0,2% rastvorom hipermangana.
+Ovce se umesto suve obrade mogu samo ošišati.
+Radioaktivna dekontaminacija bez upotrebe vode sastoji se u 
+ primeni sredstava za dekontaminaciju koja su u obliku pasta. Od ovih sredstava 
+ najčešće se upotrebljavaju: 1. Pasta za dekontaminaciju po Zengeru (smeša podjednakih 
+ delova deterdženta u prahu ili sapunskog praška i kukuruznog brašna uz dodatak 
+ vode do konzistencije paste), 2. Kaolinska pasta po Zlobinskom (64% kaolina, 
+ 15% domaćeg sapuna u obliku 40% rastvora, 3% Na
+2
+CO
+3
+i 18% vode).
+Kombinovani način dekontaminacije delimičnim korišćenjem vlažnog 
+ i suvog načina primenjuje se u zavisnosti od okolnosti koje vladaju u datoj 
+ situaciji. Tako, na primer, u oskudici vode životinjama se suvim postupkom obrađuju 
+ glava, vrat i trup, dok se ekstremiteti obrađuju vlažnim postupkom, tj. polivanjem.
+Efikasna R-dekontaminacija životinja postiže se i upotrebom 
+ površinski aktivnih supstancija (tzv. visoko ekspanzivne pene), pri čemu se 
+ pena nanosi po celom telu životinje i ostavi da odstoji 2 do 3 minuta, a potom 
+ se uklanja pomoću četaka sa dugačkom drškom. Konačno se životinja ispere (polije) 
+ čistom vodom.
+5) Oprema za rad u SDS
+U SDS se za izvođenje vlažnog postupka R-dekontaminacije mogu 
+ koristiti specijalni uređaji pomoću kojih se dobija pritisak vode i dekontaminacionog 
+ rastvora od 2-2,5 atmosfere. U nedostatku takvih uređaja za dekontaminaciju 
+ se mogu koristiti i druge mašine, kao na primer ručne i motorne pumpe, prskalice 
+ za vodu i druge poljoprivredne mašine.
+6) Kadrovi za rad u SDS
+U SDS mogu raditi samo lica koja su završila posebnu obuku 
+ za izvođenje R-dekontaminacije životinja, odnosno pripadnici specijalizovanih 
+ jedinica Civilne zaštite (jedinice za RHB dekontaminaciju i jedinice veterinarske 
+ zaštite).
+7) Zaštita radnika koji rade u SDS
+Pri korišćenju bilo kojeg od navedenih načina R-dekontaminacije 
+ životinja moraju se preduzimati odgovarajuće mere zaštite ljudi koji rade u 
+ SDS. Rukovodilac SDS mora da vodi brigu o ličnoj zaštiti radnika u SDS (maska, 
+ zaštitna odeća i obuća, rukavice, gumena kecelja). Takođe, mora se strogo voditi 
+ računa o vremenu bezopasnog boravka (Tbb) pri radu u SDS. Osim toga, u letnjim 
+ mesecima rada mora se voditi računa o poštovanju normi za rad ljudstva pod zaštitnom 
+ opremom u zavisnosti od spoljne temperature. Tako je pri različitim spoljašnjim 
+ temperaturama i različito maksimalno dozvoljeno vreme rada, i to: više od 30 
+ °C = 30 min, 20-30 °C = 45 min-1 h, 15-20 °C =2 h, 10-15 °C 
+ =4 h i ispod 10 °C = više od 4 h.
+5. Organizacija rada u klanicama u vreme vanrednog 
+ događaja (član 34)
+1) Punkt za trijažu životinja za klanje
+Na punktu za trijažu životinja za klanje obavljaju se tri postupka: 
+ dozimetrijska kontrola spoljašnje radioaktivne kontaminacije, radiometrijska 
+ kontrola na unutrašnju kontaminaciju i klinički pregled na postojanje akutnog 
+ radijacionog sindroma (ARS).
+Dozimetrijska kontrola ima za cilj da se ustanovi da li su 
+ životinje za klanje spoljašnje kontaminirane radioaktivnim supstancijama. Dozimetrijska 
+ kontrola vrši se na svakoj životinji. Ova kontrola se može vršiti prilikom istovara 
+ životinja iz transportnog sredstva ili pri izvođenju iz stočnog depoa. Vreme 
+ koje je potrebno za dozimetrijsku kontrolu iznosi oko 2 do 3 minuta po svakom 
+ grlu. Pri ovom pregledu svako sumnjivo grlo na spoljašnju kontaminaciju odmah 
+ se izdvaja u poseban deo stočnog depoa radi detaljnijeg pregleda.
+Dozimetrijska kontrola vrši se pomoću specijalnih nuklearnih 
+ merila - monitora zračenja, kojima raspolažu veterinarske ustanove i inspekcijske 
+ službe, kao i jedinice civilne zaštite.
+Postupak dozimetrijske kontrole sastoji se u sledećem: lice 
+ koje obavlja dozimetrijsku kontrolu pomoću monitora zračenja, sondom sa GM brojačem 
+ lagano prelazi na visini od 5 cm iznad površine dlačnog pokrivača, i to naročito 
+ preko gornjih delova tela - glave, vrata, leđa i sapi. Na taj način utvrđuje 
+ se jačina ekspozicione doze gama-zračenja (X) na površini tela životinje, koja 
+ se izražava Si jedinicom pC/kg, s, odnosno većom jedinicom. Dopustivi nivo spoljašnje 
+ kontaminacije smatra se da je onda kada jačina ekspozicione doze gama-zračenja 
+ je do pet puta iznad tzv. "nultog stanja", tj. pre nastalog vanrednog 
+ događaja.
+Dozimetrijska trijaža vrši se na osnovu rezultata dozimetrijske 
+ kontrole i sve životinje za klanje svrstavaju se u dve grupe:
+- prvu grupu čine životinje kod kojih nije ustanovljena spoljašnja 
+ kontaminacija,
+- drugu grupu čine životinje kod kojih je ustanovljena spoljašnja 
+ kontaminacija fisionim produktima.
+Radiometrijska kontrola na unutrašnju kontaminaciju je neophodna 
+ kod životinja, jer usled inhalacije i nekontrolisane ishrane hranom i vodom 
+ koji su kontaminirani, nastupa unutrašnja kontaminacija životinja. Ova kontrola 
+ se obavlja merenjem nivoa aktivnosti u ekskretu (mleko) i ekstrementima (balega 
+ ili mokraća). U tom cilju se od ispitivane životinje uzima ekskret ili ekskrement 
+ i stavlja u neku plitku posudicu (može se koristiti metalni poklopac od tegli 
+ ili sl.). Potom se prinosi sonda GM brojača monitora zračenja i na visini od 
+ oko 2 do 3 cm od površine uzorka vrši se merenje aktivnosti. Ako instrument 
+ pokazuje da uzorak daje podbroj (imp/s) koji je za više od pet puta veći od 
+ gama-jona, to znači da je životinja unutrašnje kontaminirana radionuklidima.
+Klinički pregled na ARS ima za cilj da se ustanovi da li su 
+ životinje za klanje bile ozračene visokom dozom jonizujućih zračenja istovremeno 
+ kada su i radioaktivno kontaminirane, odnosno pre ili kasnije od radioaktivne 
+ kontaminacije. Na osnovu pojave određenih simptoma koji karakterišu ARS, kliničkim 
+ pregledom treba ustanoviti postojanje simptoma koji karakterišu određeni stepen 
+ ARS. Tako na primer, promena trijasa i postojanje tačkastih (petehijalnih) krvavljenja 
+ na sluzokožama očiju, nosa i usta, kao i na dlakom slabo pokrivenim površinama 
+ tela (po donjoj površini trbuha, odnosno između nogu) ukazuje na ozračenost 
+ životinja visokom dozom (smrtna doza - LD 100/30). Izostanak evidentnih simptoma 
+ za težak oblik ARS, i to kod polovine kontrolisanih životinja ukazuje na činjenicu 
+ da su životinje ozračene tzv. polusmrtnom dozom (LD 50/30), kod ovih životinja 
+ može se zapaziti neveselost, slabo kretanje, nezainteresovanost za hranu, ali 
+ i veoma izražena žeđ.
+Postupak trijaže radijaciono povređenih životinja vrši se na 
+ osnovu rezultata izvršene dozimetrijske i radiometrijske kontrole i životinje 
+ za klanje se dele na tri grupe:
+- prvu grupu čine životinje koje nisu kontaminirane,
+- drugu grupu čine životinje koje su spoljašnje kontaminirane,
+- treću grupu čine životinje koje su spoljašnje i unutrašnje 
+ kontaminirane.
+Životinje prve grupe mogu se direktno upućivati na redovnu 
+ liniju klanja.
+Životinje druge grupe se pre upućivanja na liniju klanja moraju 
+ podvrgnuti postupku dekontaminacije u stanici za dekontaminaciju stoke (SDS). 
+ Posle izvršene dekontaminacije životinje se ponovo podvrgavaju dozimetrijskoj 
+ kontroli i ako jačina ekspozicione doze površine tela nije smanjena za najmanje 
+ 70% od prvobitno izmenjene vrednosti (X), postupak dekontaminacije se ponavlja, 
+ posle čega ponovo sledi dozimetrijska kontrola. Životinje ove grupe kod kojih 
+ se posle jednog postupka dekontaminacije utvrdi smanjenje jačine ekspozicione 
+ doze za oko 90% od početne vrednosti (X), mogu se uputiti na liniju klanja za 
+ nekontaminirane životinje (kao i životinje prve grupe). Međutim, životinje ove 
+ grupe kod kojih je posle obavljena dva postupka dekontaminacije vrednost (X) 
+ svedena na samo 50-80% od početne vrednosti (X) upućuju se na posebnu liniju 
+ klanja za kontaminirane životinje (kao i grla iz treće grupe).
+Životinje treće grupe (kod kojih je ustanovljena unutrašnja 
+ radioaktivna kontaminacija) upućuju se na posebnu liniju klanja, koja se organizuje 
+ samo za ovako kontaminirane životinje.
+Na osnovu izvršenog kliničkog pregleda vrši se klinička trijaža 
+ radijaciono povređenih životinja za klanje, i to na tri grupe:
+- prvu grupu čine životinje koje su ozračene veoma visokom 
+ dozom zračenja (smrtna doza - LD 100/30),
+- drugu grupu čine životinje koje su ozračene polusmrtnom dozom 
+ (LD 50/30),
+- treću grupu čine životinje koje su ozračene niskom dozom 
+ zračenja (manje od LD 25/30).
+Životinje prve grupe moraju se odmah uputiti na klanje, jer 
+ postoji opasnost nastanka akutnog toka radijacione bolesti, koji je praćen rasejavanjem 
+ bakterija po celom organizmu (radijaciona bakteriemija), što čini da se meso 
+ ne može dugo održati i može se koristiti isključivo kao uslovno upotrebljivo.
+Životinje druge grupe treba da budu upućene na klanje što pre, 
+ jer polovina od ukupnog broja povređenih životinja će oboleti od radijacione 
+ bolesti i tada je isti slučaj kao i kod životinja iz prve grupe.
+Životinje treće grupe mogu se uputiti na klanje u zavisnosti 
+ od potreba za ishranu ljudi.
+Sve tri navedene grupe životinja upućuju se na liniju klanja 
+ za nekontaminirane životinje.
+2) Organizacija i postupak klanja unutrašnje 
+ kontaminiranih životinja
+U toku trajanja vanrednog događaja u klanicama se moraju formirati 
+ dve linije klanja, i to:
+a) linija klanja za nekontaminirane životinje,
+b) linija klanja za unutrašnje kontaminirane životinje.
+Ako u klanici nema tehničko-tehnoloških mogućnosti za formiranje 
+ dve linije klanja, onda se mora odrediti specijalni režim rada. Naime, na liniji 
+ klanja prvo idu životinje iz prve grupe, potom životinje za klanje iz druge 
+ grupe i na kraju životinje za klanje iz treće grupe.
+Klanje životinja prve grupe ni u čemu ne odstupa od ustaljenog 
+ postupka klanja životinja u redovnim (mirnodopskim) uslovima. To je linija klanja 
+ za nekontaminirane životinje.
+Klanje životinja druge grupe vrši se u zavisnosti od kategorizacije 
+ životinja, a odvija se na dva načina: na liniji klanja za nekontaminirane životinje 
+ ili na liniji klanja za unutrašnje radioaktivno kontaminirane životinje.
+Klanje životinja treće grupe - životinja koja su radioaktivno 
+ kontaminirane na unutrašnji način - odvija se na poseban način, koji će biti 
+ naknadno opisan.
+3) Linija klanja radioaktivno kontaminiranih 
+ životinja
+Linija klanja radioaktivno kontaminiranih životinja je posebna 
+ linija klanja, koja mora da bude uređena u posebnom delu klanice i da ima sledeće 
+ delove (sektore):
+1 - deo za klanje,
+2 - deo za skidanje kože,
+3 - deo za otvaranje trbuha i podvezivanje organa,
+4 - deo za vađenje iznutrica,
+5 - deo za rasecanje trupa i pranje vodom,
+6 - deo za ceđenje polutki i uzimanje uzoraka mesa,
+7 - deo hladnog bloka (hladnjače),
+8 - deo za sakupljanje sirovih koža,
+9 - jama za sakupljanje konfiskata i radioaktivno kontaminiranih 
+ delova organa za varenje sa sadržajem (jama mora da bude dovoljno velika),
+10 - jama za sakupljanje otpadnih voda.
+Tako formirana linija klanja je neophodna da bi se pojedini 
+ delovi (sektori) linije klanja mogli lakše da dekontaminiraju posle završenog 
+ procesa klanja svih životinja.
+Klanje životinja i skidanje kože izvode radnici (mesari), koji 
+ su osposobljeni za obavljanje ovog posla i koji su prošli obuku pripadnika civilne 
+ zaštite za izvođenje ovih poslova. Radnici koji rade u ovom delu linije klanja 
+ ne smeju učestvovati u drugom delu linije klanja, tj. na otvaranju trbuha i 
+ podvezivanju organa i vađenju iznutrica. Pri skidanju kože mora se voditi računa 
+ da ruke radnika i dlaka životinja ne dođu u dodir s mesom, odnosno ako bi do 
+ toga došlo, onda se trup životinje mora odmah dobro isprati radijaciono-higijenski 
+ ispravnom vodom. Veoma je značajno da se skinuta koža sa životinje odmah odnese 
+ na mesto za sakupljanje radioaktivno kontaminiranih koža.
+Radnici - mesari koji rade na poslovima vađenja iznutrica ove 
+ poslove moraju obavljati tako da se isključi mogućnost radioaktivne kontaminacije 
+ mesa sa sadržajem želudačno-crevnog aparata. Stoga, neposredno pre uklanjanja 
+ želuca i creva treba postaviti podveze (ligature), na početku i završetku svakog 
+ organa, odnosno dela creva. Takođe, sve iznutrice treba ukloniti zajedno i istovremeno, 
+ pri čemu je neophodno da se naročita pažnja obrati da ne dođe do pucanja zida 
+ želuca ili creva. Odvojeno uklanjanje pojedinih delova organa za varenje i drugih 
+ iznutrica je zabranjeno. Konfiskate treba pažljivo baciti u jamu za sakupljanje 
+ konfiskata.
+Posle završenog rasecanja trupa, obrađene polutke treba proveriti 
+ monitorom zračenja, da bi se ustanovilo da li u toku klanja nije došlo do spoljašnje 
+ radioaktivne kontaminacije. Polutke koje pokazuju brzinu brojanja veću od dozvoljive 
+ (2 do 3 puta veću od nultog fona) moraju se izdvojiti u posebnu grupu, jer postoji 
+ opravdana verovatnoća da nivo radioaktivne kontaminacije mesa prelazi dozvoljivu 
+ granicu. Od takvih polutki se moraju uzeti uzorci (po 100 g od svake polutke 
+ iste životinje) i poslati u određenu radiometrijsku laboratoriju za procenu 
+ konzumne vrednosti. Meso od životinja ove grupe ostaje u posebnom delu hladnjače 
+ do dobijanja rezultata radijaciono-higijenske kontrole.
+4) Mere radijacione zaštite
+Posle završenog postupka klanja životinja treće grupe, tj. 
+ posle završetka rada na liniji klanja za radioaktivno kontaminirane životinje 
+ pristupa se dekontaminaciji pribora i prostora za klanje. Svi delovi pribora 
+ za klanje moraju se dekontaminirati pranjem u toploj vodi, uz pomoć sapuna ili 
+ deterdženta, pri čemu treba voditi računa da se pribor ne stavlja u posudu sa 
+ deterdžentom, nego da se rastvor deterdženta lagano sipa na pribor za klanje. 
+ Svi delovi prostora za klanje na liniji za radioaktivno kontaminirane životinje 
+ posle završenog procesa klanja moraju se prati jačim mlazom vode, radi uklanjanja 
+ radioaktivnog materijala koji je prilikom klanja dospeo u spoljnu sredinu. Za 
+ pranje podova poželjno je koristiti rastvor deterdženta koji se nanosi pomoću 
+ kante sa levkom za zalivanje cveća, a potom se četkom ili metlom dobro istrlja 
+ podna površina i najzad opere jačim mlazom vode.
+Pri klanju životinja koje su radioaktivno kontaminirane moraju 
+ se sprovoditi posebne mere zaštite ljudstva. Pre svega, radnici koji ne raspolažu 
+ odgovarajućom zaštitnom opremom (odeća, obuća, rukavice i dr.) ne smeju da rade 
+ na liniji klanja za radioaktivno kontaminirane životinje. Takođe, radnici koji 
+ obavljaju dekontaminaciju pribora i prostora za klanje, pored navedene propisane 
+ opreme, moraju imati i zaštitu za lice (vetrobranski zaštitnik), radi zaštite 
+ od prskanja vode i kontaminiranog materijala.
+Lica koja obavljaju dozimetrijsku kontrolu moraju imati propisanu 
+ zaštitnu opremu.
+Svi radnici koji rade u procesu klanja životinja moraju da 
+ budu osposobljeni za rad u vanrednim prilikama, a za ovu obuku odgovorni su 
+ rukovodioci radne organizacije i opštinskog štaba civilne zaštite.
+Treba posebno naglasiti da je za vreme klanja i obrade mesa, 
+ odnosno do potpunog završetka procesa klanja i skidanja zaštitne odeće, radnicima 
+ koji rade u klanici zabranjeno uzimanje hrane, pušenje, uzimanje vode za piće 
+ i drugih napitaka, kao i svaki dodir sa odećom koja se svakodnevno nosi.
+Skidanje zaštitne odeće može se vršiti tek kada lice zaduženo 
+ za dozimetrijsku kontrolu izvrši pregled odeće i opreme i dozvoli napuštanje 
+ prostorije za klanje. Pri skidanju zaštitne odeće i obuće treba paziti da spoljašnja 
+ strana odeće ne dolazi u dodir sa unutrašnjom stranom ili delovima odeće.
+Posle završenog skidanja radne odeće, radnici odlaze na kupanje, 
+ pri čemu treba naročito pažnju obratiti na pranje ruku i lica.
+6. Radioaktivna dekontaminacija namirnica biljnog 
+ i životinjskog porekla (član 48. stav 4)
+Radioaktivna dekontaminacija namirnica predstavlja složen problem 
+ i mora se posmatrati zavisno od vrste, agregatnog stanja i količine namirnica, 
+ vrste i načina radioaktivne kontaminacije, intenziteta zračenja i vremena poluraspada 
+ radionuklida koji su od biološkog značaja.
+Radioaktivna dekontaminacija namirnica biljnog i životinjskog 
+ porekla suštinski se ne razlikuje po postupcima koji se primenjuju za dekontaminaciju.
+Kada su namirnice kontaminirane kratkoživećim radionuklidima 
+ (pošto je prethodno izvršena identifikacija radionuklida), nije potrebno, a 
+ nije ni ekonomično da se preduzima bilo kakav postupak dekontaminacije, ako 
+ je vreme poluraspada radionuklida kraće od dve nedelje, a namirnice se mogu 
+ držati duže vreme, odnosno čuvati u konzervisanom stanju. Tada je dovoljno da 
+ se posle izvršene radijaciono-higijenske kontrole odredi rok posle koga se namirnice 
+ mogu koristiti za ishranu. Do isteka ovog roka namirnice treba obezbediti da 
+ se ne bi pokvarile. Pre davanja dozvole za konzumnu upotrebu ove namirnice se 
+ moraju podvrći radiometrijskoj kontroli i sanitarno-higijenskoj oceni kvaliteta.
+Kada je reč o namirnicama biljnog i životinjskog porekla koje 
+ se konzumiraju u svežem stanju, odnosno kada su radioaktivno kontaminirane dugoživećim 
+ radionuklidima ili smešom kratkoživećih i dugoživećih radionuklida koji su od 
+ biološkog značaja, mora se primeniti neki od postupaka R-dekontaminacije. Princip 
+ postupka R-dekontaminacije sastoji se u sledećem:
+1. pranje namirnica mlazom čiste vode pod pritiskom u trajanju 
+ od 5 do 10 minuta,
+2. mehaničko uklanjanje radioaktivno kontaminiranog sloja s 
+ površine namirnica, debljine sloja od 1 do 2 cm. S namirnica koje nemaju čvrst 
+ površinski sloj najpre treba mehanički odstraniti površinski sloj debljine 1 
+ do 2 cm, a tek potom pristupiti dekontaminaciji vodenim mlazom u trajanju od 
+ 5-10 minuta.
+Posle završenog postupka dekontaminacije, a pre davanja dozvole 
+ za upotrebu, neophodno je izvršiti radiometrijsku kontrolu i ocenu konzumne 
+ vrednosti dekontaminiranih namirnica.
+U slučaju da izloženim postupcima za R-dekontaminaciju nije 
+ postignut zadovoljavajući dekontaminacioni efekat, postupak R-dekontaminacije 
+ treba ponoviti, a posle pranja vodom namirnice se mogu (ako to sanitarno-higijenski 
+ uslovi dozvoljavaju) potapati u 1-3% rastvor neke organske kiseline (sirćetna, 
+ vinska, limunska i dr.).
+Ako i posle ponovljenog celog postupka efekat R-dekontaminacije 
+ ne zadovoljava, dalji rad na dekontaminaciji treba napustiti jer verovatno nije 
+ u pitanju samo spoljašnji vid već i unutrašnji vid (tj. strukturna) ili mešoviti 
+ vid (tj. spoljašnja i unutrašnja) radioaktivna kontaminacija.
+Namirnice biljnog i životinjskog porekla koje dolaze u promet 
+ u limenim kutijama, staklenoj ambalaži ili zapakovane u hermetički zatvorenim 
+ omotima od plastičnog i sličnog materijala, dobro su zaštićene od površinskog 
+ vida R-kontaminacije. Međutim, u tom slučaju potrebno je prethodno izvršiti 
+ kratkotrajno pranje omota ili ambalaže pod mlazom vode, a tek potom pažljivo 
+ otpakovati namirnice.
+Namirnice koje su ambalažirane u nehermetički zatvorenim omotima 
+ ili drugim vidovima otvorene ambalaže, tretiraju se kao neupakovane namirnice 
+ i podležu postupku R-dekontaminacije na opisani način.
+Radioaktivna dekontaminacija mleka predstavlja veliki problem 
+ i do sada nije nađen način za efikasan i ekonomičan način R-dekontaminacije 
+ ove namirnice. Stoga se pokazalo kao opravdano da se mleko koje je radioaktivno 
+ kontaminirano preko dozvoljenog nivoa, prerađuje u trajne proizvode od mleka 
+ (sir, kačkavalj, mleko u prahu) koji se mogu lagerovati i konzumirati posle 
+ određenog vremena stajanja u skladištu i posle izvršene radijaciono-higijenske 
+ kontrole.
+Radioaktivna dekontaminacija mesa dolazi u obzir kada je reč 
+ o spoljašnjoj ili unutrašnjoj R-kontaminaciji životinja za klanje.
+Kod spoljašnje R-kontaminacije životinja ili mesa, najpogodniji 
+ postupak R-dekontaminacije je pranje svake polutke mesa mlazom vode pod pritiskom, 
+ i to u trajanju od najmanje 5 minuta za svaku polutku. Ako nema mogućnosti za 
+ korišćenje mlaza vode pod pritiskom, potrebno je da se na svaku polutku mesa 
+ lagano izlije najmanje 25 do 30 litara vode, a u ovu vodu se može dodati vinsko 
+ sirće da bi se dobio 1-3% rastvor za dekontaminaciju.
+Kod unutrašnje kontaminacije mesa moguća je R-dekontaminacija 
+ na dva načina: a) meso koje se predviđa za duže čuvanje (na primer, za sušenje) 
+ potapa se u salamuru s nešto povećanom količinom soli i salamura se menja svaka 
+ 2 do 3 dana, b) meso koje se predviđa za neposrednu upotrebu može se radioaktivno 
+ dekontaminirati samo kuvanjem, a prilikom kuvanja mesa neophodno je da se voda 
+ u kojoj se meso kuva izmeni bar dva puta u toku kuvanja, pri čemu se voda u 
+ kojoj se meso kuva odbacuje. Takođe, preporučljivo je da se pre kuvanja meso 
+ drži u slanoj vodi najmanje 1 sat. Drugi postupci kulinarske obrade mesa (pečenje, 
+ dinstanje i sl.) ne dolaze u obzir kao postupci za R-dekontaminaciju mesa.
+Radioaktivna dekontaminacija riba vrši se pranjem u čistoj 
+ vodi u trajanju od najmanje 10 minuta, a potom se odseca i odbacuje glava ribe 
+ sa škrgama, iznutrice i skida krljušt. Ako i posle takvog postupka riblje meso 
+ ima aktivnost iznad dozvoljene granice, nije upotrebljivo za ishranu ljudi.

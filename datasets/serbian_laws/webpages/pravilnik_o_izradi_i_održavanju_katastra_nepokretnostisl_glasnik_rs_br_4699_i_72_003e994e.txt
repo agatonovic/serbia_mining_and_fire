@@ -1,0 +1,997 @@
+Title: PRAVILNIKO IZRADI I ODRŽAVANJU KATASTRA NEPOKRETNOSTI
+URL: https://www.paragraf.rs/propisi/pravilnik-izradi-odrzavanju-katastra-nepokretnosti.html
+Extracted: 2025-07-06T23:10:00.526781
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O IZRADI I ODRŽAVANJU KATASTRA NEPOKRETNOSTI
+("Sl. glasnik RS", br. 46/99 i 7/2016 - dr. pravilnik)
+I UVODNE NAPOMENE
+Član 1
+Ovim pravilnikom uređuje se priprema za izlaganje na javni 
+ uvid podataka o nepokretnostima i pravima na njima, izlaganje na javni uvid 
+ podataka o nepokretnostima i pravima na njima, formiranje i održavanje katastra 
+ nepokretnosti.
+Podaci o nepokretnostima i pravima na njima vode se na propisanim 
+ obrascima odštampanim uz ovaj pravilnik, koji čine njegov sastavni deo.
+Član 2
+Priprema za izlaganje na javni uvid obuhvata izradu elaborata 
+ za izlaganje i obezbeđivanje organizacionih i tehničkih uslova za izlaganje 
+ na javni uvid podataka o nepokretnostima i pravima na njima.
+Pripremu za izlaganje vrši organizaciona jedinica Republičkog 
+ geodetskog zavoda u opštini - Služba za katastar nepokretnosti (u daljem tekstu: 
+ Služba).
+Član 3
+U postupku izlaganja na javni uvid stavljaju se na javni uvid 
+ podaci privremeno upisani u listove nepokretnosti i utvrđuju prava na nepokretnostima, 
+ u skladu sa Zakonom o državnom premeru i katastru i upisima prava na nepokretnostima 
+ ("Službeni glasnik RS", br. 83/92, 53/93, 67/93, 48/94, 12/96 i 15/96 
+ - u daljem tekstu: Zakon).
+Pored podataka privremeno upisanih u listove nepokretnosti, 
+ u postupku izlaganja na javni uvid, koriste se i podaci sadržani u elaboratu 
+ premera i drugoj dokumentaciji, utvrđenoj ovim pravilnikom, koja sadrži podatke 
+ o nepokretnostima.
+Član 4
+U postupku pripreme podataka za izlaganje i izlaganja na javni 
+ uvid podataka o nepokretnostima i pravima na njima, unošenje podataka u listove 
+ nepokretnosti vrši se na način kojim se obezbeđuje da se katastarski operat 
+ izrađuje i održava automatskom obradom podataka.
+Član 5
+Kontrolu podataka privremeno upisanih u listove nepokretnosti 
+ i izlaganje na javni uvid podataka o nepokretnostima i pravima na njima i utvrđivanje 
+ prava u postupku izlaganja obavlja Komisija za izlaganje podataka o nepokretnostima 
+ i pravima na njima (u daljem tekstu: Komisija).
+Član 6
+Posle završenog izlaganja na javni uvid podataka o nepokretnostima 
+ i pravima na njima, Služba sprovodi sve aktivnosti propisane ovim pravilnikom 
+ u cilju izrade katastra nepokretnosti.
+Član 7
+Katastar nepokretnosti, izrađen u skladu sa Zakonom i ovim 
+ pravilnikom, Republički geodetski zavod predaje nadležnoj Službi za korišćenje 
+ i održavanje, o čemu se sastavlja poseban zapisnik.
+II PRIPREMA ZA IZLAGANJE
+1. Elaborat za izlaganje
+Član 8
+Elaborat za izlaganje obuhvata dokumentaciju koja sadrži podatke 
+ o nepokretnostima, i to:
+1) elaborat premera sa katastarskim planom;
+2) listove nepokretnosti sa privremeno upisanim podacima;
+3) sumarnik površina A listova nepokretnosti;
+4) prateću dokumentaciju koja sadrži određene podatke o nepokretnostima, 
+ i to:
+(1) dokumentaciju katastra zemljišta;
+(2) zemljišnu knjigu ili knjigu tapija, odnosno njihove delove;
+(3) akt nadležnog organa kojim je određeno gradsko građevinsko 
+ zemljište i građevinsko zemljište u građevinskom području;
+(4) akt nadležnog organa o utvrđivanju statističkih krugova;
+(5) podatke o posebnim delovima zgrada za kolektivno stanovanje, 
+ pribavljene od nadležnog organa.
+Član 9
+Elaborat premera, kao sastavni deo elaborata za izlaganje, 
+ pregleda i overava organizaciona jedinica Republičkog geodetskog zavoda nadležna 
+ za premer nepokretnosti.
+Katastarski plan overava i potpisuje organizaciona jedinica 
+ Republičkog geodetskog zavoda, odnosno organizacija koja je izvršila premer 
+ nepokretnosti, a pregleda i prima Republički geodetski zavod.
+Član 10
+U list nepokretnosti (prilog 1) privremeno se upisuju raspoloživi 
+ podaci o zemljištu, zgradi, stanu, poslovnoj prostoriji i garaži, kao posebnim 
+ delovima zgrade, i drugim građevinskim objektima; podaci o pravima na nepokretnostima 
+ i o nosiocima tih prava, kao i podaci o teretima i ograničenjima.
+Član 11
+List nepokretnosti formira se tako da obuhvata sve katastarske 
+ parcele koje pripadaju istom nosiocu prava (odnosno držaocu) na zemljištu u 
+ jednoj katastarskoj opštini, u okviru istog oblika svojine, zajedno sa objektima 
+ na tim parcelama.
+Na način iz stava 1 ovog člana postupiće se i u slučaju kad 
+ na zemljištu postoji susvojina sa istim međusobnim odnosom udela suvlasnika 
+ ili zajednička svojina sa istim nosiocima prava.
+Ako su delovi jedne parcele upisani u različitim posedovnim 
+ listovima, izvršiće se spajanje svih delova parcele u jednu parcelu i formiraće 
+ se jedan suvlasnički list nepokretnosti.
+Za zemljište u državnoj svojini list nepokretnosti se formira 
+ prema nosiocu prava korišćenja, korisniku, držaocu zemljišta, odnosno držaocu 
+ objekta (pod uslovom da je za zemljište pod objektom i zemljište za redovnu 
+ upotrebu objekta formirana posebna parcela).
+Na neizgrađenom gradskom građevinskom zemljištu koje je oduzeto 
+ od ranijeg sopstvenika, a nije dato na korišćenje radi privođenja planiranoj 
+ nameni, formira se list nepokretnosti prema nosiocu prava (grad, odnosno opština 
+ na čijoj se teritoriji zemljište nalazi).
+Za dobra u opštoj upotrebi u državnoj svojini formiraju se 
+ posebni listovi nepokretnosti, koji obuhvataju sve nepokretnosti iste vrste, 
+ a naročito: magistralne i regionalne puteve; ulice kroz koje ovi putevi prolaze; 
+ lokalne i nekategorisane puteve; železničke pruge; vodno zemljište i vodoprivredne 
+ objekte.
+Član 12
+Skica uz V list predstavlja grafički prikaz posebnog dela u 
+ okviru zgrade, odnosno u okviru pojedine etaže zgrade, izrađuje se u pogodnoj 
+ razmeri, s tim što se pregradni zidovi posebnog dela ne prikazuju na skici.
+Skica uz V list izrađuje se na zahtev i o trošku nosioca prava 
+ ili držaoca zgrade, odnosno posebnog dela zgrade.
+Član 13
+Posle formiranja i popunjavanja listova nepokretnosti izrađuje 
+ se Sumarnik površina A listova nepokretnosti, koji sadrži podatke o broju lista 
+ nepokretnosti i ukupnoj površini parcela upisanih u tom listu. Zbir površina 
+ u sumarniku mora da se složi sa ukupnom površinom katastarske opštine.
+Član 14
+Prateću dokumentaciju iz člana 8 tačka 4) podtačke (2) do (5) 
+ ovog pravilnika Služba će pribaviti u skladu sa Zakonom.
+Član 15
+Kad zemljišna knjiga nije obnovljena posle izvršene obnove 
+ premera ili u dužem vremenskom razdoblju ne provodi promene, podaci upisani 
+ u njoj će se u postupku izlaganja na javni uvid koristiti kao činjenice koje 
+ mogu voditi utvrđivanju prava na nepokretnostima.
+Ako na osnovu raspoloživih podataka iz zemljišne knjige i katastra 
+ zemljišta proizilazi da se u poslednje tri godine pretežan broj promena na nepokretnostima 
+ provodi u katastru zemljišta, smatraće se da zemljišna knjiga u dužem vremenskom 
+ razdoblju ne provodi promene.
+2. Obezbeđivanje organizacionih i tehničkih uslova za izlaganje
+Član 16
+Služba, u opštini na čijoj teritoriji se vrši izlaganje, obezbeđuje 
+ organizacione i tehničke uslove za izlaganje na javni uvid podataka o nepokretnostima 
+ i pravima na njima, i to:
+1) daje predlog za obrazovanje Komisije;
+2) javno oglašava izlaganje;
+3) obezbeđuje i dostavlja pozive za izlaganje;
+4) obezbeđuje odgovarajuće prostorije u kojima će se vršiti 
+ izlaganje i neophodnu opremu za izlaganje.
+Član 17
+Služba dostavlja organizacionoj jedinici Republičkog geodetskog 
+ zavoda nadležnoj za katastar nepokretnosti predlog za obrazovanje Komisije, 
+ sačinjen uz saradnju sa nadležnim organom jedinice lokalne samouprave, koji 
+ sadrži podatke o licima koja se predlažu za predsednika i članove Komisije i 
+ njihove zamenike.
+Član 18
+Komisija vrši kontrolu podataka unetih u listove nepokretnosti 
+ i utvrđuje da li su u skladu sa Zakonom i ovim pravilnikom, pravilno formirani 
+ i popunjeni listovi nepokretnosti.
+Kad Komisija utvrdi da listovi nepokretnosti nisu formirani 
+ na način iz stava 1 ovog člana, Služba je dužna da utvrđene nedostatke otkloni.
+Član 19
+Vreme i mesto izlaganja na javni uvid podataka objavljuje Služba 
+ oglasom (prilog 2) u katastarskoj opštini u kojoj se vrši izlaganje, u skladu 
+ sa Zakonom.
+Ukoliko se izlaganje vrši izvan područja katastarske opštine 
+ koja se izlaže, oglas se ističe na odgovarajućim mestima i u mestu izlaganja.
+Član 20
+Oglas istovremeno predstavlja i javni poziv upućen:
+1) nosiocima prava na nepokretnostima upisanim u zemljišnoj 
+ knjizi čiji upis je istovetan sa upisom u katastru zemljišta;
+2) licima upisanim u katastru zemljišta koja ispunjavaju uslove 
+ da budu nosioci prava, čiji upis je identičan sa podacima iz obnove premera;
+3) licima upisanim u katastru zemljišta koja ispunjavaju uslove 
+ da budu nosioci prava na nepokretnostima.
+Lica iz stava 1 ovog člana smatraju se pozvanim isticanjem 
+ oglasa.
+Član 21
+Posle objavljivanja oglasa Komisija utvrđuje plan izlaganja 
+ i redosled pozivanja lica upisanih u B i V listove nepokretnosti.
+Član 22
+Pre pozivanja formiraju se upravni predmeti za svaki list nepokretnosti, 
+ u skladu sa propisima kojima se uređuje kancelarijsko poslovanje organa državne 
+ uprave. List nepokretnosti ulaže se u omot upravnog predmeta kao prvi akt. Za 
+ svaki novoformirani list u postupku izlaganja formira se novi upravni predmet.
+Član 23
+Pozivanje lica na izlaganje vrši se isticanjem oglasa, odnosno 
+ javnog poziva (prilog 3) ili dostavljanjem poziva.
+Član 24
+Pozivanje vlasnika, odnosno držalaca posebnih delova zgrade 
+ za kolektivno stanovanje vrši se isticanjem javnog poziva na oglasnoj tabli 
+ te zgrade, najmanje 15 dana pre dana određenog ovim pozivom, bez dostavljanja 
+ lista nepokretnosti.
+Član 25
+Pozivanje lica dostavljanjem poziva (prilog 4) vrši se:
+1) kad postoji neslaganje podataka zemljišne knjige, katastra 
+ zemljišta i premera, odnosno obnove premera;
+2) kad postoji neslaganje podataka katastra zemljišta i premera, 
+ odnosno obnove premera;
+3) kad je lice upisano u katastru zemljišta privremeno upisano 
+ u list nepokretnosti za držaoca;
+4) kad imalac pravnog interesa ospori podatke privremeno upisane 
+ u list nepokretnosti.
+Licima iz stava 1 tač. 3) i 4) ovog člana dostavljaju se uz 
+ poziv i odgovarajući listovi nepokretnosti.
+Član 26
+Licu upisanom u B i V list nepokretnosti dostaviće se popunjeni 
+ A, B i V listovi nepokretnosti, a G list samo ukoliko se teret, odnosno ograničenje 
+ odnosi na to lice ili na njegovu nepokretnost.
+Licu koje je upisano samo u V list nepokretnosti - 1. deo kao 
+ držalac zgrade na parceli na kojoj postoji više zgrada, dostaviće se odgovarajući 
+ izvod iz tog lista.
+Licu koje je upisano samo u V list nepokretnosti - 2. deo, 
+ kao nosilac prava, odnosno držalac posebnog dela zgrade, dostaviće se i odgovarajući 
+ izvod iz tog lista.
+Ako je jedno lice upisano u više listova nepokretnosti, uz 
+ poziv mu se dostavljaju svi ti listovi.
+Član 27
+Komisija može početi izlaganje kad organizaciona jedinica Republičkog 
+ geodetskog zavoda za katastar nepokretnosti, posle izvršenog pregleda, u zapisniku 
+ o izvršenom nadzoru, da saglasnost za početak izlaganja.
+III IZLAGANJE NA JAVNI UVID I UTVRĐIVANJE PRAVA
+1. Postupak izlaganja na javni uvid
+Član 28
+Postupkom izlaganja rukovodi predsednik Komisije.
+Predsednik Komisije proverava identitet pozvanih lica, kao 
+ i imaoca pravnog interesa, koji zatraži da učestvuje u postupku.
+Komisija će na izlaganju prisutnom licu priznati svojstvo imaoca 
+ pravnog interesa ako svoj pravni interes učini verovatnim i od uticaja na konačno 
+ utvrđivanje prava na nepokretnosti.
+Član 29
+Predsednik Komisije upoznaje prisutna lica sa podacima upisanim 
+ u list nepokretnosti. Istovremeno će od prisutnih lica zatražiti da se izjasne 
+ o podacima sadržanim u listu nepokretnosti.
+Na zahtev lica iz stava 1 ovog člana, staviće se na uvid i 
+ ostali podaci sadržani u elaboratu za izlaganje.
+Član 30
+Izlaganje podataka o nepokretnostima i pravima na njima vrši 
+ se u odsustvu pozvanog lica ako je lice uredno pozvano, o čemu postoji dokaz 
+ i u slučaju ako je pozvano lice umrlo ili, u skladu sa zakonom, proglašeno za 
+ umrlo, a ispunjeni su uslovi za upis nosioca prava, odnosno držaoca nepokretnosti.
+Član 31
+Tokom postupka izlaganja vodi se zapisnik, u skladu sa Zakonom.
+Zapisnik o izlaganju vodi se i u slučaju kada se postupak izlaganja 
+ vrši u odsustvu pozvanog lica, odnosno kada se poziv ne dostavlja nosiocu prava, 
+ odnosno držaocu nepokretnosti.
+Član 32
+Kad su podaci o nepokretnostima i podaci o licu koje Komisija 
+ određuje za nosioca prava na njima istovetni sa podacima privremeno upisanim 
+ u list nepokretnosti, u zapisniku iz člana 31 ovog pravilnika, ne navode se 
+ pojedinačno sve nepokretnosti, već Komisija konstatuje da podaci privremeno 
+ upisani u list nepokretnosti nisu osporeni i da se kao konačni upisuju u list 
+ nepokretnosti.
+Član 33
+Kad se izlažu podaci o zgradi sa više posebnih delova, sačinjava 
+ se jedan zapisnik u koji se izjave prisutnih lica unose sa datumom davanja izjave. 
+ Istekom roka određenog u javnom pozivu, zapisnik iz stava 1 ovog člana se zaključuje.
+Ukoliko se pozvano lice, posle isteka roka određenog javnim 
+ pozivom javi na izlaganje, Komisija je dužna da sprovede postupak i sačini dopunski 
+ zapisnik.
+Član 34
+O razvrgnuću imovinske zajednice Komisija sastavlja poseban 
+ zapisnik, u skladu sa Zakonom.
+Član 35
+Zapisnik se sastavlja, po pravilu, za svaki upravni predmet.
+Izuzetno od stava 1 ovog člana ne sastavlja se poseban zapisnik 
+ u slučaju:
+1) kada se podaci zemljišne knjige i katastra zemljišta slažu;
+2) kada se podaci katastra zemljišta i obnove premera slažu;
+3) kada lice upisano u katastru zemljišta ispunjava uslove 
+ za upis nosioca prava na nepokretnostima.
+U slučaju iz stava 2 ovog člana Komisije sastavlja jedan zapisnik, 
+ u kome konstatuje navedene činjenice, a posebno navodi sve listove nepokretnosti 
+ u kojima podaci o nepokretnostima i pravima na njima nisu osporeni. Pre sastavljanja 
+ zapisnika posebnim zaključkom spaja se postupak odlučivanja po ovim predmetima.
+Član 36
+Zapisnik sačinjen u postupku izlaganja uručiće se stranki na 
+ njen izričit zahtev, kao i u slučaju:
+1) neslaganja podataka utvrđenih u postupku izlaganja sa podacima 
+ privremeno upisanim u list nepokretnosti;
+2) donošenja odluke po prigovoru datom na zapisniku (član 56 
+ Pravilnika);
+3) razvrgnuća imovinske zajednice.
+2. Utvrđivanje prava na nepokretnostima
+Član 37
+Za nosioca prava na nepokretnostima određuje se lice koje je 
+ poslednje upisano u zemljišnoj knjizi ili lice poslednje upisano u katastru 
+ zemljišta, koje ispunjava uslove da bude nosilac prava, odnosno lice koje priloži 
+ ispravu podobnu za sticanje prava, na osnovu koje to pravo izvodi iz prava lica 
+ koje je poslednje upisano u zemljišnoj knjizi, odnosno katastru zemljišta, u 
+ skladu sa Zakonom.
+Pravni kontinuitet između nosilaca prava, kao jedan od uslova 
+ za sticanje prava, postoji ukoliko se pravo izvodi iz prava prethodnika.
+Pravni kontinuitet postoji i kada se sa više isprava, podobnih 
+ za sticanje prava na nepokretnostima, po osnovu kojih nisu provedene promene 
+ u zemljišnoj knjizi, odnosno katastru zemljišta, dokazuje pravo na nepokretnostima, 
+ ako među tim ispravama postoji pravni kontinuitet u odnosu na lice upisano u 
+ zemljišnoj knjizi, odnosno u katastru zemljišta koje je moglo biti određeno 
+ za nosioca prava.
+Ne zahteva se pravni kontinuitet sa prethodnikom u slučaju 
+ sticanja prava na zemljištu po osnovu: komasacije; vraćanja zemljišta ranijim 
+ sopstvenicima, odnosno njihovim pravnim sledbenicima, u skladu sa zakonom; eksproprijacije; 
+ dodele gradskog građevinskog zemljišta (ako o tome postoji pravosnažna odluka 
+ nadležnog organa); po samom zakonu i na osnovu odluke suda o sticanju svojine 
+ na originaran način.
+Član 38
+U postupku izlaganja Komisija može izvršiti razvrgnuće imovinske 
+ zajednice na zahtev sunosilaca prava, odnosno sudržalaca čije je pravo utvrđeno 
+ u postupku izlaganja na javni uvid podataka o nepokretnostima i pravima na njima, 
+ pod uslovom da među njima nisu sporni idealni ili realni delovi, u skladu sa 
+ Zakonom.
+Razvrgnuće imovinske zajednice vrši se i u slučaju kad se jedan 
+ od sunosilaca prava, odnosno sudržalaca ili više njih odreknu svog dela u korist 
+ drugog sunosioca prava, odnosno sudržaoca.
+Zapisnik o razvrgnuću imovinske zajednice sadrži: podatke o 
+ nepokretnostima koje su predmet razvrgnuća, podatke o licima koja su sunosioci 
+ prava, odnosno sudržaoci tih nepokretnosti, sa udelom prava (idealni ili realni 
+ delovi), odnosno državine, način razvrgnuća imovinske zajednice, uz navođenje 
+ podataka o nepokretnostima koje pripadaju svakom od ovih lica po razvrgnuću 
+ imovinske zajednice.
+Član 39
+Predbeležba se vrši na osnovu isprave koja nije podobna za 
+ konačni upis prava (potpisi ugovarača na ispravi nisu overeni, isprava ne sadrži 
+ ovlašćenje za uknjižbu, akt organa koji je osnov za sticanje prava na nepokretnosti 
+ nije postao pravosnažan, odnosno izvršan), u skladu sa Zakonom.
+2.1. Utvrđivanje prava na zemljištu
+2.1.1. Zajedničke odredbe
+Član 40
+Na zemljištu u državnoj svojini, u skladu sa zakonom, za vlasnika 
+ se upisuje Republika Srbija. U ovom slučaju za nosioca prava korišćenja određuje 
+ se pravno, odnosno fizičko lice koje je u skladu sa zakonom steklo pravo korišćenja.
+U slučaju kad zemljište u državnoj svojini koriste državni 
+ organi i organizacije, organi teritorijalne autonomije i organi lokalne samouprave, 
+ za korisnika zemljišta određuje se:
+1) državni organ i organizacija;
+2) organ teritorijalne autonomije;
+3) organ lokalne samouprave.
+Za vlasnika poljoprivrednog zemljišta u društvenoj svojini, 
+ za koje pravno lice, upisano u katastru zemljišta ili zemljišnoj knjizi, ne 
+ pruži dokaz da je stečeno pravnim poslom upisuje se Republika Srbija. U ovom 
+ slučaju, pravno lice određuje se za korisnika tog zemljišta.
+Kad je na području katastarske opštine izvršeno uređenje zemljišne 
+ teritorije komasacijom kojom je obuhvaćeno zemljište u društvenoj svojini, bez 
+ obzira na osnov sticanja, i kao takvo dodeljeno pravnom licu iz komasacione 
+ mase, a između tog lica i ministarstva nadležnog za poslove poljoprivrede nije 
+ izvršen popis u skladu sa zakonom, to zemljište upisuje se u list nepokretnosti 
+ u skladu sa članom 11 stav 2 ovog pravilnika. Udeli nosilaca prava na zemljištu 
+ dodeljenom iz komasacione mase utvrđuju se srazmerno odnosu vrednosti zemljišta 
+ u državnoj, odnosno u društvenoj svojini koje je pravno lice unelo u komasacionu 
+ masu.
+2.1.2. Utvrđivanje prava na zemljištu u katastarskim opštinama 
+ u kojima je na osnovu podataka premera ili obnove premera potvrđen katastarski 
+ operat ili je na osnovu premera odnosno obnove premera ustrojena ili obnovljena 
+ zemljišna knjiga
+a) Područje izvan gradskog građevinskog zemljišta
+Član 41
+U katastarskim opštinama u kojima je na osnovu podataka premera 
+ ili obnove premera potvrđen katastarski operat (postoji samo katastar zemljišta) 
+ za nosioca prava određuje se jedno od sledećih lica:
+1) lice koje je upisano u katastar zemljišta, saglasno članu 
+ 69a stav 3 Zakona;
+2) pravno lice koje je poljoprivredno zemljište u društvenoj 
+ svojini steklo na osnovu pravnog posla (ugovor o kupoprodaji, ugovor o poklonu 
+ zaključen sa fizičkim licem, ugovor o zameni - ukoliko je u zamenu dato zemljište 
+ koje je pravno lice steklo kupovinom ili poklonom od strane fizičkog lica);
+3) vlasnik zgrade koja je izgrađena u skladu sa zakonom, za 
+ zemljište pod zgradom koje je označeno posebnim brojem parcele;
+4) vlasnici zgrade upisani u V listu nepokretnosti, bez određivanja 
+ udela (ZS - zajedničko pravo korišćenja), za zemljište pod zgradom za kolektivno 
+ stanovanje.
+Za nosioca prava određuje se i lice za koje se u postupku izlaganja 
+ priloži isprava podobna za sticanja prava, odnosno upis prava u skladu sa Zakonom, 
+ ako to pravo izvodi od jednog lica iz stava 1 ovog člana.
+Za držaoca zemljišta iz stava 1 ovog člana određuje se:
+1) lice poslednje upisano u katastru zemljišta koje ne ispunjava 
+ uslove za nosioca prava, ako je u posedu zemljišta (član 69a stav 5 Zakona) 
+ ili
+2) lice koje nije upisano u katastru zemljišta (ako lice iz 
+ stava 2 tačka 1) ovog člana nije u posedu zemljišta) ukoliko se iz prikupljenih 
+ podataka, u skladu sa Zakonom, utvrdi da je ono u posedu zemljišta, nezavisno 
+ od osnova za državinu (član 69a stav 6 Zakona).
+Član 42
+U katastarskim opštinama u kojima je na osnovu podataka premera 
+ ili obnove premera ustrojena ili obnovljena zemljišna knjiga, za nosioca prava 
+ određuje se jedno od sledećih lica;
+1) lice koje je poslednje upisano u zemljišnoj knjizi;
+2) pravno lice koje je poljoprivredno zemljište u društvenoj 
+ svojini steklo na osnovu pravnog posla (ugovor o kupoprodaji, ugovor o poklonu 
+ zaključen sa fizičkim licem, ugovor o zameni - ukoliko je u zamenu dato zemljište 
+ koje je pravno lice steklo kupovinom ili poklonom od strane fizičkog lica);
+3) vlasnik zgrade koja je izgrađena u skladu sa zakonom, za 
+ zemljište pod zgradom koje je označeno posebnim brojem parcele;
+4) vlasnici zgrade upisani u V list nepokretnosti, bez određivanja 
+ udela (ZS - zajedničko pravo korišćenja), za zemljište pod zgradom za kolektivno 
+ stanovanje.
+Za nosioca prava određuje se i lice za koje se u postupku izlaganja 
+ priloži isprava podobna za sticanja prava, odnosno upis prava u skladu sa Zakonom, 
+ ako to pravo izvodi od jednog od lica iz stava 1 ovog člana.
+b) Područje gradskog građevinskog zemljišta
+Član 43
+U katastarskim opštinama u kojima je na osnovu podataka premera 
+ ili obnove premera potvrđen katastarski operat, na zemljištu u svojini Republike 
+ Srbije, lice poslednje upisano u katastru zemljišta određuje se:
+1) za nosioca prava korišćenja, ako ispunjava uslove iz člana 
+ 69a stav 3 Zakona;
+2) za držaoca, ukoliko ne ispunjava uslove za upis nosioca 
+ prava iz člana 69a stav 3 Zakona (član 69a stav 5 Zakona).
+Za nosioca prava korišćenja određuje se i lice koje nije upisano 
+ u katastru zemljišta, a koje u postupku izlaganja priloži ispravu podobnu za 
+ sticanje, odnosno upis prava na zemljištu, ako to pravo izvodi od lica koje 
+ je moglo biti određeno za nosioca prava (član 69a stav 4 Zakona).
+Za nosioca prava korišćenja određuje se i lice koje je vlasnik 
+ zgrade, koja je izgrađena u skladu sa zakonom, za zemljište pod zgradom koje 
+ je označeno posebnim brojem parcele.
+Na zemljištu pod zgradom za kolektivno stanovanje za koje je 
+ formirana posebna parcela, za nosioce prava korišćenja određuju se vlasnici 
+ zgrade upisani u V listu nepokretnosti, bez određivanja udela (ZS - zajedničko 
+ pravo korišćenja).
+Na gradskom građevinskom zemljištu u ostalim oblicima svojine, 
+ nosioci prava određuju se u skladu sa članom 41 ovog pravilnika i drugim propisima.
+Član 44
+U katastarskim opštinama u kojima je na osnovu podataka premera 
+ ili obnove premera ustrojena ili obnovljena zemljišna knjiga, na zemljištu u 
+ svojini Republike Srbije, za nosioca prava korišćenja određuje se jedno od sledećih 
+ lica:
+1) lice koje je poslednje upisano u zemljišnoj knjizi;
+2) vlasnik zgrade koja je izgrađena u skladu sa zakonom kojim 
+ se uređuje izgradnja objekata, za zemljište pod zgradom koje je označeno posebnim 
+ brojem parcele;
+3) vlasnici zgrade za kolektivno stanovanje upisani u V listu 
+ nepokretnosti na zemljištu pod zgradom koje je označeno posebnim brojem parcele, 
+ bez određivanja udela (ZS - zajedničko pravo korišćenja).
+Za nosioca prava određuje se i lice za koje se u postupku izlaganja 
+ priloži isprava podobna za sticanja prava, odnosno upis prava u skladu sa Zakonom, 
+ ako to pravo izvodi od jednog od lica iz stava 1 ovog člana.
+Na gradskom građevinskom zemljištu u ostalim oblicima svojine, 
+ nosioci prava određuju se u skladu sa članom 42 ovog pravilnika i drugim propisima.
+2.1.3. Utvrđivanje prava na zemljištu u katastarskim opštinama 
+ u kojima je izvršena obnova premera, a nije potvrđen novi katastarski operat, 
+ ili se vrši premer u cilju izrade katastra nepokretnosti
+a) Područje izvan gradskog građevinskog zemljišta
+Član 45
+U katastarskim opštinama u kojima postoji samo katastar zemljišta, 
+ za nosioca prava određuje se:
+1) lice koje je utvrđeno obnovom premera, odnosno premerom, 
+ ukoliko je i u katastru zemljišta upisano na odgovarajućoj parceli, a ispunjava 
+ uslove iz člana 69a stav 3 Zakona;
+2) lice kome je pravosnažnim rešenjem dodeljeno zemljište iz 
+ komasacione mase, odnosno lice koje u postupku izlaganja priloži ispravu podobnu 
+ za sticanje svojine, kojom svoje pravo izvodi od lica kome je pravosnažnim rešenjem 
+ komisije za komasaciju, odnosno izvodom iz zbirnog rešenja dodeljeno zemljište; 
+ ukoliko rešenje o raspodeli zemljišta iz komasacione mase nije postalo pravosnažno 
+ ostaje upis predbeležbe prava svojine, dok se ista ne opravda;
+3) lice kome je u postupku komasacije, prema zapisniku o utvrđivanju 
+ faktičkog stanja sastavljenom u skladu sa zakonom, priznata svojina na zemljištu 
+ u vankomasacionom području po osnovu razmene za zemljište u komasacionom području;
+4) pravno lice koje je poljoprivredno zemljište u društvenoj 
+ svojini steklo na osnovu pravnog posla (ugovor o kupoprodaji, ugovor o poklonu 
+ zaključen sa fizičkim licem, ugovor o zameni - ukoliko je u zamenu dato zemljište 
+ koje je pravno lice steklo kupovinom ili poklonom od strane fizičkog lica).
+Za nosioca prava određuje se i lice za koje se u postupku izlaganja 
+ priloži isprava podobna za sticanje prava, odnosno upis prava u skladu sa Zakonom, 
+ ako to pravo izvodi od jednog od lica iz stava 1 ovog člana.
+Za držaoca zemljišta određuje se lice koje je u posedu zemljišta, 
+ pod uslovom da mu lice upisano u katastru zemljišta, odnosno njegov pravni sledbenik 
+ do kraja izlaganja taj upis ne ospori.
+Ukoliko lice koje je upisano u katastru zemljišta, saglasno 
+ članu 69a stav 3 Zakona, odnosno njegov pravni sledbenik, ospori upis lica koje 
+ je u posedu zemljišta, za nosioca prava određuje se lice upisano u katastru 
+ zemljišta.
+Član 46
+U katastarskim opštinama u kojima pored katastra zemljišta 
+ postoji i zemljišna knjiga, a podaci zemljišne knjige, katastra zemljišta i 
+ obnove premera se slažu, za nosioca prava određuje se:
+1) lice koje je poslednje upisano u zemljišnoj knjizi;
+2) lice koje Komisiji priloži ispravu podobnu za sticanje prava, 
+ u skladu sa Zakonom, na osnovu koje to pravo izvodi iz prava lica koje je poslednje 
+ upisano u zemljišnoj knjizi (član 69v stav 5 Zakona).
+Ukoliko se podaci zemljišne knjige, katastra zemljišta i obnove 
+ premera ne slažu, za nosioca prava određuje se jedno od sledećih lica:
+1) lice utvrđeno obnovom premera, ako na izlaganju dokaže pravo 
+ u odnosu na lice upisano u zemljišnoj knjizi; u suprotnom, za nosioca prava 
+ svojine određuje se lice poslednje upisano u zemljišnoj knjizi (član 69v stav 
+ 5 Zakona);
+2) lice iz člana 45 stav 1 tač. 2), 3), i 4) ovog pravilnika.
+b) Područje gradskog građevinskog zemljišta
+Član 47
+U katastarskim opštinama u kojima postoji samo katastar zemljišta, 
+ a podaci obnove premera, odnosno premera slažu sa podacima iz katastra zemljišta, 
+ na zemljištu u svojini Republike Srbije, lice upisano u katastru zemljišta određuje 
+ se za:
+1) nosioca prava korišćenja, saglasno članu 69a stav 3 Zakona;
+2) držaoca ukoliko ne ispunjava uslove za upis za nosioca prava 
+ iz člana 69a stav 3 Zakona, (član 69a stav 5 Zakona).
+Kad se podaci obnove premera odnosno premera ne slažu sa podacima 
+ iz katastra zemljišta, za nosioca prava korišćenja na neizgrađenom gradskom 
+ građevinskom zemljištu određuje se lice koje je upisano u katastru zemljišta, 
+ a ispunjava uslove iz člana 69a stav 3 Zakona, odnosno lice koje u postupku 
+ izlaganja priloži ispravu podobnu za sticanje i upis prava, kojom svoje pravo 
+ izvodi od lica koje je moglo biti određeno za nosioca prava (član 69a stav 4 
+ Zakona). Ukoliko na ovaj način ne bude određen nosilac prava korišćenja, lice 
+ upisano u katastru zemljišta određuje se za držaoca.
+U slučaju iz stava 2 ovog člana na izgrađenom gradskom građevinskom 
+ zemljištu za nosioca prava korišćenja određuje se jedno od sledećih lica:
+1) lice na koje glasi građevinska i upotrebna dozvola;
+2) nosilac prava na zgradi upisan u V listu nepokretnosti 1 
+ deo, odnosno graditelj na zemljištu pod zgradom za kolektivno stanovanje.
+Izuzetno od stava 3 ovog člana neće se vršiti upis prava korišćenja 
+ za parcele opredeljene obnovom premera, odnosno premerom uz zgrade za kolektivno 
+ stanovanje.
+Na području gradskog građevinskog zemljišta koje je u ostalim 
+ oblicima svojine, nosioci prava, odnosno držaoci zemljišta određuju se saglasno 
+ članu 45 ovog pravilnika.
+Član 48
+U katastarskim opštinama u kojima pored katastra zemljišta 
+ postoji i zemljišna knjiga, a podaci zemljišne knjige, katastra zemljišta i 
+ obnove premera se slažu, na zemljištu u svojini Republike Srbije, za nosioca 
+ prava korišćenja na zemljištu, određuje se:
+1) lice koje je poslednje upisano u zemljišnoj knjizi;
+2) lice koje Komisiji priloži ispravu podobnu za sticanje prava, 
+ u skladu sa Zakonom, na osnovu koje to pravo izvodi iz prava lica koje je poslednje 
+ upisano u zemljišnoj knjizi (član 69v stav 5 Zakona).
+Kad se podaci zemljišne knjige katastra zemljišta i obnove 
+ premera ne slažu, za nosioca prava korišćenja na neizgrađenom gradskom građevinskom 
+ zemljištu određuje se lice poslednje upisano u zemljišnoj knjizi, odnosno lice 
+ koje Komisiji priloži ispravu podobnu za sticanje prava na osnovu koje to pravo 
+ izvodi iz prava lica koje je poslednje upisano.
+U slučaju iz stava 2 ovog člana na izgrađenom gradskom građevinskom 
+ zemljištu za nosioca prava korišćenja određuje se jedno od sledećih lica:
+1) lice na koje glasi građevinska i upotrebna dozovola;
+2) vlasnik zgrade, ukoliko je ista izgrađena u skladu sa zakonom 
+ na zemljištu pod zgradom koje je označeno posebnim brojem parcele;
+3) vlasnici zgrade upisani u V list nepokretnosti 1. deo, bez 
+ određivanja udela (ZS - zajedničko pravo korišćenja) na zemljištu pod zgradom 
+ za kolektivno stanovanje.
+Izuzetno od stava 3 ovog člana, neće se vršiti upis nosioca 
+ prava korišćenja za parcele opredeljene obnovom premera, odnosno premerom uz 
+ zgrade za kolektivno stanovanje.
+Na gradskom građevinskom zemljištu, u ostalim oblicima svojine, 
+ nosioci prava svojine određuju se, u skladu sa članom 46 ovog pravilnika, i 
+ drugim propisima.
+2.2. Utvrđivanje prava na zgradama, posebnim delovima 
+ zgrada i drugim građevinskim objektima
+Član 49
+U postupku izlaganja određuje se pravni status objekta i utvrđuju 
+ prava i nosioci prava na njima.
+Član 50
+Objektima izgrađenim u skladu sa propisima smatraju se i:
+1) objekti u gradovima, odnosno naseljima gradskog karaktera 
+ izgrađeni do 3. juna 1948. godine, kada je stupila na snagu Osnovna uredba o 
+ građenju ("Službeni list FNRJ", broj 46/48);
+2) stambene zgrade koje su izgrađene na selu do 21. marta 1961. 
+ godine, kada je stupio na snagu Zakon o uslovima za izgradnju stambenih zgrada 
+ na selu ("Službeni glasnik NRS", broj 7/61) ili do stupanja na snagu 
+ propisa o uslovima za izgradnju stambenih zgrada, ukoliko su ih opštinski narodni 
+ odbori doneli u roku propisanom tim Zakonom i
+3) ostale vrste objekata koji su izgrađeni na selu do 8. jula 
+ 1973. godine, kada je stupio na snagu Zakon o izgradnji investicionih objekata 
+ ("Službeni glasnik SRS", broj 25/73), odnosno do stupanja na snagu 
+ opštinske, odnosno gradske odluke ukoliko je ista doneta u roku propisanom tim 
+ Zakonom.
+Član 51
+Prilikom određivanja pravnog statusa objekta utvrđuje se vreme 
+ gradnje i da li postoji odobrenje za gradnju i odobrenje za upotrebu objekta.
+Vreme izgradnje objekta, koji su snimljeni posle stupanja na 
+ snagu propisa iz člana 50 ovog pravilnika, a za koje ne postoji građevinska, 
+ odnosno upotrebna dozvola, utvrđuje se na osnovu uverenja opštinske, odnosno 
+ gradske uprave o vremenu gradnje. Za objekte snimljene pre stupanja na snagu 
+ propisa kojima je utvrđena obaveza pribavljanja građevinske dozvole neće se 
+ zahtevati podnošenje uverenja o vremenu gradnje objekta.
+Član 52
+Na području izvan gradskog građevinskog zemljišta za nosioca 
+ prava na zgradi, ili posebnom delu zgrade i drugom građevinskom objektu, određuje 
+ se jedno od sledećih lica:
+1) lice upisano u zemljišnoj knjizi;
+2) lice koje ima svojinu ili pravo korišćenja na zemljištu 
+ na kome je to lice izgradilo objekat;
+3) lice koje ima susvojinu ili zajedničku svojinu na zemljištu 
+ na kome je izgrađena zgrada, pod uslovom da su ostali suvlasnici saglasni da 
+ je on isključivi vlasnik objekta;
+4) lice na čije ime glasi odobrenje za gradnju, odnosno odobrenje 
+ za upotrebu objekta.
+Za nosioca prava određuje se i lice za koje se priloži isprava 
+ podobna za sticanja prava na zgradi ili posebnom delu zgrade, ako to pravo izvodi 
+ od lica iz stava 1 ovog člana.
+Kad je na način iz stava 1 ovog člana za nosioca prava na zgradi 
+ ili posebnom delu zgrade i drugom građevinskom objektu određena Republika Srbija, 
+ korisnik zgrade ili posebnog dela zgrade i drugog građevinskog objekta određuje 
+ se saglasno članu 40 stav 2 ovog pravilnika.
+Kad nisu ispunjeni uslovi za sticanje prava svojine, graditelj 
+ zgrade ili njegov pravni sledbenik, odnosno lice koje je sa jednim od njih sačinilo 
+ ispravu koja vodi sticanju prava svojine, određuje se za držaoca zgrade, odnosno 
+ posebnog dela zgrade, ukoliko je u njenom posedu i vlasnik zemljišta mu prizna 
+ da je graditelj zgrade.
+Za držaoca zgrade, odnosno objekta određuje se i lice koje 
+ tvrdi da je graditelj, ukoliko pred Komisijom dokaže da je izgradilo zgradu, 
+ odnosno objekat i da je u posedu istog, a nema saglasnost vlasnika, odnosno 
+ svih suvlasnika zemljišta, o tome ko je graditelj zgrade.
+Ukoliko do završetka izlaganja lice koje tvrdi da je graditelj 
+ zgrade to ne dokaže, za nosioca prava, odnosno držaoca zgrade odrediće se nosilac 
+ prava, odnosno držalac zemljišta na kome je zgrada izgrađena.
+Za objekte privremenog karaktera kao držalac određuje se lice 
+ na čije ime je izdata građevinska dozvola, odnosno pravni sledbenik tog lica.
+Komisija će za nosioca prava svojine na posebnom delu zgrade 
+ odrediti lice koje u postupku izlaganja priloži ugovor o otkupu stana, sačinjen 
+ u skladu sa zakonom.
+Član 53
+Na području gradskog građevinskog zemljišta, za nosioca prava 
+ na zgradi i drugom građevinskom objektu određuje se:
+1) lice upisano u zemljišnoj knjizi;
+2) lice koje je graditelj objekta, odnosno njegov pravni sledbenik, 
+ ako je objekat izgrađen u vreme kad građevinska dozvola nije bila uslov za gradnju 
+ i ako je graditelj imao pravo svojine, odnosno pravo korišćenja na zemljištu;
+3) lice koje je graditelj objekta, odnosno njegov pravni sledbenik, 
+ ako je objekat izgrađen u skladu sa građevinskom dozvolom i za isti je izdata 
+ upotrebna dozvola.
+Ukoliko je na način iz stava 1 ovog člana za nosioca prava 
+ na zgradi ili posebnom delu zgrade i drugom građevinskom objektu određena Republika 
+ Srbija, korisnik zgrade ili posebnog dela zgrade i drugog građevinskog objekta 
+ određuje se saglasno članu 40 stav 2 ovog pravilnika.
+Kao nosilac prava na zgradi, odnosno drugom objektu uslovno 
+ će se upisati graditelj objekta, odnosno njegov pravni sledbenik, ukoliko je 
+ za objekat izdata građevinska dozvola i na objektu su izvedeni znatniji radovi 
+ (objekat stavljen pod krov) u skladu sa građevinskom dozvolom, s tim što je 
+ graditelj dužan da u roku od godinu dana od dana početka primene katastra nepokretnosti 
+ dostavi upotrebnu dozvolu, u skladu sa Zakonom.
+Za nosioca prava na posebnom delu zgrade određuje se lice koje 
+ u postupku izlaganja priloži isprave podobne za sticanje prava na posebnom delu 
+ zgrade, na osnovu kojih to pravo izvodi od graditelja zgrade, odnosno njegovog 
+ pravnog sledbenika na zgradi ili na posebnom delu zgrade, pod uslovom da je 
+ graditelj zgrade određen za nosioca prava na zgradi.
+Kad je graditelj zgrade nepoznat ili je određen za držaoca 
+ zgrade ili ne postoji pravni kontinuitet lica u posedu posebnog dela zgrade 
+ sa graditeljem zgrade, odnosno njegovim pravnim sledbenikom, lice koje je u 
+ posedu posebnog dela zgrade i priloži ispravu koja vodi sticanju svojine, određuje 
+ se za držaoca tog dela.
+Izuzetno od st. 4 i 5 ovog člana, Komisija će za nosioca prava 
+ na posebnom delu zgrade odrediti lice koje u postupku izlaganja priloži ugovor 
+ o otkupu stana sačinjen u skladu sa zakonom.
+Za zgrade i druge građevinske objekte izgrađene bez građevinske 
+ dozvole, kada je dozvola uslov za gradnju, ili prekoračenjem ovlašćenja iz dozvole 
+ (član 58z stav 1 Zakona) za držaoca zgrade, odnosno objekta određuje se graditelj 
+ zgrade, odnosno drugog građevinskog objekta, odnosno lice koje je držalac zgrade, 
+ odnosno građevinskog objekta na osnovu pravnog posla, koji vodi svojini, zaključenog 
+ sa graditeljem, odnosno njegovim pravnim sledbenikom.
+Za objekte privremenog karaktera kao držalac se određuje lice 
+ na čije je ime izdata građevinska dozvola, odnosno lice koje je pravni sledbenik 
+ tog lica.
+3. Prigovori u toku izlaganja
+Član 54
+Lice privremeno upisano u list nepokretnosti može na podatke 
+ koji su predmet izlaganja staviti prigovor u Zakonom propisanom roku.
+Prigovor se može staviti i u postupku izlaganja i sadržina 
+ istog se unosi u zapisnik.
+Član 55
+Prigovori i žalbe evidentiraju se u obrascu Spisak prigovora 
+ i žalbi (prilog 5).
+Ukoliko je za odlučivanje po prigovoru neophodan uviđaj na 
+ terenu, prikupljeni opisni i merni podaci sa terena evidentiraju se u Registru 
+ snimljenih promena.
+Član 56
+O prigovoru čija je sadržina uneta u zapisnik Komisija može 
+ da odluči odmah i odluku, u formi rešenja, unese u isti zapisnik. Podnosilac 
+ prigovora se može odreći prava da mu se dostavi otpravak rešenja, a može se 
+ odreći i prava na žalbu.
+U slučaju kad ne postoji imalac pravnog interesa, a Komisija 
+ nađe da je prigovor privremeno upisanog lica, odnosno lica koje, Komisija određuje 
+ za nosioca prava osnovan, umesto da donosi rešenje Komisija će o prihvatanju 
+ prigovora da obavesti to lice, u skladu sa Zakonom.
+Član 57
+Kad Komisija nađe da je žalba izjavljena protiv rešenja donetog 
+ po prigovoru blagovremena, podneta od ovlašćenog lica i osnovana, može novim 
+ rešenjem zameniti rešenje koje se žalbom pobija.
+Ukoliko Komisija nije novim rešenjem zamenila rešenje koje 
+ se žalbom pobija, dostaviće bez odlaganja, a najkasnije u roku od osam dana, 
+ od dana prijema žalbe, Republičkom geodetskom zavodu žalbu sa svim spisima predmeta, 
+ u skladu sa Zakonom.
+4. Konačno utvrđivanje podataka i overa listova nepokretnosti
+Član 58
+Ako do okončanja postupka izlaganja nisu utvrđeni podaci o 
+ vlasniku, odnosno držaocu nepokretnosti u B, odnosno u V listu nepokretnosti, 
+ za vlasnika se upisuje Republika Srbija, saglasno članu 1 tačka 5) Zakona o 
+ sredstvima u svojini Republike Srbije ("Službeni glasnik RS", br. 
+ 53/95, 3/96, 54/96 i 32/97).
+Član 59
+Kad je na osnovu isprave koja nije snabdevena dokazom o plaćenom 
+ porezu na prenos apsolutnih prava izvršen konačan upis prava na nepokretnostima, 
+ Komisija će obavestiti državni organ nadležan za utvrđivanje i naplatu javnih 
+ prihoda o prenosu apsolutnih prava, dostavljanjem primerka isprave.
+Državnom organu iz stava 1 ovog člana dostaviće se i zapisnik 
+ o razvrgnuću imovinske zajednice.
+Član 60
+Kad je u postupku izlaganja izvršena promena namene poljoprivrednog 
+ zemljišta za koju se, prema zakonu kojim se uređuje poljoprivredno zemljište, 
+ plaća naknada, Komisija će obavestiti ministarstvo nadležno za poslove poljoprivrede 
+ da je izvršen upis promene načina korišćenja.
+Član 61
+Kad je u skladu sa zakonom izvršen upis prava u korist stranog 
+ lica, Služba će shodno članu 82g Zakona o osnovama svojinsko pravnih odnosa 
+ ("Službeni list SFRJ", br. 6/80 i 36/90 i "Službeni list SRJ", 
+ broj 29/96), u roku od 15 dana od dana objavljivanja rešenja o potvrdi katastarskog 
+ operata u "Službenom glasniku Republike Srbije", dostaviti podatke 
+ o izvršenom upisu saveznom organu nadležnom za poslove pravde.
+Član 62
+Postupak izlaganja smatra se okončanim kad Komisija overene 
+ listove nepokretnosti, koji sadrže konačno utvrđene podatke o nepokretnostima 
+ i pravima na njima, posle izvršenog pregleda od strane organizacione jedinice 
+ Republičkog geodetskog zavoda za katastar nepokretnosti, preda Službi zajedno 
+ sa upravnim predmetima i elaboratom za izlaganje, radi formiranja katastra nepokretnosti.
+IV FORMIRANJE KATASTRA NEPOKRETNOSTI
+Član 63
+Formiranje katastra nepokretnosti obuhvata izradu radnog originala 
+ katastarskog plana, zbirke isprava i katastarskog operata.
+Član 64
+Geodetski plan, koji je kao sastavni deo elaborata za izlaganje 
+ izložen na javni uvid, Služba dostavlja Republičkom geodetskom zavodu na overu.
+Posle izvršene overe geodetskog plana iz stava 1 ovog člana, 
+ Republički geodetski zavod izrađuje arhivski i radni original katastarskog plana.
+Geodetski plan iz stava 1 ovog člana i arhivski original katastarskog 
+ plana predaju se organizacionoj jedinici Republičkog geodetskog zavoda nadležnoj 
+ za poslove arhiviranja, a radni original katastarskog plana predaje se Službi.
+Član 65
+Listovi nepokretnosti, sa konačno utvrđenim podacima o nepokretnostima 
+ i pravima na njima, postaju deo katastarskog operata.
+Azbučni pregled vlasnika, nosilaca prava korišćenja i držalaca 
+ nepokretnosti i Spisak katastarskih parcela, izmenjeni i dopunjeni u postupku 
+ izlaganja, postaju delovi katastarskog operata.
+Član 66
+Na osnovu podataka sadržanih u listovima nepokretnosti, katastarski 
+ prihod obračunava se automatskom obradom podataka primenom odgovarajuće lestvice 
+ katastarskog prihoda za svaku parcelu plodnog zemljišta, zavisno od njene površine, 
+ kulture i klase. Posle izvršenog obračuna katastarskog prihoda izrađuje se Sumarnik 
+ katastarskog prihoda (prilog 6) i Zbirni pregled površina i katastarskog prihoda 
+ prema načinu korišćenja i katastarskim klasama (prilog 7), kao delovi katastarskog 
+ operata.
+Sumarnik katastarskog prihoda sadrži broj lista nepokretnosti, 
+ podatke o nosiocima prava, odnosno držaocima, obimu prava, ukupnoj površini 
+ zemljišta i ukupnom katastarskom prihodu.
+Zbirni pregled površina i katastarskog prihoda prema načinu 
+ korišćenja i katastarskim klasama sadrži podatke o načinu korišćenja zemljišta, 
+ katastarskim klasama, ukupnoj površini i ukupnoj visini katastarskog prihoda.
+Član 67
+Zbirka isprava se formira posle završenog postupka izlaganja 
+ i izrade katastarskog operata u postupku održavanja.
+Prilikom formiranja zbirke isprava ustrojava se Registar isprava 
+ (prilog 8) koji sadrži podatke o broju upravnog predmeta, vrsti i broju isprave.
+Član 68
+Kad Republički geodetski zavod, po izvršenom upravnom i stručnom 
+ nadzoru od strane organizacione jedinice Republičkog geodetskog zavoda za katastar 
+ nepokretnosti, utvrdi da je katastarski operat izrađen u skladu sa važećim propisima, 
+ rešenjem će potvrditi operat.
+Posle objavljivanja rešenja o potvrdi katastarskog operata 
+ u "Službenom glasniku Republike Srbije", katastarski operat se predaje 
+ organizacionoj jedinici Republičkog geodetskog zavoda nadležnoj za poslove arhiviranja, 
+ radi čuvanja i Službi na korišćenje i održavanje.
+V ODRŽAVANJE KATASTRA NEPOKRETNOSTI
+Član 69
+Održavanje katastra nepokretnosti obuhvata utvrđivanje nastalih 
+ promena na zemljištu, zgradama i drugim građevinskim objektima, odnosno njihovim 
+ posebnim delovima, u pogledu promene položaja, oblika, površine, načina korišćenja, 
+ boniteta, katastarskog prihoda i u pogledu promene vrste i obima prava, tereta 
+ i ograničenja na nepokretnostima, kao i provođenje utvrđenih promena na radnom 
+ originalu plana i u katastarskom operatu.
+Član 70
+Promenama, u smislu ovog pravilnika, smatraju se promene u 
+ podacima upisanim u katastru nepokretnosti, kao i upis novih podataka koji predstavljaju 
+ sadržaj katastra nepokretnosti.
+Član 71
+Postupak utvrđivanja i provođenja promena može se voditi po 
+ prijavi stranke ili po službenoj dužnosti.
+Prijavu o promenama na nepokretnosti može podneti vlasnik, 
+ nosilac prava korišćenja, korisnik i držalac nepokretnosti.
+Prijava istovremeno predstavlja i zahtev za upis promene na 
+ nepokretnostima u katastru nepokretnosti.
+Lice iz stava 2 ovog člana uz prijavu prilaže svu raspoloživu 
+ dokumentaciju koja se odnosi na prijavljenu promenu.
+Služba će pokrenuti postupak po službenoj dužnosti za promene 
+ za koje je saznala na drugi način.
+Član 72
+Po prijavi o promenama na zemljištu, zgradama i drugim građevinskim 
+ objektima, odnosno njihovim posebnim delovima, u pogledu promene položaja, oblika, 
+ površine, načina korišćenja i boniteta, Služba vrši ocenu osnovanosti zahteva, 
+ obezbeđuje dokaz da su predujmljeni troškovi postupka, i zakazuje uviđaj.
+Lice koje vrši uviđaj sastavlja zapisnik o uviđaju, a podatke 
+ o utvrđenim promenama na nepokretnostima unosi u registar iz člana 55 stav 2 
+ ovog pravilnika.
+Snimljene promene iz stava 2 ovog člana evidentiraju se na 
+ radnom originalu plana.
+Član 73
+Promena katastarskog prihoda vrši se po službenoj dužnosti, 
+ bez donošenja rešenja, u slučaju:
+1) promene kulture i klase zemljišta;
+2) izmene granica katastarskog sreza;
+3) obnove katastarskog klasiranja na delu ili celoj katastarskoj 
+ opštini;
+4) promene lestvica katastarskog prihoda;
+5) promene katastarskog prihoda po odluci nadležnog organa.
+Član 74
+Služba dostavlja nadležnom državnom organu za utvrđivanje i 
+ naplatu javnih prihoda - organizacionoj jedinici u opštini, do  15. februara 
+ tekuće godine, sa stanjem na dan 31. decembra prethodne godine podatke o nosiocima 
+ prava, odnosno držaocima zemljišta sa ukupnim katastarskim prihodom za područje 
+ te opštine.
+Član 75
+Kad dva ili više nosilaca prava, odnosno držalaca, žive u jednom 
+ domaćinstvu, Služba će, po posebnom zahtevu nadležnog državnog organa iz člana 
+ 74 ovog pravilnika, katastarski prihod povezati na lice koje rešenjem odredi 
+ taj organ.
+Član 76
+Kad je u postupku izlaganja na javni uvid podataka premera 
+ i katastarskog klasiranja zemljišta i utvrđivanju prava na nepokretnostima, 
+ shodno članu 69a st. 5 i 6 Zakona izvršen upis držaoca zemljišta, na zahtev 
+ tog lica, odnosno njegovog pravnog sledbenika, Služba će izvršiti upis prava 
+ u korist lica koje je upisano kao držalac zemljišta, pod uslovom da treće lice 
+ u roku od dve godine od dana početka primene katastra nepokretnosti ne zahteva 
+ upis prava na osnovu isprave iz člana 69a stav 4 Zakona.
+U slučaju iz stava 1 ovog člana, Služba će doneti rešenje o 
+ dozvoli upisa prava na zemljištu u korist lica koje je upisano kao držalac zemljišta.
+Do isteka roka iz stava 1 ovog člana ne može se vršiti upis 
+ promene držaoca zemljišta, osim u slučaju kad je rešenjem o nasleđivanju zemljište 
+ iz stava 1 ovog člana uneto u ostavinsku masu lica upisanog za držaoca zemljišta.
+Upis promene držaoca zemljišta vršiće se i na osnovu ugovora 
+ o doživotnom izdržavanju koji je zaključen u skladu sa zakonom i uz postojanje 
+ dokaza o smrti primaoca izdržavanja (izvod iz matične knjige umrlih).
+U rok za sticanje prava lica koje je za držaoca zemljišta određeno 
+ ostavinskim rešenjem, odnosno ugovorom o doživotnom izdržavanju, uračunava se 
+ i rok njegovog pravnog prethodnika.
+Služba će na zahtev trećeg lica, odnosno njegovog pravnog sledbenika 
+ ili držaoca zemljišta, koji prilaže ispravu iz člana 69a stav 4 Zakona, rešenjem 
+ dozvoliti upis prava trećeg lica i brisanje držaoca zemljišta, odnosno upis 
+ vlasnika umesto držaoca, pod uslovom da to pravo izvodi od lica koje je moglo 
+ biti određeno za nosioca prava u smislu člana 69a stav 3 Zakona.
+Član 77
+Kad je u smislu člana 69a stav 9 Zakona izvršen upis vlasnika 
+ objekta, a to lice, odnosno njegov pravni sledbenik u roku od godinu dana od 
+ dana početka primene katastra nepokretnosti ne dostavi upotrebnu dozvolu, Služba 
+ će, po službenoj dužnosti, brisati upis prava i izvršiti upis držaoca objekta.
+O brisanju upisa prava i upisa držaoca objekta Služba donosi 
+ rešenje.
+U slučaju iz stava 1 ovog člana, u listu nepokretnosti ostaje 
+ upisana zabeleška da za objekat nije izdata upotrebna dozvola.
+Član 78
+Ukoliko je u katastarskom operatu lice upisano za držaoca privremenog 
+ objekta, a to lice, odnosno njegov pravni sledbenik po isteku roka ne produži 
+ važnost privremenoj građevinskoj dozvoli, staviće se zabeleška da za objekat 
+ nije izdata građevinska dozvola.
+Član 79
+Služba će lice, koje je u katastarskom operatu upisano za držaoca 
+ objekta, na njegov zahtev, upisati za vlasnika objekta, u slučaju:
+1) kad u skladu sa odredbama Zakona o posebnim uslovima za 
+ izdavanje građevinske, odnosno upotrebne dozvole za određene objekte ("Službeni 
+ glasnik RS", broj 16/97) pribavi i dostavi građevinsku, odnosno upotrebnu 
+ dozvolu;
+2) kad stekne svojinu na zemljištu, izvan područja gradskog 
+ građevinskog zemljišta, na kome se nalazi objekat.
+Član 80
+Upis nosioca prava, odnosno držaoca na novoizgrađenoj zgradi 
+ koja je snimljena u postupku održavanja katastra nepokretnosti, vršiće se u 
+ skladu sa članom 58z Zakona.
+Za nosioca prava na posebnom delu zgrade iz stava 1 ovog člana 
+ određuje se lice koje priloži isprave podobne za sticanje prava na posebnom 
+ delu zgrade, na osnovu kojih to pravo izvodi od graditelja zgrade, odnosno njegovog 
+ pravnog sledbenika na zgradi ili na posebnom delu zgrade, pod uslovom da je 
+ graditelj zgrade upisan za nosioca prava na zgradi.
+Za držaoca posebnog dela zgrade iz stava 1 ovog člana određuje 
+ se lice koje priloži isprave podobne za sticanje državine, na osnovu kojih državinu 
+ izvodi od graditelja zgrade, odnosno njegovog pravnog sledbenika, pod uslovom 
+ da je graditelj zgrade, odnosno njegov pravni sledbenik upisan za držaoca zgrade.
+Član 81
+U slučaju kad je teret, odnosno ograničenje upisano u postupku 
+ izlaganja na javni uvid podataka premera i katastarskog klasiranja zemljišta 
+ i utvrđivanja prava na nepokretnostima, Služba upisuje datum stupanja na snagu 
+ rešenja o potvrdi katastarskog operata, kao datum upisa tereta, odnosno ograničenja.
+U slučaju kada su u skladu sa zakonom ispunjeni uslovi za brisanje 
+ tereta, odnosno ograničenja, Služba upisuje datum brisanja tereta, odnosno ograničenja, 
+ po konačnosti rešenja o dozvoli brisanja upisa.
+Član 82
+Stvarne i lične službenosti, hipoteka, određena obligaciona 
+ prava (pravo dugoročnog zakupa za period od deset ili više godina, nastalo u 
+ skladu sa zakonom, ugovorno pravo preče kupovine, pravo otkupa i prekupa), upisuju 
+ se po pravnom osnovu iz člana 58v tač. 2), 3) i 5) Zakona.
+Za upis hipoteke, pored pravnog osnova iz stava 1 ovog člana 
+ (ugovor ili odluka suda), potrebna je i izričita izjava lica, čije se pravo 
+ opterećuje, da pristaje na na upis.
+Izjava iz stava 2 ovog člana može biti data i u posebnoj ispravi 
+ ili na zapisniku kod Službe.
+Kad se podeli nepokretnost koja je opterećena hipotekom, svaka 
+ novonastala nepokretnost opterećuje se u visini ukupnog poveriočevog potraživanja.
+Brisanje hipoteke iz stava 1 ovog člana vrši se na osnovu izjave 
+ poverioca overene kod suda, odnosno izjave date na zapisnik kod Službe, da je 
+ potraživanje obezbeđeno hipotekom u celosti izmireno.
+Član 83
+Kad se podeli nepokretnost, postojeći tereti i ograničenja 
+ prenose se na novonastale nepokretnosti.
+Izuzetno od stava 1 ovog člana kad se podeli nepokretnost koja 
+ predstavlja poslužno dobro, stvarna službenost ostaje samo na delovima, na kojima 
+ je vršena.
+Član 84
+Pravne činjenice koje se odnose na vlasnika nepokretnosti, 
+ upisuju se, u skladu sa Zakonom, na osnovu:
+1) izvoda iz matične knjige rođenih (maloletstvo);
+2) rešenja nadležnog opštinskog organa (starateljstvo) i
+3) pravosnažnog rešenja nadležnog suda (lišenje, odnosno ograničenje 
+ poslovne sposobnosti).
+Pravne činjenice koje se odnose na samu nepokretnost, upisuju 
+ se, u skladu sa Zakonom, na osnovu:
+1) pokretanja spora za utvrđenje prava na nepokretnostima, 
+ odnosno za brisanje prava;
+2) predloga za eksproprijaciju;
+3) rešenja nadležnog suda o zabrani otuđenja ili opterećenja 
+ nepokretnosti;
+4) predloga za izvršenje na nepokretnosti na osnovu izvršne 
+ sudske isprave.
+U slučaju iz stava 2 tač. 1), 2) i 4) ovog člana, potrebno 
+ je da zainteresovano lice pruži dokaz da je postupak pokrenut pred nadležnim 
+ organom.
+Član 85
+Provođenje promena na nepokretnostima i pravima na njima u 
+ katastarskom operatu vrši se po skraćenom upravnom postupku, u skladu sa zakonom.
+Posle sprovedenog postupka i ocene izvedenih dokaza Služba 
+ donosi rešenje.
+Provođenje evidentiranih promena na radnom originalu plana 
+ iz člana 72 stav 3 ovog pravilnika i u katastarskom operatu, vrši se kad rešenje 
+ o dozvoli upisa postane konačno.
+Kad je rešenjem iz stava 2 ovog člana dozvoljena predbeležba, 
+ podaci o licu u čiju korist se predbeležba vrši upisuju se ispod podataka o 
+ upisanom nosiocu prava na toj nepokretnosti.
+Kad se otklone smetnje za konačan upis prava u roku određenom 
+ u rešenju o dozvoli upisa predbeležbe, predbeležba postaje uknjižba, o čemu 
+ se donosi rešenje.
+Zabeležba o određenim pravnim činjenicama koje mogu biti od 
+ uticaja na postojanje prava na nepokretnostima, upisuje se na osnovu rešenja 
+ u G list nepokretnosti.
+Član 86
+Služba donosi rešenje kojim se odbija upis promene, u slučaju:
+1) nepostojanja pravnog osnova iz člana 58v Zakona;
+2) ako nepokretnosti u ispravi nisu označene u skladu sa članom 
+ 14 Zakona;
+3) ako u ispravi na osnovu koje se vrši upis raniji nosilac 
+ prava nije označen i prema njemu pravo novog nosioca nije utvrđeno;
+4) ako je isprava sačinjena suprotno prinudnim propisima;
+5) ako bi se takvim upisom izvršila povreda propisa.
+Član 87
+U cilju otklanjanja nedostataka i propusta u snimanju detalja, 
+ geodetskom elaboratu, planovima i katastarskom operatu (usaglašavanje stanja 
+ na terenu sa stanjem na radnom originalu plana i u katastarskom operatu), Služba 
+ će održati usmenu raspravu.
+Kad u postupku iz stava 1 ovog člana sa sigurnošću utvrdi postojanje 
+ nedostataka i propusta, Služba će dozvoliti provođenje promene na nepokretnostima, 
+ pod uslovom da se ne menjaju granice parcela na terenu.
+Član 88
+Kad je u skladu sa zakonom izvršen upis prava u korist stranog 
+ lica, Služba će postupiti shodno članu 61 ovog pravilnika,  s tim što rok 
+ za dostavljanje obaveštenja nadležnom organu teče od dana konačnosti rešenja 
+ o dozvoli upisa.
+VI IZDAVANJE PODATAKA IZ KATASTRA NEPOKRETNOSTI
+Član 89
+Služba će na zahtev stranke izdati kopiju radnog originala 
+ plana i prepis, izvod ili uverenje o podacima sadržanim u katastarskom operatu, 
+ ukoliko za izdavanje pojedinih podataka nije posebnim propisom drukčije određeno.
+Na zahtev suda ili drugog nadležnog organa, izdaju se u formi 
+ izveštaja podaci sadržani u katastru nepokretnosti.
+Član 90
+Izdavanje podataka iz člana 89 ovog pravilnika može se vršiti:
+1) štampanjem pojedinih delova katastarskog operata (prepisa 
+ ili izvoda - prilog 9);
+2) direktnim pristupom podacima katastarskog operata na računarskom 
+ sistemu, u skladu sa posebnim propisima.
+Prepise, odnosno izvode iz stava 1 ovog člana potpisuje direktor 
+ službe, odnosno lice koje on ovlasti, sa otiskom pečata .
+Član 91
+Kopija plana (prilog 10) sadrži podatke o nazivu katastarske 
+ opštine, broju lista nepokretnosti, razmeri plana, grafički prikaz i broj parcele.
+Kopija plana mora biti verna radnom originalu plana.
+Kopiju plana potpisuju obrađivač i direktor Službe, odnosno 
+ lice koje on ovlasti, sa otiskom pečata.
+VII PRELAZNE I ZAVRŠNE ODREDBE
+Član 92
+Svi propisani obrasci štampaju se na hartiji formata A-4.
+Prilikom izrade i održavanja katastra nepokretnosti automatskom 
+ obradom podataka, neophodno je obezbediti štampanje obrazaca sa propisanom sadržinom.
+Član 93
+Postupak izrade katastra nepokretnosti koji je započet pre 
+ stupanja na snagu ovog pravilnika, nastaviće se po odredbama ovog pravilnika 
+ ukoliko nije započeto izlaganje.
+Početkom izlaganja u smislu stava 1 ovog člana, smatra se datum 
+ određen u Oglasu na javni uvid podataka premera i katastarskog klasiranja zemljišta 
+ i utvrđivanju prava na nepokretnostima.
+Član 94
+U katastarskim opštinama, u kojima je katastarski operat potvrđen 
+ rešenjem Republičkog geodetskog zavoda pre 28. marta 1996. godine, Služba će 
+ izvršiti usklađivanje listova nepokretnosti sa listovima nepokretnosti propisanim 
+ ovim pravilnikom u roku od godinu dana od dana stupanja na snagu ovog pravilnika.
+Član 95
+Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik 
+ o izlaganju na javni uvid podataka o nepokretnostima i pravima na njima i utvrđivanju 
+ prava u postupku izlaganja ("Službeni glasnik RS", broj 34/96) i Pravilnik 
+ o katastarskom klasiranju zemljišta ("Službeni glasnik RS", br. 37/94 
+ i 49/94).
+Član 96
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja 
+ u "Službenom glasniku Republike Srbije".

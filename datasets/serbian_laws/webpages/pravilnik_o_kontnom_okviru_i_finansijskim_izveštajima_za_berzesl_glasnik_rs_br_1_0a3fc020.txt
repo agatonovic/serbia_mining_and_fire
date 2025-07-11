@@ -1,0 +1,2610 @@
+Title: PRAVILNIKO KONTNOM OKVIRU I FINANSIJSKIM IZVEŠTAJIMA ZA BERZE
+URL: https://www.paragraf.rs/propisi/pravilnik-kontnom-okviru-finansijskim-izvestajima-berze.html
+Extracted: 2025-07-06T23:10:15.132194
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O KONTNOM OKVIRU I FINANSIJSKIM IZVEŠTAJIMA ZA BERZE
+("Sl. glasnik RS", br. 139/2020 i 75/2021)
+I OSNOVNE ODREDBE
+Predmet uređivanja
+Član 1
+Ovim pravilnikom se uređuju:
+1) poslovne knjige berzi;
+2) struktura, sadržaj način i rokovi objavljivanja godišnjih finansijskih
+izveštaja i godišnjeg izveštaja o poslovanju berzi i izveštaji koje berze sastavljaju za
+potrebe statistike;
+3) kontni okvir za berze.
+Sastavni deo ovog pravilnika su:
+1. kontni okvir za berze (prilog 1);
+2. finansijski izveštaji za berze (prilog 2);
+3. statistički izveštaj za berze (prilog 3).
+Pojmovi
+Član 2
+Pojedini pojmovi u smislu ovog pravilnika imaju sledeća značenja:
+1.
+Komisija
+je Komisija za hartije od vrednosti;
+2.
+Zakon
+je Zakon o računovodstvu ("Službeni glasnik RS",
+broj 73/19);
+3.
+Agencija
+je Agencija za privredne registre;
+4.
+Berza
+je pravno lice koje ima dozvolu za obavljanje delatnosti
+organizatora tržišta u smislu zakona kojim se uređuje tržište kapitala, odnosno pravno lice
+koje upravlja, odnosno obavlja delatnost posredovanja u procesu trgovanja robom, nestandardizovanim
+terminskim ugovorima i brodskim prostorom, određuje i sprovodi pravila i procedure u vezi
+sa trgovanjem na robnoj berzi u smislu zakona kojim se uređuju robne berze;
+5.
+MSFI
+su Međunarodni standardi finansijskog izveštavanja;
+6.
+MRS
+su Međunarodni računovodstveni standardi;
+7.
+Veliko pravno lice
+je pravno lice koje ispunjava kriterijume
+propisane zakonom kojim se uređuje računovodstvo ili koje je navedenim zakonom proglašeno
+za veliko pravno lice i koje je obveznik vođenja poslovnih knjiga i sastavljanja finansijskih
+izveštaja u skladu sa tim zakonom,
+8.
+Redovni godišnji finansijski izveštaj
+je izveštaj koji treba
+da pruži istinit i pošten pregled finansijskog položaja i uspešnosti poslovanja pravnog lica
+i koji se sastavlja za poslovnu godinu koja je jednaka kalendarskoj ili koja je različita
+od kalendarske;
+9.
+Vanredni finansijski izveštaj
+je izveštaj koji se sastavlja u
+slučajevima statusnih promena, otvaranja, odnosno zaključenja stečajnog postupka ili pokretanja,
+odnosno zaključenja postupka likvidacije nad pravnim licem i to sa stanjem na dan koji prethodi
+danu upisa statusne promene, danu otvaranja, odnosno zaključenja stečajnog postupka ili pokretanja,
+odnosno zaključenja postupka likvidacije.
+II POSLOVNE KNJIGE
+Poslovne knjige
+Član 3
+Poslovne knjige predstavljaju jednoobrazne evidencije o stanju i promenama
+na imovini, obavezama i kapitalu, prihodima i rashodima i vanbilansnoj imovini i vanbilansnim
+obavezama berze.
+U poslovne knjige podaci se unose na osnovu računovodstvenih isprava.
+Poslovne knjige vode se u skladu sa načelom nepromenljivog zapisa o nastaloj
+poslovnoj promeni.
+Vođenje poslovnih knjiga
+Član 4
+Berze su, saglasno zakonu kojim se uređuje tržište kapitala i zakonu i
+propisima kojima se uređuje računovodstvo, dužne da vode poslovne knjige.
+Berze se u smislu zakona kojim se uređuje računovodstvo smatraju velikim
+pravnim licem.
+Za priznavanje, vrednovanje, prezentaciju i obelodanjivanje pozicija u
+finansijskim izveštajima berze primenjuju MSFI.
+Vođenje poslovnih knjiga berze, saglasno zakonu, ne može da poveri drugom
+pravnom licu čija je pretežna delatnost pružanje računovodstvenih usluga.
+Poslovne knjige vode se za poslovnu godinu koja je, po pravilu, jednaka
+kalendarskoj.
+Berze vrše otvaranje poslovnih knjiga na početku poslovne godine na osnovu
+zaključnog bilansa stanja prethodne godine.
+Novoosnovana berza otvara poslovne knjige na osnovu bilansa osnivanja,
+koji se sastavlja na osnovu popisa imovine i obaveza, sa stanjem na dan upisa u registar
+kod Agencije.
+Čuvanje podataka
+Član 5
+Berza je dužna da koristi standardni računovodstveni softver koji omogućava
+funkcionisanje sistema internih računovodstvenih kontrola i onemogućava brisanje proknjiženih
+poslovnih promena.
+Berza je dužna da uredno čuva računovodstvene isprave, poslovne knjige
+i finansijske izveštaje i da opštim aktom odredi odgovorna lica i poslovne prostorije za
+njihovo čuvanje, kao i način čuvanja.
+Finansijski izveštaji, izveštaji o izvršenoj reviziji i Statistički izveštaj
+čuvaju se 20 godina.
+Godišnji izveštaj o poslovanju čuva se 20 godina od poslednjeg dana poslovne
+godine za koju je sastavljen.
+Dnevnik i glavna knjiga čuvaju se deset godina.
+Pomoćne knjige čuvaju se pet godina, od dana njihovog zaključivanja.
+Pet godina se čuvaju isprave na osnovu kojih se unose podaci u poslovne
+knjige.
+Rokovi čuvanja računovodstvenih isprava i poslovnih knjiga računaju se
+od poslednjeg dana poslovne godine na koju se odnose.
+Računovodstvene isprave, poslovne knjige i finansijski izveštaji čuvaju
+se u originalu ili korišćenjem drugih sredstava arhiviranja, utvrđenih zakonom.
+Zaključivanje poslovnih knjiga
+Član 6
+Berza poslovne knjige zatvara posle knjiženja svih poslovnih promena i
+obračuna na kraju poslovne godine, kao i u slučajevima statusnih promena, prestanka poslovanja
+i u drugim slučajevima u kojima je neophodno zatvoriti poslovne knjige. Nakon zatvaranja
+poslovnih knjiga ne može se sprovesti knjiženje u njima.
+Berza poslovne knjige zatvara najkasnije do roka za dostavljanje finansijskih
+izveštaja.
+III KONTNI OKVIR I SADRŽINA RAČUNA U KONTNOM OKVIRU
+Kontni okvir
+Član 7
+Berza poslovne promene knjiži na računima propisanim Kontnim okvirom za
+berze.
+Propisani trocifreni računi se, po potrebi, mogu raščlanjavati na analitičke
+račune.
+Komisija može doneti uputstvo o bližoj sadržini računa u Kontnom okviru
+za berze.
+Klasa 0: Stalna imovina
+Član 8
+Na računima grupe 00 Nematerijalna imovina - iskazuju se ulaganja u određena
+nemonetarna sredstva bez fizičkog sadržaja, koja služe za isporuku usluga, iznajmljivanje
+ili se koriste u administrativne svrhe.
+Na posebnom računu, odnosno računima otvorenim u okviru odgovarajućeg trocifrenog
+računa ove grupe, iskazuje se ispravka vrednosti po osnovu obračunate amortizacije i eventualnog
+obezvređenja nematerijalne imovine.
+Gubitak po osnovu obezvređenja nematerijalne imovine knjiži se vrednosnim
+usklađivanjem otvorenih računa nabavne vrednosti i ispravke vrednosti, a na teret računa
+560 - Rashodi od usklađivanja vrednosti nematerijalne imovine, odnosno na teret raspoloživih
+revalorizacionih rezervi na računu 340 - Revalorizacione rezerve po osnovu revalorizacije
+nematerijalne imovine, nekretnina i opreme, ako su prethodno formirane za konkretno nematerijalno
+ulaganje.
+Dobitak po osnovu usklađivanja vrednosti nematerijalne imovine knjiži se
+vrednosnim usklađivanjem otvorenih računa nabavne vrednosti i ispravke vrednosti, u korist
+računa 340 - Revalorizacione rezerve po osnovu revalorizacije nematerijalne imovine, nekretnina
+i opreme ili u korist računa 650 - Prihodi od usklađivanja vrednosti nematerijalne imovine
+do visine rashoda koji su u prethodnom/im periodu/ima proknjiženi na teret računa 560 - Rashodi
+od usklađivanja vrednosti nematerijalne imovine.
+Na računima grupe 01 Materijalna imovina - iskazuju se zemljišta, građevinski
+objekti, investicione nekretnine, objekti i oprema, i ostala materijalna imovina koja ispunjava
+uslov za priznavanje u skladu sa računovodstvenom politikom, kao i ulaganja za pribavljanje
+nekretnina i opreme.
+Na posebnom računu, odnosno računima otvorenim u okviru odgovarajućeg trocifrenog
+računa ove grupe, iskazuje se ispravka vrednosti po osnovu obračunate amortizacije i eventualnog
+obezvređenja materijalne imovine.
+Gubitak po osnovu obezvređenja materijalne imovine knjiži se vrednosnim
+usklađivanjem otvorenih računa nabavne vrednosti i ispravke vrednosti, a na teret računa
+561 - Rashodi od usklađivanja vrednosti nekretnina i opreme, odnosno na teret raspoloživih
+revalorizacionih rezervi na računu 340 - Revalorizacione rezerve po osnovu revalorizacije
+nematerijalne imovine, nekretnina i opreme, ako su prethodno formirane za konkretno materijalno
+ulaganje.
+Dobitak po osnovu usklađivanja vrednosti materijalne imovine knjiži se
+vrednosnim usklađivanjem otvorenih računa nabavne vrednosti i ispravke vrednosti, u korist
+računa 340 - Revalorizacione rezerve po osnovu revalorizacije nematerijalne imovine, nekretnina
+i opreme ili u korist računa 651 - Prihodi od usklađivanja vrednosti nekretnina i opreme
+do visine rashoda koji su u prethodnom/im periodu/ima proknjiženi na teret računa 561 - Rashodi
+od usklađivanja vrednosti nekretnina i opreme.
+Na računima grupe 02 Dugoročni finansijski plasmani - iskazuju se učešća
+u kapitalu i druge hartije od vrednosti koje se vrednuju po fer vrednosti kroz ostali ukupan
+rezultat, dugoročne hartije od vrednosti koje se vrednuju po amortizovanoj vrednosti, otkupljene
+sopstvene akcije i ostali dugoročni finansijski plasmani.
+Na računima ove grupe iskazuju se i pripisane kamate po dugoročnim finansijskim
+plasmanima (interkalarne kamate, odnosno kamate u toku grejs perioda).
+Na posebnom računu, odnosno računima otvorenim u okviru odgovarajućeg trocifrenog
+računa ove grupe, iskazuje se ispravka vrednosti dugoročnih finansijskih plasmana utvrđena
+na osnovu svođenja vrednosti, u skladu sa računovodstvenom politikom.
+Gubitak po osnovu obezvređenja dugoročnih finansijskih plasmana knjiži
+se na teret računa 562 - Rashodi od usklađivanja vrednosti dugoročnih finansijskih plasmana
+i drugih hartija od vrednosti koje se vrednuju po fer vrednosti kroz ostali ukupan rezultat,
+a dobitak u korist računa 652 - Prihodi od usklađivanja vrednosti dugoročnih finansijskih
+plasmana i drugih hartija od vrednosti koje se vrednuju po fer vrednosti kroz ostali ukupan
+rezultat.
+Na računima grupe 03 Dugoročna potraživanja - iskazuju se potraživanja
+sa rokom dospelosti dužim od 12 meseci posle izveštajnog perioda u skladu sa računovodstvenom
+politikom.
+Na posebnom računu, odnosno računima otvorenim u okviru odgovarajućeg trocifrenog
+računa ove grupe, iskazuje se ispravka vrednosti dugoročnih potraživanja utvrđena po osnovu
+obezvređenja, u skladu sa računovodstvenom politikom. Formiranje, smanjenje i ukidanje ispravke
+vrednosti dugoročnih potraživanja vrši se shodno postupanju sa računima ispravke potraživanja
+u grupi 20.
+Klasa 1: Zalihe i stalna sredstva namenjena prodaji
+Član 9
+Na računima grupe 10 Zalihe - iskazuju se zalihe inventara koji se u celini
+otpisuje u obračunskom periodu, prema nazivima računa ove grupe.
+Na posebnim računima otvorenim u okviru računa ove grupe, iskazuje se ispravka
+vrednosti sitnog inventara utvrđena kao pozitivna razlika između njegove knjigovodstvene
+vrednosti i neto ostvarive cene, odnosno po osnovu obezvređenja. Deo ispravke vrednosti koji
+se odnosi na utrošene, prodate ili rashodovane zalihe sitnog inventara prenosi se sa računa
+ispravke vrednosti u korist odgovarajućeg računa na kojem je iskazan trošak, gubitak ili
+dobitak po osnovu trošenja, prodaje ili rashodovanja ovih sredstava.
+Na računima grupe 11 Stalna imovina koja se drži za prodaju i prestanak
+poslovanja - iskazuju se nematerijalna imovina, nekretnine i oprema namenjena prodaji odnosno
+koja je preneta sa računa korišćenih sredstava na osnovu odluke o prodaji i sredstva poslovanja
+koje će biti obustavljeno, a sredstva otuđena u skladu sa MSFI 5.
+Na računima grupe 12 Plaćeni avansi za zalihe i usluge - iskazuju se vrednost
+avansa plaćenih za nabavku zaliha i usluga.
+Na posebnim računima otvorenim u okviru računa grupe 11, odnosno 12, iskazuje
+se ispravka vrednosti utvrđena po osnovu obezvređenja stalne imovine koja se drži za prodaju
+i poslovanja koje se obustavlja, odnosno plaćenih avansa, respektivno.
+Klasa 2: Kratkoročna potraživanja i plasmani, novčana sredstva
+i aktivna vremenska razgraničenja
+Član 10
+Na računima grupe 20-22 iskazuju se kratkoročna potraživanja po osnovu
+obavljanja delatnosti, potraživanja za kamatu, dividende i ostala ulaganja i ostala kratkoročna
+potraživanja u skladu sa relevantnim MRS i MSFI.
+Na posebnim računima otvorenim u okviru računa ovih grupe, iskazuje se
+ispravka vrednosti potraživanja po osnovu obavljanja delatnosti utvrđena kao pozitivna razlika
+između njihove knjigovodstvene i procenjene vrednosti, odnosno na osnovu obezvređenja vrednosti
+potraživanja.
+Ako je stanje procenjenih ispravki vrednosti povećano, razlika se knjiži
+na teret računa 564 - Rashodi od usklađivanja vrednosti potraživanja i kratkoročnih finansijskih
+plasmana, a u korist odgovarajućeg računa ispravke vrednosti. Ako je stanje procenjene ispravke
+vrednosti smanjeno, razlika se knjiži na teret odgovarajućeg računa ispravke vrednosti, u
+korist računa 654 - Prihodi od usklađivanja vrednosti potraživanja i kratkoročnih finansijskih
+plasmana.
+U slučaju direktnog isknjižavanja potpuno ili delimično ispravljenog potraživanja
+po osnovu prodaje zadužuje se odgovarajući račun ispravke vrednosti a odobrava račun potraživanja
+iz grupe 20, uz zaduženje računa 554 - Rashodi po osnovu direktnih otpisa potraživanja za
+deo potraživanja koje prethodno nije bilo indirektno ispravljeno preko odgovarajućeg računa
+ispravke vrednosti.
+Najmanje jednom godišnje, vrši se procena vrednosti potraživanja u okviru
+računa ove grupe, i na osnovu toga formira se, odnosno koriguje, ispravka vrednosti potraživanja.
+Na računima grupe 23 Kratkoročni finansijski plasmani - iskazuju se krediti
+i zajmovi, hartije od vrednosti i ostali kratkoročni plasmani sa rokom dospeća, odnosno prodaje
+kraćem od 12 meseci posle izveštajnog perioda, odnosno od datuma bilansa.
+Na posebnim računima otvorenim u okviru računa ove grupe, iskazuju se ispravke
+vrednosti kratkoročnih finansijskih plasmana utvrđenih kao pozitivna razlika između njihove
+knjigovodstvene i procenjene vrednosti koja može da bude naplaćena, određena po osnovu obezvređenja.
+Na računima grupe 24 Gotovinski ekvivalenti i gotovina - iskazuju se neposredno
+unovčive hartije od vrednosti, poslovni i devizni računi, gotovina u blagajni i ostala novčana
+sredstva.
+Na računima grupe 25 Porez na dodatu vrednost - iskazuje se prethodni porez
+na dodatu vrednost prema nazivima računa ove grupe.
+Na posebnim računima otvorenim u okviru računa ove grupe, iskazuje se razgraničeni
+PDV.
+Na računima grupe 26 Aktivna vremenska razgraničenja i odložena poreska
+sredstva - iskazuju se troškovi plaćeni u toku poslovne godine koji se odnose na narednu
+poslovnu godinu i prihodi po osnovu kojih su nastali troškovi u tekućoj godini, a koji nisu
+fakturisani za tekuću godinu i iznosi poreza iz dobiti nadoknadivi u narednim periodima po
+osnovu odbitnih privremenih razlika, neiskorišćenih poreskih gubitaka i kredita, u skladu
+sa računovodstvenom politikom.
+Klasa 3: Kapital
+Član 11
+Na računima grupe 30 Osnovni kapital - iskazuje se akcijski kapital, kao
+proizvod broja emitovanih akcija i njihove nominalne vrednosti, i ostali kapital, prema nazivima
+računa ove grupe.
+Na računima grupe 31 Upisani a neuplaćeni kapital - iskazuje se iznos upisanih
+a neuplaćenih akcija utvrđen na osnovu odluke skupštine berze o izdavanju akcija.
+Na računima grupe 32 Kapitalne rezerve - iskazuju se emisiona premija i
+ostale kapitalne rezerve.
+Na računima grupe 33 Rezerve iz dobitka - iskazuju se rezerve iz dobiti
+(zakonske, statutarne i druge rezerve).
+Na računima grupe 34 Revalorizacione rezerve i nerealizovani dobici i gubici
+- iskazuju se efekti revalorizacije i nerealizovani dobici i gubici koji se uključuju u Izveštaj
+o ostalom rezultatu.
+Na računima grupe 35 Neraspoređeni dobitak - iskazuje se neraspoređeni
+dobitak ranijih godina i tekuće godine.
+Na računima grupe 36 Gubitak - iskazuje se gubitak ranijih godina i gubitak
+tekuće godine prema nazivima računa ove grupe.
+Klasa 4: Dugoročna rezervisanja, obaveze i pasivna vremenska
+razgraničenja
+Član 12
+Na računima grupe 40 Dugoročna rezervisanja - iskazuju se dugoročna rezervisanja
+za troškove i rizike koji se priznaju i vrednuju u skladu sa računovodstvenom politikom.
+Kada nastane odliv sredstava po osnovu obaveze za koju je prethodno izvršeno
+rezervisanje, stvarni troškovi se ne iskazuju ponovo kao rashod, već se knjiženje sprovodi
+zaduženjem računa rezervisanja, a u korist odgovarajućeg računa obaveza (prema vrstama) ili
+odgovarajućeg računa sredstava (zalihe, novčana sredstva) u zavisnosti od karaktera rezervisanja,
+vrste nastale obaveze i načina na koji je ona izmirena. Neiskorišćeni iznos rezervisanja
+ukida se u korist računa 646 - Prihodi od ukidanja dugoročnih i kratkoročnih rezervisanja.
+Na računima grupe 41 Dugoročne finansijske obaveze - iskazuju se dugoročne
+obaveze prema matičnom, zavisnim i povezanim pravnim licima, dugoročni krediti i zajmovi,
+obaveze po hartijama od vrednosti i ostale dugoročne obaveze. Dugoročne obaveze su obaveze
+koje dospevaju u roku dužem od 12 meseci posle izveštajnog perioda, odnosno od datuma bilansa.
+Na računima grupe 42 Kratkoročne finansijske obaveze - iskazuju se obaveze
+po kreditima i zajmovima, hartijama od vrednosti i ostale kratkoročne obaveze koje dospevaju
+u roku kraćem od 12 meseci od datuma izveštavanja, odnosno od datuma bilansa, kao i deo obaveza
+koji je dospeo za plaćanje u roku do godine dana. U okviru obaveza po kratkoročnim hartijama
+od vrednosti, iskazuju se obaveze po emitovanim kratkoročnim hartijama od vrednosti u skladu
+sa računovodstvenom politikom. U okviru obaveze po osnovu finansijskih derivata, iskazuju
+se obaveze po osnovu finansijskih derivata, koje uključuju i sve efekte promene vrednosti
+ovih derivata evidentirane u okviru prihoda i rashoda ili u okviru kapitala. Na posebnim
+računima otvorenim u okviru ovog računa, iskazuju se derivati u skladu sa njihovom namenom.
+Na računima grupe 43 Obaveze iz poslovanja - iskazuju se obaveze za primljene
+avanse, depozite i kaucije, obaveze prema članovima, obaveze prema dobavljačima i ostale
+obaveze iz poslovanja, koje se priznaju i vrednuju u skladu sa računovodstvenom politikom.
+Na računima grupe 44 Druge obaveze - iskazuju se obaveze po osnovu zarada
+i naknada zarada, obaveze prema zaposlenima i ostale obaveze.
+Na računima grupe 45 Obaveze za poreze i doprinose - iskazuju se obaveze
+za poreze i doprinose na zarade, obaveze za porez iz rezultata i ostale obaveze za poreze
+i doprinose.
+Na računima grupe 46 Obaveze za porez na dodatu vrednost - iskazuju se
+obaveze nastale po osnovu obračunatog poreza na dodatu vrednost (PDV) prema nazivima računa
+ove grupe.
+Na posebnim računima otvorenim u okviru računa ove grupe, iskazuju se razgraničene
+obaveze za PDV.
+Na računima grupe 47 Pasivna vremenska razgraničenja i odložene poreske
+obaveze - iskazuju se unapred naplaćeni, odnosno obračunati prihodi i troškovi tekućeg perioda
+i odložene poreske obaveze, kao iznosi poreza na dobitak koji se plaćaju u narednim periodima
+po osnovu oporezivih privremenih razlika u skladu sa računovodstvenom politikom.
+Klasa 5: Rashodi
+Član 13
+Na računima grupe 50 Rashodi po osnovu obavljanja delatnosti - iskazuju
+se troškovi marketinga, transakcioni troškovi i ostali rashodi po osnovu obavljanja delatnosti.
+Na računima grupe 51 Ostali poslovni rashodi - iskazuju se troškovi amortizacije,
+troškovi rezervisanja i ostali poslovni rashodi.
+Na računima grupe 52 Troškovi zarada, naknada zarada i ostali lični rashodi
+- iskazuju se troškovi po osnovu zarada, naknada zarada i drugih primanja zaposlenih i troškovi
+po osnovu naknada po ugovorima sa fizičkim licima.
+Na računima grupe 53 Nematerijalni troškovi - iskazuju se troškovi neproizvodnih
+usluga, reprezentacije, premija osiguranja, troškovi platnog prometa, članarina, poreza,
+doprinosa i ostali nematerijalni troškovi.
+Na računima grupe 54 Finansijski rashodi - iskazuju se rashodi po osnovu
+kamata, kursnih razlika, negativni efekti po osnovu valutne klauzule i ostali finansijski
+rashodi.
+Na računima grupe 55 Ostali rashodi - iskazuju se gubici po osnovu prodaje
+i rashodovanja nekretnina i opreme i nematerijalne imovine, gubici po osnovu prodaje hartija
+od vrednosti i učešća u kapitalu pravnih lica, manjkovi, rashodi po osnovu efekata ugovorene
+zaštite od rizika, rashodi po osnovu direktnih otpisa potraživanja i ostali nepomenuti rashodi.
+Na računima grupe 55 iskazuju se i gubici po osnovu prodaje stalnih sredstava namenjenih
+prodaji, u smislu MSFI 5, iskazanih na računima grupe 11, u iznosu manjem od neotpisane vrednosti.
+Na računima grupe 56 Rashodi od usklađivanja vrednosti imovine - iskazuju
+se negativni efekti vrednosnih usklađivanja nematerijalne imovine, nekretnina, opreme, zaliha
+dugoročnih i kratkoročnih finansijskih plasmana i potraživanja, kao i drugih ispravki vrednosti
+po osnovu vrednosnog usklađivanja u skladu sa računovodstvenom politikom.
+Na računima grupe 57 Gubitak poslovanja koje se obustavlja, efekti promene
+računovodstvene politike, ispravke grešaka ranijih perioda i prenos rashoda - iskazuju se
+rashodi prema nazivima računa ove grupe i prenos ukupnih rashoda na kraju perioda. Prenos
+rashoda se iskazuje odobrenjem računa 579 - Prenos rashoda na teret odgovarajućih računa
+grupe 71 - Zaključak računa uspeha. Na kraju godine vrši se zaključivanje ovog računa njegovim
+zaduženjem u korist računa grupe 50 do 57, osim računa 579.
+Klasa 6: Prihodi
+Član 14
+Na računima grupe 60 Prihodi po osnovu obavljanja delatnosti - iskazuju
+se prihodi od naknada po osnovu članstva, naknada za uključenje na tržište finansijskih instrumenata,
+drugih naknada i ostali prihodi od obavljanja delatnosti.
+Na računima grupe 61 Prihodi od premija, subvencija, dotacija, donacija
+i sl. - iskazuju se prihodi po osnovu potraživanja od državnih organa i organizacija od premija,
+subvencija, dotacija, regresa, kompenzacija i povraćaja poreskih dažbina.
+Na računima grupe 62 Drugi poslovni prihodi - iskazuju se prihodi po osnovu
+zakupnina i ostali poslovni prihodi.
+Na računima grupe 63 Finansijski prihodi - iskazuju se prihodi od kamata,
+kursnih razlika, prihodi po osnovu efekata valutne klauzule, dividendi i ostali finansijski
+prihodi.
+Na računima grupe 64 Ostali prihodi - iskazuju se dobici po osnovu prodaje
+nekretnina i opreme (osnovnih sredstava) i nematerijalne imovine, dobici po osnovu prodaje
+dugoročnih hartija od vrednosti i učešća u kapitalu, naplaćena otpisana potraživanja, viškovi,
+prihodi po osnovu efekata ugovorene zaštite od rizika, prihodi od smanjenja obaveza, prihodi
+od ukidanja dugoročnih rezervisanja i ostali nepomenuti prihodi.
+Na računima grupe 65 Prihodi od usklađivanja vrednosti imovine - iskazuju
+se pozitivni efekti vrednosnih usklađivanja nematerijalne imovine, nekretnina, opreme, zaliha,
+dugoročnih i kratkoročnih finansijskih plasmana, hartija od vrednosti koje se vrednuju po
+fer vrednosti kroz ostali ukupan rezultat, potraživanja, finansijskih derivata i finansijskih
+sredstava u skladu sa računovodstvenom politikom.
+Na računima grupe 66 Dobitak poslovanja koje se obustavlja, efekti promene
+računovodstvene politike, ispravke grešaka ranijih perioda i prenos prihoda - iskazuju se
+dobici prema nazivima računa ove grupe i prenos ukupnih prihoda na kraju perioda. Prenos
+ukupnih prihoda na kraju perioda se iskazuje zaduženjem računa 669 - Prenos prihoda u korist
+odgovarajućih računa grupe 71 - Zaključak računa uspeha. Na kraju godine vrši se zaključivanje
+ovog računa njegovim odobrenjem, a na teret pojedinih računa grupe 60 do 66, osim računa
+669.
+Klasa 7: Otvaranje i zaključak računa stanja i uspeha
+Član 15
+Na računima grupe 70 Otvaranje glavne knjige - iskazuju se početna stanja
+pojedinih pozicija aktive i pasive iz bilansa osnivanja na početku rada berze i početnog
+bilansa stanja na početku svake godine.
+Na računima grupe 71 Zaključak računa uspeha - iskazuje se zaključak računa
+rashoda i prihoda na datum bilansa.
+Na računima grupe 72 Račun dobitka i gubitka - iskazuje se ostvareni dobitak
+ili gubitak na kraju izveštajnog perioda.
+Na računima grupe 73 Zaključak računa stanja - iskazuje se zaključak računa
+aktive i pasive bilansa stanja na datum bilansa.
+Na računima grupe 74 - Slobodna grupa - pravna lica mogu otvarati posebne
+osnovne račune prema sopstvenim potrebama.
+Klasa 8: Vanbilansna evidencija
+Član 16
+Na računima grupe 88 Vanbilansna aktiva - iskazuju se novčana sredstva
+članova robne berze na zbirnom namenskom računu za izvršenje, odnosno garantovanje transakcija,
+data jemstva i garancije i ostala sredstva koja nisu u vlasništvu berze.
+Na računima grupe 89 Vanbilansna pasiva - iskazuju se obaveze po osnovu
+sredstava iskazanih na računima grupe 88.
+IV FINANSIJSKI IZVEŠTAJI I GODIŠNJI IZVEŠTAJ O POSLOVANJU
+Primena MSFI
+Član 17
+Za priznavanje, vrednovanje, prezentaciju i obelodanjivanje pozicija u
+finansijskim izveštajima berza, kao veliko pravno lice u skladu sa Zakonom, primenjuje MSFI.
+Finansijski izveštaji
+Član 18
+Godišnji finansijski izveštaj berze obuhvata sledeće izveštaje:
+(1) Bilans stanja,
+(2) Bilans uspeha,
+(3) Izveštaj o ostalom rezultatu,
+(4) Izveštaj o promenama na kapitalu,
+(5) Izveštaj o tokovima gotovine,
+(6) Napomene uz finansijske izveštaje.
+Vanredni finansijski izveštaj berze obuhvata Bilans stanja i Bilans uspeha.
+Bilans stanja
+Član 19
+Bilans stanja predstavlja stanje imovine, obaveza i kapitala na određeni
+dan (datum bilansa) sa uporednim podacima za prethodni period.
+Rezultat poslovanja
+Član 20
+Ukupan rezultat poslovanja prikazuje se u Bilansu uspeha i Izveštaju o
+ostalom rezultatu.
+Bilans uspeha predstavlja pregled prihoda, rashoda i rezultata poslovanja
+nastalih u izveštajnom periodu.
+Izveštaj o ostalom rezultatu čine stavke prihoda i rashoda koje nisu priznate
+u Bilansu uspeha već su prema zahtevima pojedinih MSFI priznate u okviru kapitala.
+U obrascu Izveštaj o ostalom rezultatu iskazuju se komponente ostalog sveobuhvatnog
+dobitka ili gubitka, kao i ukupan sveobuhvatni dobitak ili gubitak.
+U obrascu Izveštaj o ostalom rezultatu, berza unosi podatke u kolone 5
+i 6, prema sadržini grupa računa označenih u koloni 1 tog obrasca.
+Izveštaj o tokovima gotovine
+Član 21
+Izveštaj o tokovima gotovine čine informacije o prilivima i odlivima gotovine
+i gotovinskih ekvivalenata tokom izveštajnog perioda.
+U izveštaju se prikazuju stanje gotovine na početku i kraju perioda, prilivi
+i odlivi iz poslovnih aktivnosti, aktivnosti investiranja i aktivnosti finansiranja, kursne
+razlike po osnovu preračuna gotovine i neto priliv, odnosno odliv gotovine.
+Prenos između pojedinih računa gotovine i gotovinskih ekvivalenata ne smatra
+tokom gotovine.
+Izveštaj o tokovima gotovine priprema se u skladu sa MRS 7 primenom direktne
+metode.
+Izveštaj o promenama na kapitalu
+Član 22
+Izveštaj o promenama na kapitalu čine informacije o promenama na kapitalu
+tokom izveštajnog perioda.
+U izveštaju se prikazuju početno stanje, korekcije usled materijalno značajnih
+grešaka, odnosno korekcije usled promena računovodstvene politike koja se primenjuje retrospektivno,
+promene tokom perioda i stanje na kraju perioda i to za komponente kapitala, ostalog kapitala
+i ostalog rezultata, ukupni kapital i gubitak iznad kapitala.
+Napomene uz finansijske izveštaje
+Član 23
+Napomene uz finansijske izveštaje sadrže opšte informacije o berzi, primenjene
+računovodstvene politike, primenjene osnove za vrednovanje pozicija u izveštajima, korekcije
+početnog stanja po osnovu greške ili promene računovodstvene politike, opise ili raščlanjavanja
+stavki obelodanjenih u finansijskim izveštajima i informacije o stavkama koje se nisu kvalifikovale
+za priznavanje u tim izveštajima, a značajne su za ocenu finansijskog položaja i uspešnost
+poslovanja berze, i dodatna informacije i obelodanjivanja u skladu sa zahtevima MSFI.
+Napomenama uz finansijske izveštaje trebaju biti obuhvaćeni samo značajni
+poslovni događaji i promene računovodstvenih politika u odnosu na poslednje objavljene godišnje
+finansijske izveštaje.
+Za napomene uz finansijske izveštaje nije propisan poseban obrazac, a informacije
+iz stava 1. ovog člana prikazuju se arapskim brojevima prema redosledu obrazaca i pozicija
+u obrascima, odnosno prema redosledu MRS, odnosno MSFI.
+Sastavljanje finansijskih izveštaja
+Član 24
+Berza sastavlja redovan godišnji finansijski izveštaj za prethodnu poslovnu
+godinu, odnosno vanredni finansijski izveštaj u slučajevima propisanim Zakonom.
+Novoosnovana berza sastavlja redovan godišnji finansijski izveštaj za period
+koji počinje datumom upisa u registar kod Agencije, a završava se datumom izveštajnog perioda,
+a u obrascima finansijskih izveštaja ne prikazuje poslovanje u prethodnoj godini.
+Finansijske izveštaje berza sastavlja na obrascima koji su sastavni deo
+Pravilnika.
+U obrasce iz stava 3. ovog člana iznosi se upisuju u hiljadama dinara i
+upisuju se na svim pozicijama označenim slovnim oznakama, rimskim i arapskim brojevima prema
+sadržini grupa računa i računa po pojedinim pozicijama (AOP) tog obrasca.
+Revizija finansijskih izveštaja
+Član 25
+Godišnji finansijski izveštaji predstavljaju predmet revizije od strane
+eksternog, nezavisnog, licenciranog ovlašćenog revizora, a u skladu sa zakonom i propisima
+kojima se uređuje računovodstvo i revizija, kao i u skladu sa podzakonskim aktima Komisije.
+Berza je obavezna da obezbedi reviziju finansijskih izveštaja koja se obavlja
+u skladu sa propisima kojima se uređuje revizija.
+Godišnji izveštaj o poslovanju
+Član 26
+Berza sastavlja Godišnji izveštaj o poslovanju koji sadrži podatke propisane
+Zakonom, kao i podatke iz mesečnih izveštaja propisane Pravilnikom Komisije kojim se propisuju
+uslovi za davanje dozvole za rad i obavljanje delatnosti organizatora tržišta.
+Statistički izveštaj
+Član 27
+Statistički izveštaj je izveštaj u kojem su detaljnije iskazane pojedine
+pozicije Bilansa stanja i Bilansa uspeha, kao i drugi podaci koji se koriste za statističke
+potrebe.
+Podaci se unose u sve predviđene kolone prema sadržini grupa računa i računa
+označenih u tabeli, iznosi se upisuju u hiljadama dinara, a broj akcija i zaposlenih u celom
+broju.
+Dostavljanje finansijskih izveštaja i godišnjeg izveštaja
+o poslovanju
+Član 28
+Berza je dužna da Komisiji najkasnije do 30. aprila naredne godine dostavi:
+1. godišnje finansijske izveštaje;
+2. godišnji izveštaj o poslovanju;
+3. odluku o usvajanju finansijskih izveštaja i godišnjeg izveštaja o poslovanju;
+4. izveštaj eksternog revizora o reviziji godišnjih finansijskih izveštaja;
+5. odluku o usvajanju izveštaja eksternog revizora.
+Berza je dužna da, radi javnog objavljivanja, Agenciji dostavi redovne
+godišnje finansijske izveštaje i dokumenta uz te izveštaje, statističke izveštaje, kao i
+vanredne finansijske izveštaje na način i u rokovima propisanim Zakonom.
+V PRELAZNE I ZAVRŠNE ODREDBE
+Primena
+Član 29
+Odredbe ovog pravilnika se primenjuju počev od finansijskih izveštaja koji
+se sastavljaju na dan 31. decembra 2021. godine.
+Prestanak važenja propisa
+Član 30
+Danom početka primene ovog pravilnika prestaje da važi Pravilnik o kontnom
+okviru i finansijskim izveštajima za berze ("Službeni glasnik RS", br. 15/14, 137/14
+i 25/18).
+Završna odredba
+Član 31
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije".
+Prilog 1
+KONTNI OKVIR ZA BERZE
+Klasa 0: STALNA IMOVINA
+00
+NEMATERIJALNA IMOVINA
+000
+Softver i ostala prava
+001
+Gudvil
+002
+Ostala nematerijalna imovina
+003
+Nematerijalna imovina uzeta u lizing
+004
+Nematerijalna imovina u pripremi
+005
+Avansi za nematerijalnu imovinu
+01
+MATERIJALNA IMOVINA
+010
+Zemljišta
+011
+Građevinski objekti
+012
+Investicione nekretnine
+013
+Kancelarijska oprema (nameštaj, računarska
+oprema)
+014
+Transportna sredstva
+015
+Ostala materijalna imovina
+016
+Nekretnine i oprema uzeta u lizing
+017
+Nekretnine i oprema u pripremi
+018
+Ulaganja na tuđim nekretninama i opremi
+019
+Avansi za materijalnu imovinu
+02
+DUGOROČNI FINANSIJSKI PLASMANI
+020
+Učešća u kapitalu zavisnih pravnih lica
+021
+Učešća u kapitalu ostalih pravnih lica i dugoročne
+hartije od vrednosti koje se vrednuju po fer vrednosti kroz ostali ukupan rezultat
+022
+Dugoročni plasmani matičnom, zavisnim i ostalim
+povezanim licima
+023
+Hartije od vrednosti koje se vrednuju po amortizovanoj
+vrednosti
+024
+Otkupljene sopstvene akcije
+025
+Ostali dugoročni finansijski plasmani
+03
+DUGOROČNA POTRAŽIVANJA
+030
+Potraživanja od matičnog i zavisnih pravnih
+lica
+031
+Potraživanja od ostalih povezanih lica
+032
+Sporna i sumnjiva potraživanja
+033
+Ostala dugoročna potraživanja
+Klasa 1: ZALIHE I STALNA SREDSTVA NAMENJENA PRODAJI
+10
+ZALIHE
+100
+Sitan inventar
+101
+Ostale zalihe
+11
+STALNA IMOVINA KOJA SE DRŽI ZA PRODAJU
+I PRESTANAK POSLOVANJA
+110
+Nematerijalna imovina namenjena prodaji
+111
+Investicione nekretnine namenjene prodaji
+112
+Ostale nekretnine namenjene prodaji
+113
+Oprema namenjena prodaji
+114
+Sredstva poslovanja koje se obustavlja
+12
+PLAĆENI AVANSI ZA ZALIHE I USLUGE
+120
+Plaćeni avansi za zalihe i usluge
+Klasa 2: KRATKOROČNA POTRAŽIVANJA I PLASMANI, NOVČANA SREDSTVA I AKTIVNA VREMENSKA RAZGRANIČENJA
+20
+POTRAŽIVANJA PO OSNOVU OBAVLJANJA DELATNOSTI
+200
+Potraživanja po osnovu članstva
+201
+Potraživanja po osnovu naknada za obavljanje
+poslova listinga
+202
+Potraživanja po osnovu naknada za obavljanje
+poslova na Open marketu
+203
+Potraživanja po osnovu naknada za obavljanje
+poslova na MTP Belex
+204
+Potraživanja za proviziju
+205
+Potraživanja po osnovu naknada za izradu izveštaja
+i statistika
+206
+Potraživanja po osnovu ostalih naknada
+207
+Ostala potraživanja po osnovu obavljanja delatnosti
+21
+POTRAŽIVANJA ZA KAMATU I OSTALA ULAGANJA
+210
+Potraživanja za kamate na zajmove
+211
+Potraživanja za kamate od dužničkih hartija
+od vrednosti
+212
+Potraživanja za kamate na depozite
+213
+Ostala potraživanja za kamatu
+214
+Potraživanja za učešća u dobiti
+215
+Ostala potraživanja za ulaganja
+22
+OSTALA POTRAŽIVANJA
+220
+Potraživanja od zaposlenih
+221
+Potraživanja za više plaćen porez na dobitak
+222
+Potraživanja po osnovu preplaćenih ostalih
+poreza i doprinosa
+223
+Potraživanja po osnovu datih zajmova
+224
+Potraživanja po osnovu depozita
+225
+Potraživanja po osnovu zajmova finansijskih
+instrumenata
+226
+Ostala potraživanja iz poslovanja
+23
+KRATKOROČNI FINANSIJSKI PLASMANI
+230
+Kratkoročni krediti i plasmani - matično i
+zavisna pravna lica
+231
+Kratkoročni krediti i plasmani - ostala povezana
+lica
+232
+Kratkoročni krediti i zajmovi
+233
+Deo dugoročnih finansijskih plasmana koji
+dospeva do jedne godine
+234
+Hartije od vrednosti koje se vrednuju po amortizovanoj
+vrednosti -deo koji dospeva do jedne godine
+235
+Finansijska sredstva koja se vrednuju po fer
+vrednosti kroz Bilans uspeha
+236
+Otkupljene sopstvene akcije namenjene prodaji
+ili poništavanju
+237
+Potraživanja po osnovu finansijskih derivata
+238
+Ostali finansijski plasmani
+24
+GOTOVINSKI EKVIVALENTI I GOTOVINA
+240
+Hartije od vrednosti - gotovinski ekvivalenti
+241
+Tekući (poslovni) računi
+242
+Blagajna
+243
+Devizni račun
+249
+Ostala novčana sredstva
+25
+POREZ NA DODATU VREDNOST
+250
+Porez na dodatu vrednost u primljenim fakturama
+po opštoj stopi (osim plaćenih avansa)
+251
+Porez na dodatu vrednost u primljenim fakturama
+po posebnoj stopi (osim plaćenih avansa)
+252
+Porez na dodatu vrednost u datim avansima
+po opštoj stopi
+253
+Porez na dodatu vrednost u datim avansima
+po posebnoj stopi
+254
+Porez na dodatu vrednost obračunat na usluge
+stranim licima
+255
+Potraživanja za više plaćeni porez na dodatu
+vrednost
+26
+AKTIVNA VREMENSKA RAZGRANIČENJA I ODLOŽENA
+PORESKA SREDSTVA
+260
+Unapred plaćeni troškovi
+261
+Potraživanja za nefakturisani prihod
+262
+Razgraničeni troškovi po osnovu obaveza
+263
+Obračunati a nenaplaćeni prihodi
+268
+Odložena poreska sredstva
+269
+Ostala aktivna vremenska razgraničenja
+Klasa 3: KAPITAL
+30
+OSNOVNI KAPITAL
+300
+Akcijski kapital
+309
+Ostali osnovni kapital
+31
+UPISANI A NEUPLAĆENI KAPITAL
+310
+Upisane a neuplaćene akcije
+32
+KAPITALNE REZERVE
+320
+Emisiona premija
+321
+Ostale kapitalne rezerve
+33
+REZERVE IZ DOBITKA
+330
+Zakonske rezerve
+331
+Statutarne rezerve
+332
+Ostale rezerve iz dobitka
+34
+REVALORIZACIONE REZERVE I NEREALIZOVANI
+DOBICI I GUBICI
+340
+Revalorizacione rezerve po osnovu revalorizacije
+nematerijalne imovine, nekretnina i opreme
+341
+Aktuarski dobici ili gubici po osnovu planova
+definisanih primanja
+342
+Dobici ili gubici po osnovu ulaganja u vlasničke
+instrumente kapitala
+343
+Dobici ili gubici po osnovu instrumenata zaštite
+rizika (hedžinga) novčanog toka
+344
+Dobici ili gubici po osnovu hartija od vrednosti
+koje se vrednuju po fer vrednosti kroz ostali ukupan rezultat
+35
+NERASPOREĐENI DOBITAK
+350
+Neraspoređeni dobitak ranijih godina
+351
+Neraspoređeni dobitak tekuće godine
+36
+GUBITAK
+360
+Gubitak ranijih godina
+361
+Gubitak tekuće godine
+Klasa 4: DUGOROČNA
+REZERVISANJA, OBAVEZE I PASIVNA VREMENSKA RAZGRANIČENJA
+40
+DUGOROČNA REZERVISANJA
+400
+Rezervisanja za obaveze prema trećim licima
+401
+Rezervisanja za naknade i druge beneficije
+zaposlenih
+402
+Rezervisanja za troškove sudskih sporova
+409
+Ostala dugoročna rezervisanja
+41
+DUGOROČNE FINANSIJSKE OBAVEZE
+410
+Obaveze koje se mogu konvertovati u kapital
+411
+Dugoročne obaveze prema matičnom i zavisnim
+pravnim licima
+412
+Dugoročne obaveze prema ostalim povezanim
+licima
+413
+Obaveze po emitovanim hartijama od vrednosti
+u periodu dužem od godinu dana
+414
+Dugoročni krediti i zajmovi u zemlji
+415
+Dugoročni krediti i zajmovi u inostranstvu
+416
+Obaveze po osnovu lizinga
+419
+Ostale dugoročne finansijske obaveze
+42
+KRATKOROČNE FINANSIJSKE OBAVEZE
+420
+Kratkoročni krediti i zajmovi od matičnog
+i zavisnih pravnih lica
+421
+Kratkoročni krediti i zajmovi od ostalih povezanih
+lica
+422
+Kratkoročni krediti i zajmovi u zemlji
+423
+Kratkoročni krediti i zajmovi u inostranstvu
+424
+Deo dugoročnih kredita i zajmova koji dospeva
+do jedne godine
+425
+Deo ostalih dugoročnih obaveza koje dospevaju
+do jedne godine
+426
+Obaveze po kratkoročnim hartijama od vrednosti
+427
+Obaveze po osnovu stalnih sredstava i sredstava
+obustavljenog poslovanja namenjenih prodaji
+428
+Obaveze po osnovu finansijskih derivata
+429
+Ostale kratkoročne finansijske obaveze
+43
+OBAVEZE IZ POSLOVANJA
+430
+Primljeni avansi, depoziti i kaucije
+431
+Dobavljači - matična i zavisna pravna lica
+432
+Obaveze prema članovima
+433
+Obaveze prema dobavljačima
+439
+Ostale obaveze iz poslovanja
+44
+DRUGE OBAVEZE
+440
+Obaveze po osnovu neto zarada i naknada zarada
+441
+Obaveze po ugovorima sa fizičkim licima
+442
+Obaveze prema zaposlenima
+443
+Obaveze za dividende
+444
+Obaveze za kratkoročna rezervisanja
+449
+Ostale obaveze
+45
+OBAVEZE ZA POREZE I DOPRINOSE
+450
+Obaveze za porez na dobitak
+451
+Obaveze za poreze i doprinose na zarade
+459
+Ostale obaveze za poreze, doprinose i ostale
+dažbine
+46
+OBAVEZE ZA POREZ NA DODATU VREDNOST
+460
+Obaveze za porez na dodatu vrednost po izdatim
+fakturama po opštoj stopi osim primljenih avansa
+461
+Obaveze za porez na dodatu vrednost u izdatim
+fakturama po posebnoj stopi osim primljenih avansa
+462
+Obaveze za porez na dodatu vrednost po primljenim
+avansima po opštoj stopi
+463
+Obaveze za porez na dodatu vrednost po primljenim
+avansima po posebnoj stopi
+464
+Obaveze za porez na dodatu vrednost obračunat
+na usluge stranih lica
+465
+Obaveze za naknadno vraćen porez na dodatu
+vrednost klijentima - stranim državljanima
+466
+Obaveze za porez na dodatu vrednost po osnovu
+razlike obračunatog poreza na dodatu vrednost i prethodnog poreza
+47
+PASIVNA VREMENSKA RAZGRANIČENJA I ODLOŽENE
+PORESKE OBAVEZE
+470
+Unapred obračunati troškovi
+471
+Obračunati prihodi budućeg perioda
+472
+Unapred naplaćene naknade za naredne periode
+473
+Razgraničeni zavisni troškovi nabavke
+474
+Odloženi prihodi i primljene donacije
+475
+Razgraničeni prihodi po osnovu potraživanja
+476
+Odložene poreske obaveze
+479
+Ostala pasivna vremenska razgraničenja
+Klasa 5: RASHODI
+50
+RASHODI PO OSNOVU OBAVLJANJA DELATNOSTI
+500
+Transakcioni troškovi
+501
+Troškovi marketinga
+502
+Rashodi drugih naknada
+503
+Ostali troškovi posredovanja
+509
+Ostali rashodi po osnovu obavljanja delatnosti
+51
+OSTALI POSLOVNI RASHODI
+510
+Materijalni troškovi
+511
+Troškovi amortizacije
+512
+Troškovi rezervisanja
+513
+Troškovi usluga
+519
+Ostali poslovni rashodi
+52
+TROŠKOVI ZARADA, NAKNADA ZARADA I OSTALI
+LIČNI RASHODI
+520
+Troškovi zarada i naknada zarada (bruto)
+521
+Troškovi poreza i doprinosa na zarade i naknade
+zarada na teret poslodavca
+522
+Troškovi naknada po ugovorima sa fizičkim
+licima
+523
+Troškovi naknada članovima uprave
+524
+Troškovi službenih putovanja
+525
+Troškovi rezervisanja za naknade i druge beneficije
+zaposlenih
+529
+Ostali lični rashodi i naknade
+53
+NEMATERIJALNI TROŠKOVI
+530
+Troškovi neproizvodnih usluga
+531
+Troškovi reprezentacije
+532
+Troškovi premija osiguranja
+533
+Troškovi platnog prometa
+534
+Troškovi članarina
+535
+Troškovi poreza i naknada
+536
+Troškovi doprinosa
+539
+Ostali nematerijalni troškovi
+54
+FINANSIJSKI RASHODI
+540
+Finansijski rashodi iz odnosa sa matičnim
+i zavisnim pravnim licima
+541
+Finansijski rashodi iz odnosa sa ostalim povezanim
+licima
+542
+Rashodi kamata (prema trećim licima)
+543
+Negativne kursne razlike (prema trećim licima)
+544
+Rashodi po osnovu efekata valutne klauzule
+(prema trećim licima)
+549
+Ostali finansijski rashodi
+55
+OSTALI RASHODI
+550
+Gubici po osnovu rashodovanja i prodaje nematerijalne
+imovine, nekretnina i opreme
+551
+Gubici po osnovu rashodovanja i prodaje učešća
+u kapitalu i hartija od vrednosti
+552
+Manjkovi
+553
+Rashodi po osnovu efekata ugovorene zaštite
+od rizika, koji ne ispunjavaju uslove da se iskažu u okviru ostalog rezultata (sveobuhvatnog
+dobitka ili gubitka)
+554
+Rashodi po osnovu direktnih otpisa potraživanja
+555
+Ostali nepomenuti rashodi
+56
+RASHODI OD USKLAĐIVANJA VREDNOSTI IMOVINE
+560
+Rashodi od usklađivanja vrednosti nematerijalne
+imovine
+561
+Rashodi od usklađivanja vrednosti nekretnina
+i opreme
+562
+Rashodi od usklađivanja vrednosti dugoročnih
+finansijskih plasmana i drugih hartija od vrednosti koje se vrednuju po fer vrednosti kroz
+ostali ukupan rezultat
+563
+Rashodi od usklađivanja vrednosti zaliha
+564
+Rashodi od usklađivanja vrednosti potraživanja
+i kratkoročnih finansijskih plasmana
+565
+Rashodi od usklađivanja vrednosti finansijskih
+derivata i finansijskih sredstava koja se iskazuju po fer vrednosti kroz Bilans uspeha
+569
+Rashodi od usklađivanja vrednosti ostale imovine
+57
+GUBITAK POSLOVANJA KOJE SE OBUSTAVLJA,
+EFEKTI PROMENE RAČUNOVODSTVENE POLITIKE, ISPRAVKE GREŠAKA RANIJIH PERIODA I PRENOS RASHODA
+570
+Gubitak poslovanja koje se obustavlja
+571
+Rashodi po osnovu efekata promene računovodstvenih
+politika
+572
+Rashodi po osnovu ispravki grešaka iz ranijih
+godina koje nisu materijalno značajne
+579
+Prenos rashoda
+Klasa 6: PRIHODI
+60
+PRIHODI PO OSNOVU OBAVLJANJA DELATNOSTI
+600
+Prihodi po osnovu članstva
+601
+Prihodi od naknada za obavljanje poslova listinga
+602
+Prihodi od naknada za obavljanje poslova na
+Open
+marketu
+603
+Prihodi od naknada za obavljanje poslova na
+MTP
+604
+Prihodi od naknada za izradu izveštaja i statistika
+605
+Prihodi od ostalih naknada
+609
+Ostali prihodi po osnovu obavljanja delatnosti
+61
+PRIHODI OD PREMIJA, SUBVENCIJA, DOTACIJA,
+DONACIJA I SL.
+610
+Prihodi od premija, subvencija, dotacija,
+regresa, kompenzacija i povraćaja poreskih dažbina
+611
+Prihodi po osnovu uslovljenih donacija
+612
+Prihodi od donacija, dotacija, subvencija
+i sl. iz republičkog budžeta
+613
+Prihodi od donacija, dotacija, subvencija
+i sl. iz budžeta autonomne pokrajine ili lokalne samouprave
+614
+Prihodi od donacija, dotacija i sl. od inostranih
+vlada i međunarodnih organizacija
+615
+Prihodi od donacija, dotacija i sl. od domaćih
+privrednih društava, preduzetnika i drugih pravnih lica
+616
+Prihodi od donacija, dotacija i sl. od fizičkih
+lica iz zemlje i inostranstva
+617
+Ostali prihodi od donacija, dotacija, subvencija
+i sl.
+62
+DRUGI POSLOVNI PRIHODI
+620
+Prihodi od zakupa
+621
+Prihodi po posebnim propisima iz budžeta
+622
+Prihodi po posebnim propisima iz ostalih izvora
+623
+Ostali poslovni prihodi
+63
+FINANSIJSKI PRIHODI
+630
+Finansijski prihodi od matičnog i zavisnih
+pravnih lica
+631
+Finansijski prihodi od ostalih povezanih lica
+632
+Prihodi od kamata (od trećih lica)
+633
+Pozitivne kursne razlike (prema trećim licima)
+634
+Prihodi po osnovu efekata valutne klauzule
+(prema trećim licima)
+639
+Ostali finansijski prihodi
+64
+OSTALI PRIHODI
+640
+Dobici od prodaje nematerijalne imovine, nekretnina
+i opreme
+641
+Dobici od prodaje učešća i hartija od vrednosti
+642
+Viškovi
+643
+Naplaćena otpisana potraživanja
+644
+Prihodi po osnovu efekata ugovorene zaštite
+od rizika koji ne ispunjavaju uslove da se iskažu u okviru ostalog rezultata
+645
+Prihodi od smanjenja obaveza
+646
+Prihodi od ukidanja dugoročnih i kratkoročnih
+rezervisanja
+649
+Ostali nepomenuti prihodi
+65
+PRIHODI OD USKLAĐIVANJA VREDNOSTI IMOVINE
+650
+Prihodi od usklađivanja vrednosti nematerijalne
+imovine
+651
+Prihodi od usklađivanja vrednosti nekretnina
+i opreme
+652
+Prihodi od usklađivanja vrednosti dugoročnih
+finansijskih plasmana i drugih hartija od vrednosti koje se vrednuju po fer vrednosti kroz
+ostali ukupan rezultat
+653
+Prihodi od usklađivanja vrednosti zaliha
+654
+Prihodi od usklađivanja vrednosti potraživanja
+i kratkoročnih finansijskih plasmana
+655
+Prihodi od usklađivanja vrednosti finansijskih
+derivata i finansijskih sredstava koja se iskazuju po fer vrednosti kroz Bilans uspeha
+659
+Prihodi od usklađivanja vrednosti ostale imovine
+66
+DOBITAK POSLOVANJA KOJE SE OBUSTAVLJA,
+EFEKTI PROMENE RAČUNOVODSTVENE POLITIKE, ISPRAVKE GREŠAKA RANIJIH PERIODA I PRENOS PRIHODA
+660
+Dobitak poslovanja koje se obustavlja
+661
+Prihodi po osnovu efekata promene računovodstvenih
+politika
+662
+Prihodi po osnovu ispravki grešaka iz ranijih
+godina koje nisu materijalno značajne
+669
+Prenos prihoda
+Klasa 7: OTVARANJE
+I ZAKLJUČAK RAČUNA STANJA I USPEHA
+70
+OTVARANJE GLAVNE KNJIGE
+700
+Otvaranja glavne knjige
+71
+ZAKLJUČAK RAČUNA USPEHA
+710
+Račun rashoda i prihoda
+711
+Dobitak i gubitak poslovanja koje se obustavlja
+712
+Prenos ukupnog rezultata
+72
+RAČUN DOBITKA I GUBITKA
+720
+Račun dobitka ili gubitka
+721
+Poreski rashod perioda
+722
+Odloženi poreski rashodi i prihodi perioda
+723
+Prenos dobitka ili gubitka
+73
+ZAKLJUČAK RAČUNA STANJA
+730
+Izravnanje računa stanja
+74
+SLOBODNA GRUPA
+Klasa 8: VANBILANSNA EVIDENCIJA
+88
+VANBILANSNA AKTIVA
+880
+Data jemstva i garancije
+881
+Novčana sredstva članova
+882
+Potraživanja od članova
+889
+Ostale aktivne vanbilansne stavke
+89
+VANBILANSNA PASIVA
+890
+Obaveza za data jemstva i garancije
+891
+Obaveze prema članovima za primljena novčana
+sredstva
+892
+Ostale obaveze prema članovima
+899
+Ostale pasivne vanbilansne stavke
+Prilog 2
+FINANSIJSKI IZVEŠTAJI ZA BERZE
+Obrazac 1
+Popunjava berza
+Matični broj
+Šifra delatnosti
+PIB
+Poslovno ime:
+Sedište:
+BILANS STANJA
+na dan _____._____. 20__. godine
+- u hiljadama dinara
+Grupa računa, račun
+POZICIJA
+AOP
+Napomena broj
+Iznos
+Tekuća godina
+Prethodna godina
+Krajnje stanje 20__.
+Početno stanje 01.01.20__.
+1
+2
+3
+4
+5
+6
+7
+AKTIVA
+A.STALNA IMOVINA
+(0002 + 0009 + 0018 + 0025)
+0001
+00
+I. NEMATERIJALNA IMOVINA (0003 + 0004 + 0005 + 0006 + 0007 + 0008)
+0002
+000
+1. Softver i ostala prava
+0003
+001
+2. Gudvil
+0004
+002
+3. Ostala nematerijalna imovina
+0005
+003
+4. Nematerijalna imovina uzeta u lizing
+0006
+004
+5. Nematerijalna imovina u pripremi
+0007
+005
+6. Avansi za nematerijalnu imovinu
+0008
+01
+II. MATERIJALNA IMOVINA
+(0010 + 0011+ 0012 + 0013 + 0014 + 0015 + 0016 + 0017)
+0009
+010
+1. Zemljišta
+0010
+011
+2. Građevinski objekti
+0011
+013 i 014
+3. Oprema i transportna sredstva
+0012
+012 i 017
+4. Investicione nekretnine i nekretnine i oprema u pripremi
+0013
+015 i 018
+5. Ostala materijalna imovina i ulaganja na tuđim nekretninama i opremi
+0014
+016
+6. Nekretnine i oprema uzeta u lizing
+0015
+019 (deo)
+7. Avansi za materijalnu imovinu u zemlji
+0016
+019 (deo)
+8. Avansi za materijalnu imovinu u inostranstvu
+0017
+02 i 03
+III. DUGOROČNI FINANSIJSKI PLASMANI I DUGOROČNA POTRAŽIVANJA
+(0019 + 0020+ 0021 + 0022 + 0023 + 0024)
+0018
+020 (deo) i 021 (deo)
+1. Učešća u kapitalu pravnih lica (osim učešća u kapitalu koja se vrednuju metodom učešća)
+0019
+020 (deo) i 021 (deo)
+2. Učešća u kapitalu koja se vrednuju metodom učešća
+0020
+022, 030 i 031
+3. Dugoročni plasmani matičnom, zavisnim i ostalim povezanim licima i dugoročna potraživanja od tih lica
+0021
+023
+4. Dugoročna finansijska ulaganja (hartije od vrednosti koje se vrednuju po amortizovanoj vrednosti)
+0022
+024
+5. Otkupljene sopstvene akcije
+0023
+025, 032 i 033
+6. Ostali dugoročni finansijski plasmani i ostala dugoročna potraživanja
+0024
+26 (deo), osim 268
+IV. DUGOROČNA AKTIVNA VREMENSKA RAZGRANIČENJA
+0025
+268
+B. ODLOŽENA PORESKA SREDSTVA
+0026
+V. OBRTNA IMOVINA
+(0028 + 0031 + 0032 + 0039 + 0043 + 0051 + 0052)
+0027
+Klasa 1, osim grupe računa 11
+I. ZALIHE (0029 + 0030)
+0028
+100 i 101
+1. Sitan inventar i ostale zalihe
+0029
+120
+2. Plaćeni avansi za zalihe i usluge
+0030
+11
+II. STALNA IMOVINA KOJA SE DRŽI ZA PRODAJU I PRESTANAK POSLOVANJA
+0031
+20 i 21
+III. POTRAŽIVANJA PO OSNOVU OBAVLJANJA DELATNOSTI, ZA KAMATU I OSTALA ULAGANJA (0033 + 0034 + 0035 + 0036 + 0037 + 0038)
+0032
+200
+1. Potraživanja po osnovu članstva
+0033
+201
+2. Potraživanja po osnovu naknada za obavljanje poslova listinga
+0034
+202
+3. Potraživanja po osnovu naknada za obavljanje poslova na Open marketu
+0035
+203
+4. Potraživanja po osnovu naknada za obavljanje poslova na MTP Belex
+0036
+204, 205, 206 i 207
+5. Ostala potraživanja po osnovu obavljanja delatnosti
+0037
+21
+6. Potraživanja za kamatu i ostala ulaganja
+0038
+22 i 25
+IV. OSTALA KRATKOROČNA POTRAŽIVANJA (0040 + 0041 + 0042)
+0039
+22 osim 221 i 222, 25
+1. Ostala potraživanja
+0040
+221
+2. Potraživanja za više plaćen porez na dobitak
+0041
+222
+3. Potraživanja po osnovu preplaćenih ostalih poreza i doprinosa
+0042
+23
+V. KRATKOROČNI FINANSIJSKI PLASMANI (0044 + 0045 + 0046 + 0047 + 0048 + 0049 + 0050)
+0043
+230
+1. Kratkoročni krediti i plasmani - matično i zavisna pravna lica
+0044
+231
+2. Kratkoročni krediti i plasmani - ostala povezana lica
+0045
+232 i 233
+3. Kratkoročni krediti, zajmovi i plasmani
+0046
+234
+4. Hartije od vrednosti koje se vrednuju po amortizovanoj vrednosti - deo koji dospeva do jedne goline
+0047
+235 (deo)
+5. Finansijska sredstva koja se vrednuju po fer vrednosti kroz Bilans uspeha
+0048
+236
+6. Otkupljene sopstvene akcije namenjene prodaji ili poništavanju
+0049
+235 (deo), 237 i 238
+7. Ostali kratkoročni finansijski plasmani
+0050
+24
+VI. GOTOVINSKI EKVIVALENTI I GOTOVINA
+0051
+26 (deo), osim 268
+VII. KRATKOROČNA AKTIVNA VREMENSKA RAZGRANIČENJA
+0052
+G. UKUPNA AKTIVA = POSLOVNA IMOVINA (0001 + 0026 + 0027)
+0053
+88
+D. VANBILANSNA AKTIVA
+0054
+PASIVA
+A. KAPITAL
+(0402 - 0403 + 0404 + 0405 - 0406 + 0407 + 0410 - 0411)
+≥
+0
+0401
+300 i 309
+I. OSNOVNI KAPITAL
+0402
+31
+II. UPISANI A NEUPLAĆENI KAPITAL
+0403
+32 i 33
+III. REZERVE
+0404
+340 i potražni saldo računa 341, 342, 343 i 344
+IV. POZITIVNE REVALORIZACIONE REZERVE I NEREALIZOVANI DOBICI PO OSNOVU FINANSIJSKIH SREDSTAVA I DRUGIH KOMPONENTI OSTALOG SVEOBUHVATNOG REZULTATA
+0405
+dugovni saldo računa 341, 342, 343 i 344
+V. NEREALIZOVANI GUBICI PO OSNOVU FINANSIJSKIH SREDSTAVA I DRUGIH KOMPONENTI OSTALOG SVEOBUHVATNOG REZULTATA
+0406
+35
+VI. NERASPOREĐENI DOBITAK (0408 + 0409)
+0407
+350
+1. Neraspoređeni dobitak ranijih godina
+0408
+351
+2. Neraspoređeni dobitak tekuće godine
+0409
+VII. UČEŠĆE BEZ PRAVA KONTROLE
+0410
+36
+VIII. GUBITAK (0412 + 0413)
+0411
+360
+1. Gubitak ranijih godina
+0412
+361
+2. Gubitak tekuće godine
+0413
+B. DUGOROČNA REZERVISANJA I DUGOROČNE OBAVEZE (0415 + 0420 + 0429)
+0414
+40
+I. DUGOROČNA REZERVISANJA (0416 + 0417 + 0418 + 0419)
+0415
+400
+1. Rezervisanja za obaveze prema trećim licima
+0416
+401
+2. Rezervisanja za naknade i druge beneficije zaposlenih
+0417
+402
+3. Rezervisanja za troškove sudskih sporova
+0418
+409
+4. Ostala dugoročna rezervisanja
+0419
+41
+II. DUGOROČNE FINANSIJSKE OBAVEZE (0421 + 0422 + 0423 + 0424 + 0425 + 0426 + 0427 + 0428)
+0420
+410
+1. Obaveze koje se mogu konvertovati u kapital
+0421
+411
+2. Dugoročne obaveze prema matičnom i zavisnim pravnim licima
+0422
+412
+3. Dugoročne obaveze prema ostalim povezanim licima
+0423
+413
+4. Obaveze po emitovanim hartijama od vrednosti u periodu dužem od godinu dana
+0424
+414
+5. Dugoročni krediti i zajmovi u zemlji
+0425
+415
+6. Dugoročni krediti i zajmovi u inostranstvu
+0426
+416
+7. Obaveze po osnovu lizinga
+0427
+419
+8. Ostale dugoročne finansijske obaveze
+0428
+47 (deo), osim 476 i 474 (deo)
+III. DUGOROČNA PASIVNA VREMENSKA RAZGRANIČENJA
+0429
+476
+V. ODLOŽENE PORESKE OBAVEZE
+0430
+474 (deo)
+G. DUGOROČNI ODLOŽENI PRIHODI I PRIMLJENE DONACIJE
+0431
+D. KRATKOROČNA REZERVISANJA I KRATKOROČNE OBAVEZE
+(0433+0434+0442+0443+0448+0452+0453)
+0432
+444
+I. OBAVEZE ZA KRATKOROČNA REZERVISANJA
+0433
+42, osim 427
+II. KRATKOROČNE FINANSIJSKE OBAVEZE (0435 + 0436 + 0437 + 0438 + 0439 + 0440 + 0441)
+0434
+420 (deo) i 421 (deo)
+1. Obaveze po osnovu kredita prema matičnom, zavisnim i ostalim povezanim licima u zemlji
+0435
+420 (deo) i 421 (deo)
+2. Obaveze po osnovu kredita prema matičnom, zavisnim i ostalim povezanim licima u inostranstvu
+0436
+422 (deo), 424 (deo), 425 (deo), i 429 (deo)
+3. Obaveze po osnovu kredita i zajmova od lica koja nisu domaće banke
+0437
+422 (deo), 424 (deo), 425 (deo) i 429 (deo)
+4. Obaveze po osnovu kredita od domaćih banaka
+0438
+423, 424 (deo), 425 (deo) i 429 (deo)
+5. Krediti, zajmovi i obaveze iz inostranstva
+0439
+426
+6. Obaveze po kratkoročnim hartijama od vrednosti
+0440
+428
+7. Obaveze po osnovu finansijskih derivata
+0441
+430
+III. PRIMLJENI AVANSI, DEPOZITI I KAUCIJE
+0442
+43, osim 430
+IV. OBAVEZE IZ POSLOVANJE
+(0444 + 0445 + 0446 + 0447)
+0443
+431
+1. Dobavljači - matična i zavisna pravna lica
+0444
+432
+2. Obaveze prema članovima
+0445
+433
+3. Obaveze prema dobavljačima
+0446
+439
+4. Ostale obaveze iz poslovanja
+0447
+44 osim 444, 45 i 46
+V. OSTALE KRATKOROČNE OBAVEZE (0449 + 0450 + 0451)
+0448
+44 osim 444
+1. Ostale kratkoročne obaveze
+0449
+45 osim 450 i 46
+2. Obaveze po osnovu poreza na dodatu vrednost i ostalih javnih prihoda
+0450
+450
+3. Obaveze po osnovu poreza na dobitak
+0451
+427
+VI. OBAVEZE PO OSNOVU STALNIH SREDSTAVA I SREDSTAVA OBUSTAVLJENOG POSLOVANJA NAMENJENIH PRODAJI
+0452
+47 (deo) osim 476
+VII. KRATKOROČNA PASIVNA VREMENSKA RAZGRANIČENJA
+0453
+Đ. GUBITAK IZNAD VISINE KAPITALA (0414 + 0430 + 0431 + 0432 - 0053)
+≥
+0 = (0406 + 0411 - 0402 + 0403 - 0404 - 0405 - 0407 - 0410)
+≥
+0
+0454
+E. UKUPNA PASIVA
+(0401 + 0414 + 0430 + 0431 + 0432 - 0454)
+0455
+89
+Ž. VANBILANSNA PASIVA
+0456
+Zakonski zastupnik
+U ____________________
+___________________
+dana ______ 20__. godine
+Obrazac 2
+Popunjava berza
+Matični broj
+Šifra delatnosti
+PIB
+Poslovno ime:
+Sedište:
+BILANS USPEHA
+u periodu od _____ do ______ 20__. godine
+- u hiljadama dinara
+Grupa računa, račun
+POZICIJA
+AOP
+Napomena broj
+Iznos
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+6
+A. POSLOVNI PRIHODI (1002 + 1010 + 1011)
+1001
+60
+I. Prihodi po osnovu obavljanja delatnosti (1003 + 1004 + 1005 + 1006 + 1007 + 1008 + 1009)
+1002
+600
+1. Prihodi po osnovu članstva
+1003
+601
+2. Prihodi od naknada za obavljanje poslova listinga
+1004
+602
+3. Prihodi od naknada za obavljanje poslova na Open marketu
+1005
+603
+4. Prihodi od naknada za obavljanje poslova na MTP
+1006
+604
+5. Prihodi od naknada za izradu izveštaja i statistika
+1007
+605
+6. Prihodi od ostalih naknada
+1008
+609
+7. Ostali prihodi po osnovu obavljanja delatnosti
+1009
+61 i 62
+II. OSTALI POSLOVNI PRIHODI
+1010
+65, osim 652, 654 i 655
+III. PRIHODI OD USKLAĐIVANJA VREDNOSTI IMOVINE (OSIM FINANSIJSKE)
+1011
+B. POSLOVNI RASHODI (1013 + 1014 + 1015 + 1019 + 1020 + 1021 + 1022)
+1012
+50
+I. RASHODI PO OSNOVU OBAVLJANJA DELATNOSTI
+1013
+51 osim 511 i 512
+II. OSTALI POSLOVNI RASHODI
+1014
+52
+III. TROŠKOVI ZARADA, NAKNADA ZARADA I OSTALI LIČNI RASHODI (1016 + 1017 + 1018)
+1015
+520
+1. Troškovi zarada i naknada zarada (bruto)
+1016
+521
+2. Troškovi poreza i doprinosa na zarade i naknade zarada na teret poslodavca
+1017
+52 osim 520 i 521
+3. Ostali lični rashodi i naknade
+1018
+511
+IV. TROŠKOVI AMORTIZACIJE
+1019
+56, osim 562, 564 i 565
+V. RASHODI OD USKLAĐIVANJA VREDNOSTI IMOVINE (OSIM FINANSIJSKE)
+1020
+512
+VI. TROŠKOVI REZERVISANJA
+1021
+53
+VII. NEMATERIJALNI TROŠKOVI
+1022
+V. POSLOVNI DOBITAK (1001 - 1012)
+≥
+0
+1023
+G. POSLOVNI GUBITAK (1012 - 1001)
+≥
+0
+1024
+D. FINANSIJSKI PRIHODI (1026 + 1027 + 1028 + 1029)
+1025
+630 i 631
+I. FINANSIJSKI PRIHODI IZ ODNOSA SA MATIČNIM, ZAVISNIM I OSTALIM POVEZANIM LICIMA
+1026
+632
+II. PRIHODI OD KAMATA
+1027
+633 i 634
+III. POZITIVNE KURSNE RAZLIKE I POZITIVNI EFEKTI VALUTNE KLAUZULE
+1028
+639
+IV. OSTALI FINANSIJSKI PRIHODI
+1029
+Đ. FINANSIJSKI RASHODI
+(1031 + 1032 + 1033 + 1034)
+1030
+540 i 541
+I. FINANSIJSKI RASHODI IZ ODNOSA SA MATIČNIM, ZAVISNIM I OSTALIM POVEZANIM LICIMA
+1031
+542
+II. RASHODI KAMATA
+1032
+543 i 544
+III. NEGATIVNE KURSNE RAZLIKE I NEGATIVNI EFEKTI VALUTNE KLAUZULE
+1033
+549
+IV. OSTALI FINANSIJSKI RASHODI
+1034
+E. DOBITAK IZ FINANSIRANJA (1025 - 1030)
+≥
+0
+1035
+Ž. GUBITAK IZ FINANSIRANJA (1030 - 1025)
+≥
+0
+1036
+652, 654 i 655
+3. PRIHODI OD USKLAĐIVANJA VREDNOSTI FINANSIJSKE IMOVINE KOJA SE ISKAZUJE PO FER VREDNOSTI KROZ BILANS USPEHA
+1037
+562, 564 i 565
+I. RASHODI OD USKLAĐIVANJA VREDNOSTI FINANSIJSKE IMOVINE KOJA SE ISKAZUJE PO FER VREDNOSTI KROZ BILANS USPEHA
+1038
+64
+J. OSTALI PRIHODI
+1039
+55
+K. OSTALI RASHODI
+1040
+L. UKUPNI PRIHODI (1001 + 1025 + 1037+ 1039)
+1041
+LJ. UKUPNI RASHODI (1012 + 1030 + 1038 + 1040)
+1042
+M. DOBITAK IZ REDOVNOG POSLOVANJA PRE OPOREZIVANJA (1041-1042)
+≥
+0
+1043
+N. GUBITAK IZ REDOVNOG POSLOVANJA PRE OPOREZIVANJA (1042 - 1041)
+≥
+0
+1044
+66-57
+NJ. POZITIVAN NETO EFEKAT NA REZULTAT PO OSNOVU DOBITKA POSLOVANJA KOJE SE OBUSTAVLJA, PROMENA RAČUNOVODSTVENIH POLITIKA I ISPRAVKI GREŠAKA IZ RANIJIH PERIODA
+1045
+57-66
+O. NEGATIVAN NETO EFEKAT NA REZULTAT PO OSNOVU GUBITKA POSLOVANJA KOJE SE OBUSTAVLJA, PROMENA RAČUNOVODSTVENIH POLITIKA I ISPRAVKI GREŠAKA IZ RANIJIH PERIODA
+1046
+P. DOBITAK PRE OPOREZIVANJA (1043 - 1044 + 1045 - 1046)
+≥
+0
+1047
+R. GUBITAK PRE OPOREZIVANJA (1044 - 1043 + 1046 - 1045)
+≥
+0
+1048
+S. POREZ NA DOBITAK
+721
+I. PORESKI RASHOD PERIODA
+1049
+722 dug. saldo
+II. ODLOŽENI PORESKI RASHODI PERIODA
+1050
+722 pot. saldo
+III. ODLOŽENI PORESKI PRIHODI PERIODA
+1051
+T. NETO DOBITAK
+(1047 - 1048 - 1049 - 1050 + 1051)
+≥
+0
+1052
+Ć. NETO GUBITAK
+(1048 - 1047 + 1049 + 1050 - 1051)
+≥
+0
+1053
+I. NETO DOBITAK KOJI PRIPADA UČEŠĆIMA BEZ PRAVA KONTROLE
+1054
+II. NETO DOBITAK KOJI PRIPADA MATIČNOM PRAVNOM LICU
+1055
+III. NETO GUBITAK KOJI PRIPADA UČEŠĆIMA BEZ PRAVA KONTROLE
+1056
+IV. NETO GUBITAK KOJI PRIPADA MATIČNOM PRAVNOM LICU
+1057
+V. ZARADA PO AKCIJI
+1. Osnovna zarada po akciji
+1058
+2. Umanjena (razvodnjena) zarada po akciji
+1059
+Zakonski zastupnik
+U ____________________
+___________________
+dana ______ 20__. godine
+Obrazac 3
+Popunjava berza
+Matični broj
+Šifra delatnosti
+PIB
+Poslovno ime:
+Sedište:
+IZVEŠTAJ O OSTALOM REZULTATU
+za period od _____ do _____ 20___. godine
+- u hiljadama dinara
+Grupa računa, račun
+POZICIJA
+AOP
+Napomena broj
+Iznos
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+6
+A. NETO REZULTAT IZ POSLOVANJA
+I. NETO DOBITAK (AOP 1052)
+2001
+II. NETO GUBITAK (AOP 1053)
+2002
+B. OSTALI SVEOBUHVATNI DOBITAK ILI GUBITAK
+a) Stavke koje neće biti reklasifikovane u Bilans uspeha u budućim periodima
+340
+1. Promene revalorizacije nematerijalne imovine, nekretnina i opreme
+a) povećanje revalorizacionih rezervi
+2003
+b) smanjenje revalorizacionih rezervi
+2004
+341
+2. Aktuarski dobici ili gubici po osnovu planova definisanih primanja
+a) dobici
+2005
+b) gubici
+2006
+b) Stavke koje naknadno mogu biti reklasifikovane u Bilans uspeha u budućim periodima
+342
+1. Dobici ili gubici po osnovu ulaganja u vlasničke instrumente kapitala
+a) dobici
+2007
+b) gubici
+2008
+343
+2. Dobici ili gubici po osnovu instrumenata zaštite rizika (hedžinga) novčanog toka
+a) dobici
+2009
+b) gubici
+2010
+344
+3. Dobici ili gubici po osnovu hartija od vrednosti koje se vrednuju po fer vrednosti kroz ostali ukupan rezultat
+a) dobici
+2011
+b) gubici
+2012
+I. OSTALI BRUTO SVEOBUHVATNI DOBITAK (2003 + 2005 + 2007 + 2009 + 2011) - (2004 + 2006 + 2008 + 2010 + 2012) ≥ 0
+2013
+11. OSTALI BRUTO SVEOBUHVATNI GUBITAK (2004 + 2006 + 2008 + 2010 + 2012) - (2003 + 2005 + 2007 + 2009 + 2011) ≥ 0
+2014
+III. ODLOŽENI PORESKI RASHOD NA OSTALI SVEOBUHVATNI DOBITAK ILI GUBITAK PERIODA
+2015
+IV. ODLOŽENI PORESKI PRIHOD NA OSTALI SVEOBUHVATNI DOBITAK ILI GUBITAK PERIODA
+2016
+V. NETO OSTALI SVEOBUHVATNI DOBITAK (2013 - 2014 - 2015 + 2016) ≥ 0
+2017
+VI. NETO OSTALI SVEOBUHVATNI GUBITAK (2014 - 2013 + 2015 - 2016) ≥ 0
+2018
+V. UKUPAN NETO SVEOBUHVATNI REZULTAT PERIODA
+I. UKUPAN NETO SVEOBUHVATNI DOBITAK (2001 - 2002 + 2017 - 2018) ≥ 0
+2019
+II. UKUPAN NETO SVEOBUHVATNI GUBITAK (2002 - 2001 + 2018 - 2017) ≥ 0
+2020
+G. UKUPAN NETO SVEOBUHVATNI DOBITAK ILI GUBITAK
+(2022 + 2023) = AOP 2019
+≥
+0
+ili AOP 2020
+>
+0
+2021
+1. Pripisan matičnom pravnom licu
+2022
+2. Pripisan učešćima bez prava kontrole
+2023
+Zakonski zastupnik
+U ____________________
+___________________
+dana ______ 20__. godine
+Obrazac 4
+Popunjava berza
+Matični broj
+Šifra delatnosti
+PIB
+Poslovno ime:
+Sedište:
+IZVEŠTAJ O TOKOVIMA GOTOVINE
+u periodu od _____ do _____20__. godine
+- u hiljadama dinara
+POZICIJA
+AOP
+Iznos
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+A. TOKOVI GOTOVINE IZ POSLOVNIH AKTIVNOSTI
+I. Prilivi gotovine iz poslovnih aktivnosti
+(1 do 5)
+3001
+1. Prilivi po osnovu članstva
+3002
+2. Prilivi od naknada za obavljanje poslova
+listinga
+3003
+3. Prilivi od naknada za obavljanje poslova
+na Open marketu
+3004
+4. Prilivi od naknada za obavljanje poslova
+na MTP
+3005
+5. Ostali prilivi po osnovu obavljanja delatnosti
+3006
+II. Odlivi gotovine iz poslovnih aktivnosti
+(1 do 8)
+3007
+1. Isplate dobavljačima i dati avansi u zemlji
+3008
+2. Isplate dobavljačima i dati avansi u inostranstvu
+3009
+3. Zarade, naknade zarada i ostali lični rashodi
+3010
+4. Plaćene kamate u zemlji
+3011
+5. Plaćene kamate u inostranstvu
+3012
+6. Porez na dobitak
+3013
+7. Odlivi po osnovu ostalih javnih prihoda
+3014
+8. Ostali odlivi iz poslovnih aktivnosti
+3015
+III. Neto priliv gotovine iz poslovnih aktivnosti
+(I - II)
+3016
+IV. Neto odliv gotovine iz poslovnih aktivnosti
+(II - I)
+3017
+B. TOKOVI GOTOVINE IZ AKTIVNOSTI INVESTIRANJA
+I. Prilivi gotovine iz aktivnosti investiranja
+(1 do 5)
+3018
+1. Prodaja nematerijalne imovine, nekretnina
+i opreme
+3019
+2. Prodaje akcija i udela
+3020
+3. Ostali finansijski plasmani
+3021
+4. Primljene kamate iz aktivnosti investiranja
+3022
+5. Primljene dividende
+3023
+II. Odlivi gotovine iz aktivnosti investiranja
+(1 do 3)
+3024
+1. Kupovina akcija i udela
+3025
+2. Kupovina nematerijalne imovine, nekretnina
+i opreme
+3026
+3. Ostali finansijski plasmani
+3027
+III. Neto priliv gotovine iz aktivnosti investiranja
+(I - II)
+3028
+IV. Neto odliv gotovine iz aktivnosti investiranja
+(II - I)
+3029
+V. TOKOVI GOTOVINE IZ AKTIVNOSTI FINANSIRANJA
+I. Prilivi gotovine iz aktivnosti finansiranja
+(1 do 7)
+3030
+1. Uvećanje osnovnog kapitala
+3031
+2. Dugoročni krediti u zemlji
+3032
+3. Dugoročni krediti u inostranstvu
+3033
+4. Kratkoročni krediti u zemlji
+3034
+5. Kratkoročni krediti u inostranstvu
+3035
+6. Ostale dugoročne obaveze
+3036
+7. Ostale kratkoročne obaveze
+3037
+II. Odlivi gotovine iz aktivnosti finansiranja
+(1 do 7)
+3038
+1. Otkup sopstvenih akcija
+3039
+2. Dugoročni krediti u zemlji
+3040
+3. Dugoročni krediti u inostranstvu
+3041
+4. Kratkoročni krediti u zemlji
+3042
+5. Kratkoročni krediti u inostranstvu
+3043
+6. Ostale obaveze
+3044
+7. Isplaćene dividende
+3045
+III. Neto priliv gotovine iz aktivnosti finansiranja
+(I - II)
+3046
+IV. Neto odliv gotovine iz aktivnosti finansiranja
+(II - I)
+3047
+G. SVEGA PRILIV GOTOVINE
+(3001 + 3018+
+3030)
+3048
+D. SVEGA ODLIV GOTOVINE
+(3007 + 3024
++ 3038)
+3049
+Đ. NETO PRILIV GOTOVINE
+(3048 - 3049)
+≥ 0
+3050
+E. NETO ODLIV GOTOVINE
+(3049 - 3048)
+≥ 0
+3051
+Ž. GOTOVINA NA POČETKU OBRAČUNSKOG PERIODA
+3052
+Z. POZITIVNE KURSNE RAZLIKE PO OSNOVU PRERAČUNA
+GOTOVINE
+3053
+I. NEGATIVNE KURSNE RAZLIKE PO OSNOVU PRERAČUNA
+GOTOVINE
+3054
+J. GOTOVINA NA KRAJU OBRAČUNSKOG PERIODA
+(3050 - 3051+ 3052 + 3053 - 3054)
+3055
+U ________________
+_______________
+dana _____20__. godine
+Zakonski zastupnik
+Obrazac 5
+Popunjava berza
+Matični broj
+Šifra delatnosti
+PIB
+Poslovno ime:
+Sedište:
+IZVEŠTAJ O PROMENAMA NA KAPITALU BERZE
+u periodu od _____ do _____20__. godine
+- iznosi u hiljadama dinara
+Pozicija
+OPIS
+AOP
+Osnovni kapital (grupa 30 bez
+309)
+AOP
+Ostali osnovni kapital (rn 309)
+AOP
+Upisani a neuplaćeni kapital (grupa
+31)
+AOP
+Rezerve (grupa 32 i 33)
+AOP
+Rev. rez. i ner. dob. i gub. (grupa
+34)
+AOP
+Neraspoređeni dobitak (grupa 35)
+AOP
+Gubitak (grupa 36)
+1
+2
+3
+4
+5
+6
+7
+8
+1.
+Stanje na dan 01.01. ______ godine
+4001
+4010
+4019
+4028
+4037
+4046
+4055
+2.
+Efekti retroaktivne ispravke materijalno značajnih
+grešaka i promena računovodstvenih politika
+4002
+4011
+4020
+4029
+4038
+4047
+4056
+3.
+Korigovano početno stanje na dan 01.01.
+________ godine
+(r.br. 1+2)
+4003
+4012
+4021
+4030
+4039
+4048
+4057
+4.
+Neto promene u _______ godini
+4004
+4013
+4022
+4031
+4040
+4049
+4058
+5.
+Stanje na dan 31.12. ____________ godine
+(r.br. 3+4)
+4005
+4014
+4023
+4032
+4041
+4050
+4059
+6.
+Efekti retroaktivne ispravke materijalno značajnih
+grešaka i promena računovodstvenih politika
+4006
+4015
+4024
+4033
+4042
+4051
+4060
+7.
+Korigovano početno stanje na dan 01.01,_________
+godine
+(r. br. 5+6)
+4007
+4016
+4025
+4034
+4043
+4052
+4061
+8.
+Neto promene u _______ godini
+4008
+4017
+4026
+4035
+4044
+4053
+4062
+9.
+Stanje na dan 31.12. __________ godine
+(r.br. 7+8)
+4009
+4018
+4027
+4036
+4045
+4054
+4063
+Pozicija
+OPIS
+AOP
+Učešće bez prava kontrole
+AOP
+Ukupno (odgovara poziciji AOP
+0401) (kol. 2+3-4+5+6+7-8+9) ≥0
+AOP
+Gubitak iznad visine kapitala
+(odgovara poziciji AOP 0454)(kol 2+3-4 +5+6+7-8+9) <0
+1
+9
+10
+11
+1.
+Stanje na dan 01.01. ______ godine
+4064
+4073
+4082
+2.
+Efekti retroaktivne ispravke materijalno značajnih
+grešaka i promena računovodstvenih politika
+4065
+4074
+4083
+3.
+Korigovano početno stanje na dan 01.01.
+________ godine (r.br. 1+2)
+4066
+4075
+4084
+4.
+Neto promene u _______ godini
+4067
+4076
+4085
+5.
+Stanje na dan 31.12. ____________ godine
+(r.br. 3+4)
+4068
+4077
+4086
+6.
+Efekti retroaktivne ispravke materijalno značajnih
+grešaka i promena računovodstvenih politika
+4069
+4078
+4087
+7.
+Korigovano početno stanje na dan 01.01,_________
+godine (r.br. 5+6)
+4070
+4079
+4088
+8.
+Neto promene u _______ godini
+4071
+4080
+4089
+9.
+Stanje na dan 31.12. __________ godine
+(r.br. 7+8)
+4072
+4081
+4090
+U ________________
+_______________
+dana _____20__. godine
+Zakonski zastupnik
+Prilog 3
+STATISTIČKI IZVEŠTAJ
+Popunjava berza
+Matični broj
+Šifra delatnosti
+PIB
+Poslovno ime:
+Sedište:
+STATISTIČKI IZVEŠTAJ
+za 20_____. godinu
+I. OPŠTI PODACI O OBVEZNIKU
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+1. Broj meseci poslovanja (oznaka od 1 do 12)
+9001
+2. Oznaka za vlasništvo (oznaka od 1 do 5)
+9002
+3. Broj stranih (pravnih ili fizičkih) lica koja imaju učešće u kapitalu
+9003
+4. Broj stranih (pravnih ili fizičkih) lica čije je učešće u kapitalu 10% ili više od 10%
+9004
+5. Prosečan broj zaposlenih na osnovu stanja krajem svakog meseca (ceo broj)
+9005
+6. Prosečan broj zaposlenih preko agencija i organizacija za zapošljavanje (omladinske i studentske zadruge) na osnovu stanja krajem svakog meseca (ceo broj)
+9006
+7. Prosečan broj volontera na osnovu stanja krajem svakog meseca (ceo broj)
+9007
+II. BRUTO PROMENE NEMATERIJALNE IMOVINE I MATERIJALNE IMOVINE
+- iznosi u hiljadama dinara -
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Bruto
+Ispravka vrednosti
+Neto
+(kol. 4-5)
+1
+2
+3
+4
+5
+6
+00
+1. Nematerijalna imovina
+1.1. Stanje na početku godine
+9008
+1.2. Povećanja u toku godine (nabavke, rekonstrukcije i dr. bez avansa i softvera)
+9009
+1.3 Povećanja u toku godine - softveri
+9010
+1.4. Povećanja u toku godine - avansi
+9011
+1.5. Smanjenja u toku godine (prodaja, rashodovanje i dr.)
+9012
+1.6. Amortizacija i obezvređenje
+9013
+1.7. Revalorizacija
+9014
+1.8. Stanje na kraju godine
+(9008 + 9009 + 9010 + 9011 - 9012 + 9013 + 9014)
+9015
+01
+2. Materijalna imovina
+2.1. Stanje na početku godine
+9016
+2.2. Povećanja u toku godine (nabavke, rekonstrukcije i dr. bez avansa)
+9017
+2.3. Povećanja u toku godine - avansi
+9018
+2.4. Smanjenja u toku godine (prodaja, rashodavanje i dr.)
+9019
+2.5. Amortizacija i obezvređenje
+9020
+2.6. Revalorizacija
+9021
+2.7. Stanje na kraju godine (9016 + 9017 + 9018 - 9019 + 9020 + 9021)
+9022
+III. STRUKTURA OSNOVNOG KAPITALA
+- iznosi u hiljadama dinara -
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+300
+1. Akcijski kapital
+9023
+u tome: strani kapital
+9024
+309
+2. Ostali osnovni kapital
+9025
+3.SVEGA (9023 + 9025 = 0402)
+9026
+IV. STRUKTURA AKCIJSKOG KAPITALA
+- broj akcija kao ceo broj -
+- iznosi u hiljadama dinara -
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+1. Obične akcije
+1.1, Broj običnih akcija
+9027
+deo 300
+1.2. Nominalna vrednost običnih akcija - ukupno
+9028
+2. Prioritetne akcije
+2.1. Broj prioritetnih akcija
+9029
+deo 300
+2.2. Nominalna vrednost prioritetnih akcija - ukupno
+9030
+300
+3. SVEGA - nominalna vrednost (9028 + 9030 = 9023)
+9031
+V. STRUKTURA ISPLAĆENIH DIVIDENDI I UČEŠĆA U DOBITKU, PO SEKTORIMA
+- iznosi u hiljadama dinara -
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+1. Privredna društva (domaća pravna lica)
+9032
+2. Fizička lica
+9033
+3. Država i institucije i organizacije koje se finansiraju iz budžeta
+9034
+4. Finansijske institucije
+9035
+5. Neprofitne organizacije, fondacije i fondovi neprofitnog karaktera
+9036
+6. Strana fizička lica
+9037
+7. Strana pravna lica
+9038
+8. Evropske finansijske i razvojne institucije
+9039
+9. SVEGA
+(9032 + 9033 + 9034 + 9035 + 9036 + 9037 + 9038 + 9039 = 3045)
+9040
+VI. POTRAŽIVANJA I OBAVEZE
+- iznosi u hiljadama dinara -
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+226 (deo)
+1. Potraživanja u toku godine od društava za osiguranje za naknadu štete (dugovni promet bez početnog stanja)
+9041
+43
+2. Obaveze iz poslovanja (potražni promet bez početnog stanja)
+9042
+440
+3. Obaveze za neto zarade i naknade zarada, osim naknada zarada koje se refundiraju (potražni promet bez početnog stanja)
+9043
+451 (deo)
+4. Obaveze za porez na zarade i naknade zarada na teret zaposlenog (potražni promet bez početnog stanja)
+9044
+451 (deo)
+5. Obaveze za doprinose na zarade i naknade zarada na teret zaposlenog (potražni promet bez početnog stanja)
+9045
+441
+6. Obaveze prema fizičkim licima za naknade po ugovorima (potražni promet bez početnog stanja)
+9046
+7. Kontrolni zbir (9041 + 9042 + 9043 + 9044 + 9045 + 9046)
+9047
+VII. DRUGI TROŠKOVI I RASHODI
+- iznosi u hiljadama dinara -
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+deo 519
+1. Troškovi goriva i energije
+9048
+520
+2. Troškovi zarada i naknada zarada (bruto)
+9049
+521
+3. Troškovi poreza i doprinosa na zarade i naknade zarada na teret poslodavca
+9050
+522
+4. Troškovi naknada fizičkim licima (bruto) po osnovu ugovora
+9051
+523
+5. Troškovi naknada članovima uprave
+9052
+529
+6. Ostali lični rashodi i naknade
+9053
+deo 539
+7. Troškovi zakupnina
+9054
+deo 539
+8. Troškovi istraživanja i razvoja
+9055
+532
+9. Troškovi premija osiguranja
+9056
+533
+10. Troškovi platnog prometa
+9057
+534
+11. Troškovi članarina
+9058
+535
+12. Troškovi poreza i naknada
+9059
+536
+13. Troškovi doprinosa
+9060
+deo 519
+14. Rashodi za humanitarne, naučne, verske, kulturne, zdravstvene, obrazovne i za sportske namene, kao i za zaštitu čovekove sredine
+9061
+15. Kontrolni zbir (9048 + 9049 + 9050 + 9051 + 9052 + 9053 + 9054 + 9055 + 9056 + 9057 + 9058 + 9059 + 9060 + 9061)
+9062
+VIII. RASHODI KAMATA
+- iznosi u hiljadama dinara -
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+Grupa računa 54 (deo)
+1. Kamate po kreditima i zajmovima od poslovnih banaka u zemlji
+9063
+2. Kamate po osnovu zajmova od drugih nebankarskih preduzeća i zajmodavaca u zemlji
+9064
+3. Kamate po osnovu hartija od vrednosti
+9065
+4. Zatezne kamate
+9066
+5. Kamate po osnovu kratkoročnih i dugoročnih kredita u inostranstvu
+9067
+6. Kontrolni zbir (9063 + 9064 + 9065 + 9066 + 9067)
+9068
+IX. DRUGI PRIHODI
+- iznosi u hiljadama dinara -
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+610
+1. Prihodi od premija, subvencija, dotacija, regresa, kompenzacija i povraćaja poreskih dažbina
+9069
+611
+2. Prihodi po osnovu uslovljenih donacija
+9070
+62
+3. Drugi poslovni prihodi
+9071
+deo 620
+4. Prihodi od zakupnina za zemljište
+9072
+deo 630, deo 631 i deo 639
+5. Prihodi po osnovu dividendi i učešća u dobitku
+9073
+6. Kontrolni zbir (9069 + 9070 + 9071 + 9072 + 9073)
+9074
+X. PRIHODI OD KAMATA
+- iznosi u hiljadama dinara -
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+Grupa računa 63 (deo)
+1. Kamate po depozitima u poslovnim bankama u zemlji
+9075
+2. Kamate po osnovu datih kredita i zajmova u zemlji
+9076
+3. Kamate po osnovu hartija od vrednosti
+9077
+4. Zatezne kamate
+9078
+5. Kamate po osnovu datih kredita i zajmova u inostranstvu
+9079
+6. Kontrolni zbir (9075 + 9076 + 9077 + 9078 + 9079)
+9080
+Zakonski zastupnik
+U ____________________
+___________________
+dana ______ 20__. godine

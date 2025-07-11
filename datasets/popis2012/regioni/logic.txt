@@ -1,0 +1,43 @@
+After loging in, user select a country where he is in or he gives the location permissions. 
+
+Application sets itself up to a country, i.e Serbia. 
+
+Map centers to Serbia. 
+
+User can f
+
+
+prijave = otvorene_prijave + zatvorene_prijave
+
+otvorene_prijave != zatvorene_prijave
+
+prijava = user.action (time, location, data (opis, )
+
+prijava is dependent on users. 
+
+zatvorena_prijava= otvorena_prijava +  
+
+
+user can only post one comment per opened prijava #goal of this is to avoid 
+    user can edit his comment 
+        timeline of comment edits 
+
+user has more functionalities, when his account is filled. If he fills more data about himself, he 
+    popunjenost_profila = from 0 to 100% 
+
+user can: create.report, comment.report, vote.report, vote.comment, 
+
+user = id, name*, lastname, date_of_birth, place_of_birth, email, phone_number, password (encrypted), 
+
+dataset = 
+
+border_dataset = država, pokrajina, region, upravni_okrug, opština, naseljeno_mesto, 
+
+opštine = all.list(opština)
+
+opština = id, naziv, lokacija, population_data, polygon, opis.wikipedia, image.wikipedia, list(naseljeno_mesto), all_locations inside polygon (categorized), list(otvorene_prijave),
+
+naseljeno_mesto = id, naziv, lokacija, population_data, polygon, all_locations inside polygon (categorized), opis.wikipedia, image.wikipedia,   
+ 
+
+zakonik = alat koji od prompta, pretražuje bazu relevantnih zakona, poveže relevantne zakone i relevantne primere iz sudske prakse i pruži odgovor. 

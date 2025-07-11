@@ -1,0 +1,204 @@
+Title: PRAVILNIKO NAČINU VOĐENJA I SADRŽINI REGISTRA PRUŽALACA RAČUNOVODSTVENIH
+USLUGA
+URL: https://www.paragraf.rs/propisi/pravilnik-o-nacinu-vodjenja-sadrzini-registra-pruzalaca-racunovodstvenih-usluga.html
+Extracted: 2025-07-06T23:11:33.427180
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O NAČINU VOĐENJA I SADRŽINI REGISTRA PRUŽALACA RAČUNOVODSTVENIH
+USLUGA
+("Sl. glasnik RS", br. 89/2020)
+I UVODNE ODREDBE
+Predmet
+Član 1
+Ovim pravilnikom bliže se uređuje način vođenja i sadržina Registra pružalaca
+računovodstvenih usluga (u daljem tekstu: Registar), upis podataka u Registar, javno objavljivanje
+podataka iz Registra, kao i obaveštavanje Komore ovlašćenih revizora (u daljem tekstu: Komora)
+i izveštavanje Nacionalne komisije za računovodstvo (u daljem tekstu: Nacionalna komisija).
+Predmet upisa
+Član 2
+U Registru se evidentiraju podaci o rešenjima o davanju, odnosno oduzimanju
+dozvole za pružanje računovodstvenih usluga koja Komora izdaje u skladu sa zakonom koji uređuje
+računovodstvo (u daljem tekstu: Zakon), osnovni podaci o pravnim licima, odnosno preduzetnicima
+koji imaju registrovanu pretežnu delatnost pružanja računovodstvenih usluga i dozvolu za
+pružanje tih usluga (u daljem tekstu: pružalac računovodstvenih usluga), podaci o licu koje
+ima profesionalno zvanje u oblasti računovodstva ili revizije stečeno u skladu sa Zakonom
+i koje je zaposleno kod pružaoca računovodstvenih usluga (u daljem tekstu: ovlašćeni računovođa),
+kao i podaci o povezanim pravnim licima sa tim pružaocem.
+II NAČIN VOĐENJA I SADRŽINA REGISTRA
+Način vođenja Registra
+Član 3
+Registar se vodi kao jedinstvena, centralna i elektronska baza podataka
+u koji se, u skladu sa zakonom, evidentiraju podaci i dokumenta iz čl. 4. i 5. ovog pravilnika.
+Registar je javna knjiga i vodi se na srpskom jeziku.
+Podaci i dokumenta iz stava 1. ovog člana se vode prema matičnom broju
+pružaoca računovodstvenih usluga, kao jedinstvenom identifikatoru.
+Podaci i dokumenta iz Registra se redovno ažuriraju i javno objavljuju
+na internet stranici Agencije za privredne registre (u daljem tekstu: Agencija) u skladu
+sa Zakonom i ovim pravilnikom.
+Agencija vodi Registar preko registratora imenovanog u skladu sa zakonom
+koji uređuje poslovanje Agencije (u daljem tekstu: registrator).
+Obrada podataka u Registru iz stava 1. ovog člana vrši se u skladu sa zakonom
+kojim se uređuje zaštita podataka o ličnosti.
+Podaci i dokumenta iz stava 1. ovog člana čuvaju se trajno.
+Podaci koje Registar sadrži
+Član 4
+Registar sadrži:
+1) osnovne podatke o pružaocu računovodstvenih usluga (poslovno ime i matični
+broj);
+2) podatke o rešenju o davanju, odnosno oduzimanju dozvole za pružanje
+računovodstvenih usluga (broj i datum rešenja);
+3) podatke o ovlašćenom računovođi zaposlenom kod pružaoca računovodstvenih
+usluga sa punim radnim vremenom;
+4) podatke o pravnim licima povezanim sa pružaocem računovodstvenih usluga
+u skladu sa Zakonom;
+5) podatke o datumu i broju pod kojim je pružalac računovodstvenih usluga
+upisan, odnosno brisan iz Registra, kao i o datumu i broju pod kojima su vršene promene podataka
+u Registru.
+Podaci o fizičkim licima iz stava 1. ovog člana koji se vode u okviru Registra
+su:
+1) za domaća fizička lica - lično ime i jedinstveni matični broj građana;
+2) za strana fizička lica - lično ime, broj pasoša i država izdavanja i/ili
+lični broj za stranca i/ili broj lične karte stranca u skladu sa propisima kojima se uređuju
+uslovi za ulazak, kretanje i boravak stranaca na teritoriji Republike Srbije;
+Pored podataka iz stava 2. ovog člana, za ovlašćenog računovođu se u okviru
+Registra vode i podaci o profesionalnom zvanju koje poseduje, broju i datumu akta o sticanju
+tog zvanja, kao i naziv izdavaoca akta.
+Podaci o pravnim licima iz stava 1. tačka 4) ovog člana koji se vode u
+okviru Registra su:
+1) za domaća pravna lica - poslovno ime, adresa sedišta i matični broj;
+2) za strana pravna lica poslovno ime, adresa sedišta, broj pod kojim se
+to pravno lice vodi u matičnom registru i država u kojoj je to lice registrovano.
+U Registar se upisuju i sve promene podataka koje se vode u Registru.
+Dokumentacija koju Registar sadrži
+Član 5
+Registar pored podataka iz člana 4. ovog pravilnika, sadrži i dokumenta
+na osnovu kojih je izvršeno evidentiranje podataka u Registru.
+III UPIS PODATAKA U REGISTAR
+Dostavljanje rešenja o davanju i oduzimanju dozvole i upis
+u Registar
+Član 6
+Komora po službenoj dužnosti, bez odlaganja dostavlja Agenciji rešenje
+o davanju, odnosno oduzimanju dozvole za pružanje računovodstvenih usluga, putem posebne
+aplikacije Agencije uspostavljene za potrebe dostavljanja podataka i dokumenata radi upisa
+u Registar (u daljem tekstu: posebna aplikacija Agencije), u elektronskom obliku.
+Dostavljanje rešenja iz stava 1. ovog člana vrši se na način da uz to rešenje,
+ovlašćeno lice Komore u posebnu aplikaciju Agencije unosi broj i datum rešenja, osnovne podatke
+o pružaocu računovodstvenih usluga, ovlašćenom računovođi i o povezanim pravnim licima u
+formi posebnog pregleda, a zatim sve zajedno potpisuje svojim kvalifikovanim elektronskim
+potpisom.
+Agencija, po službenoj dužnosti vrši upis, odnosno brisanje pružaoca računovodstvenih
+usluga iz Registra, najkasnije narednog dana od dana prijema rešenja iz stava 1. ovog člana.
+Zahtev za promenu podataka
+Član 7
+Pružalac računovodstvenih usluga je dužan da obavesti Agenciju o promeni
+podataka koji se vode u Registru u roku od osam dana od dana nastanka promene, podnošenjem
+zahteva za promenu podataka u Registru na obrascu propisanom od strane Registratora saglasno
+članu 10b Zakona o Agenciji za privredne registre ("Službeni glasnik RS", br. 55/04,
+111/09 i 99/11).
+Način dostavljanja zahteva za promenu podataka
+Član 8
+Zahtev za promenu podataka iz člana 7. ovog pravilnika, potpisan kvalifikovanim
+elektronskim potpisom lica ovlašćenog za zastupanje pružaoca računovodstvenih usluga, dostavlja
+se Agenciji u elektronskom obliku, putem posebne aplikacije Agencije.
+U slučaju da pružalac računovodstvenih usluga zahtev za promenu podataka
+ne dostavi u skladu sa stavom 1. ovog člana, Registar posebnim dopisom obaveštava tog pružaoca
+da zahtev nije dostavljen u propisanom obliku i pismeni otpravak dopisa mu dostavlja poštom
+na registrovanu adresu.
+Dostavljanje zahteva za promenu podataka od strane ovlašćenog
+računovođe
+Član 9
+Izuzetno, zahtev za brisanje podatka o ovlašćenom računovođi može da podnese
+i taj računovođa shodno čl. 7. i 8. ovog pravilnika, ako mu je prestao radni odnos kod pružaoca
+računovodstvenih usluga.
+Uz zahtev iz stava 1. ovog člana podnose se dokazi o prestanku radnog odnosa
+kod pružaoca računovodstvenih usluga.
+Dokaze iz stava 2. ovog člana Agencija pribavlja po službenoj dužnosti
+od Centralnog registra obaveznog socijalnog osiguranja, osim kada se podnosilac zahteva izričito
+izjasni da će sam podneti dokaze.
+Posebna aplikacija Agencije
+Član 10
+Posebna aplikacija Agencije je aplikacija kojom se obezbeđuje jedinstven
+postupak unosa podataka u formi elektronskog dokumenta, jedinstvena elektronska obrada podataka,
+javno objavljivanje podataka i dokumenata u skladu sa Zakonom i ovim pravilnikom, kao i skladištenje
+i čuvanje elektronskih dokumenata i svih informacija nastalih u funkcionisanju te aplikacije.
+U posebnoj aplikaciji Agencije čuvaju se i elektronske kopije dokumenata
+za koje je izvršena digitalizacija u skladu sa propisima.
+Dostavljanje elektronskih dokumenata putem posebne aplikacije Agencije
+garantuje integritet, autentičnost i neporecivost poslatog dokumenta.
+Podaci iz zahteva iz čl. 6. do 9. ovog pravilnika, unose se u posebnu aplikaciju
+Agencije i dostavljaju putem te aplikacije korišćenjem formata datoteke: Extesible Markup
+Language (XML) 1.0 u skladu sa specifikacijom W3C međunarodne organizacije (u daljem tekstu:
+XML).
+Za rešenje o davanju, odnosno oduzimanju dozvole za pružanje računovodstvenih
+usluga, kao i dokumenta koja pružalac računovodstvenih usluga može da dostavi uz zahtev koristi
+se format datoteke: Portable Document Format u skladu sa ISO 32000 (u daljem tekstu: PDF).
+Za elektronski potpisan dokument koristi se jedan od sledećih formata elektronskog
+potpisa:
+1) PAdES (PDF Advanced Electronic Signatures) format prema ETSI EN 319
+142 "Electronic Signatures and Infrastructures (ESI); PAdES digital signatures",
+za elektronska dokumenta zapisana u formatu datoteke PDF;
+2) XAdES (XML Advanced Electronic Signatures) format prema ETSI EN 319
+132 "Electronic Signatures and Infrastructures (ESI); XAdES digital signatures",
+za elektronska dokumenta zapisana u formatu datoteke XML.
+Upis promene podataka
+Član 11
+Agencija je dužna da najkasnije narednog dana od dana prijema zahteva za
+promenu podataka u smislu čl. 7. do 9. ovog pravilnika izvrši upis tražene promene u Registar.
+Ukoliko su uz zahtev iz stava 1. ovog člana dostavljena i dokumenta koja
+su od značaja za izdavanje, odnosno oduzimanje dozvole za pružanje računovodstvenih usluga,
+Agencija bez odlaganja ta dokumenta prosleđuje Komori na nadležno postupanje.
+IV JAVNO OBJAVLJIVANJE PODATAKA I DOKUMENATA
+Član 12
+Podaci iz Registra javno se objavljuju na internet strani Agencije, najkasnije
+narednog dana od dana upisa.
+Izuzetno od stava 1. ovog člana za ovlašćenog računovođu se ne objavljuju
+podaci o jedinstvenom matičnom broju građana, odnosno o broju pasoša i državi izdavanja i/ili
+ličnom broju za stranca i/ili broju lične karte stranca, niti se ovi podaci mogu ustupati
+trećim licima.
+Pored podataka iz stava 1. ovog člana, na internet strani Agencije, u okviru
+Registra, javno se objavljuju i podaci koji se saglasno propisima izvorno registruju u Registru
+privrednih subjekata, odnosno evidentiraju u Evidenciji stvarnih vlasnika, a koji su od značaja
+za davanje, odnosno oduzimanje dozvole za pružanje računovodstvenih usluga, i to:
+1) osnovni podaci o pružaocu računovodstvenih usluga:
+(1) poslovno ime;
+(2) adresa sedišta;
+(3) šifra pretežne delatnosti;
+(4) poreski identifikacioni broj (PIB);
+(5) pravna forma, odnosno oznaka preduzetnika;
+(6) podaci o zastupnicima i granicama njihovih ovlašćenja;
+2) podaci o članovima (osnivačima) pružaoca računovodstvenih usluga, kao
+i o njihovim udelima;
+3) podaci o direktorima, odnosno članovima odbora direktora ili izvršnog
+odbora (članovi organa upravljanja pružaoca računovodstvenih usluga);
+4) podaci o stvarnim vlasnicima pružaoca računovodstvenih usluga.
+Za fizička i pravna lica iz stava 3. ovog člana, javno se objavljuju podaci
+navedeni u članu 4. st. 2. i 4. ovog pravilnika.
+U okviru Registra javno se objavljuje i rešenje o davanju, odnosno oduzimanju
+dozvole za pružanje računovodstvenih usluga.
+V OBAVEŠTAVANJE KOMORE I IZVEŠTAVANJE NACIONALNE KOMISIJE
+Obaveštavanje Komore
+Član 13
+Agencija je dužna da jednom nedeljno obaveštava Komoru o svim promenama
+podataka u Registru, kao i o promeni podataka iz člana 12. stav 3. ovog pravilnika, a naročito
+o promeni podataka koji su od značaja za davanje, odnosno oduzimanje dozvole za pružanje
+računovodstvenih usluga.
+Agencija je dužna da Komori dostavlja i druge podatke i informacije koje
+su u vezi sa sadržinom i vođenjem Registra na njen zahtev.
+Izveštavanje Nacionalne komisije za računovodstvo
+Član 14
+Agencija jednom godišnje izveštava Nacionalnu komisiju o pitanjima koja
+se tiču vođenja Registra.
+Agencija je dužna da Nacionalnoj komisiji dostavlja i posebne izveštaje,
+odnosno podatke i informacije koje su u vezi sa sadržinom i vođenjem Registra, na njen zahtev.
+VI ZAVRŠNA ODREDBA
+Član 15
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije", a primenjuje se počev od 1. januara 2021. godine.

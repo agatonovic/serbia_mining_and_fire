@@ -1,0 +1,1665 @@
+Title: PRAVILNIKO HIGIJENSKOJ ISPRAVNOSTI VODE ZA PIĆE
+URL: https://www.paragraf.rs/propisi/pravilnik-higijenskoj-ispravnosti-vode-pice.html
+Extracted: 2025-07-06T23:09:50.716524
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O HIGIJENSKOJ ISPRAVNOSTI VODE ZA PIĆE
+("Sl. list SRJ", br. 42/98 i 44/99 i "Sl. glasnik RS", br. 28/2019)
+Član 1
+Ovim pravilnikom se propisuje higijenska ispravnost vode 
+ za piće koja služi za javno snabdevanje stanovništva ili za proizvodnju namirnica 
+ namenjenih prodaji (u daljem tekstu: voda za piće).
+Član 2
+Pojmovi upotrebljeni u ovom pravilniku imaju sledeća značenja:
+1) javno snabdevanje stanovništva vodom za piće je snabdevanje 
+ vodom više od pet domaćinstava, odnosno više od 20 stanovnika, snabdevanje 
+ iz sopstvenih objekata preduzeća i drugih pravnih lica i preduzetnika koji 
+ proizode i/ili vrše promet životnih namirnica i snabdevanje javnih objekata 
+ (obrazovno-vaspitne organizacije, turističko-ugostiteljske, saobraćajne i 
+ dr.);
+2) ekvivalentni stanovnik (ES) jeste potrošnja vode od 
+ 150 litara na dan;
+3) prirodne vode zatvorenih izvorišta su: higijenski kaptirana 
+ prirodna vrela i izvori (česme); podzmene vode koje na površinu izbijaju pod 
+ povećanim pritiskom (arteški bunari) ili se mehanički izvlače pomoću zatvorenih 
+ higijenskih sistema (subarteški bunari); podzemne vode higijenski kaptirane 
+ za vodovodne sisteme;
+4) prirodne vode otvorenih izvorišta su: nekaptirana vrela, 
+ izvori; vodotoci I i II klase, jezera i akumulacije, ako se koriste za snabdevanje 
+ vodom za piće; norton-pumpe (crpke), kopani bunari i cisterne;
+5) prirodna voda u originalnoj ambalaži (u daljem tekstu: 
+ flaširana prirodna voda za piće) jeste voda izvanrednih prirodnih fizičko-hemijskih, 
+ mikrobioloških i radioloških osobina, koja se iz higijenski kaptiranog izvora 
+ obezbeđenog sanitarno-zaštitnim zonama, neposredno na izvoru puni u sterilnu 
+ ambalažu bez prethodnog prečišćavanja i dezinfekcije, izuzev dezinfekcije 
+ radijacijama;
+6) akumulacija je veštački izgrađen sistem za sakupljanje 
+ vode, koja se koristi za javno snabdevanje stanovništva vodom za piće posle 
+ odgovarajućeg prečišćavanja i dezinfekcije;
+7) zone i pojasevi sanitarne zaštite obuhvataju prostor 
+ koji se utvrđuje oko izvorišta za snabdevanje vodom za piće (bunari i kaptaže 
+ za zahvatanje podzemne vode, zahvat sa rečnog toka i akumulacije), uređaja 
+ za prečišćavanje, rezervoara i glavnog cevovoda u cilju zaštite kvaliteta 
+ vode za piće od namernog ili slučajnog zagađenja, kao i drugih štetnih uticaja;
+8) izvorište je mesto na kome se zahvata voda radi javnog 
+ snabdevanja stanovništva (izvor; kaptažni bunar; deo reke ili jezera, akumulacija 
+ ili njen deo);
+9) cevni bunar je svaki bunar iz koga se voda dobija pobijanjem 
+ izbušene cevi u tlo koja ulazi u vodonosni sloj;
+10) arteški bunar je cevni bunar iz koga voda prirodno 
+ izbija iznad površine zemlje;
+11) subarteški bunar je cevni bunar iz koga se voda odgovarajućim 
+ sistemom izvlači pod propisanim higijenskim uslovima iznad površine zemlje;
+12) kopani bunar je objekat za javno snabdevanje stanovništva 
+ vodom za piće koji nastaje kopanjem zemljišta do vodonosnog sloja i koji je 
+ ozidan kamenom ili ciglom i obložen slojem gline debljine do 30 cm ili betonskim 
+ prstenovima, tako da je nepropustljiv do vodonosnog sloja iz koga se voda 
+ koristi;
+13) novi zahvat vode je izvorište koje se planira za javno 
+ snabdevanje stanovništva vodom za piće ili se uključuje u postojeći vodovod;
+14) uređaji za popravku kvaliteta vode su uređaji koji 
+ se koriste za popravku fizičkih, fizičko-hemijskih, hemijskih, mikrobioloških, 
+ bioloških i radioloških osobina sirove vode da bi se koristila kao voda za 
+ piće;
+15) cisterna je objekat za snabdevanje vodom za piće koji 
+ ima najmanje nakapnu površinu, filter za prečišćavanje vode i rezervoar;
+16) uređaji za dezinfekciju vode su uređaji kojima se primenom 
+ hemikalija i fizičkih metoda obezbeđuju propisani mikrobiološki kriterijumi 
+ za vodu za piće;
+17) kaptaža je građevinski objekat kojim se na higijenski 
+ način zahvata izvorska - podzemna, površinska i atmosferska voda radi javnog 
+ snabdevanja stanovništva vodom za piće;
+18) vodovod je sistem za snabdevanje vodom za piće koji ima 
+ najmanje uređeno i zaštićeno izvorište, kaptažu, rezervoar i vodovodnu mrežu;
+19) vodovodna mreža je sistem cevi za odvod vode od kaptaže 
+ ili uređaja za prečišćavanje vode do rezervoara i od rezervoara do potrošača 
+ vode za piće. Hidranti i ventili su sastavni deo vodovodne mreže;
+20) uzorak vode je količina vode uzeta jednokratno, na jednom 
+ mestu, po propisanoj metodologiji radi laboratorijskog ispitivanja;
+21) uzorkovanje vode za piće je postupak za uzimanje propisanih 
+ količina vode za laboratorijsku analizu iz pojedinih objekata za javno snabdevanje 
+ stanovništva vodom za piće;
+22) pregled vode za piće je određivanje organoleptičkih i 
+ drugih osobina i laboratorijska analiza radi utvrđivanja njene higijenske 
+ ispravnosti u propisanim vremenskim razmacima;
+23) higijensko-epidemiološke indikacije postoje kad usled 
+ tehničkog stanja objekta za snabdevanje vodom, stanja okoline, elementarnih 
+ nepogoda i epidemiološke situacije, postoji mogućnost da dođe do zagađenja 
+ vode mikrobiološkim, fizičkim, hemijskim i radiološkim činiocima;
+24) akcidentno zagađenje vode je nagli prodor zagađujuće 
+ supstancije ili agensa u izvorište ili objekat za javno snabdevanje stanovništva 
+ vodom za piće koji je nastao kao posledica čovekove aktivnosti u količinama 
+ koje predstavljaju opasnost po zdravlje ljudi;
+25) vanredno stanje je stanje elementarne i druge nepogode 
+ ili posle akcidentnog zagađivanja izvorišta ili vodovoda koje proglasi nadležni 
+ organ i organizacija, kad se mogu primeniti norme za vodu za piće koje se 
+ primenjuju u vanrednim prilikama.
+Član 3
+Higijenski ispravna voda za piće je voda koja odgovara u 
+ pogledu:
+1) mikrobioloških osobina - normama navedenim u Listi I Mikrobiološke 
+ osobine vode za piće u redovnim prilikama i Listi II Mikrobiološke osobine 
+ vode za piće u vanrednim prilikama;
+2) hemijskih supstancija - normama navedenim u Listi III, 
+ a, b i c Maksimalno dopuštene koncentrancije neorganskih, organskih i hemijskih 
+ supstancija i pesticida u vodi za piće;
+3) ostataka koagulacionih i flokulacionih sredstava - normama 
+ navedenim u Listi IV Dozvoljene koncentracije koagulacionih i flokulacionih 
+ sredstava u vodi za piće;
+4) ostataka dezinfekcionih sredstava i sporednih proizvoda 
+ dezinfekcije - normama navedenih u Listi V Dozvoljene koncentracije dezinfekcionih 
+ sredstava i sporednih proizvoda dezinfekcije;
+5) fizičkih, fizičko-hemijskih i hemijskih osobina - normama 
+ navedenim u Listi VI Fizičke, fizičko-hemijske i hemijske osobine vode za 
+ piće;
+6) fizičkih, fizičko-hemijskih i hemijskih osobina - normama 
+ navedenim u Listi VII Maksimalno dopuštene vrednosti fizičkih, fizičko-hemijskih 
+ i hemijskih parametara u vodi za piće u vanrednim prilikama;
+7) radioloških osobina - normama navedenim u Listi VIII Dozvoljeni 
+ nivo ukupne alfa-aktivnosti i ukupne beta-aktivnosti;
+8) fizičkih, fizičko-hemijskih i hemijskih osobina, normama 
+ navedenim u Listi IX Fizičke, fizičko-hemijske i hemijske osobine flaširane 
+ prirodne vode za piće;
+9) hemijskih osobina flaširane prirodne vode za piće - normama 
+ navedenim u Listi X Maksimalno dopuštene koncentracije hemijskih supstancija 
+ u flaširanoj prirodnoj vodi za piće;
+10) hemijskih supstancija - normama navedenim u Listi XIa, 
+ b i c Maksimalno dopuštene koncentracije neorganskih, organskih hemijskih 
+ supstancija i pesticida u vodi za piće za vreme vanrednog stanja;
+11) ostataka koagulacionih i flokulacionih sredstava - normama 
+ navedenim u Listi XII Dozvoljene koncentracije koagulacionih i flokulacionih 
+ sredstava u vodi za piće za vreme vanrednog stanja;
+12) ostataka dezinfekcionih sredstava i sporednih proizvoda 
+ dezinfekcije - normama navedenim u Listi XIII Dozvoljene koncentracije dezinfekcionih 
+ sredstava i sporednih proizvoda dezinfekcije za vreme vanrednog stanja;
+13) fizičkih, fizičko-hemijskih i hemijskih osobina - normama 
+ navedenim u Listi XIV Maksimalno dopuštene vrednosti fizičkih, fizičko-hemijskih 
+ i hemijskih parametara u vodi za piće za vreme vanrednog stanja;
+14) radioloških osobina - normama navedenim u Listi XV Dozvoljeni 
+ nivo ukupne alfa-aktivnosti i ukupne beta-aktivnosti za vreme vanrednog stanja;
+15) bojnih otrova - normama navedenim u Listi XVI Dozvoljene 
+ koncentracije bojnih otrova u vodi za piće u uslovima ratnog stanja.
+Liste I, II, III-a, b, c, IV, V, VI, VII, VIII, IX, X, XI, 
+ a, b, c, XII, XIII, XIV, XV i XVI odštampane su uz ovaj pravilnik i čine njegov 
+ sastavni deo.
+Član 4
+Higijenska ispravnost vode za piće utvrđuje se: osnovnim 
+ (A) i periodičnim pregledom (B), pregledom vode iz novih zahvata (V) i pregledom 
+ na osnovu higijensko-epidemioloških indikacija (G).
+Pregledi, u smislu stava 1 ovog člana, obuhvataju mikrobiološke, 
+ biološke, fizičke, fizičko-hemijske i hemijske pokazatelje date u tabelama 
+ 1, 2 i 3 koje su odštampane u prilogu ovog pravilnika i čine njegov sastavni 
+ deo.
+Član 5
+Higijenska ispravnost vode iz vodovoda za javno snabdevanje 
+ stanovništva vodom za piće i iz sopstvenih objekata organizacija koje proizvode 
+ ili prerađuju namirnice na industrijski način utvrđuje se sistematskim vršenjem 
+ osnovnih i periodičnih pregleda sirove vode u jednakim razmacima u toku meseca, 
+ odnosno godine zavisno od broja ekvivalentnih stanovnika i to:
+(ES)
+Mesečno osnovni
+Godišnje periodič.
+Ukupno godiš. osnovni
+Ukupno godiš. period.
+Ukupno
+do 5000
+1
+1
+11
+1
+12
+5001-10000
+2
+1
+23
+1
+24
+10001-50000
+3
+1
+35
+1
+36
+50001-100000
+6
+2
+70
+2
+72
+100001-200000
+10
+4
+116
+4
+120
+200001-400000
+15
+6
+174
+6
+180
+više od 400000
+30
+12
+348
+12
+360
+Prilikom svakog pregleda vode iz vodovoda uzorci vode se 
+ uzimaju:
+1) iz svakog izvorišta - ako su izvorišta direktno vezana 
+ na vodovodnu mrežu, ili iz sabirnog voda, odnosno iz rezervoara sirove vode 
+ - ako su povezana u jedan sistem;
+2) iz rezervoara vode za piće;
+3) iz vodovodne mreže, a broj tačaka se određuje zavisno 
+ od broja ekvivalentnih stanovnika, i to:
+Broj ekviv. stanov. (ES)
+do 10.000
+10.001
+50.000
+50.001
+100.000
+100.001
+200.000
+200.001
+400.000
+400.001
+600.000
+Tačke na mreži
+2
+5
+7
+10
+12
+15
+Za vodovode kapaciteta većeg od 600.000 ES uzimaće se na 
+ svakih sledećih 200.000 ES još po jedan uzorak.
+Ako se u sabirnom vodu ili rezervoaru osnovnim pregledom 
+ utvrdi odstupanje od vrednosti koje su propisane ovim pravilnikom, uzorci 
+ se, radi identifikacije zagađenog izvorišta, uzimaju iz svakog izvorišta.
+Član 6
+Pregled vode iz arteških bunara i drugih objekata za javno 
+ snabdevanje stanovništva vodom za piće, ukoliko ne postoje vodovodni sistemi 
+ vrši se godišnje, prema broju stanovnika koji se snabdevaju iz svakog takvog 
+ objekta i prema vrsti objekta, i to:
+Broj stanovnika
+Osnovni pregledi
+Periodični pregledi
+Ukupno
+art. bun.
+ost. obj.
+art. bun.
+ost. obj.
+art. bun.
+ost. obj.
+Do 1.000
+4
+4
+2
+2
+6
+6
+1.001-5.000
+5
+6
+2
+2
+7
+8
+Član 7
+U objektima za snabdevanje vodom obrazovno-vaspitnih organizacija 
+ vrše se u toku školske godine četiri osnovna pregleda vode za piće. Za vreme 
+ raspusta pregled se vrši na 15 dana pre početka nastave. U objektima za rekreativnu 
+ nastavu, odmor dece i omladine i u omladinskim naseljima vrše se četiri osnovna 
+ i dva periodična pregleda za vreme korišćenja objekata.
+U javnim objektima (turističko-ugostiteljski i saobraćajni) 
+ i u objektima za proizvodnju i promet životnih namirnica koji se snabdevaju 
+ vodom iz sopstvenih objekata pregled vode se vrši prema broju ekvivalentnih 
+ stanovnika iz člana 5 stav 1 ovog pravilnika.
+Član 8
+Voda za piće koja se flašira pregleda se na sledeći način:
+1) voda sa izvora i iz ambalažnih sudova pregleda se prema 
+ broju ekvivalentnih stanovnika, u skladu sa odredbama člana 6 ovog pravilnika;
+2) za pregled flaširane vode iz prometa (prodaje) uzimaju 
+ se dva pakovanja, ako se u prodaji ili skladištu nalazi do 500 ambalažnih 
+ jedinica i još jedno pakovanje na svakih 500 ambalažnih jedinica. U tim uzorcima 
+ vrši se osnovni pregled vode.
+Član 9
+Ako se pri osnovnom pregledu vode za piće utvrdi odstupanje 
+ u pogledu mikrobioloških osobina, istraživaće se i patogeni mikroorganizmi 
+ vrste salmonela i šigela, i to:
+1) u prečišćenoj i dezinfikovanoj vodi - kad je najverovatniji 
+ broj koliformnih bakterija veći od 10 u 100 ml, odnosno kad se izbroji više 
+ od 5 kolonija membran-filtar-metodom;
+2) u prirodnoj vodi zatvorenih izvorišta - kad je najverovatniji 
+ broj ukupnih koliformnih bakterija veći od 15 u 100 ml ili kad se izbroji 
+ više od 10 kolonija membran-filtar-metodom;
+3) u vodi iz vodovoda - ako se utvrdi odstupanje kod više 
+ od 20% uzoraka vode uzetih za jedan pregled, a u vodi iz ostalih objekata 
+ za snabdevanje vodom - ako postoji higijensko-epidemiološka indikacija.
+Član 10
+U toku studijsko-istraživačkih radova u novim zahvatima 
+ vode za izgradnju ili rekonstrukciju vodovoda, pregled vode vrši se najmanje 
+ četiri puta godišnje u hidrološkoj godini u karakterističnim periodima u najmanje 
+ dve ovlašćene laboratorije, u obimu navedenom pod (V) u tabelama iz člana 
+ 4 ovog pravilnika.
+Član 11
+Ako postoji higijensko-epidemiološka indikacija da je došlo 
+ ili da može doći do zagađenja vode za piće, osim pokazatelja navedenih u tabelama 
+ 1, 2 i 3 u koloni pod (G), određuju se i pokazatelji koje zahteva higijensko-epidemiološka 
+ indikacija.
+Član 12
+U slučaju akcidentnog zagađenja izvorišta i vode za piće 
+ koje se postojećim i uobičajenim postupcima prerade vode ne može otkloniti, 
+ a ne postoji rezervno izvorište ni mogućnost da se na drugi način obezbedi 
+ voda za piće, može se koristiti voda u kojoj je količina pojedinih supstancija 
+ do 20% veća od vrednosti propisanih ovim pravilnikom, s tim da njihova koncentracija 
+ nije štetna po zdravlje ljudi, i to najduže sedam dana od dana zagađenja.
+Član 13
+Koncentracije pesticida u vodi za piće utvrđuju se u novim 
+ zahvatima i u slučaju higijensko-epidemioloških indikacija prema Listi IIIc.
+Član 14
+Utvrđivanje radioaktivnih materija u vodi za piće vrši se 
+ periodično ako je u odnosu na prirodni fon povećana vrednost radioaktivnosti, 
+ utvrđene za to područje, određivanjem ukupne alfa i beta-aktivnosti prema 
+ Listi VIII.
+Ako ukupna alfa i beta-aktivnost, uključujući i niskoenergetske 
+ čestice beta-emisije ("X"S) prelazi dozvoljeni nivo, određuje se 
+ i sadržaj pojedinih radionuklida, u skladu sa propisom o maksimalnim granicama 
+ radioaktivne kontaminacije životne sredine i o vršenju dekontaminacije.
+Član 14a
+Za vreme ratnog stanja ili neposredne ratne opasnosti voda 
+ za piće koja sadrži bojne otrove u koncentracijama iz Liste XVI može se upotrebljavati 
+ najduže sedam dana, u količini do tri litra dnevno.
+Član 15
+Stupanjem na snagu ovog pravilnika prestaje da važi Pravilnik 
+ o higijenskoj ispravnosti vode za piće ("Službeni list SFRJ", br. 
+ 33/87).
+Član 16
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja 
+ u "Službenom listu SRJ".
+Tabela 1
+MIKROBIOLOŠKI POKAZATELJI PO VRSTAMA LABORATORIJSKIH 
+      PREGLEDA
+Osnovni (A)
+Periodični (B)
+Novi zahvati vode (V)
+Higij. epidem. indikac. (G)
+1. Ukupne koliformne bakterije
+1. Ukupne koliformne bakterije
+1. Ukupne koliformne bakterije
+1. Ukupne koliformne bakter.
+2. Koli. bak. fekal. porek.
+2. Kolif. bakt. fekal. porekla
+2. Kolif. bakt. fekal. porekla
+2. Kolif. bakt. fekalnog porek.
+3. Ukup. broj aerobnih mezofilnih bakterija
+3. Ukup. broj aerobnih mezofilnih bakterija
+3. Ukup. broj aerobnih mezofilnih bakterija
+3. Ukupan. broj aerobnih mezofilnih bakterija
+4. Streptokoke fekalnog porekla
+4. Streptokoke fekalnog porekla
+4. Streptokoke fekalnog porekla
+4. Streptokoke fekalnog porekla
+5. Sulfitoredukujuće klostridije
+5. Sulfitoredukujuće klostridije
+5. Sulfitoredukujuće klostridije
+5. Sulfitoredukujuće klostridije
+6. Proteus-vrste
+6. Proteus-vrste
+6. Proteus-vrste
+6. Proteus-vrste
+7. Pseudomonas aeruginosa
+7. Pseudomonas aeruginosa
+7. Pseudomonas aeruginosa
+7. Pseudomonas aeruginosa
+8. Enterovirusi
+1
+8. Enterovirusi
+3
+8. Patogeni mikroorganizmi prema higijensko-epidemiol. 
+ indikacijama
+9. Bakteriofagi
+1
+9. Feruginoze
+2
+9. Enterovirusi
+1
+10. Crevne protozoe i helminti i njihovi razvojni 
+ oblici
+10. Bakteriofagi
+3
+-
+11. Crevne protozoe
+3
+i 
+ helminti i njihovi razvojni oblici
+______________
+1) Samo iz površinskih voda, prema higijensko-epidemiološkim 
+ indikacijama.
+2) Kvalitativno, ako u vodi ima gvožđa i mangana iznad MDK.
+3) Iz površinskih voda, voda izdani i karstnih vrela.
+Tabela 2
+BIOLOŠKI POKAZATELJI PO VRSTAMA LABORATORIJSKIH PREGLEDA
+Osnovni (A)
+Periodični (B)
+Novi zahvati vode (V)
+Higijensko epidemiološke indikacije 
+		 (G)
+-
+biološki indikatori
+biološki indikatori
+biološki indikatori
+- alge, zooplankton i dr. organizmi
+- alge, zooplankton i dr. organizmi
+- alge, zooplankton i dr. organizmi
+_____________
+* Samo iz površinskih voda.
+Tabela 3
+FIZIČKI, FIZIČKO-HEMIJSKI, HEMIJSKI I RADIOLOŠKI POKAZATELJI 
+      PO VRSTAMA LABORATORIJSKOG PREGLEDA
+Osnovni (A)
+Periodični (B)
+Novi zahvati vode
+4
+(V)
+Higijensko epidemiološke indikacije 
+		 (G)
+Temperatura
+Temperatura
+Temperatura
+Temperatura
+Boja
+Boja
+Boja
+Boja
+Miris
+Miris
+Miris
+Miris
+Ukus
+Ukus
+Ukus
+Mutnoća
+Mutnoća
+Mutnoća
+Mutnoća
+Tvrdoća
+pH
+pH
+pH
+pH
+Utroš. KMn04
+Utroš. KMn04
+Utroš. KMn04
+Utroš. KMn04
+Ostat. ispar.
+Ostat. ispar.
+Ostat. ispar.
+Elektr. prov.
+Elektr. prov.
+Elektr. prov.
+Amonijak
+Amonijak
+Amonijak
+Amonijak
+Rezidua dez. sredstva
+Rezidua dez. sredstva
+Rezidua dez. sredstva
+Rezidua dez. sredstva
+Hloridi
+Hloridi
+Hloridi
+Hloridi
+Nitriti
+Nitrati
+Nitrati
+Nitrati
+Nitrati
+Deterdženti
+1
+(anjonski 
+		 i katjonski)
+Deterdžent (anjonski i katjonski)
+Ostali pokazatelji prema higijensko-epidemiološ. indikacijama
+Fluoridi
+2
+Nitriti
+Nitriti
+Ostat. ispar.
+Gvožđe
+Gvožđe
+Elektr. prov.
+Mangan
+Mangan
+Gvožđe
+3
+Fenoli
+1
+Fenoli
+Mangan
+3
+Fluoridi
+Fluoridi
+Sredstva za koagulaciju i flokulaciju
+Olovo
+Specifične materije koje se očekuju
+Sulfati
+Aluminijum
+Bakar
+Dezinfekciona sredstva i sporedni proizvodi dezinfekcije
+Cijanidi
+Cink
+Ugljen dioksid
+Ortofosfati
+Mineralna ulja % saturacije
+kiseonikom
+Hrom (ukupni)
+Kadmijum % saturacije kiseonikom
+Nikl
+Specifične materije koje se očekuju
+Selen
+Natrijum
+Kalijum
+Kalcijum
+Magnezijum
+Pesticidi
+Policiklični aromatični ugljovodonici PCB, PCT
+Arsen
+Sporedni proizvodi dezinfekcije
+Živa
+Ukupni organski ugljenik
+Ukupna alfa-aktivnost
+Aromatični ugljovodonici
+Mineralna ulja
+Ulja i masti
+Alkalitet
+Tvrdoća (ukupna)
+Ukupna beta-aktivnost
+Specifične materije koje se očekuju
+_____________________________________________________
+1. Iz površinskih voda, voda izdani i karstnih vrela.
+2. U vodovodima u kojima se fluoridiše voda.
+3. Gvožđe i mangan određuje se kod vodovoda koji su u prethodnoj godini 
+		 imali više od 5% uzoraka vode sa vrednostima iznad    maksimalno 
+		 dozvoljene koncentracije.
+4. Najmanje jedan pregled na 3 godine ili ukoliko ukazuju higijensko-epidemiološke 
+		 indikacije.
+Lista I
+MIKROBIOLOŠKE OSOBINE VODE ZA PIĆE
+Red. broj
+Vrsta mikroorganizama
+Prečišćena i dezinfikovana voda i flaširana 
+		 voda na izvoru
+Prirodna voda
+zatvorena izvorišta
+otvorena izvorišta
+1.
+Bakterije salmonela vrste, šigela vrste, vibrio-kolere 
+		 i drugi patogeni mikroorganizmi koliformne bakterije i streptokoke fekalnog 
+		 porekla, proteus-vrste, pseudomonas aeruginosa
+2.
+Crevne protozoe, crevni helminti i njihovi razvojni 
+		 oblici
+Ne sme da sadrži
+3.
+Vibrioni
+4.
+Bakteriofagi
+5.
+Alge i drugi organizmi koji mogu da izmene izgled, 
+		 miris i ukus vode
+6.
+Aerobne mezofilne bakterije na agaru posle inkubacije 
+		 od 48 časova na 310,16 K (37
+o
+C) u 1 ml 
+		 vode do
+10*
+100
+300
+7.
+Ukupne koliformne bakterije određene kao najverovatniji 
+		 broj u 100 ml vode (MPN) do
+0
+10
+100
+Ukupne koliformne bakterije određene membran-filtar-metodom 
+		 u 100 ml do
+0
+5
+10
+8.
+Sulfitoredukujuće klostridije u 100 ml vode do
+0
+1
+10
+9.
+Broj infektivnih jedinica enterovirusa u 10 l vode
+nijedna
+jedna
+jedna
+____________________
+*U flaširanoj prirodnoj vodi koja je u prometu i više 
+		 od 12 sati posle punjenja dozvoljava se 50 aerobnih mezofilnih bakterija.
+Lista II
+MIKROBIOLOŠKE OSOBINE VODE ZA PIĆE U VANREDNIM PRILIKAMA
+Ukupan broj aerobnih mezofilnih bakterija 
+		 u 1 ml
+Ukupan broj kolif. bakterija određ. 
+		 kao najverovatniji broj u 100 ml
+Prečišćena i dezinfek. voda i flaširana prirodna voda
+do 10
+do 10
+Hlorisana voda, bez obzira na poreklo
+do 100
+do 20
+Prirodna voda zatvorenih izvorišta
+do 100
+do 50
+Prirodna voda otvorenih izvorišta
+do 300
+do 100
+Lista IIIa
+MAKSIMALNO DOPUŠTENE KONCENTRACIJE NEORGANSKIH MATERIJA 
+      U VODI ZA PIĆE (mg/l)
+Naziv i oznaka hem. supstanc.
+Maksimalno dopuštena koncentracija redovne 
+		 prilike
+Amonijak (NH
+3
+)
+0,5*
+Antimon (Sb)
+0,003
+Arsen (As)
+0,01
+Bakar (Cu)
+2,0
+Barijum (Ba)
+0,7
+Bor (B)
+1
+Cijanidi (CN)
+0,05
+Cink (Zn)
+3,0
+Fluoridi (F)
+1,2
+Hrom ukupni (Cr)
+0,05
+Hloridi (Cl)
+250
+Kadmijum (Cd)
+0,003
+Kalcijum (Ca)
+200,0
+Kalijum (K)
+12,0
+Magnezijum (Mg)
+50,0
+Mangan (Mn)
+0,05**
+Molibden (Mo)
+0,07
+Natrijum (Na)
+200
+Nikal (Ni)
+0,02
+Nitrati (NO
+3
+)
+50,0
+Nitriti (NO
+2
+)
+0,03**
+Olovo (Pb)
+0,01
+Selen (Se)
+0,01
+Živa (Hg)
+0,001
+______________________________
+*Za vodovode do 5.000 ES do 1 mg/l.
+**Smatra se da je voda ispravna u slučaju da u 20% merenja koja nisu 
+		 uzastopna u toku godine vrednost koncentracije dostigne 0,1 mg/l, frekvencija 
+		 merenja po važećem Pravilniku.
+Lista IIIb
+MAKSIMALNO DOPUŠTENE KONCENTRACIJE ORGANSKIH SUPSTANCIJA 
+      U VODI ZA PIĆE (mg/l)
+Supstancija
+Redovne prilike
+Aromatični ugljovodonici
+benzol
+0,001
+etilbenzol
+0,002
+ksilol
+0,05
+stirol
+0,2
+toluol
+0,7
+Policiklični aromatični ugljovodonici (PAH)
+ukupni 1
+0,0002
+benzo(a)piren
+0,00001
+Hlorovani alkani:
+1,1 - dihloretan
+-
+1,2 - dihloretan
+0,003
+dihlormetan
+0,02
+1,1,1-trihloretan
+2
+ugljentetrahlorid
+0,005
+Hlorovani benzoli:
+monohlorbenzol
+0,3
+1,2 - dihlorbenzol
+1
+1,3 - dihlorbenzol
+-
+1,4 - dihlorbenzol
+0,3
+trihlorbenzoli
+0,02
+Hlorovani eteni:
+1,1 - dihloreten
+0,03
+1,2 - dihloreten
+0,05
+tetrahloreten
+0,04
+trihloreten
+0,07
+vinilhlorid
+0,0005
+Ostalo:
+dialkiltini
+-
+di(2-etilheksil)
+adipinat
+0,08
+di(2-etilheksil)
+ftalat
+0,008
+epihlorhidrin
+0,0004
+etilendiamino-tetrasirćetna kiselina (EDTA)
+0,2
+heksahlorbutadien
+0,0006
+nitriltrisirćetna kiselina
+0,2
+tributilinoksin
+0,002
+mineralna ulja 4
+0,01
+ulja i masti 4
+0,1
+PCB 2
+0,0005
+fenoli 3
+0,001
+Deterdženti (anjonski)
+0,1
+Ortofosfati
+0,15
+1) Policiklični aromatični ugljovodonici (PAH), referentne 
+		 supstancije:
+- fluoranten
+- benzo-3,4-fluoranten
+- benzo-11,12 fluoranten
+- benzo-1,12-perilen
+- indeno-(1,2,3-cd)-piren
+2) Odnosi se na: (2 hlorobifenil 2,3-diklorobifenil, 
+		 2,4,5-trihlorobifenil, 2,2,4,4-tetrahlorobifenil, 2,2,3,4,6-pentahlorobifenil, 
+		 2,2,4,4,5,6-hensahlorobifenil, 2,2,3,3,4,4,6-heptahlorobifenil 2,2,3,3,5,5,6,6-antohlorobifenil).
+3) Fenolne materije koje reaguju sa 4-amino antipirinom.
+4) Posle ekstrakcije u ugljentetrahloridu.
+Lista IIIc
+DOZVOLJENE KONCENTRACIJE PESTICIDA U VODI ZA PIĆE  μg/l
+Supstancije
+Redovne prilike
+UKUPNO
+0,5
+alahlor
+0,1
+aldrin/dieldrin
+0,03
+atrazin
+0,1
+bentazon
+0,1
+DDT
+0,1
+2,4-D
+0,1
+heksahlor-benzol
+0,01
+heptahlor i heptahlor-epoksid
+0,03
+hlorotoluron
+0,1
+izoproturon
+0,1
+karbofuran
+0,1
+lindan
+0,2
+MCPA
+0,1
+metolahlor
+0,1
+molinat
+0,1
+pendimentalin
+0,1
+pentahlorfenol
+0,1
+permetrin
+0,1
+piridat
+0,1
+simazin
+0,1
+trifluralin
+0,1
+hlorfenoksin herbicidi drugačiji od 2,3-D i MCPA 2,4-D
+0,1
+dihlorprop
+0,1
+______________________________
+*Potrebno je određivati samo one pesticide koji se 
+		 koriste i  imaju uticaja na izvorište.
+Lista IV
+DOZVOLJENE KONCENTRACIJE KOAGULACIONIH I FLOKULACIONIH 
+      SREDSTAVA U VODI ZA PIĆE mg/l
+Supstancija
+Redovne prilike
+Aluminijum
+0,2
+Gvožđe
+0,3
+Akrilamid
+0,00025
+Epihlorhidrin
+0,0004
+Lista V
+DOZVOLJENE KONCENTRACIJE DEZINFEKCIONIH SREDSTAVA I 
+      SPOREDNIH PROIZVODA DEZINFEKCIJE mg/l
+Supstancija
+Redovne prilike
+Dezinfekciona sredstva
+hlor
+do
+hlor-dioksid
+Rezidua dezinfekcionog sredstva
+rezidualni hlor, slobodni
+do 0,5
+Sporedni proizvodi dezinfekcije
+bromat
+0,01
+formaldehid
+0,9
+Halogenovani acetonitrili
+- dibromacetonitril
+0,1
+- dihloracetonitril
+0,09
+- trihloracetonitril
+0,001
+hloralhidrat
+0,01
+hlorcizan (kao CN)
+0,05
+2,4,6-trihlorfenol
+0,02
+hlorit
+0,2
+hlorovane sirćetne kiseline
+- dihlorsirćetna kiselina
+0,05
+- trihlorsirćetna kiselina
+Trihalometani
+0,1
+- bromdihlormetan
+0,0015*
+- bromoform
+- dibromhlormetan
+- hloroform
+0,04*
+________________________________
+*Uzorci za ove parametre uzimaju se nakon bilo kog 
+		 vremena delovanja hlora i na izlazu iz postrojenja za obradu vode. Vrednost 
+		 za koncentraciju bromdihlormetana mogu se povećati na 0,025 mg/l, ukoliko 
+		 se vrednost za koncentraciju hloroforma smanji na 0,03 mg/l.
+Lista VI
+FIZIČKE, FIZIČKO-HEMIJSKE I HEMIJSKE OSOBINE VODE ZA 
+      PIĆE KOJE MOGU IZAZVATI PRIMEDBE POTROŠAČA
+R. br.
+Parametri
+Maksimalno dopuštene vrednosti ili koncentracije
+redovne prilike
+prečišćena voda
+1.
+Boja
+5 stepeni kobalt platinske skale
+2.
+Miris i ukus
+bez
+3.
+Mutnoća
+do 1 NTU*
+4.
+Koncentracija jona
+vodonika (pH)
+6,8-8,5
+5.
+Oksidabilnost (mg KMnO
+4
+/l)
+12**
+6.
+Provodljivost (μScm, 
+		 na 20
+o
+C)
+2.500
+7.
+Temperatura
+Temperatura izvorišta ili niže
+8.
+Rastvoreni kiseonik
+(% saturacije)
+50***
+9.
+Sulfati
+250****
+10.
+Vodoniksulfid
+bez*****
+11.
+Ukupni organski ugljenik
+-
+___________________________________________________
+*Za vodovode po 5000 stanovnika dozvoljena je mutnoća 
+		 do 5 NTU (nefelometrijska jedinica mutnoće).
+**Smatra se da je voda ispravna u slučaju da u oko 20% 
+		 merenja koja nisu uzastopna u toku godine, vrednost parametara dostigne 
+		 do 12 mg KMn04/1, frekvencija merenja po važećem Pravilniku. Voda čija 
+		 je potrošnja KMn04 iznad 8 mg/l ne smeju se hlorisati, a moraju se koristiti 
+		 drugi načini dezinfekcije.
+***Ne odnosi se na podzemne vode.
+****Ne sme se osetiti miris
+*****Obavezan parametar kod postrojenja gde se vrši 
+		 ozonizacija, kod ostalih postrojenja potrebno je uvesti ovaj parametar 
+		 kao kontrolni za narednih 5 godina.
+Lista VII
+MAKSIMALNO DOPUŠTENE VREDNOSTI FIZIČKIH, FIZIČKO-HEMIJSKIH 
+      I HEMIJSKIH PARAMETARA U VODI ZA PIĆE U VANREDNIM PRILIKAMA
+Naziv parametra
+Jedinica mere
+Vrednost
+Mutnoća
+NTU
+6
+Boja
+stepeni kobaltnoplatinske skale
+50
+Potrošnja KMn04
+mgKMn04/1
+12
+Elektroprovodljivost na 293,16K(20
+o
+C)
+μScm-1
+2500
+Zasićenost kiseonika na 293,16K(20
+o
+C)
+%
+50
+Hlor, rezidualni slobodan*
+mg/l
+1,0
+__________________________________________
+*Kod voda dezinfekovanih hlorom ili preparatima hlora.
+Lista VIII
+RADIOLOŠKE OSOBINE VODE ZA PIĆE DOZVOLJENI NIVO UKUPNE 
+      ALFA-AKTIVNOSTI I UKUPNE BETA-AKTIVNOSTI
+Vrsta radioaktivnosti
+Bq/1
+a
+i
+b
+Ukupna alfa-aktivnost
+0,1
+Ukupna beta-aktivnost
+1,0
+_____________________________________________________
+a Ako su specifične aktivnosti alfa i/ili beta nestabilnih 
+		 radionuklida veće od naznačenih, neophodno je izvršiti detaljnu analizu 
+		 sadržaja radionuklida.
+b Veće vrednosti specifične aktivnosti alfa i/ili beta 
+		 nestabilnih radionuklida ne znači automatski i nepodobnost vode za ljudsku 
+		 upotrebu.
+Lista IX
+FIZIČKE I FIZIČKO-HEMIJSKE OSOBINE FLAŠIRANE PRIRODNE 
+      VODE ZA PIĆE
+R. br.
+Fizičke i fizičko-hemijske osobine
+Maksimalno dopuštene koncentracije
+1.
+Temperatura - R
+281, 16-185, 16
+2.
+Miris
+bez
+3.
+Ukus
+bez
+4.
+Mutnoća koju prouzrokuju silikatna zemlja u 1l destilovane 
+		 vode, mg
+do 2,5
+- Mutnoća u nefelometrijskim jedinicama (NTU)
+do 0,6
+5.
+Boja-stepeni kobalt-platinske skale
+10
+- voda koja sadrži huminske materije (najviše do 20 
+		 mg/l KMn04)
+6.
+pH vrednost:
+- u vodovodskoj vodi
+- u ostalim vodama
+6,8-8,5
+7.
+Ukupni ostatak posle isparavanja na 378,16 K mg/l
+do 500
+8.
+Suspendovane čvrste supstance
+na 378,16 K, mg/l
+bez
+9.
+Potrošnja kalijum-permanganata, mg/l KMnO
+do 5
+- voda sa huminskim materijama
+10.
+Hemijska potrošnja kiseonika (HPK) iz K2Cr207, mg O:/l
+do 1
+11.
+Elektrolitička provodljivost (Scm) pri 293,16 K
+do 500
+12.
+Zasićenost kiseonikom na 293,16 K, μ %
+-
+Lista X
+MAKSIMALNO DOPUŠTENE KONCENTRACIJE HEMIJSKIH SUPSTANCIJA 
+		     U FLAŠIRANOJ
+PRIRODNOJ VODI ZA PIĆE U mg/l
+R. br.
+Naziv hemijskih supstancija
+Jedinica mere mg/l
+1.
+Aluminijum Al
+0,05
+2.
+Amonijak 1 kao N
+0,01
+3.
+Antimon Sb
+0,01
+4.
+Arsen As
+0,05
+5.
+Azbest. broj vlakana/1
+bez
+(+)
+6.
+Azot po Kjeldalu bez N iz NO
+2
+i NO
+3
+0,02
+7.
+Bakar Cu
+0,1
+8.
+Barijum Ba
+0,1
+9.
+Berilijum Be
+0,0002
+10.
+Bor B
+1,0
+11.
+Cijanidi CN
+bez
+12.
+Cink Zn
+0,1
+13.
+Deterdženti-anjonski TBS
+(2)
+bez
+- nejonogeni triton X-100
+bez
+14.
+Fenoli-hlorisane vode
+bez
+- nehlorisane vode
+bez
+- 2,4 dinitrofenol
+bez
+15.
+Fluoridi F
+1,0
+16.
+Fosfati-orto, kao P
+0,03
+- poli-kao
+0,0
+17.
+Gvožđe Fe
+0,05
+18.
+Hlor, rezidualni slob.
+(4)
+Cl
+bez
+19.
+Hloridi
+(5)
+Cl
+25,0
+20.
+Hrom (VI) Cr
+0,05
+- Hrom (III) Cr
+0,10
+21.
+Kadmijum Cd
+0,005
+22.
+Kalcijum Ca
+100,0
+23.
+Kalijum K
+10,0
+24.
+Kobalt Co
+-
+25.
+Magnezijum Mg
+30,0
+26.
+Mangan Mn
+0,02
+27.
+Mineralna ulja
+(6)
+bez
+28.
+Molibden Mo
+-
+29.
+Natrijum Na
+20,0
+30.
+Nikl Ni
+0,01
+31.
+Nitrati, kao NO
+2
+5,0
+32.
+Nitriti NO
+bez
+33.
+Olovo Pb
+0,05
+34.
+Organohlorna jedinjenja osim pesticida, PCB i RST
+bez
+35.
+Poliakrilamid
+bez
+36.
+Policiklični aromatični
+ugljovodonici (PAH)
+(7)
+bez
+37.
+Polihlorobazni bifenili (PCB) i trifenili (RST)
+bez
+38.
+Selen Se
+0,01
+39.
+Silikati SiO
+2
+-
+40.
+Srebro Ag
+0,01
+41.
+Stroncijum Sc
+-
+42.
+Sulfati SO
+4
+25,0
+43.
+Supstance rastvorene u hloroformu
+0,1
+44.
+Trihalometani (THM)18)
+bez
+45.
+Ugljenik, ukupni organski (TOC)
+(9)
+-
+46.
+Ukupna ulja i masti (posle ekstrakcije u ugljen-tetra-hloridu 
+		 ili 1,1,2-trihlortanu)
+bez
+47.
+Uran U
+0,05
+48.
+Vanadijum V
+0,001
+49.
+Vodonik-sulfid
+(10)
+bez
+50.
+Živa Hg
+0,001
+Lista XIa
+MAKSIMALNO DOPUŠTENE KONCENTRACIJE NEORGANSKIH MATERIJA 
+		     U VODI ZA PIĆE 
+      ZA VREME VANREDNOG STANJA
+Naziv i oznaka hem. supstanc.
+Maksimalno dopuštena
+koncentracija (mg/l)
+Amonijak (NH
+3
+)
+0,5*
+Antimon (Sb)
+0,003
+Arsen (As)
+0,01
+Bakar (Cu)
+3,0
+Barijum (Ba)
+1,0
+Bor (B)
+2,0
+Cijanidi (CN)
+0,1
+Cink (Zn)
+5,0
+Fluridi (F)
+3,0
+Hrom ukupni (Cr)
+0,05
+Hloridi (Cl)
+200
+Kadmijum (Cd)
+0,01
+Kalijum (K)
+12,0
+Magnezijum (Mg)
+50,0
+Mangan (Mn)
+0,2
+Molibden (Mo)
+0,5
+Natrijum (Na)
+150,0
+Nikal (Ni)
+0,05
+Nitrati (NO
+3
+)
+75,0
+Nitriti (NO
+2
+)
+0,05**
+Olovo (Pb)
+0,01
+Selen (Se)
+0,01
+Živa (Hg)
+0,001
+*  Za vodovode do 5.000 EC do 1mg/l.
+** Smatra se da je voda ispravna u slučaju da 
+		 u 20% merenja koja nisu uzastopna u toku godine, vrednost koncentracije 
+		 dostigne 0,1 mg/l frekvencija merenja po ovom pravilniku.
+Lista XIb
+MAKSIMALNO DOPUŠTENE KONCENTRACIJE ORGANSKIH SUPSTANCIJA 
+      U VODI ZA PIĆE ZA VREME VANREDNOG STANJA
+Supstancija
+mg/l
+Aromatični ugljovodonici:
+benzol
+0,001
+etilbenzol
+0,002
+ksilol
+0,05
+stirol
+0,2
+toluol
+0,7
+Policiklični aromatični ugljovodonici (PAH):
+ukupni 1
+0,0002
+benzo(a)piren
+0,00001
+Hlorovani alkani:
+1,1-dihloretan
+-
+1,2-dihloretan
+0,003
+dihlormetan
+0,02
+1,1,1-trihloretan
+2
+ugljentetra-hlorid
+0,005
+Hlorovani benzoli:
+monohlorbenzol
+0,3
+1,2dihlorbenzol
+1
+1,3dihlorbenzol
+-
+1,4dihlorbenzol
+0,3
+trihlorbenzoli
+0,02
+Hlorovani eteni:
+1,1-dihloreten
+0,03
+1,2-dihloreten
+0,05
+tetrahloreten
+0,04
+trihloreten
+0,07
+vinilhlorid
+0,0005
+Ostalo:
+dialkiltini
+-
+di(2-etilheksil)adipinat
+0,08
+di(2-etilheksil)ftalat
+0,008
+etilendiamino-tetrasirćetna kiselina (EDTA)
+0,2
+heksahlorbutadien
+0,0006
+nitriltrisirćetna kiselina
+0,2
+tributilinoksin
+0,002
+mineralna ulja
+4
+0,1
+ulja i masti
+4
+0,1
+PCB
+2
+0,0005
+fenoli
+3
+0,001
+Deterdženti (anjonski)
+0,2
+Ortofosfati
+0,15
+1)
+Policiklični aromatični 
+		 ugljovodonici (PAH), referentne supstancije:
+- fluoranten
+- benzo-3,4-fluoranten-benzo-1,12-perilen
+- benzo-11,12 fluoranten - indeno-(1,2,3-cd)-piren
+2)
+Odnosi se na: (2 hlorobifenil 
+		 2,3-diklorobifenil, 2,4,5-trihlorobifenil, 2,2,4,4-tetrahlorobifenil, 
+		 2,2,3,4,6-pentahlorobifenil, 2,2,4,4,5,6-heksahlorobifenil, 2,2,3,3,4,4,6-heptahlorobifenil 
+		 2,2,3,3,5,5,6,6-antohlorobifenil)
+3)
+Fenolne materije koje 
+		 reaguju sa 4-amino antipirinom.
+4)
+Posle ekstrakcije u 
+		 ugljentetrahloridu.
+Lista XIc
+DOZVOLJENE KONCENTRACIJE PESTICIDA U VODI ZA PIĆE ZA 
+      VREME VANREDNOG STANJA
+Supstancije
+μ g/l
+UKUPNO
+0,5
+alahlor
+0,1
+aldin/dieldrin
+0,03
+atrazin
+0,1
+bentazon
+0,1
+DDT
+0,1
+2,4-D
+0,1
+heksahlor-benzol
+0,01
+heptahlori heptahlor-epoksid
+0,03
+hlorotolurn
+0,1
+izoproturon
+0,1
+karbofuran
+0,1
+lindan
+0,2
+MCPA
+0,1
+metolahlor
+0,1
+molinat
+0,1
+pendimentalin
+0,1
+pentahlorfenol
+0,1
+permetrin
+0,1
+piridat
+0,1
+simazin
+0,1
+trifluralin
+0,1
+hlorfenoksinherbicidi drugačiji od 2,3-DiMCPA
+0,1
+2,4-D
+dihlorprop
+0,1
+* Potrebno je određivati samo one pesticide koji se 
+		 koriste
+i ima ju uticaja na izvorište.
+Lista XII
+DOZVOLJENE KONCENTRACIJE KOAGULACIONIH I FLOKULACIONIH 
+      SREDSTAVA U VODI ZA PIĆE ZA VREME VANREDNOG STANJA
+Supstancija
+mg/l
+Aluminijum
+0,2
+Gvožđe
+0,45
+Akrilamid
+0,00025
+Epihlorhidrin
+0,0004
+Lista XIII
+DOZVOLJENE KONCENTRACIJE DEZINFEKCIONIH SREDSTAVA I 
+     SPOREDNIH PROIZVODA DEZINFEKCIJE ZA VREME VANREDNOG STANJA
+Supstancija
+mg/l
+Dezinfekciona sredstva
+hlor
+*
+hlor-dioksid
+0,6
+Rezidua dezinfekcionog sredstva
+rezidualni hlor, slobodni
+1,0
+Sporedni proizvodi dezinfekcije
+bromat
+0,01
+formaldehid
+0,9
+Halogenovani acetonitrili
+- dibromacetonitril
+0,1
+- dihloracetonitril
+0,09
+- trihloracetonitril
+0,001
+hloralhidrat
+0,01
+hlorcian (kao CN)
+0,05
+2,4,6-trihlorfenol
+0,02
+hlorit
+0,2
+hlorovane sirćetne kiseline
+- dihlorsirćetna kiselina
+0,05
+- trihlorsirćetna kiselina
+Trihalometani
+0,1
+- bromdihlormetan
+0,0015**
+- bromoform
+- dibromhlormetan
+- hloroform
+0,04**
+* Do dobijanja vrednosti za slobodni rezidualni hlor 
+ od 1,0 mg/l.
+** Uzorci za ove parametre uzimaju se posle bilo 
+ kog vremena delovanja hlora i na izlazu iz postrojenja za obradu vode. 
+ Vrednost za koncentraciju bromdihlormetana mogu se povećati na 0,025 
+ mg/l, ako se vrednost za koncentraciju hloroforma smanji na 0,03 mg/l.
+Lista XIV
+MAKSIMALNO DOPUŠTENE VREDNOSTI FIZIČKIH, FIZIČKO-HEMIJSKIH 
+		     I HEMIJSKIH 
+      PARAMETARA U VODI ZA PIĆE ZA VREME VANREDNOG STANJA
+Naziv parametra
+jedinica mere
+vrednost
+Mutnoća
+NTU
+6
+Miris
+bez
+Koncentracija jona vodonika
+pH
+6,8-8,5
+Temperatura
+o
+C
+temperatura izvorišta ili niža
+Sulfati
+mg
+250
+Boja
+stepeni kobaltno-platinske skale
+50
+Oksidabilnost KMnO
+4
+mgKMnO
+4
+/l
+12*
+Elektroprovodljivost na
+293,16K (20
+o
+C)
+m
+Scm-1
+2500
+Zasićenost kiseonika na
+293,16 K(20
+o
+C)
+%
+50**
+Vodonik sulfid
+0,005
+Ukupni organski ugljenik
+***
+*Ako je vrednost KMnO
+4
+iznad 12 mg/l voda se ne sme hlorisati, već treba koristiti druge načine 
+		 dezinfekcije.
+** Ne odnosi se na podzemne vode.
+*** Obavezan parametar kod postrojenja gde se vrši 
+		 ozonizacija, a kod ostalih koristi se kao kontrolni parametar.
+Lista XV
+RADIOLOŠKE OSOBINE VODE ZA PIĆE DOZVOLJENI NIVO UKUPNE 
+      ALFA-AKTIVNOSTI I UKUPNE BETA-AKTIVNOSTI ZA VREME VANREDNOG STANJA
+Vrsta radioaktivnosti
+Bq/l*
+Ukupna alfa - aktivnost
+0,1
+Ukupna beta - aktivnost
+1,0
+*Veće vrednosti specifične aktivnosti alfa i/ili beta 
+		 nestabilnih radionuklida ne znače i nepodobnost vode za ljudsku upotrebu. 
+		 Ako su specifične aktivnosti alfa i/ili beta nestabilnih radionuklida 
+		 veće od naznačenih, neophodno je izvršiti detaljnu analizu sadržaja 
+		 radionuklida.
+Lista XVI
+DOZVOLJENE KONCENTRACIJE BOJNIH OTROVA U VODI ZA PIĆE 
+      U USLOVIMA RATNOG STANJA
+Grupa
+Naziv
+Maksimalno dozvoljena koncentracija 
+		 (mg/l)
+Bojni otrovi
+Sarin
+0,001
+Soman
+ne dozvoljava se
+I
+Tabun
+0,015
+a)* Nervno paralitički BOT i drugi inhibitori holinesteraze
+VX (0-etil-C-diizopropilaminoetil/-etilfosfotioat)
+0,003
+H-iperit
+0,03
+H-iperit
+0,02
+b) Plikavci, cijanidi i otrovi za privremeno onesposobljavanje
+Luizit
+0,03
+Cijanidi kao CN
+0,2
+BZ(hinuklidil benzilat)
+0,05
+2,4-D (dihlorfenoksi sirćetna kiselina)
+0,5
+II Herbicidi i defolijanti
+2,4,5-T (trihlorfenoksi sirćetna kiselina)
+0,5
+Pikloram
+0,1
+Kakodilna kiselina
+0,1
+p-dioksin
+10
+-7
+(g/l)
+III Toksini biološkog porekla
+Botulinus A toksin
+10
+-9
+(g/l)
+Mikotoksin iz grupe trihocetana (T2, Nivalenol, deoksinivalenol 
+		 i zearalenon)
+0,01
+* Ostale inhibitore holisteraze voda ne sme da sadrži 
+		 u količini da inhibira više od 25% aktivnosti 0,01 IJ serumske humane 
+		 holisteraze pri inkubaciji u dva ml ispitivane vode u toku 20 minuta 
+		 pri pH 7,2 i temperaturi od 35
+o
+C.

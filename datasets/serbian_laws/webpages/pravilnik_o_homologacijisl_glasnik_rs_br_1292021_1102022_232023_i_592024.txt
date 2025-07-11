@@ -1,0 +1,1055 @@
+Title: PRAVILNIKO HOMOLOGACIJI
+URL: https://www.paragraf.rs/propisi/pravilnik-o-homologaciji.html
+Extracted: 2025-07-06T23:09:52.868879
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O HOMOLOGACIJI
+("Sl. glasnik RS", br. 129/2021,  110/2022,  23/2023 i 59/2024)
+I UVODNE ODREDBE
+Član 1
+Ovim pravilnikom propisuju se bliži uslovi o postupku
+i načinu ispitivanja pojedinačno ili serijski proizvedenih motornih i
+priključnih vozila, bliži uslovi o postupku i načinu homologacionih
+ispitivanja i kontrole saobraznosti novoproizvedenih vozila, odnosno
+uređaja, sklopova i opreme na vozilima, uslovi koje mora ispunjavati
+pravno lice koje vrši ispitivanja pojedinačno proizvedenih vozila i
+način provere ispunjenosti uslova od strane pravnog lica, uslovi koje
+mora ispunjavati pravno lice koje vrši homologaciona ispitivanja
+odnosno kontrolu saobraznosti novoproizvedenih vozila, odnosno uređaja,
+sklopova i opreme na vozilima i način provere ispunjenosti uslova od
+strane pravnog lica, izgled, način vođenja, uslovi za upis i brisanje
+iz registra privrednih društava i preduzetnika koji mogu da izvrše
+pojedinačnu proizvodnju vozila.
+Ovaj pravilnik ne primenjuje se na:
+1) Vozila i sredstva koja od strane proizvođača nisu predviđena za saobraćaj na putevima;
+2) Vozila i sredstva za sportska takmičenja;
+3) Borbena vozila vojske i policije;
+4) Vozila sa pogonom na pedale sa dodatnim
+električnim motorom čija je najveća snaga manja ili jednaka 250 W i
+najveća konstruktivna brzina manja od 25 km/h, a koja nisu deklarisana
+kao vozila vrste L1;
+5) Samobalansirajuće skutere;
+6) Viljuškarska kolica;
+7) Prevozna sredstva bez mesta za sedenje.
+Član 2
+Pojmovi korišćeni u ovom pravilniku imaju sledeće značenje:
+1) UN Pravilnik, u smislu ovog pravilnika, je propis
+kojim se propisuju jednoobrazni tehnički uslovi u skladu sa Sporazumom
+o usvajanju jednoobraznih tehničkih propisa za vozila sa točkovima,
+opremu i delove koji mogu biti ugrađeni i/ili korišćeni na vozilima sa
+točkovima i uslovima za uzajamno priznavanje dodeljenih homologacija na
+osnovu ovih propisa, koji se odnose na vozila, uređaje, sklopove i
+opremu vozila (u daljem tekstu: Sporazum), kao i postupci kojima se
+proverava njihova ispunjenost;
+2) OECD kodovi su posebni pravilnici (kod od 2 do 10)
+za ispitivanja poljoprivrednih i šumskih traktora odnosno njihove
+opreme i delova, usvojeni od strane OECD - Organizacije za ekonomsku
+saradnju i razvoj i uključuju ispitivanja performansi traktora,
+sigurnosti rukovaoca (ispitivanje zaštitnih kabina i ramova) kao i
+nivoa buke. Ispitivanja zaštitnih kabina i ramova prema OECD kodovima u
+potpunosti je prepoznato i harmonizovano sa odgovarajućim propisima
+Evropske Unije (u daljem tekstu: EU propisi);
+3) homologaciono ispitivanje jeste postupak
+utvrđivanja karakteristika tipa vozila, odnosno uređaja, sklopova i
+opreme na vozilima u skladu sa procedurom definisanom u odgovarajućem
+UN Pravilniku;
+4) kontrola saobraznosti je postupak pregleda
+dokumentacije i vozila ili reprezenta tipa vozila, odnosno uređaja,
+sklopova i opreme na vozilima i utvrđivanja njihove saobraznosti sa
+zahtevima propisa Republike Srbije, pravilnika Ujedinjenih nacija koji
+se primenjuju u Republici Srbiji, odgovarajućih propisa Evropske unije
+i kodovima Organizacije za ekonomsku saradnju i razvoj (OECD);
+5) ispitivanje jeste postupak utvrđivanja jedne ili
+više karakteristika novoproizvedenog vozila ili tipa vozila odnosno
+uređaja, sklopova i opreme na vozilima u skladu sa procedurom;
+6) saobraznost proizvodnje je skup postupaka koji
+obezbeđuju da sva vozila, odnosno njihovi uređaji, sklopovi i oprema na
+vozilima budu saobrazni sa homologovanim tipom;
+7) višestepena homologacija jeste postupak
+homologacije tipa kompletiranog ili modifikovanog vozila, na osnovu
+prihvatanja postojećih pojedinačnih Saopštenja o homologaciji
+nekompletnog ili baznog vozila i sprovedenih homologacionih ispitivanja
+u cilju izdavanja nedostajućih Saopštenja o homologaciji kompletiranog
+ili modifikovanog vozila prema UN Pravilnicima koji se primenjuju u
+Republici Srbiji;
+8) tehnička služba je pravno lice koje ispunjava
+propisane uslove za sprovođenje homologacionih ispitivanja odnosno
+kontrolu saobraznosti odnosno pojedinačno odobrenje vozila, a koje je
+ovlašćeno od strane Agencije za bezbednost saobraćaja (u daljem tekstu:
+Agencija);
+9) proizvođač u smislu ovog pravilnika je pravno lice
+ili preduzetnik koje izrađuje vozilo odnosno uređaj, sklop ili opremu
+ili lice koje se predstavlja kao proizvođač stavljanjem svog poslovnog
+imena, imena ili naziva, žiga, neke druge prepoznatljive oznake ili na
+drugi način i obezbeđuje preduslove za sve procese koji se odnose na
+homologaciju i saobraznost proizvodnje;
+10) predstavnik proizvođača je pravno lice ili
+preduzetnik koje je proizvođač ovlastio da ga predstavlja pred
+Agencijom u poslovima homologacije, kontrole saobraznosti i višestepene
+homologacije;
+11) proizvođač pojedinačno proizvedenog vozila u
+Republici Srbiji u smislu ovog pravilnika je pravno lice ili
+preduzetnik koje poseduje Rešenje odnosno Potvrdu Instituta za
+standardizaciju Srbije o dodeljenoj Međunarodnoj identifikacionoj šifri
+proizvođača vozila - WMI na osnovu koje proizvođač formira
+identifikacionu oznaku vozila - VIN (u daljem tekstu: VIN) i koje je
+pred Agencijom odgovorno za sve procese koji se odnose na pojedinačno
+proizvedeno vozilo;
+12) proizvođačka tablica je nalepnica ili pločica
+koju postavlja proizvođač vozila ili predstavnik proizvođača i na kojoj
+su navedeni najmanje sledeći podaci: naziv proizvođača vozila,
+identifikaciona oznaka vozila, oznaka homologacije tipa vozila ukoliko
+postoji i informacije o najvećoj dozvoljenoj masi vozila odnosno skupa
+vozila i najvećoj dozvoljenoj ukupnoj masi vozila odnosno skupa vozila,
+najvećim dozvoljenim osovinskim opterećenjima proizvođača vozila i
+najvećim dozvoljenim ukupnim osovinskim opterećenjima vozila odnosno
+skupa vozila, kako je primenljivo prema jednoobraznim tehničkim
+uslovima;
+13) uvoznik je fizičko ili pravno lice koje uvozi novoproizvedeno vozilo, odnosno uređaj, sklop ili opremu u Republiku Srbiju;
+14) EU Potvrda o saobraznosti (u daljem tekstu: COC
+dokument (EU Certificate of Conformity)) je pismeni dokaz izdat od
+strane proizvođača vozila, kojim se za svako vozilo potvrđuje da je
+proizvedeno u skladu sa šemom homologacije tipa celog vozila (WVTA) i
+da ispunjava zahteve koji su bili na snazi u vreme njegove proizvodnje;
+15) novoproizvedeno vozilo u smislu ovog pravilnika
+je vozilo koje nikada nije registrovano, niti korišćeno u javnom
+saobraćaju odnosno vozilo kome je od prve registracije prošlo manje od
+šest meseci;
+16) pojedinačno proizvedeno vozilo je novoproizvedeno
+vozilo čija karoserija, odnosno šasija ne postoji u proizvodnom
+programu nekog od proizvođača vozila i koje po vrsti, marki i tipu
+predstavlja potpuno novi proizvod i za koje se sprovodi pojedinačno
+odobrenje vozila;
+17) pojedinačno odobrenje vozila je postupak kojim se
+proverava da li pojedinačno kompletirano, modifikovano ili proizvedeno
+vozilo ispunjava propise i UN Pravilnike koji se primenjuju u Republici
+Srbiji;
+18) serijski proizvedeno vozilo je novoproizvedeno vozilo homologovanog tipa koje proizvođač serijski proizvodi;
+19) kompletno vozilo jeste svako novoproizvedeno
+vozilo homologovanog tipa koje je proizvedeno u jednoj fazi od strane
+jednog proizvođača, a koje zadovoljava propise i UN Pravilnike, koji se
+primenjuju u Republici Srbiji;
+20) nekompletno vozilo jeste svako novoproizvedeno
+vozilo homologovanog tipa koje se podvrgava dodatnim postupcima kako bi
+postalo kompletirano vozilo;
+21) kompletirano vozilo jeste svako novoproizvedeno
+vozilo homologovanog tipa koje je nastalo od nekompletnog vozila, a
+koje zadovoljava propise i UN Pravilnike, koji se primenjuju u
+Republici Srbiji;
+22) bazno vozilo jeste svako novoproizvedeno vozilo
+homologovanog tipa koje se podvrgava dodatnim postupcima kako bi
+postalo modifikovano vozilo;
+23) modifikovano vozilo jeste svako novoproizvedeno
+vozilo homologovanog tipa nastalo od baznog vozila na kome su naknadno
+izvršene promene konstruktivnih karakteristika kojima se menja namena
+ili vrsta vozila ili deklarisane tehničke karakteristike vozila ili
+deklarisane karakteristike uređaja i sklopova vozila, kao i ostali
+vidovi modifikacija koje se mogu izvršiti, a koje, u odnosu na izvršene
+modifikacije, zadovoljava propise i UN Pravilnike, koji se primenjuju u
+Republici Srbiji;
+24) nadgrađivač jeste pravno lice koje nekompletno
+vozilo podvrgava dodatnim postupcima sa ciljem dobijanja pojedinačno
+kompletiranog vozila;
+25) modifikator jeste pravno lice koje bazno vozilo
+podvrgava dodatnim postupcima sa ciljem dobijanja pojedinačno
+modifikovanog vozila;
+26) izveštaj o homologacionom ispitivanju je izveštaj
+o ispitivanju koji izrađuje tehnička služba ovlašćena za homologaciona
+ispitivanja kao rezultat homologaconog ispitivanja, koji sadrži pored
+ostalog i sve elemente potrebne za dodelu Saopštenja o homologaciji;
+27) homologacioni zapisnik je zapisnik Agencije koji
+se izrađuje u postupku administrativnog utvrđivanja saobraznosti tipa
+vozila, odnosno tipa uređaja, sklopa ili opreme na vozilima i
+dostavljene proizvođačke dokumentacije sa zahtevima odgovarajućeg UN
+Pravilnika, kao i u postupku kontrole saobraznosti proizvodnje;
+28) izveštaj o kontroli saobraznosti je Izveštaj o
+kontrolisanju koji izdaje tehnička služba ovlašćena za kontrolu
+saobraznosti kao rezultat kontrole saobraznosti i koji je jednoobrazan
+za sve tehničke službe;
+29) izveštaj o ispitivanju je dokument koji izrađuje
+tehnička služba ovlašćena za kontrolu saobraznosti ili tehnička služba
+ovlašćena za homologaciona ispitivanja u postupku ispitivanja u cilju
+pojedinačnog odobrenja vozila. Izveštaj o ispitivanju je deo
+dokumentacije na osnovu koje se vrši kontrola saobraznosti;
+30) vozilo spremno za upotrebu je novoproizvedeno
+vozilo koje ima ugrađene sve potrebne delove i uređaje, sa mogućnošću
+korišćenja svih predviđenih funkcija, bez zaštitnih folija,
+dekonzervirano i bez značajnih oštećenja;
+31) saopštenje o homologaciji je isprava koju
+dodeljuje Agencija, odnosno druga članica potpisnica Sporazuma, a na
+osnovu podnetog osnovanog zahteva, proizvođačke dokumentacije i ukoliko
+je potrebno, Izveštaja o homologacionom ispitivanju i podrazumeva
+Saopštenje o dodeljivanju, proširenju, odbijanju, povlačenju
+homologacije ili prestanku proizvodnje;
+32) uverenje (potvrda) o odobrenju (u daljem tekstu:
+Uverenje o odobrenju) je isprava koju izdaje Agencija, a kojom se
+potvrđuje saobraznost tipa novoproizvedenog vozila, odnosno uređaja,
+sklopa ili opreme vozila ili saobraznost novoproizvedenog vozila sa
+propisanim uslovima za puštanje u saobraćaj. Uverenje o odobrenju
+izdaje se kao Uverenje o pojedinačnom odobrenju vozila za pojedinačno
+kompletirana, modifikovana, proizvedena odnosno uvezena vozila ili
+Uverenje o odobrenju tipa za tip serijski novoproizvedenog vozila,
+odnosno uređaja, sklopova i opreme na vozilima;
+33) potvrda o saobraznosti je pismeni dokaz izdat od
+strane proizvođača vozila u Republici Srbiji, odnosno predstavnika
+proizvođača u Republici Srbiji, kojim se za svako vozilo potvrđuje da
+je proizvedeno u skladu sa Uverenjem o odobrenju tipa vozila i da
+ispunjava zahteve koji su bili na snazi u vreme njegove proizvodnje;
+34) sklapanje vozila jeste proizvodnja vozila
+sklapanjem vozila od elemenata karoserije - okvira koji je već
+prethodno proizveo registrovani proizvođač vozila (sa utisnutom
+identifikacionom oznakom vozila) i elemenata pogonskog agregata (ako je
+u pitanju motorno vozilo) takođe već proizvedenog od strane nekog
+registrovanog proizvođača agregata (sa utisnutom oznakom motora), sa
+ugradnjom uređaja i opreme koji pripadaju odabranoj šasiji ili
+karoseriji;
+35) osvedočenje znanja jeste postupak utvrđivanja
+ispunjenost uslova u pogledu posedovanja adekvatnih veština,
+specifičnih tehničkih znanja i iskustva zaposlenih lica u tehničkoj
+službi radi pravilnog vršenja homologacionih ispitivanja, kontrole
+saobraznosti odnosno pojedinačnog odobrenja vozila.
+Član 3
+Poslovi homologacije obuhvataju podnošenje zahteva,
+dostavljanje i pregled dokumentacije, izdavanje naloga tehničkoj
+službi, homologaciono ispitivanje sa izdavanjem izveštaja i dodelu
+odgovarajućih Saopštenja o homologaciji.
+Poslovi kontrole saobraznosti obuhvataju podnošenje
+zahteva, dostavljanje dokumentacije, pregled dokumentacije, izdavanje
+naloga tehničkoj službi, kontrolu saobraznosti sa izdavanjem izveštaja
+i izdavanje Uverenja o odobrenju.
+Poslovi višestepene homologacije obuhvataju
+podnošenje zahteva, dostavljanje i pregled dokumentacije, priznavanje
+Saopštenja o homologaciji izdatih za nekompletno, odnosno bazno vozilo,
+izdavanje naloga tehničkoj službi, homologaciono ispitivanje
+kompletiranih ili modifikovanih vozila i dodelu odgovarajućih
+Saopštenja o homologaciji.
+Poslovi pojedinačnog odobrenja vozila obuhvataju
+podnošenje zahteva, dostavljanje, pregled i odobravanje dokumentacije,
+izdavanje naloga tehničkoj službi (kada je to potrebno), ispitivanja
+pojedinačno kompletiranog ili modifikovanog vozila ili pojedinačno
+proizvedenog vozila, kontrolu saobraznosti u cilju pojedinačnog
+odobrenja i izdavanje Uverenja o odobrenju.
+Poslove iz st. 1-4. ovog člana sprovodi Agencija.
+Homologaciona ispitivanja, kao deo poslova iz st. 1.
+i 3. ovog člana, obavlja Agencija, odnosno tehnička služba ovlašćena od
+strane Agencije za homologaciona ispitivanja, a po nalogu Agencije.
+Kontrolu saobraznosti, kao deo poslova iz stava 2.
+ovog člana, obavlja Agencija, odnosno tehnička služba ovlašćena od
+strane Agencije za kontrolu saobraznosti, a po nalogu Agencije.
+Ispitivanje i kontrolu saobraznosti pojedinačno
+kompletiranog ili modifikovanog vozila kao deo poslova iz stava 4. ovog
+člana, obavlja Agencija, odnosno tehnička služba ovlašćena od strane
+Agencije za pojedinačno odobrenje vozila, na osnovu podnetog zahteva.
+Ispitivanje i kontrolu saobraznosti pojedinačno
+proizvedenog vozila, kao deo poslova iz stava 4. ovog člana, obavlja
+Agencija, odnosno tehnička služba ovlašćena od strane Agencije za
+pojedinačno odobrenje vozila, na osnovu podnetog zahteva.
+Član 4
+Homologacionim ispitivanjima podležu svi tipovi
+serijski proizvedenih vozila, odnosno uređaja, sklopova i opreme na
+vozilima za koja je donesen odgovarajući UN Pravilnik.
+Pojedinačnom odobrenju vozila podležu kompletirana i modifikovana vozila, kao i pojedinačno proizvedena vozila.
+Postupku odobrenja tipa vozila podležu serijski
+proizvedena vozila u Republici Srbiji vrste T, Tm i R, uređaji,
+sklopovi i oprema.
+Kontroli saobraznosti podležu svi tipovi serijski
+proizvedenih vozila, uređaja, sklopova i opreme i sva pojedinačno kompletirana, modifikovana i
+proizvedena vozila.
+Član 5
+Za vozila, sredstva, uređaje i sklopove iz člana 1.
+stav 2. ovog pravilnika, ako je to posebno propisano, Agencija može
+izdati ispravu kojom potvrđuje da ista pri uvozu nisu predmet
+homologacionih ispitivanja i kontrole saobraznosti.
+Član 6
+Agencija, pre izdavanja isprave o homologaciji, može
+izvršiti kontrolu saobraznosti vozila, sredstava, uređaja i sklopova iz
+člana 1. stav 2. ovog pravilnika radi kontrole ili utvrđivanja
+određenih tehničkih karakteristika neophodnih za donošenje odluke.
+Član 7
+Sva serijski novoproizvedena vozila vrste L, M, N, O,
+T, TR, Tm, R i S, pre puštanja u saobraćaj u Republici Srbiji, moraju
+imati Potvrdu o saobraznosti sa podacima koji su zajedno sa COC
+dokumentom dostavljeni Agenciji odnosno uneti u informacioni sistem
+Agencije od strane proizvođača vozila u Republici Srbiji odnosno
+ovlašćenog predstavnika proizvođača u Republici Srbiji.
+Potvrda o saobraznosti (Obrazac) odštampan uz ovaj pravilnik i čini njegov sastavni deo.
+Uverenje o pojedinačnom odobrenju vozila sadrži sve podatke iz Obrasca i izjednačava se sa Potvrdom o saobraznosti.
+II HOMOLOGACIONA ISPITIVANJA
+Član 8
+Homologaciona ispitivanja sprovode se za tip vozila, odnosno uređaja, sklopa ili opreme vozila.
+Homologaciona ispitivanja vozila mogu se sprovoditi u
+jednoj fazi u slučaju nekompletnih i kompletnih vozila, ili u više faza
+kao višestepena homologacija u slučaju kompletiranih ili modifikovanih
+vozila.
+Član 9
+Zahtev za homologaciju vozila, odnosno uređaja,
+sklopova i opreme na vozilima (u daljem tekstu: Zahtev za homologaciju)
+podnosi proizvođač, odnosno njegov ovlašćeni predstavnik.
+Zahtev za homologaciju sadrži, naročito:
+1) ostraničeni sadržaj dostavljene dokumentacije;
+2) naziv UN Pravilnika za koji se zahteva homologacija;
+3) naziv i adresu proizvođača, odnosno ovlašćenog predstavnika proizvođača;
+4) izjavu o uspostavljanju i održavanju sistema upravljanja kvalitetom u skladu sa SRPS ISO 9001:2008;
+5) naziv i adresu pogona za montažu (ukoliko postoji);
+6) fabričku ili komercijalnu oznaku (marka);
+7) marku, tip/varijantu/verziju i komercijalnu oznaku vozila, odnosno uređaja, sklopa i opreme na vozilima;
+8) način formiranja tipa/varijante/verzije, kao i objašnjenje VIN oznake (u slučaju vozila);
+9) izgled proizvođačke i homologacione tablice (ukoliko postoji) u slučaju vozila;
+10) fotografije reprezenta tipa vozila.
+Uz zahtev za homologaciju podnosi se proizvođačka
+dokumentacija za homologaciona ispitivanja vozila, odnosno uređaja,
+sklopova i opreme na vozilima (u tri primerka). Proizvođačka
+dokumentacija za homologaciona ispitivanja vozila, odnosno uređaja,
+sklopova i opreme na vozilima, saglasno sa UN Pravilnikom, mora
+sadržati sve podatke i crteže neophodne za sprovođenje homologacionog
+ispitivanja i dodelu Saopštenja o homologaciji.
+Član 10
+Homologaciona ispitivanja obavlja Agencija, odnosno
+Tehnička služba ovlašćena za homologaciona ispitivanja prema
+odgovarajućem UN Pravilniku.
+Na osnovu podnetog zahteva za homologaciju,
+inicijalne procene sistema kvaliteta i pregleda dostavljene
+dokumentacije, Agencija može izdati nalog i proslediti dokumentaciju
+Tehničkoj službi ovlašćenoj za odgovarajuće homologaciono ispitivanje
+(u dva primerka).
+Ako postoji više Tehničkih službi ovlašćenih za
+homologaciono ispitivanje koje je predmet podnetog zahteva, Agencija
+izdaje nalog iz stava 4. ovog člana Tehničkoj službi odabranoj od
+strane podnosioca zahteva, osim u postupku proširenja odnosno odbijanja
+homologacije tipa vozila, uređaja, sklopa ili opreme, koje se obavlja u
+Tehničkoj službi u kojoj je vršeno homologaciono ispitivanje u postupku
+dodele homologacije tipa.
+Izuzetno od stava 1. ovog člana, kada UN Pravilnik to
+dopušta, Tehnička služba može biti laboratorija u okviru proizvođača,
+ovlašćena za homologaciona ispitivanja prema odgovarajućem UN
+Pravilniku, za potrebe svoje proizvodnje.
+1. Homologacija tipa vozila, odnosno uređaja, sklopova i opreme na vozilima
+Član 11
+Tehnička služba sprovodi odabir reprezenta tipa
+vozila, odnosno uređaja, sklopova i opreme na vozilima, sa ciljem
+identifikacije mogućeg najnepovoljnijeg slučaja u smislu odgovarajućeg
+UN Pravilnika, a prema specifikaciji varijanti i verzija iz dostavljene
+proizvođačke dokumentacije za homologaciona ispitivanja. Odabir
+reprezenta tipa vozila, odnosno reprezenta tipa uređaja, sklopa ili
+opreme na vozilima vrši se na način kojim se ne stvaraju nepotrebne
+nepogodnosti podnosiocu zahteva, o čemu Tehnička služba obaveštava
+Agenciju i podnosioca zahteva.
+Podnosilac zahteva dostavlja Tehničkoj službi
+odabrani reprezent tipa vozila spremnog za upotrebu, odnosno završen i
+u funkciji reprezent tipa uređaja, sklopova i opreme na vozilima.
+Član 12
+Tehnička služba sprovodi homologaciono ispitivanje
+dostavljenog reprezenta tipa, a prema UN Pravilniku definisanim nalogom
+Agencije.
+Lokacije na kojima se sprovode homologaciona
+ispitivanja navedena su u zapisniku o ovlašćivanju, kao sastavnom delu
+Rešenja o ovlašćivanju. Izuzetno, uz obrazloženi zahtev Tehničke
+službe, Agencija može odobriti da se homologaciona ispitivanja mogu
+obaviti i na drugim lokacijama.
+Na osnovu rezultata dobijenih homologacionim ispitivanjem, Tehnička služba sačinjava Izveštaj o homologacionom ispitivanju.
+Izveštaj o homologacionom ispitivanju sadrži
+rezultate ispitivanja i izjavu o saobraznosti sa tehničkim
+specifikacijama iz UN Pravilnika prema kom je izvršeno ispitivanje, uz
+obavezno navođenje serije amandmana i oznake dopuna UN Pravilnika u
+odnosu na koje se daje izjava, podatke neophodne za izradu Saopštenja o
+homologaciji, kao i zapis o odabiru varijante ili verzije tipa prema
+principu najnepovoljnijeg slučaja i obrazloženje takvog odabira.
+Izveštaj o homologacionom ispitivanju Tehnička služba
+prosleđuje Agenciji u elektronskoj formi i u dva štampana primerka, od
+kojih jedan sadrži i proizvođačku dokumentaciju.
+Tehnička služba dužna je da dokumentaciju vezanu za
+homologaciona ispitivanja čuva trajno i vodi evidenciju o podnetim
+zahtevima, dobijenim nalozima, kao i o izdatim izveštajima.
+Član 13
+Na osnovu Izveštaja o homologacionom ispitivanju,
+Agencija dodeljuje Saopštenje o dodeljivanju, proširenju ili odbijanju
+homologacije čiji je sadržaj i rok važenja utvrđen odgovarajućim UN
+Pravilnikom odnosno Sporazumom. Uz Saopštenje o dodeljivanju
+homologacije Agencija dodeljuje i potvrdu o usklađenosti ("compliance
+statement") upravljanja sistemom kvaliteta od strane proizvođača.
+Potvrda o usklađenosti mora sadržati naziv proizvođača sa montažnim
+pogonima, opseg i sadržaj pokrivenih UN Pravilnika, kontrolisanu
+oblast, pregledana dokumenta, datum inicijalne procene, odnosno datum
+sledeće procene i kontrole.
+U slučaju već dodeljene homologacije od strane
+Agencije, na osnovu podnetog zahteva i dostavljene dokumentacije moguće
+je izdavanje Saopštenja o proširenju ili odbijanju homologacije, za
+varijante i verzije proizvoda koje nisu obuhvaćene dodeljenom
+homologacijom, odnosno povlačenju dodeljene homologacije.
+Odluku o tome da li se Saopštenje o proširenju,
+odbijanju ili povlačenju homologacije izdaje na osnovu Izveštaja o
+homologacionom ispitivanju odnosno homologacionog zapisnika, a na
+osnovu podnetog zahteva i dostavljene dokumentacije, donosi Agencija.
+Saopštenje o prestanku proizvodnje Agencija dodeljuje
+na osnovu podnetog zahteva i dostavljene dokumentacije (ukoliko je
+primenljivo) i sačinjenog homologacionog zapisnika.
+Proizvođač je dužan da obezbedi kontinualnu primenu postupaka kojima se osigurava saobraznost proizvodnje.
+Poslovi kontrole saobraznosti proizvodnje obuhvataju
+pregled dostavljene dokumentacije, izradu homologacionog zapisnika i
+izdavanje potvrde o usklađenosti ("compliance statement").
+Proveru postupaka iz stava 5. ovog člana i njihove
+primene sprovodi Agencija, odnosno Tehnička služba ovlašćena za
+kontrolu saobraznosti proizvodnje po nalogu Agencije, na način kako je
+to utvrđeno pojedinim UN Pravilnikom.
+Ukoliko se prilikom kontrole saobraznosti proizvodnje
+ustanovi neusklađenost u odnosu na homologovani tip, proizvođač i
+Agencija sprovode mere na način kako je to utvrđeno UN Pravilnikom.
+Agencija u tom slučaju donosi odluku o eventualno mogućim korekcijama
+proizvodnje odnosno dodeljuje Saopštenje o povlačenju homologacije.
+2. Višestepena homologacija
+Član 14
+Pravno lice koje vrši kompletiranje ili modifikaciju
+vozila koje je predmet višestepene homologacije smatra se proizvođačem
+vozila.
+Član 15
+Proizvođač vozila iz člana 14. ovog pravilnika koji
+vrši kompletiranje definiše marku, tip, varijantu i verziju vozila,
+koji se ne moraju razlikovati od podataka za nekompletno vozilo.
+Proizvođač vozila iz člana 14. ovog pravilnika koji
+vrši modifikaciju definiše marku, tip, varijantu i verziju vozila, koji
+se ne moraju razlikovati od podataka za bazno vozilo.
+Kada proizvođač vozila prema st. 1. i 2. ovog člana
+zadržava marku nekompletnog ili baznog vozila, dužan je da obezbedi
+saglasnost proizvođača nekompletnog ili baznog vozila.
+Član 16
+Kompletirano vozilo zadržava VIN oznaku nekompletnog vozila.
+Modifikovano vozilo zadržava VIN oznaku baznog vozila.
+Proizvođač vozila iz člana 14. ovog pravilnika formira dodatnu proizvođačku tablicu koju postavlja na vozilo.
+Član 17
+Za vozilo koje je predmet višestepene homologacije
+mogu se prihvatiti pojedinačna Saopštenja o homologaciji baznog ili
+nekompletnog vozila prema UN Pravilnicima.
+Za vozilo koje je predmet višestepene homologacije
+sprovode se homologaciona ispitivanja prema UN Pravilnicima čija
+pojedinačna Saopštenja o homologaciji nisu dostavljena ili nisu
+prihvaćena na osnovu stava 1. ovog člana.
+Homologaciona ispitivanja iz stava 2. ovog člana u potpunosti se sprovode saglasno odredbama čl. 11-13. ovog pravilnika.
+Kontrola saobraznosti tipa vozila koje je predmet
+višestepene homologacije sprovodi se saglasno odredbama čl. 38-43. ovog
+pravilnika.
+III POJEDINAČNO KOMPLETIRANA, MODIFIKOVANA I PROIZVEDENA VOZILA
+Član 18
+Za pojedinačno kompletirano, modifikovano ili pojedinačno proizvedeno vozilo sprovodi se pojedinačno odobrenje vozila.
+U okviru pojedinačnog odobrenja vozila sprovodi se
+pregled i odobravanje dokumentacije, ispitivanja i kontrola
+  saobraznosti, a u cilju provere ispunjenosti tehničkih zahteva u odnosu
+na propise i UN Pravilnike.
+Izuzetno, pojedinačno odobrenje vozila može se vršiti
+i za deset i više vozila vrste M, N, O i R istog vlasnika, marke, tipa,
+varijante, verzije i nadgradnje odnosno modifikacije za koja su u
+podnetom zahtevu navedene identifikacione oznake vozila VIN.
+Sva vozila iz stava 3. ovog člana moraju imati
+Potvrdu o saobraznosti sa podacima koji su zajedno sa COC dokumentom
+dostavljeni Agenciji odnosno uneti u informacioni sistem Agencije od
+strane nadograđivača odnosno modifikatora vozila u Republici Srbiji.
+Član 19
+Ispitivanja i kontrolu saobraznosti u cilju
+pojedinačnog odobrenja vozila za potrebe Agencije može sprovoditi
+Tehnička služba ovlašćena za pojedinačno odobrenje vozila u skladu sa
+članom 3. st. 8. i 9. ovog pravilnika.
+1. Odobrenje pojedinačno kompletiranog ili modifikovanog vozila
+Član 20
+Naziv proizvođača pojedinačno kompletiranog ili
+modifikovanog vozila ne menja se u odnosu na naziv proizvođača
+nekompletnog ili baznog vozila.
+Član 21
+Marka, tip, varijanta i verzija pojedinačno kompletiranog vozila ne menjaju se u odnosu na nekompletno vozilo.
+Marka, tip, varijanta i verzija pojedinačno modifikovanog vozila ne menjaju se u odnosu na bazno vozilo.
+Član 22
+Pojedinačno kompletirano vozilo zadržava VIN oznaku nekompletnog vozila.
+Pojedinačno modifikovano vozilo zadržava VIN oznaku baznog vozila.
+Proizvođačka tablica pojedinačno kompletiranog ili modifikovanog vozila zadržava se sa nekompletnog ili baznog vozila.
+Nadgrađivač formira sopstvenu tablicu koja sadrži
+osnovne podatke o nadgradnji utvrđene Procedurom za datu vrstu vozila i
+postavlja je na nadgradnju.
+Modifikator formira sopstvenu tablicu koja sadrži
+osnovne podatke o modifikaciji utvrđene Procedurom za datu vrstu vozila
+i postavlja je na vozilu neposredno pored proizvođačke tablice.
+Član 23
+Zahtev za odobrenje pojedinačno kompletiranog ili
+modifikovanog vozila u Republici Srbiji podnosi vlasnik vozila, odnosno
+pravno ili fizičko lice koje poseduje ovlašćenje vlasnika. Zahtev se
+podnosi Agenciji preko Tehničke službe ovlašćene za pojedinačno
+odobrenje vozila koja podnosiocu zahteva izdaje potvrdu o prijemu
+zahteva.
+Zahtev iz stava 1. ovog člana sadrži, naročito:
+1) naziv i adresu vlasnika, odnosno ovlašćenog pravnog ili fizičkog lica;
+2) naziv, adresu i matični broj nadgrađivača ili modifikatora;
+3) marku, tip/varijantu/verziju i komercijalnu oznaku vozila;
+4) kratak opis sprovedenih postupaka prilikom kompletiranja ili modifikacije vozila;
+5) izjavu nadgrađivača ili modifikatora o
+ispunjenosti drugih posebnih odnosno posebno propisanih uslova za
+nadgradnju, kao i dokumentaciju koja to potvrđuje;
+6) izgled proizvođačke tablice i fotografije vozila.
+Uz zahtev za odobrenje pojedinačno kompletiranog ili
+modifikovanog vozila podnosi se dokumentacija utvrđena u Proceduri
+(1-6.) za odgovarajuću vrstu vozila (u daljem tekstu: Procedura 1-6.).
+Procedura 1-6. (Prilog) odštampana je uz ovaj pravilnik i čini njegov
+sastavni deo. Izuzetno, za specijalna vozila vrste M, N i O sadržaj
+dokumentacije određuje Agencija. Agencija je dužna da sadržaj
+dokumentacije za odobrenje pojedinačno kompletiranog ili modifikovanog
+odnosno specijalnog vozila prilagodi dobroj tehničkoj praksi i
+interesima korisnika.
+Dokumentacija iz stava 3. ovog člana, mora biti
+odobrena od strane Tehničke službe ovlašćene za pojedinačno odobrenje
+vozila, a pre podvrgavanja vozila postupcima nadgrađivača ili
+modifikatora.
+Član 24
+Tehnička služba sprovodi ispitivanja i kontrolu
+saobraznosti pojedinačno kompletiranog ili modifikovanog vozila na
+osnovu Procedure 1-6, za datu vrstu vozila, odnosno za specijalna
+vozila vrste M, N i O na osnovu procedure koju određuje Agencija.
+Ispitivanje mora obuhvatiti sve elemente i
+karakteristike vozila koje su promenjene u odnosu na nekompletno ili
+bazno vozilo, a prema zahtevima propisa i UN Pravilnika.
+Ako je predmet pojedinačnog odobrenja vozilo istog
+vlasnika, marke, tipa, varijante, verzije i nadgradnje odnosno modifikacije kao vozilo za
+koje je dokumentacija odobrena, prihvatiće se Izveštaj ili Izveštaji o
+ispitivanju vozila koje je već odobreno.
+Lokacije na kojima se sprovode ispitivanja i kontrola
+saobraznosti iz stava 1. ovog člana navedene su u zapisniku o
+ovlašćivanju, kao sastavnom delu Rešenja o ovlašćivanju. Izuzetno, uz
+obrazložen zahtev, Agencija može odobriti da se ispitivanja i kontrola
+saobraznosti mogu obaviti i na drugim lokacijama (npr. kod
+proizvođača).
+Na osnovu ispitivanja koja sprovodi, Tehnička služba
+izrađuje Izveštaj ili Izveštaje o ispitivanju pojedinačno kompletiranog
+ili modifikovanog vozila, u skladu sa Procedurom 1-6. za datu vrstu
+vozila odnosno za specijalna vozila vrste M, N i O u skladu sa
+procedurom koju određuje Agencija. Nakon realizovanih ispitivanja
+Tehnička služba vrši kontrolu saobraznosti i izdaje Izveštaj o kontroli
+saobraznosti u cilju pojedinačnog odobrenja. Prilog Izveštaju o
+kontroli saobraznosti su Izveštaj ili Izveštaji o ispitivanju.
+Izveštaj o kontroli saobraznosti koji sadrži i
+dokumentaciju pojedinačno kompletiranog ili modifikovanog vozila
+Tehnička služba prosleđuje Agenciji u elektronskom obliku. Izveštaji o
+ispitivanju iz stava 5. ovog člana nalaze se kod Tehničke službe i mogu
+se dobiti na zahtev Agencije.
+Tehnička služba dužna je da dostavljenu dokumentaciju
+čuva 10 godina, a trajno u elektronskom obliku i vodi evidenciju o
+podnetim zahtevima, dobijenim nalozima, kao i o izdatim izveštajima.
+Član 25
+Na osnovu Izveštaja o kontroli saobraznosti
+pojedinačno kompletiranog ili modifikovanog vozila koji je izdala
+Tehnička služba i dokaza o tehničkoj ispravnosti, Agencija izdaje
+Uverenje o pojedinačnom odobrenju vozila bez roka važnosti.
+2. Odobrenje pojedinačno proizvedenog vozila
+Član 26
+Proizvođač pojedinačno proizvedenog vozila određuje marku, tip i komercijalnu oznaku.
+Član 27
+Proizvođač pojedinačno proizvedenog vozila određuje VIN oznaku gde je primenljivo, odnosno serijski broj.
+Proizvođač pojedinačno proizvedenog vozila formira proizvođačku tablicu koju postavlja na vozilo.
+Član 28
+Zahtev za odobrenje pojedinačno proizvedenog vozila u
+Republici Srbiji podnosi proizvođač pojedinačno proizvedenog vozila.
+Zahtev se podnosi Agenciji preko Tehničke službe ovlašćene za
+pojedinačno odobrenje vozila, koja podnosiocu zahteva izdaje potvrdu o
+prijemu zahteva.
+Zahtev iz stava 1. ovog člana sadrži, naročito:
+1) naziv, adresu i matični broj proizvođača pojedinačno proizvedenog vozila;
+2) marku, tip i komercijalnu oznaku vozila;
+3) izjavu proizvođača o ispunjenosti drugih posebnih odnosno posebno propisanih uslova za nadgradnju;
+4) izgled proizvođačke tablice i fotografije vozila.
+Uz zahtev za odobrenje pojedinačno proizvedenog
+vozila podnosi se dokumentacija utvrđena u Proceduri (4, 5, 6, 8, 9 i
+10) za odgovarajuću vrstu vozila (Prilog) koje su odštampane uz ovaj
+pravilnik i čine njegov sastavni deo. Izuzetno, za specijalna vozila
+vrste O za koja sadržaj dokumentacije određuje Agencija. Agencija je
+dužna da sadržaj dokumentacije za odobrenje pojedinačno proizvedenog
+vozila prilagodi dobroj tehničkoj praksi i zadovoljenju korisnika.
+Dokumentacija iz stava 3. ovog člana, sačinjena i
+potpisana na propisan način, mora biti odobrena od strane Tehničke
+službe ovlašćene za pojedinačno odobrenje vozila, a pre započinjanja
+proizvodnje vozila, o čemu Tehnička služba obaveštava Agenciju pre
+otpočinjanja postupka ispitivanja i kontrole saobraznosti.
+Član 29
+Tehnička služba sprovodi ispitivanja i kontrolu
+saobraznosti pojedinačno proizvedenog vozila na osnovu Procedure (4, 5,
+6, 8, 9 i 10) za datu vrstu vozila odnosno za specijalna vozila vrste O
+na osnovu procedure koju određuje Agencija.
+Ispitivanje mora obuhvatiti sve elemente i karakteristike vozila u cilju zadovoljenja zahteva propisa i UN Pravilnika.
+Tehnička služba po potrebi može zahtevati od proizvođača praćenje proizvodnje po fazama tokom procesa proizvodnje vozila.
+Lokacije na kojima se sprovode ispitivanja i kontrola
+saobraznosti iz stava 1. ovog člana navedene su u zapisniku o
+ovlašćivanju, kao sastavnom delu Rešenja o ovlašćivanju. Izuzetno, uz
+obrazložen zahtev, Agencija može odobriti da se ispitivanja i kontrola
+saobraznosti mogu obaviti i na drugim lokacijama (npr. kod
+proizvođača).
+Na osnovu ispitivanja koja sprovodi, Tehnička služba
+izrađuje Izveštaj ili Izveštaje o ispitivanju pojedinačno proizvedenog
+vozila, u skladu sa Procedurom (4, 5, 6, 8, 9 i 10) za datu vrstu
+vozila odnosno za specijalna vozila vrste O u skladu sa procedurom koju
+određuje Agencija.
+Izveštaj o ispitivanju kočenja za pojedinačno
+proizvedena vozila vrste O, R i Tm sačinjava Tehnička služba ovlašćena
+za homologaciona ispitivanja u pogledu kočenja. Nakon realizovanih
+ispitivanja Tehnička služba vrši kontrolu saobraznosti i izdaje
+Izveštaj o kontroli saobraznosti u cilju pojedinačnog odobrenja. Prilog
+Izveštaju o kontroli saobraznosti su Izveštaj ili Izveštaji o
+ispitivanju.
+Izveštaj o kontroli saobraznosti koji sadrži i
+dokumentaciju Tehnička služba prosleđuje Agenciji u elektronskom
+obliku. Izveštaji o ispitivanju iz stava 6. ovog člana nalaze se kod
+Tehničke službe i mogu se dobiti na zahtev Agencije.
+Tehnička služba dužna je da dostavljenu dokumentaciju
+čuva 10 godina, a trajno u elektronskom obliku i vodi evidenciju o
+podnetim zahtevima, dobijenim nalozima, kao i o izdatim izveštajima.
+Član 30
+Na osnovu Izveštaja o kontroli saobraznosti koji je
+izdala Tehnička služba i dokaza o tehničkoj ispravnosti, Agencija
+izdaje Uverenje o pojedinačnom odobrenju vozila bez roka važnosti.
+IV SERIJSKI PROIZVEDENA VOZILA VRSTE T, Tm i R, UREĐAJI, SKLOPOVI I OPREMA U REPUBLICI SRBIJI
+Član 31
+Za serijski proizvedena vozila vrste T, Tm i R,
+uređaje, sklopove i opremu u Republici Srbiji (u daljem tekstu:
+proizvod), sprovodi se odobrenje tipa proizvoda.
+U okviru odobrenja tipa proizvoda iz stava 1. ovog člana
+sprovodi se pregled i odobravanje dokumentacije, ispitivanja i kontrola
+saobraznosti, a u cilju provere ispunjenosti tehničkih zahteva.
+Član 32
+Ispitivanja i kontrolu saobraznosti u cilju odobrenja
+tipa proizvoda za potrebe Agencije može sprovoditi Tehnička služba
+ovlašćena za homologaciona ispitivanja i kontrolu saobraznosti vozila,
+uređaja, sklopova i opreme.
+Član 33
+Proizvođač proizvoda određuje marku, tip/varijante/verzije i komercijalne oznake proizvoda.
+Član 34
+Proizvođač proizvoda određuje serijski broj proizvoda na osnovu strukture serijskog broja koji određuje Agencija.
+Proizvođač vozila T, Tm i R formira proizvođačku tablicu koju postavlja na vozilo.
+Proizvođač uređaja, sklopova i opreme formira identifikacionu tablicu ili oznaku koju postavlja na uređaj, sklop i opremu.
+Član 35
+Zahtev za odobrenje tipa proizvoda, proizvođač proizvoda, odnosno njegov ovlašćeni predstavnik, podnosi Agenciji.
+Zahtev iz stava 1. ovog člana sadrži, naročito:
+1) ostraničeni sadržaj dostavljene dokumentacije;
+2) naziv, adresu i matični broj proizvođača proizvoda odnosno ovlašćenog predstavnika proizvođača;
+3) naziv i adresu pogona za montažu (ukoliko postoji);
+4) fabričku ili komercijalnu oznaku (marka);
+5) marku, tip/varijante/verzije i komercijalne oznake proizvoda;
+6) način formiranja tipa/varijante/verzije, kao i objašnjenje serijskog broja;
+7) izgled proizvođačke tablice ili identifikacione tablice ili oznake;
+8) fotografije reprezenta tipa proizvoda.
+Uz zahtev za odobrenje tipa vozila vrste T, Tm i R
+podnosi se dokumentacija utvrđena u Proceduri (7, 8. i 9.), za
+odgovarajuću vrstu vozila. Procedura 7-9. (Prilog) odštampana je uz
+ovaj pravilnik i čini njegov sastavni deo.
+Uz zahtev za odobrenje tipa uređaja, sklopova i
+opreme podnosi se dokumentacija u skladu sa zahtevima za uređaje,
+sklopove i opremu utvrđenim u Proceduri 7.
+Agencija je dužna da sadržaj dokumentacije za odobrenje tipa prilagodi dobroj tehničkoj praksi i zadovoljenju korisnika
+Dokumentacija iz st. 3. i 4. ovog člana, mora biti
+odobrena od strane Tehničke službe ovlašćene za homologaciona
+ispitivanja i kontrolu saobraznosti, a pre započinjanja proizvodnje
+proizvoda, o čemu Tehnička služba obaveštava Agenciju pre otpočinjanja
+postupka ispitivanja i kontrole saobraznosti.
+Na osnovu podnetog zahteva i pregleda dostavljene
+dokumentacije, Agencija može izdati nalog i proslediti dokumentaciju za
+ispitivanje i kontrolu saobraznosti Tehničkoj službi koja je za to
+ovlašćena.
+Ako postoji više Tehničkih službi ovlašćenih za
+ispitivanje i kontrolu saobraznosti, Agencija izdaje nalog iz stava 7.
+ovog člana Tehničkoj službi odabranoj od strane podnosioca zahteva,
+osim u postupku proširenja tipa proizvoda - koje se obavlja u Tehničkoj
+službi u kojoj je vršeno ispitivanje i kontrola saobraznosti u postupku
+dodele odobrenja tipa.
+Član 36
+Tehnička služba sprovodi ispitivanja i kontrolu
+saobraznosti reprezenta tipa vozila T, Tm i R na osnovu Procedura 7, 8.
+i 9. za datu vrstu vozila, odnosno reprezenta tipa uređaja, sklopova i opreme na osnovu Procedure 7.
+Tehnička služba sprovodi odabir reprezenta tipa proizvoda, sa ciljem identifikacije mogućeg najnepovoljnijeg slučaja u
+smislu propisanih uslova, a prema specifikaciji varijanti i verzija iz
+dostavljene proizvođačke dokumentacije. Odabir reprezenta tipa proizvoda,
+vrši se na način kojim se ne stvaraju nepotrebne nepogodnosti
+podnosiocu zahteva, o čemu Tehnička služba obaveštava Agenciju i
+podnosioca zahteva.
+Podnosilac zahteva dostavlja Tehničkoj službi odabrani reprezent tipa proizvoda spremnog za upotrebu.
+Ispitivanje mora obuhvatiti sve elemente i karakteristike proizvoda u cilju zadovoljenja zahteva propisa u Republici Srbiji.
+Tehnička služba po potrebi može zahtevati od proizvođača praćenje proizvodnje po fazama tokom procesa proizvodnje proizvoda.
+Lokacije na kojima se sprovode ispitivanja i kontrola
+saobraznosti iz stava 1. ovog člana navedene su u zapisniku o
+ovlašćivanju, kao sastavnom delu Rešenja o ovlašćivanju. Izuzetno, uz
+obrazložen zahtev, Agencija može odobriti da se ispitivanja i kontrola
+saobraznosti mogu obaviti i na drugim lokacijama (npr. kod
+proizvođača).
+Na osnovu ispitivanja koja sprovodi, Tehnička služba
+izrađuje Izveštaj ili Izveštaje o ispitivanju tipa vozila T, Tm i R, u
+skladu sa Procedurom 7, 8. i 9. za datu vrstu vozila, odnosno reprezenta tipa uređaja, sklopova i opreme u skladu sa Procedurom 7.
+Izveštaj o ispitivanju kočenja serijski proizvedenih
+vozila vrste T, R i Tm sačinjava Tehnička služba ovlašćena za
+homologaciona ispitivanja u pogledu kočenja.
+Nakon realizovanih ispitivanja, Tehnička služba vrši
+kontrolu saobraznosti i izdaje Izveštaj o kontroli saobraznosti u cilju
+odobrenja tipa. Prilog Izveštaju o kontroli saobraznosti su Izveštaj
+ili Izveštaji o ispitivanju.
+Izveštaj o kontroli saobraznosti koji sadrži i
+dokumentaciju Tehnička služba prosleđuje Agenciji u elektronskom
+obliku. Izveštaji o ispitivanju iz stava 8. ovog člana nalaze se kod
+Tehničke službe i mogu se dobiti na zahtev Agencije.
+Član 37
+Na osnovu Izveštaja o kontroli saobraznosti koji je
+izdala Tehnička služba, Agencija izdaje Uverenje o odobrenju tipa
+proizvoda na rok ne duži od 12 (dvanaest) meseci.
+Proizvođači vozila, njihovih uređaja, sklopova i
+opreme na vozilima u Republici Srbiji, za koje je Agencija dodelila
+Uverenje ili Uverenja o odobrenju tipa proizvoda, dužni su da Agenciji
+do 31. januara tekuće godine dostave spiskove proizvedenih vozila prema
+VIN oznaci (serijskom broju), odnosno evidenciju proizvedenih uređaja,
+sklopova i opreme na vozilima za prethodnu kalendarsku godinu i to sve
+prema tipu proizvoda.
+V KONTROLA SAOBRAZNOSTI SERIJSKI ILI POJEDINAČNO NOVOPROIZVEDENIH VOZILA, ODNOSNO UREĐAJA, SKLOPOVA I OPREME NA VOZILIMA
+Član 38
+Kontrolom saobraznosti, shodno odredbama čl. 18-37.
+ovog pravilnika, proverava se ispunjenost tehničkih uslova u skladu sa
+propisima iz oblasti bezbednosti saobraćaja na putevima.
+Kontrola saobraznosti vozila iz uvoza odnosno vozila
+proizvedenih, sklopljenih, kompletiranih ili modifikovanih u Republici
+Srbiji sprovodi se u odnosu na tip serijski ili pojedinačno
+novoproizvedenog kompletnog, kompletiranog ili modifikovanog vozila,
+radi stavljanja na tržište, odnosno puštanja u saobraćaj na putevima.
+Kontrola saobraznosti uređaja, sklopova i opreme na
+vozilima iz uvoza, ukoliko je posebno propisano, sprovodi se u odnosu
+na tip odgovarajućeg uređaja, sklopa i opreme vozila, radi stavljanja
+na tržište.
+Član 39
+Zahtev za kontrolu saobraznosti sadrži, naročito:
+1) naziv i adresu podnosioca zahteva;
+2) marku, tip/varijante/verzije i komercijalne oznake
+vozila, odnosno uređaja, sklopova i opreme na vozilima, kao predmeta
+kontrole saobraznosti.
+Zahtev za kontrolu saobraznosti podnosi se na obrascu koji je dostupan na internet stranici Agencije.
+Podnosilac zahteva može promeniti Tehničku službu uz
+obrazloženi zahtev, pisanu saglasnost predstavnika proizvođača odnosno
+uvoznika i uz saglasnost Agencije.
+Član 40
+Podnosilac zahteva dostavlja Tehničkoj službi
+odgovarajuće vozilo ili reprezent tipa vozila spremnog za upotrebu,
+odnosno reprezent tipa uređaja, sklopova i opreme na vozilima. Izuzetno
+kontrola saobraznosti može se vršiti na vozilu u okviru skupa vozila,
+ukoliko je tehnički opravdano, o čemu odluku donosi Agencija.
+Član 41
+Tehnička služba sprovodi kontrolu saobraznosti
+dokumentacije i vozila ili reprezenta tipa vozila odnosno uređaja,
+sklopa i opreme na vozilima.
+Kontrola saobraznosti vozila vrste O iz uvoza koja su
+odobrena u skladu sa pojedinačnom šemom homologacije tipa celog vozila
+(WVTA) obuhvata ispitivanje i kontrolu saobraznosti u skladu sa
+zahtevima Procedure (4, 5. i 6) za datu vrstu vozila.
+Izuzetno od odredaba stava 1. ovog člana, kontrola
+saobraznosti vozila iz uvoza sa COC dokumentom (EU Certificate of
+Conformity) se može izvršiti za vozila vrste O1, O2, R i S koja su
+predmet individualnog pojedinačnog uvoza za sopstvene potrebe, a za
+koja dokumentacija proizvođača nije dostupna ni na zahtev Agencije.
+Kontrola saobraznosti se sprovodi na lokacijama
+Tehničke službe, a može se sprovoditi i na lokacijama koje obezbedi
+podnosilac zahteva, ako su ispunjeni uslovi za njeno nesmetano
+sprovođenje.
+Na osnovu sprovedene kontrole saobraznosti Tehnička služba izdaje Izveštaj o kontroli saobraznosti.
+Tehnička služba dostavlja Izveštaj o kontroli
+saobraznosti Agenciji u elektronskom obliku. Uz Izveštaj o kontroli
+saobraznosti u elektronskom obliku posebno se dostavlja tabela sa
+specificiranim varijantama i verzijama, ako je primenljivo vrstama sa
+podvrstama vozila, oznakama motora i oblicima karoserija predmetnog
+tipa vozila.
+Član 42
+Na osnovu Izveštaja o kontroli saobraznosti Agencija
+izdaje Uverenje o odobrenju vozila odnosno tipa vozila, odnosno
+uređaja, sklopova i opreme vozila na rok ne duži od 12 (dvanaest)
+meseci.
+Uverenje o odobrenju vozila, odnosno tipa vozila za
+serijski novoproizvedena vozila iz uvoza, predstavlja ispravu o
+homologaciji.
+Proizvođači vozila, njihovih uređaja, sklopova i
+opreme na vozilima u Republici Srbiji, za koje je Agencija dodelila
+Uverenje ili Uverenja o odobrenju tipa proizvoda, dužni su da Agenciji
+do 31. januara tekuće godine dostave spiskove proizvedenih vozila prema
+VIN oznaci (serijskom broju), odnosno evidenciju proizvedenih uređaja,
+sklopova i opreme na vozilima za prethodnu kalendarsku godinu i to sve
+prema tipu proizvoda.
+Član 43
+Kontrola saobraznosti dokumentacije i tipa vozila,
+odnosno uređaja, sklopova i opreme vozila koji je već bio predmet
+kontrole saobraznosti, uz dostavljanje reprezenta tipa, sprovodi se
+kada su zahtevom podnosioca specificirane nove varijante i verzije u
+odnosu na već izdato Uverenje o odobrenju tipa vozila, odnosno uređaja,
+sklopova i opreme vozila ili kada dostavljena dokumentacija, sadrži
+bitne izmene u odnosu na prethodnu.
+Kontrola saobraznosti tipa vozila, odnosno uređaja,
+sklopova i opreme vozila koji je već bio predmet kontrole saobraznosti
+sprovodi se bez reprezenta tipa, kada je došlo do promene nosioca
+dokumentacije ili kada dostavljena dokumentacija ne sadrži bitne izmene
+u odnosu na prethodnu.
+Agencija može produžiti važenje Uverenja o odobrenju
+tipa vozila, odnosno uređaja, sklopova i opreme vozila bez kontrole
+saobraznosti, ako na osnovu dostavljene dokumentacije ustanovi da nije
+bilo izmena u odnosu na prethodno dostavljenu dokumentaciju odnosno
+kada dostavljena dokumentacija ne sadrži bitne izmene u odnosu na
+prethodnu.
+Kada predstavnik proizvođača izda saglasnost za
+korišćenje dokumentacije drugom uvozniku, Agencija može izdati Uverenje
+o odobrenju vozila ukoliko je COC dokument izdat na osnovu nivoa
+dokumentacije obuhvaćene kontrolom saobraznosti tipa vozila.
+VI USLOVI KOJE MORA ISPUNJAVATI PRAVNO
+LICE KOJE VRŠI HOMOLOGACIONA ISPITIVANJA, KONTROLU SAOBRAZNOSTI ODNOSNO
+ISPITIVANJE POJEDINAČNO PROIZVEDENIH VOZILA I NAČINI DOKAZIVANJA
+NJIHOVE ISPUNJENOSTI
+Član 44
+Tehnička služba se ovlašćuju u skladu sa jednom ili više od četiri navedene kategorije delatnosti, i to za:
+1) Kategoriju A - kao Tehnička služba koja sprovodi
+ispitivanja navedena u UN Pravilnicima u sopstvenim objektima. Tehnička
+služba koja je ovlašćena za delatnosti kategorije A može obavljati
+ispitivanja iz člana 10. stav 2. ovog pravilnika, kao i sprovoditi ili
+nadzirati ispitivanja u skladu sa UN Pravilnicima za koje je ovlašćena,
+u objektima proizvođača ili njegovog predstavnika;
+2) Kategoriju B - kao Tehnička služba koja nadzire
+ispitivanja navedena u UN Pravilnicima koja se sprovode u objektima
+proizvođača ili objektima neke treće strane;
+3) Kategoriju C - kao Tehnička služba koja redovno
+procenjuje i nadzire postupke proizvođača za kontrolu saobraznosti
+proizvodnje;
+4) Kategoriju D - kao Tehnička služba koja nadzira
+ili sprovodi ispitivanja ili kontrolisanje u okviru nadzora
+saobraznosti proizvodnje.
+Pravno lice koje podnosi zahtev za ovlašćenje za
+homologaciona ispitivanja prema UN pravilniku, mora da ispunjava
+sledeće uslove i to:
+1) da ima zaposlena stručna lica koja poseduju
+adekvatne veštine, specifična tehnička znanja i iskustvo iz
+tehničko-tehnoloških odnosno biotehničkih nauka, oblast potrebna za
+primenu UN pravilnika u pogledu homologacionih ispitivanja;
+2) da ima uspostavljen i da održava sistem
+menadžmenta koji odgovara zahtevima standarda SRPS ISO/IEC 17025 (za
+kategoriju A) odnosno SRPS ISO/IEC 17020 (za kategorije B i D) odnosno
+SRPS ISO/IEC 17021 (za kategoriju C).
+Pre sprovođenja ili nadziranja bilo kog ispitivanja u
+objektima proizvođača, njegovog predstavnika ili neke treće strane,
+Tehnička služba dužna je da dokaže da su objekti u kojima se vrše
+ispitivanja i uređaji za merenje saobrazni sa uslovima za tehničku
+službu kategorije A iz stava 1. tačka 1) ovog člana.
+Član 45
+Pravno lice koje podnosi zahtev za ovlašćenje za
+tehničku službu za sprovođenje kontrole saobraznosti vozila, odnosno
+uređaja, sklopova i opreme na vozilima, mora da ispunjava sledeće
+uslove, i to:
+1) da je registrovano za obavljanje poslova tehničkog
+ispitivanja i analiza, istraživanja i razvoja u tehničko tehnološkim
+naukama;
+2) da je poslovanje usklađeno sa standardom sistema menadžmenta koji odgovara zahtevima standarda SRPS ISO/IEC 17020;
+3) da ima zaposlena stručna lica koja poseduju
+specifična tehnička znanja i iskustva iz tehničko-tehnoloških odnosno
+biotehničkih nauka u pogledu kontrole saobraznosti vozila, odnosno
+uređaja, sklopova i opreme na vozilima, od kojih najmanje dva doktora
+tehničkih nauka iz oblasti mašinstva. Izuzetno, kontrolu saobraznosti
+traktora, priključnih vozila za traktor, radnih mašina za poljoprivredne svrhe, odnosno uređaja, sklopova i
+opreme traktora, može obavljati i Tehnička služba ovlašćena za kontrolu
+saobraznosti vozila koja u okviru zaposlenih stručnih lica ima najmanje
+dva doktora poljoprivrednih nauka iz oblasti poljoprivredne tehnike;
+4) da je ovlašćena kao Tehnička služba za
+homologaciona ispitivanja za najmanje tri UN Pravilnika koje ne
+administrira ista Radna grupa pri Svetskom forumu za harmonizaciju
+pravilnika za vozila (WP.29). Izuzetno, kontrolu saobraznosti traktora,
+priključnih vozila za traktor, radnih mašina za poljoprivredne svrhe,
+odnosno uređaja, sklopova i opreme traktora, može obavljati i Tehnička
+služba
+ovlašćena za kontrolu saobraznosti vozila koja je ovlašćena kao
+laboratorija za najmanje jedan OECD kod;
+5) da strukturu troškova za sprovođenje kontrole
+saobraznosti vozila, odnosno uređaja, sklopova i opreme na vozilima
+prilagodi propisu koji uređuje cene usluga koje vrši Agencija, do
+maksimalnih iznosa.
+Pravno lice koje podnosi zahtev za ovlašćenje za
+kontrolu saobraznosti uređaja, sklopova i opreme na vozilima mora da
+ispunjava uslov da je prethodno ovlašćena kao Tehnička služba za
+homologaciona ispitivanja za najmanje jedan UN Pravilnik koji utvrđuje
+uslove za uređaje, sklopove i opremu na vozilima za koje se ovlašćuje.
+Izuzetno, kontrolu saobraznosti uređaja, sklopova i opreme traktora,
+može obavljati i Tehnička služba ovlašćena za kontrolu saobraznosti
+vozila koja je ovlašćena kao laboratorija za najmanje jedan OECD kod.
+Član 46
+Pravno lice koje podnosi zahtev za ovlašćenje za pojedinačno odobrenje vozila mora da ispunjava sledeće uslove, i to:
+1) da je ovlašćena kao Tehnička služba za kontrolu saobraznosti vozila;
+2) da je ovlašćeno pravno lice za ispitivanje vozila;
+3) da ima zaposlena stručna lica koja poseduju
+specifična tehnička znanja iz tehničko-tehnoloških odnosno biotehničkih
+nauka u pogledu kontrolisanja i ispitivanja pojedinačno kompletiranog,
+modifikovanog ili pojedinačno proizvedenog vozila.
+Član 47
+Proveru ispunjenosti uslova za pravno lice koje
+podnosi zahtev za ovlašćenje za homologaciona ispitivanja sprovodi
+Agencija za sve podnosioce zahteva, nezavisno od njihovog pravnog
+statusa (nezavisno pravno lice, proizvođač ili nadležni državni organ
+za homologaciju druge države koji nastupa u svojstvu Tehničke službe),
+na osnovu zahteva pravnog lica prema odgovarajućem UN Pravilniku i
+dostavljene dokumentacije. Primer zahteva sa specifikacijom potrebne
+dokumentacije istaknut je na internet stranici Agencije.
+Agencija formira Komisiju za ovlašćivanje pravnih lica.
+Ispunjenost uslova u pogledu adekvatnih veština,
+specifičnih tehničkih znanja i iskustva iz oblasti homologacionih
+ispitivanja zaposlenih lica dokazuje se neposrednim osvedočenjem
+homologacionog(ih) ispitivanja u prostorijama podnosioca zahteva,
+odnosno ako je primenljivo na drugim lokacijama i za to prijavljena
+lica i zahtevanu opremu Tehničke službe, kao i dostavljanjem
+odgovarajućeg Izvoda iz upisa u registar koji sadrži opis delatnosti
+čime se dokazuje status pravnog lica.
+Stručnost i specifična tehnička znanja lica koja
+sprovode homologaciona ispitivanja mogu se dokazati i važećim
+Sertifikatom o akreditaciji i važećim Obimom akreditacije.
+Ispunjenost uslova u pogledu posedovanja i održavanja
+sistema menadžmenta za pojedine kategorije delatnosti Tehničke službe
+može se dokazati važećim Sertifikatom o akreditaciji i važećim Obimom
+akreditacije.
+Nakon završene provere ispunjenosti uslova održava se
+sastanak Komisije za ovlašćivanje sa podnosiocem zahteva za ovlašćenje
+za tehničku službu i pismenim ili usmenim putem se predočavaju
+komentari i zaključci uključujući eventualne nesaobraznosti i poziva se
+podnosilac zahteva da u dogovorenom roku odgovori na iste. Komisija za
+ovlašćivanje uzima u obzir odgovore podnosioca zahteva i može po
+potrebi zatražiti dodatne dokaze o preduzetim aktivnostima, uključujući
+dodatna odnosno ponovna osvedočenja.
+Ako Agencija utvrdi da su svi zahtevi ispunjeni,
+sačinjava Izveštaj o ovlašćivanju i Rešenjem ovlašćuje pravno lice kao
+Tehničku službu za homologaciona ispitivanja prema odgovarajućem UN
+Pravilniku ili njegovom delu odnosno delovima. Jedan primerak Rešenja
+sa potpisanim Izveštajem o ovlašćivanju dostavlja se Tehničkoj službi.
+Član 48
+Proveru ispunjenosti uslova pravnog lica koje podnosi
+zahtev za ovlašćenje za kontrolu saobraznosti sprovodi Agencija, na
+osnovu zahteva pravnog lica i dostavljene dokumentacije.
+Ispunjenost uslova u pogledu odgovarajuće
+registracije pravnog lica u Republici Srbiji za obavljanje poslova
+tehničkog ispitivanja i analiza, istraživanja i razvoja u tehničko
+tehnološkim naukama dokazuje se podacima iz registra nadležnog državnog
+organa za registraciju.
+Ispunjenost uslova posedovanja i održavanja sistema
+menadžmenta koji odgovara zahtevima standarda SRPS ISO/IEC 17020 može
+se dokazati važećim Sertifikatom o akreditaciji i važećim Obimom
+akreditacije.
+Ispunjenost uslova u pogledu posedovanja specifičnih
+tehničkih znanja i iskustva iz oblasti kontrole saobraznosti vozila,
+odnosno uređaja, sklopova i opreme na vozilima dokazuje se neposrednim
+osvedočenjem kontrole saobraznosti vozila, odnosno uređaja, sklopova i
+opreme na vozilima i za to prijavljena lica Tehničke službe, kao i
+dostavljanjem diploma doktora tehničkih nauka iz oblasti mašinstva za
+najmanje dve zaposlene osobe.
+Stručnost i specifična tehnička znanja lica koja
+sprovode kontrolu saobraznosti vozila, odnosno uređaja, sklopova i
+opreme na vozilima mogu se dokazati važećim Sertifikatom o akreditaciji
+i važećim Obimom akreditacije.
+Ispunjenost uslova u pogledu posedovanja ovlašćenja
+za homologaciona ispitivanja odnosno ovlašćenja kao laboratorija za
+najmanje jedan OECD kod dokazuje se Rešenjem o ovlašćivanju pravnog
+lica za homologaciona ispitivanja koje je izdala Agencija odnosno
+dokaza za ovlašćenje prema OECD kodu.
+Ako Agencija utvrdi da su svi zahtevi ispunjeni,
+Rešenjem ovlašćuje pravno lice kao Tehničku službu za kontrolu
+saobraznosti vozila, odnosno uređaja, sklopova i opreme na vozilima.
+Jedan primerak Rešenja dostavlja se Tehničkoj službi.
+Član 49
+Proveru ispunjenosti uslova pravnog lica koje podnosi
+zahtev za ovlašćenje za pojedinačno odobrenje vozila sprovodi Agencija,
+na osnovu zahteva pravnog lica i dostavljene dokumentacije.
+Ispunjenost uslova u pogledu posedovanja ovlašćenja
+za kontrolu saobraznosti vozila i ovlašćenja za pravno lice za
+ispitivanje dokazuje se Rešenjem o ovlašćivanju koje je izdala
+Agencija.
+Ispunjenost uslova u pogledu stručnosti i specifičnih
+tehničkih znanja dokazuju se neposrednim osvedočenjem pojedinačnog
+odobrenja vozila i za to prijavljenih lica podnosioca zahteva.
+Ako Agencija utvrdi da su svi zahtevi ispunjeni,
+Rešenjem ovlašćuje pravno lice kao Tehničku službu za pojedinačno
+odobrenje vozila. Jedan primerak Rešenja dostavlja se Tehničkoj službi.
+Član 50
+Agencija sačinjava plan za proveru ispunjenosti
+uslova od strane svih ovlašćenih Tehničkih službi, tako da se
+reprezentativni uzorci predmeta ovlašćenja redovno preispituju.
+Proveru ispunjenosti uslova od strane ovlašćene
+Tehničke službe sprovodi Agencija. Agencija formira komisiju za proveru
+ispunjenosti uslova.
+Izveštaj o ovlašćivanju odnosno Rešenja se
+preispituju nakon perioda koji iznosi maksimalno tri godine od dana
+donošenja Rešenja. Vremenski interval između procena na licu mesta, bez
+obzira na to da li je u pitanju ponovno ovlašćivanje ili provera
+ispunjenosti uslova, zavisi od ukupne aktivnosti Tehničke službe u
+pogledu poslova iz ovog pravilnika.
+Tehnička služba je dužna da obavesti Agenciju o
+promenama koje utiču na ispunjenost uslova po kojima je dodeljeno
+Rešenje o ovlašćivanju, najkasnije u roku od sedam dana od dana nastale
+promene.
+Ako se prilikom provere ispunjenosti uslova iz stava
+2. ovog člana utvrdi neispunjenost nekih od uslova iz čl. 44-46. ovog
+pravilnika, Agencija oduzima ovlašćenje Tehničkoj službi.
+Ovlašćenje Tehničkoj službi oduzima se i ako se
+utvrdi da se homologaciona ispitivanja, odnosno kontrola saobraznosti,
+odnosno pojedinačno odobrenje vozila ne obavljaju savesno ili na
+propisan način, ili se homologaciona ispitivanja, kontrola saobraznosti
+odnosno, poslovi iz ovog pravilnika izvrše bez naloga odnosno bez
+znanja Agencije ili se dokumentacija odnosno Izveštaji koriste na način
+koji nije propisan ovim pravilnikom.
+Radi dostavljanja podataka o poslovima Tehničke
+službe i druge dokumentacije, štampanja i arhiviranja izveštaja i
+dokumentacije, kao i vođenja evidencije o poslovima Tehničke službe,
+Tehnička služba koristi informacioni sistem Agencije.
+Agencija vodi evidenciju Tehničkih službi i objavljuje osnovne podatke o Tehničkim službama na svojoj internet stranici.
+VII REGISTAR PRIVREDNIH DRUŠTAVA I PREDUZETNIKA KOJI MOGU DA IZVRŠE POJEDINAČNU PROIZVODNJU VOZILA
+Član 51
+Agencija vodi registar privrednih društava ili
+preduzetnika koji mogu izvršiti pojedinačnu proizvodnju vozila u
+Republici Srbiji u elektronskom obliku i objavljuje ga na svojoj
+internet stranici.
+Zahtev za upis u registar podnosi se Agenciji i mora da sadrži najmanje sledeće podatke:
+1) poslovno ime;
+2) matični broj;
+3) adresu sedišta;
+4) ime i prezime odgovornog lica u pravnom licu;
+5) elektronsku adresu (e-mail);
+6) broj kontakt telefona pravnog lica.
+Uz zahtev iz stava 2. ovog člana obavezno se prilaže izjava o sprovođenju sistema kvaliteta u pogledu proizvodnje.
+Brisanje iz registra vrši se na osnovu zahteva
+registrovanog privrednog društava ili preduzetnika, odnosno na osnovu
+odluke Agencije usled značajnog tehničkog propusta ili zloupotrebe
+ovlašćenja.
+VIII PRELAZNE I ZAVRŠNE ODREDBE
+Član 52
+Odredbe člana 2. st. 1, 3, 4, 5 i 6. Pravilnika o
+podeli motornih i priključnih vozila i tehničkim uslovima za vozila u
+saobraćaju na putevima ("Službeni glasnik RS", br. 40/12, 102/12,
+19/13, 41/13, 102/14, 41/15, 78/15, 111/15, 14/16, 108/16, 7/17 -
+ispravka, 63/17, 45/18, 70/18, 95/18, 104/18, 93/19, 2/20 - ispravka i
+64/21) prestaju da važe 1. marta 2023. godine.
+Odredbe člana 2. stav 1. tač. 10) i 11), člana 4.
+stav 1. tačka 1), člana 9. stav 3, člana 17b i tač. 1.1 i 1.2 iz
+Priloga 1. Pravilnika o ispitivanju vozila ("Službeni glasnik RS", br.
+8/12, 13/13, 31/13, 114/13, 40/14, 140/14, 18/15, 82/15, 88/16 i
+108/16) prestaju da važe 1. marta 2023. godine.
+Član 53
+Pravna lica koja vrše poslove homologacionih
+ispitivanja odnosno kontrolu saobraznosti odnosno pojedinačnog
+odobrenja vozila, na osnovu ovlašćenja izdatog po zahtevu podnetom do
+početka primene ovog pravilnika, nastavljaju rad i dužna su da svoje
+poslovanje usklade sa odredbama ovog pravilnika - do početka njegove
+primene.
+Član 54
+Ovaj pravilnik stupa na snagu osmog dana od dana
+objavljivanja u "Službenom glasniku Republike Srbije", a primenjuje se
+od 1. oktobra 2022. godine, osim odredaba člana 7, čl. 18-30. i člana
+50. stav 7. koji se primenjuju od 1. marta 2023. godine.
+Samostalni član Pravilnika o izmeni i dopuni
+Pravilnika o homologaciji
+("Sl. glasnik RS", br. 110/2022)
+Član 3
+Ovaj pravilnik stupa na snagu danom objavljivanja u "Službenom glasniku Republike Srbije".
+Samostalni član Pravilnika o izmenama i dopunama
+Pravilnika o homologaciji
+("Sl. glasnik RS", br. 23/2023)
+Član 7
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Obrazac i Prilog, koji su sastavni deo
+ovog pravilnika, objavljene u "Sl. glasniku RS", br. 129/2021,
+izmenjene u "Sl. glasniku RS", br. 59/2024, možete pogledati
+OVDE

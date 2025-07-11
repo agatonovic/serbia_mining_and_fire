@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.py text diff=python
+*.html text
+*.css text
+*.js text
+*.json text
+*.md text
+*.csv text
+*.geojson text
+*.txt text 

@@ -1,0 +1,112 @@
+Title: PRAVILNIKO PODNOŠENJU PORESKE PRIJAVE ELEKTRONSKIM PUTEM ZA VELIKE PORESKE OBVEZNIKE
+URL: https://www.paragraf.rs/propisi/pravilnik-podnosenje-poreske-prijave-elektronskim-putem-za-velike-obveznike.html
+Extracted: 2025-07-06T23:12:25.015133
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O PODNOŠENJU PORESKE PRIJAVE ELEKTRONSKIM PUTEM ZA VELIKE PORESKE OBVEZNIKE
+("Sl. glasnik RS", br. 18/2012, 113/2013 i 44/2018 - dr. zakon)
+Član 1
+Ovim pravilnikom bliže se uređuje način podnošenja poreske prijave elektronskim putem za poreske obveznike koji su svrstani u velike poreske obveznike u skladu sa zakonom kojim se uređuju poreski postupak i poreska administracija, i to: pojam i sadržaj poreske prijave u elektronskom obliku i potvrde o njenom prijemu; određivanje učesnika u podnošenju poreske prijave elektronskim putem; sadržaj elektronske poruke; postupak registracije poreskog obveznika i podnošenja poreske prijave.
+Član 2
+Izrazi koji se koriste u ovom pravilniku, u smislu ovog pravilnika, imaju sledeće značenje:
+1)
+elektronska poruka
+jeste skup podataka u elektronskom obliku koji se odnose na poreskog obveznika i poresku prijavu, koji je poreski obveznik putem elektronske komunikacije poslao Poreskoj upravi;
+2)
+elektronski dokument
+jeste dokument u elektronskom obliku, izrađen u skladu sa zakonom kojim se uređuju elektronski dokument i elektronski potpis;
+tač. 3)  i 4)
+(brisane)
+5)
+korisničko ime
+jeste kombinacija znakova koje Poreska uprava dodeljuje poreskom obvezniku radi identifikacije u postupku podnošenja poreske prijave elektronskim putem;
+6)
+lozinka
+jeste kombinacija znakova koju Poreska uprava dodeljuje poreskom obvezniku ili je poreski obveznik sam odredi;
+7)
+poreska prijava
+jeste elektronski dokument koji ima sadržaj i strukturu poreske prijave u skladu sa zakonom kojim se uređuje poreski postupak i poreska administracija;
+8)
+potvrda o prijemu poreske prijave
+jeste elektronski dokument koji sadrži poreski identifikacioni broj (u daljem tekstu: PIB) poreskog obveznika, vrstu poreske prijave koja je podneta, broj pod kojim je poreska prijava primljena, kao i datum i vreme prijema.
+Član 3
+Podnošenje poreskih prijava elektronskim putem obavlja se razmenom elektronskih poruka preko sredstava za elektronsku komunikaciju.
+Učesnici u podnošenju poreske prijave elektronskim putem jesu poreski obveznik i Poreska uprava.
+Član 4
+Elektronska poruka u postupku podnošenja poreske prijave elektronskim putem može da sadrži:
+1) poresku prijavu u elektronskom obliku (u daljem tekstu: poreska prijava);
+2) potvrdu o prijemu poreske prijave (u daljem tekstu: potvrda o prijemu);
+3) razloge odbijanja prijema poreske prijave.
+4)
+(brisana)
+Član 5
+U postupku podnošenja poreske prijave elektronskim putem, Poreska uprava obezbeđuje registraciju poreskih obveznika za podnošenje poreskih prijava elektronskim putem, prihvat, kontrolu i obradu elektronskih poruka.
+Član 6
+(Brisan)
+Član 7
+Poreski obveznik, radi podnošenja poreskih prijava elektronskim putem, dostavlja prijavu Poreskoj upravi na Obrascu PPL - Prijava za registraciju pravnog lica za podnošenje poreske prijave elektronskim putem, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.
+Po prijemu prijave iz stava 1. ovog člana, Poreska uprava izdaje  poreskom obvezniku potvrdu o izvršenoj registraciji, u kojoj mu dodeljuje korisničko ime, lozinku i korisničko uputstvo za podnošenje poreskih prijava elektronskim putem, čime ovaj poreski obveznik stiče status poreskog obveznika registrovanog za podnošenje poreskih prijava elektronskim putem.
+Poreski obveznik iz stava 1. ovog člana se, u postupku podnošenja poreskih prijava elektronskim putem, identifikuje putem korisničkog imena i lozinke.
+Član 8
+Poreska prijava smatra se podnetom kada poreski obveznik primi potvrdu o prijemu poreske prijave iz člana 4. tačka 2) ovog pravilnika.
+Član 9
+Poreski obveznik iz člana 6. ovog pravilnika, koji je do dana stupanja na snagu ovog pravilnika podneo poresku prijavu za porez na dodatu vrednost elektronskim putem, u skladu sa Zakonom o elektronskom potpisu ("Službeni glasnik RS", broj 135/04), nije u obavezi da ponovo podnese tu poresku prijavu za isti poreski period, a takva poreska prijava smatra se podnetom u skladu sa ovim pravilnikom.
+Član 10
+Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o načinu podnošenja poreske prijave elektronskim putem ("Službeni glasnik RS", broj 127/03).
+Član 11
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Samostalni članovi Pravilnika o izmenama i dopuni
+Pravilnika o načinu podnošenja poreske prijave elektronskim putem
+("Sl. glasnik RS", br. 113/2013)
+Član 8
+Izuzetno od odredaba ovog pravilnika, počev od 1. januara 2014. godine poreski obveznici dužni su da za porez na dodatu vrednost i porez po odbitku, osim za porez na dobit pravnih lica, podnose poreske prijave elektronskim putem u skladu sa odredbama Pravilnika o podnošenju poreske prijave elektronskim putem ("Službeni glasnik RS", broj 113/13).
+Član 9
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Obrazac PEP
+(Brisan)
+Obrazac PREP
+(Brisan)
+Obrazac PEK
+(Brisan)
+Obrazac PPL***
+REPUBLIKA SRBIJA
+MINISTARSTVO FINANSIJA
+PORESKA UPRAVA
+Centar za velike poreske obveznike
+PRIJAVA
+ZA REGISTRACIJU PRAVNOG LICA ZA PODNOŠENJE PORESKE PRIJAVE ELEKTRONSKIM PUTEM
+I. Podaci o poreskom obvezniku
+PIB
+Pun naziv pravnog lica
+Adresa sedišta
+Mesto
+Telefon
+E-mail
+Lozinka za podnošenje poreske prijave elektronskim putem
+II. Podaci o zakonskom zastupniku
+PIB / JMBG/ Broj pasoša*)
+Ime i prezime
+Adresa sedišta / prebivališta
+Mesto
+Telefon
+E-mail
+*) za strance koji nemaju JMBG
+III. Podaci o poreskom punomoćniku**)
+PIB / JMBG
+Ime i prezime
+Adresa sedišta / prebivališta
+Mesto
+Telefon
+E-mail
+**) za obveznike koji su odredili poreskog punomoćnika iz člana 14. Zakona o poreskom postupku i poreskoj administraciji
+(MP)
+(Mesto i datum)
+(Potpis ovlašćenog lica)

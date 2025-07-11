@@ -1,0 +1,178 @@
+Title: PRAVILNIKO VALIDACIJI KVALIFIKOVANOG ELEKTRONSKOG POTPISA I KVALIFIKOVANOG
+ELEKTRONSKOG PEČATA
+URL: https://www.paragraf.rs/propisi/pravilnik-validacija-kvalifikovanog-elektronskog-potpisa-i-pecata.html
+Extracted: 2025-07-06T23:15:06.771947
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O VALIDACIJI KVALIFIKOVANOG ELEKTRONSKOG POTPISA I KVALIFIKOVANOG
+ELEKTRONSKOG PEČATA
+("Sl. glasnik RS", br. 43/2019)
+Predmet Pravilnika
+Član 1
+Ovim pravilnikom bliže se propisuju uslovi za postupak validacije kvalifikovanog
+elektronskog potpisa i kvalifikovanog elektronskog pečata i uslovi za pružanje usluge kvalifikovane
+validacije kvalifikovanog elektronskog potpisa i kvalifikovanog elektronskog pečata.
+Značenje pojedinih izraza
+Član 2
+Pojedini izrazi u smislu ovog pravilnika imaju sledeće značenje:
+1)
+usluga kvalifikovane validacije
+je zajednički naziv za uslugu
+kvalifikovane validacije kvalifikovanog elektronskog potpisa i uslugu kvalifikovane validacije
+kvalifikovanog elektronskog pečata;
+2)
+aplikacija za validaciju
+je softverski proizvod u okviru koga
+je tehnički implementirana validacija kvalifikovanog elektronskog potpisa odnosno pečata;
+3)
+upravljačka aplikacija
+je softverski proizvod koji koristi aplikaciju
+za validaciju da bi se izvršila validacija kvalifikovanog elektronskog potpisa odnosno pečata;
+4)
+status validacije
+je krajnji rezultat validacije koji proizvodi
+aplikacija za validaciju i koji vraća upravljačkoj aplikaciji;
+5)
+izveštaj validacije
+je izveštaj o validaciji koji aplikacija
+za validaciju isporučuje upravljačkoj aplikaciji i putem nje pouzdajućoj strani da bi se
+omogućio uvid u razloge iz kojih je proizašao odgovarajući status validacije.
+Aplikacija za validaciju i upravljačka aplikacija
+Član 3
+Sistem iz člana 48. stav 2. Zakona o elektronskom dokumentu, elektronskoj
+identifikaciji i uslugama od poverenja u elektronskom poslovanju (u daljem tekstu: Zakon)
+koji se koristi za validaciju kvalifikovanog elektronskog potpisa odnosno pečata obuhvata
+aplikaciju za validaciju, u okviru koje je tehnički implementirana validacija, i upravljačku
+aplikaciju putem koje pouzdajuća strana inicira validaciju i dobija status validacije i izveštaj
+validacije.
+Tehnička implementacija validacije iz stava 1. ovog člana mora da bude
+u skladu sa uslovima iz Zakona.
+Aplikacija za validaciju i upravljačka aplikacija moraju da budu saglasne
+zahtevima standarda ETSI EN 319 102-1 "Electronic Signatures and Infrastructures (ESI);
+Procedures for Creation and Validation of AdES Digital Signatures; Part 1: Creation and Validation" koji
+se odnosi na validaciju (engleski: "signature validation") i zahtevima standarda
+ETSI TS 119 172-4 "Electronic Signatures and Infrastructures (ESI); Signature policies;
+Part 4: Signature validation policy for European qualified electronic signatures/seals using
+trusted lists" koji se shodno primenjuju za Javnu listu kvalifikovanih usluga od poverenja.
+Status validacije
+Član 4
+Status validacije može imati jednu od tri vrednosti: "uspešno", "neodređeno" i "neuspešno".
+Status validacije "uspešno" znači da su sve kriptografske provere
+potpisa odnosno pečata, kao i sve druge provere u skladu sa pravilima za validaciju iz člana
+3. stav 2. ovog pravilnika uspešne.
+Status validacije "neodređeno" znači da nisu ispunjeni svi uslovi
+za status validacije "uspešno", s tim da postoji mogućnost da se steknu uslovi
+za status validacije "uspešno" na osnovu dodatnih činjenica koje su se u postupku
+validacije smatrale nepoznatim.
+Status validacije "neuspešno" znači da nisu ispunjeni uslovi
+ni za status validacije "uspešno" ni za status validacije "neodređeno".
+Aplikacija za validaciju može omogućiti da preko upravljačke aplikacije
+budu navedeni dodatni uslovi kojima se preciziraju činjenice od značaja za validaciju u slučajevima
+kada bi bez tih činjenica status validacije bio "neodređeno".
+Prilikom primene standarda na koje se upućuje iz ovog pravilnika, za statuse
+validacije "uspešno", "neodređeno" i "neuspešno" se primenjuju
+zahtevi koji se odnose na statuse koji su u standardima označeni sa "TOTAL-PASSED", "INDETERMINATE" i "TOTAL-FAILED",
+tim redom.
+Primena standarda ETSI TS 119 441
+Član 5
+Usluga kvalifikovane validacije obavlja se saglasno zahtevima standarda
+ETSI TS 119 441 "Electronic Signatures and Infrastructures (ESI); Policy requirements
+for TSP providing signature validation services" (u daljem tekstu: ETSI TS 119 441)
+koji se odnose na uslugu kvalifikovane validacije, uključujući zahteve iz drugih standarda
+na koje se iz tog standarda direktno i indirektno upućuje, odgovarajućim međunarodnim standardima
+i preporukama, odnosno drugim standardima, dokumentima i preporukama koje se odnose na pružanje
+usluge kvalifikovane validacije utvrđenim ovim pravilnikom.
+Politika usluge kvalifikovane validacije i praktična pravila
+usluge kvalifikovane validacije
+Član 6
+Politika usluge kvalifikovane validacije (u daljem tekstu: politika usluge
+validacije) definiše zahteve koje treba da ispunjava usluga kvalifikovane validacije, dok
+praktična pravila za pružanje usluge kvalifikovane validacije (u daljem tekstu: praktična
+pravila usluge validacije) definišu operativne procedure u cilju ispunjenja tih zahteva,
+tj. način na koji pružalac usluge kvalifikovane validacije ispunjava tehničke, organizacione
+i proceduralne zahteve poslovanja koji su određeni u politici validacije.
+Politika usluge validacije definiše se nezavisno od specifičnog operativnog
+okruženja pružaoca usluge kvalifikovane validacije, dok praktična pravila usluge validacije
+daju detaljan opis organizacione strukture, operativnih procedura, kao i fizičko i računarsko
+okruženje pružaoca usluge kvalifikovane validacije.
+Uslovi koje treba da ispunjavaju politika usluge validacije
+i praktična pravila usluge validacije
+Član 7
+Politika usluge validacije i praktična pravila usluge validacije moraju
+biti usklađeni sa odredbama Zakona, odredbama propisa donetih na osnovu Zakona, kao i zahtevima
+standarda koji su tim propisima propisani da se primenjuju.
+Politika usluge validacije treba da ispunjava zahteve iz standarda ETSI
+TS 119 441, uključujući zahteve iz drugih standarda na koje se iz tog standarda direktno
+i indirektno upućuje, a koji se odnose na politiku usluge validacije (engl. "signature
+validation service policy").
+Praktična pravila usluge validacije treba da ispunjavaju zahteve iz standarda
+ETSI TS 119 441, uključujući zahteve iz drugih standarda na koje se iz tog standarda direktno
+i indirektno upućuje, a koji se odnose na praktična pravila usluge validacije (engl. "signature
+validation service practice statement").
+Podržani formati elektronskog potpisa odnosno pečata
+Član 8
+Usluga kvalifikovane validacije obavezno podržava formate elektronskog
+potpisa odnosno pečata koji ispunjavaju uslove iz člana 4. stav 2. Pravilnika o uslovima
+za postupke i tehnološka rešenja koji se koriste tokom pouzdanog elektronskog čuvanja dokumenata
+("Službeni glasnik RS", broj 94/18).
+Tehnički protokol komunikacije
+Član 9
+Usluga kvalifikovane validacije treba da omogući korišćenje usluge putem
+protokola za validaciju saglasno standardu ETSI TS 119 442 "Electronic Signatures and
+Infrastructures (ESI); Protocol profiles for trust service providers providing AdES digital
+signature validation services".
+Korisnički interfejs
+Član 10
+Pored korišćenja usluge na način iz člana 9. ovog pravilnika, usluga kvalifikovane
+validacije može da obuhvati i korisnički interfejs putem koga se može koristiti usluga i
+u tom slučaju korisnički interfejs, pored prikaza statusa validacije, treba da:
+1) predstavi rezultat kriptografske provere potpisa odnosno pečata (u daljem
+tekstu: verifikacija) na način koji je jasan korisniku;
+2) omogući, na zahtev korisnika, sažet prikaz rezultata validacije u formi
+razumljivoj za korisnika;
+3) omogući prikaz izveštaja validacije;
+4) u slučaju validacije elektronskog potpisa omogući prikaz identiteta
+potpisnika, uključujući:
+(1) ime i prezime ili pseudonim potpisnika, pri čemu u slučaju navođenja
+pseudonima mora biti jasno naznačeno da je u pitanju pseudonim,
+(2) JMBG, odnosno evidencijski broj za stranca, ukoliko je sadržan
+u sertifikatu,
+(3) brojeve putnih isprava, ukoliko su sadržani u sertifikatu,
+(4) ostale atribute polja "Subject" iz sertifikata koji
+nisu obuhvaćeni podacima iz podtačke od (1) do (3) ove tačke, ukoliko postoje,
+(5) potpisane atribute (engl. "signed attributes"), ukoliko
+postoje,
+(6) naziv pružaoca usluge izdavanja kvalifikovanog elektronskog
+sertifikata koji je izdao sertifikat;
+5) u slučaju validacije elektronskog pečata omogući prikaz identiteta pečatioca,
+uključujući:
+(1) naziv odnosno puno poslovno ime pečatioca,
+(2) matični broj pečatioca, ukoliko je sadržan u sertifikatu,
+(3) poreski identifikacioni broj pečatioca, ukoliko je sadržan u
+sertifikatu,
+(4) ostale atribute polja "Subject" iz sertifikata koji
+nisu obuhvaćeni podacima iz podtačke od (1) do (3) ove tačke, ukoliko postoje,
+(5) potpisane atribute (engl. "signed attributes"), ukoliko
+postoje,
+(6) naziv pružaoca usluge izdavanja kvalifikovanog elektronskog
+sertifikata koji je izdao sertifikat;
+6) prikaže napomenu da je verifikacija izvršena po pravilima za verifikaciju
+kvalifikovanog elektronskog potpisa odnosno pečata u skladu sa propisima Republike Srbije;
+7) prikaže napomenu o dodatnim uslovima kojima se preciziraju činjenice
+od značaja za validaciju iz člana 4. stav 5. ovog pravilnika, ukoliko takvi dodatni uslovi
+postoje;
+8) bude saglasna sa odredbama standarda ETSI TS 119 101 "Electronic
+Signatures and Infrastructures (ESI); Policy and security requirements for applications for
+signature creation and signature validation" koje se odnose korisnički interfejs (engl. "user
+interface").
+Član 11
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije".

@@ -1,0 +1,142 @@
+Title: PRAVILNIKO REGISTRU PRUŽALACA KVALIFIKOVANIH USLUGA
+      OD POVERENJA
+URL: https://www.paragraf.rs/propisi/pravilnik-registar-pruzalaca-kvalifikovanih-usluga-od-poverenja.html
+Extracted: 2025-07-06T23:13:26.853406
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O REGISTRU PRUŽALACA KVALIFIKOVANIH USLUGA
+      OD POVERENJA
+("Sl. glasnik RS", br. 31/2018)
+Predmet
+Član 1
+Ovim pravilnikom propisuje se sadržaj i način vođenja Registra
+  pružalaca kvalifikovanih usluga od poverenja, način podnošenja zahteva za upis
+  u Registar, potrebna dokumentacija uz zahtev, obrazac zahteva i način provere
+  ispunjenosti uslova za pružanje kvalifikovane usluge od poverenja.
+Registar pružalaca kvalifikovanih usluga od poverenja (u daljem
+  tekstu: Registar) vodi ministarstvo nadležno za poslove informacionog društva
+  (u daljem tekstu: Ministarstvo).
+Sadržaj Registra
+Član 2
+Registar sadrži sledeće podatke:
+1) redni broj upisa u Registar;
+2) poslovno ime pružaoca kvalifikovanih usluga od poverenja
+  (u daljem tekstu: pružalac usluga);
+3) broj rešenja o upisu u Registar;
+4) datum upisa u Registar;
+5) matični broj;
+6) poresko-identifikacioni broj (PIB);
+7) sedište (ulica i broj, mesto, poštanski broj i država);
+8) adresu Internet strane pružaoca usluga;
+9) broj telefona pružaoca usluga;
+10) podaci o upisu pružaoca usluga u registar privrednih subjekata
+  ili drugi odgovarajući registar koji se vodi u skladu sa zakonom i to:
+(1) naziv registra,
+(2) broj rešenja o upisu u registar,
+(3) datum upisa,
+(4) oblik organizovanja,
+(5) šifra delatnosti,
+(6) opis delatnosti;
+11) podaci o odgovornom licu koje zastupa pružaoca usluga i
+  obimu njegovih ovlašćenja i to:
+(1) ime, prezime,
+(2) naziv funkcije,
+(3) obim ovlašćenja,
+(4) službeni broj telefona,
+(5) službena elektronska adresa;
+12) podaci o službi pružaoca usluge za odnose sa strankama
+  i to:
+(1) naziv službe,
+(2) adresa,
+(3) telefon,
+(4) elektronska adresa;
+13) podaci o vrsti kvalifikovane usluge od poverenja;
+14) podaci u upisu promena u registar i to:
+(1) broj rešenja o upisu promena u Registar,
+(2) datum upisa promena u Registar;
+15) podaci o brisanju iz Registra i to:
+(1) broj rešenja o brisanju iz Registara,
+(2) datum brisanja iz Registara.
+U Registar se upisuju sve promene podataka iz stava 1. ovog
+  člana.
+Način vođenja Registra i način objavljivanja
+  podataka iz Registra
+Član 3
+Registar se vodi u papirnom i elektronskom obliku.
+Registar u elektronskom obliku javno je dostupan na Internet
+  strani Ministarstva.
+Registar u elektronskom obliku potpisuje se naprednim elektronskim
+  potpisom Ministarstva.
+Način podnošenja zahteva za upis u Registar
+Član 4
+Zahtev za upis u Registar (u daljem tekstu: zahtev) podnosi
+  se Ministarstvu, elektronskim putem, na Obrascu 1, koji je odštampan uz ovaj
+  pravilnik i čini njegov sastavni deo i koji se objavljuje na Internet strani
+  Ministarstva.
+Zahtev iz stava 1. ovog člana i dokumentacija koja se prilaže
+  uz zahtev dostavljaju se u formi elektronskog dokumenta u originalu ili u formi
+  overenog digitalizovanog akta, u skladu sa Zakonom o elektronskom dokumentu,
+  elektronskoj identifikaciji i uslugama od poverenja u elektronskom poslovanju
+  (u daljem tekstu: Zakon), na elektronsku adresu Ministarstva.
+Zahtev se može podneti i pisanim putem, neposredno ili poštom,
+  na Obrascu 1, a dokumentacija koja se prilaže uz zahtev podnosi se u originalu
+  ili se prilaže kopija overena od strane nadležnog organa.
+Potrebna dokumentacija uz zahtev
+Član 5
+Podnosilac uz zahtev prilaže:
+1) izvod ili rešenje nadležnog organa o upisu u registar iz
+  člana 2. stav 1. tačka 10) ovog pravilnika, pod uslovom da se podatak o registraciji
+  ne vodi u okviru službene evidencije;
+2) izveštaj o ocenjivanju usaglašenosti izdat od strane tela
+  za ocenjivanje usaglašenosti;
+3) Opšte uslove za pružanje usluge;
+4) Praktična pravila za pružanje usluga;
+5) Politiku pružanja usluge;
+6) Politiku informacione bezbednosti;
+7) dokument o organizacionoj strukturi podnosioca zahteva;
+8) potvrdu o uplaćenoj administrativnoj taksi, u skladu sa
+  zakonom kojim se uređuju republičke administrativne takse.
+Način provere ispunjenosti uslova za pružanje
+  kvalifikovane usluge od poverenja
+Član 6
+Uz zahtev iz člana 4. ovog pravilnika prilažu se dokazi o činjenicama
+  iskazanim u zahtevu uključujući izveštaj o ocenjivanju usaglašenosti izdatog
+  od strane tela za ocenjivanje usaglašenosti, kojim je ocenjeno da podnosilac
+  zahteva i kvalifikovane usluge od poverenja koje on namerava da pruža ispunjavaju
+  uslove iz Zakona.
+Ministarstvo rešava o upisu pružaoca usluge u Registar u roku
+  od 60 dana od dana podnošenja urednog zahteva.
+U postupku rešavanja Ministarstvo može zahtevati prilaganje
+  dodatnih dokaza, kao i dodatnu proveru tehničkih i bezbednosnih komponenti
+  i operativnog rada.
+Ako pružalac usluga prestane da ispunjava propisane uslove,
+  Ministarstvo donosi rešenje o njegovom brisanju iz Registra.
+Promena podataka upisanih u Registar
+Član 7
+Zahtev za promenu podataka upisanih u Registar podnosi se,
+  u roku od osam dana od dana nastanka promene, na Obrascu 2, koji je odštampan
+  uz ovaj pravilnik i čini njegov sastavni deo i koji se objavljuje na Internet
+  strani Ministarstva, na način iz člana 4. ovog pravilnika.
+Datum upisa u Registar
+Član 8
+Upis pružaoca usluga u Registar, Ministarstvo vrši na dan donošenja
+  rešenja o upisu u Registar.
+Završne odredbe
+Član 9
+Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik
+  o Registru sertifikacionih tela za izdavanje kvalifikovanih elektronskih sertifikata
+  u Republici Srbiji ("Službeni glasnik RS", broj 26/08).
+Član 10
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja
+  u "Službenom glasniku Republike Srbije".
+Obrasce 1 i 2, koji su sastavni deo ovog Pravilnika,
+možete pogledati
+OVDE

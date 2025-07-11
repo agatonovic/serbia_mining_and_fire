@@ -1,0 +1,59 @@
+Title: PRAVILNIKO PSEUDONIMIZACIJI PODATAKA
+URL: https://www.paragraf.rs/propisi/pravilnik-o-pseudonimizaciji-podataka.html
+Extracted: 2025-07-06T23:13:18.816526
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O PSEUDONIMIZACIJI PODATAKA
+("Sl. glasnik RS", br. 116/2023)
+Predmet Pravilnika
+Član 1
+Ovim pravilnikom uređuje se način izostavljanja podataka (u daljem tekstu: pseudonimizacija) u aktu Visokog saveta sudstva (u daljem tekstu: Savet), koji se, u skladu sa zakonom koji uređuje zaštitu podataka o ličnosti, objavljuju ili čine dostupnim javnosti:
+- na internet stranici Saveta;
+- objavljivanjem u publikacijama koje izdaje Savet (informator o radu, izveštaji i druge publikacije);
+- objavljivanjem ili činjenjem dostupnim javnosti na bilo koji drugi način.
+Podaci koji nisu predmet pseudonimizacije
+Član 2
+Pseudonimizacija se ne odnosi na podatke sadržane u odluci o izboru ili prestanku funkcije sudije ili predsednika suda, u odluci o prestanku funkcije člana Saveta, u odluci o izboru ili prestanku funkcije sudije porotnika, kao i podatke sadržane u drugim odlukama Saveta koje se u skladu sa zakonom objavljuju u "Službenom glasniku Republike Srbije" i na internet stranici Saveta.
+Pojam pseudonimizacije
+Član 3
+Pod pseudonimizacijom podataka u aktu Saveta podrazumeva se obrada podataka o ličnosti i drugih podataka, tako da nije moguća identifikacija lica na koje se podaci odnose.
+Pseudonimizacija podataka obuhvata izostavljanje podataka na osnovu kojih je moguće identifikovati učesnika u postupku pred Savetom, kao i podataka o fizičkom ili pravnom licu, na osnovu kojih bi mogao biti otkriven identitet učesnika u postupku.
+Lice na osnovu čijih ličnih podataka bi mogao da bude identifikovan učesnik u postupku je fizičko lice na osnovu čijih se svojstava (bračni drug, srodnik itd.), može identifikovati učesnik u postupku, odnosno pravno lice na osnovu čijih podataka bi bilo moguće identifikovati učesnika u postupku.
+Podaci o ličnosti koji su predmet pseudonimizacije
+Član 5
+U aktu Saveta vrši se pseudonimizacija podataka o ličnosti učesnika u postupku, kao i drugih lica u smislu člana 4. ovog pravilnika, koji se odnose na:
+- ime i prezime;
+- datum, godinu i mesto rođenja;
+- adresu (prebivalište ili boravište);
+- jedinstveni matični broj građana (JMBG);
+- broj lične karte, pasoša, vozačke dozvole, registarske oznake vozila ili druge lične isprave i mrežne podatke koji bi mogli da dovedu do otkrivanja identiteta;
+- biometrijske podatke, genetske podatke i podatke o zdravstvenom stanju;
+- druge podatke na osnovu kojih učesnik u postupku može biti identifikovan.
+Minimum standarda pseudonimizacije pri pozivanju na odluke drugih organa
+Član 6
+U aktu Saveta koji u obrazloženju sadrži pozivanje na postupak ili odluku drugog organa (sudskog, upravnog itd.) vrši se pseudonimizacija podataka iz postupka ili odluke tog organa na osnovu kojih bi mogao biti utvrđen identitet učesnika u postupku pred Savetom.
+Način pseudonimizacije
+Član 7
+Podaci se pseudonomizuju izostavljanjem podataka, na način da se podaci učine nevidljivim, odnosno prekrivaju se crnom ili drugom bojom ili na drugi pogodan način, tako da se prekriveni podaci ne mogu pročitati.
+Način pseudonimizacije iz stava 1. ovog člana mora biti primenjen tako da se identitet učesnika ne može odrediti.
+Ovlašćeno lice za poslove pseudonimizacije
+Član 8
+Predsednik Saveta određuje lice koje vrši pseudonimizaciju akata Saveta.
+O pseudonomizovanim aktima vodi se jedinstvena evidencija.
+Shodna primena pravilnika na akte radnih tela Saveta
+Član 9
+Odredbe ovog pravilnika shodno se primenjuju i na akte radnih tela Saveta.
+Prestanak važenja ranijeg pravilnika
+Član 10
+Stupanjem na snagu ovog pravilnika prestaje da važi Pravilnik o izostavljanju i zameni (anonimizaciji i pseudonimizaciji) podataka u odlukama Visokog saveta sudstva ("Službeni glasnik RS", broj 47/19).
+Stupanje na snagu
+Član 11
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".

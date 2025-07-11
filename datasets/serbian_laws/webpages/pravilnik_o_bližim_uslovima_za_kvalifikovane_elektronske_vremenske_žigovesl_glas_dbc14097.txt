@@ -1,0 +1,140 @@
+Title: PRAVILNIKO BLIŽIM USLOVIMA ZA KVALIFIKOVANE ELEKTRONSKE VREMENSKE
+ŽIGOVE
+URL: https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html
+Extracted: 2025-07-06T23:09:19.953285
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O BLIŽIM USLOVIMA ZA KVALIFIKOVANE ELEKTRONSKE VREMENSKE
+ŽIGOVE
+("Sl. glasnik RS", br. 59/2019)
+Predmet
+Član 1
+Ovim pravilnikom se propisuju bliži uslovi za kvalifikovane elektronske
+vremenske žigove.
+Značenje pojedinih izraza
+Član 2
+Pojedini izrazi u smislu ovog pravilnika imaju sledeće značenje:
+1) sistem za izdavanje vremenskih žigova je sklop informaciono-tehnoloških
+proizvoda i komponenti namenjen da podrži pružanje usluge izdavanja vremenskih žigova;
+2) jedinica za formiranje vremenskih žigova je tehnička celina u okviru
+sistema za izdavanje vremenskih žigova koju čine odgovarajuće hardverske i softverske komponente
+i koristi se za formiranje kvalifikovanih vremenskih žigova, pri čemu jedna jedinica za formiranje
+vremenskih žigova koristi jedan asimetrični privatni ključ za potpisivanje odnosno pečatiranje
+vremenskih žigova;
+3) asimetrični privatni ključ je tehnička realizacija podataka za kreiranje
+elektronskog potpisa odnosno pečata korišćenjem metoda asimetrične kriptografije;
+4) asimetrični javni ključ je tehnička realizacija podataka za validaciju
+elektronskog potpisa odnosno pečata korišćenjem metoda asimetrične kriptografije.
+Primena standarda EN 319 421
+Član 3
+Usluga izdavanja kvalifikovanih elektronskih vremenskih žigova obavlja
+se saglasno zahtevima standarda ETSI EN 319 421 "Electronic Signatures and Infrastructures
+(ESI); Policy and Security Requirements for Trust Service Providers issuing Time-Stamps" (u
+daljem tekstu: EN 319 421), uključujući i dodatne zahteve tog standarda - koji se odnose
+na izdavanje kvalifikovanih elektronskih vremenskih žigova, odnosno zahteve iz drugih standarda
+na koje se iz tog standarda direktno i indirektno upućuje, kao i zahtevima odgovarajućih
+standarda, dokumenata i preporuka koje se odnose na pružanje usluge izdavanja kvalifikovanih
+elektronskih žigova, ako se njima obezbeđuje najmanje jednak kvalitet pružanja usluge koji
+se postiže primenom standarda EN 319 421.
+Zahtevi standarda EN 319 421 koji se odnose na Listu od poverenja shodno
+se primenjuju za Javnu listu kvalifikovanih usluga od poverenja.
+Sistem za izdavanje vremenskih žigova mora biti saglasan zahtevima standarda
+EN 319 421 koji se odnose na Sistem tela za vremenski žig.
+Jedinica za formiranje vremenskih žigova mora biti saglasna sa zahtevima
+standarda EN 319 421 koji se odnose na Jedinicu za formiranje vremenskih žigova.
+Politika i praktična pravila usluge izdavanja kvalifikovanih
+elektronskih vremenskih žigova
+Član 4
+Politika usluge izdavanja kvalifikovanih elektronskih vremenskih žigova
+(u daljem tekstu: politika izdavanja vremenskih žigova) definiše zahteve koje treba da ispunjava
+usluga izdavanja kvalifikovanih elektronskih vremenskih žigova, dok praktična pravila za
+pružanje usluge izdavanja kvalifikovanih elektronskih vremenskih žigova (u daljem tekstu:
+Praktična pravila izdavanja vremenskih žigova) definišu operativne procedure u cilju ispunjenja
+tih zahteva, tj. način na koji pružalac usluge izdavanja kvalifikovanih elektronskih vremenskih
+žigova ispunjava tehničke, organizacione i proceduralne zahteve poslovanja koji su određeni
+u politici izdavanja vremenskih žigova.
+Politika izdavanja vremenskih žigova se definiše nezavisno od specifičnog
+operativnog okruženja pružaoca usluge izdavanja kvalifikovanih elektronskih vremenskih žigova,
+dok praktična pravila izdavanja vremenskih žigova daju detaljan opis organizacione strukture,
+operativnih procedura, kao i fizičko i računarsko okruženje pružaoca usluge izdavanja kvalifikovanih
+elektronskih vremenskih žigova.
+Uslovi koje treba da ispunjavaju politika i praktična pravila
+Član 5
+Politika izdavanja vremenskih žigova i Praktična pravila izdavanja vremenskih
+žigova moraju biti usklađeni sa odredbama zakona, odredbama propisa donetih na osnovu zakona,
+kao i zahtevima standarda koji su tim propisima propisani da se primenjuju.
+Politika usluge izdavanja vremenskih žigova treba da ispunjava zahteve
+iz standarda EN 319 421, uključujući zahteve iz drugih standarda na koje se iz tog standarda
+direktno i indirektno upućuje, a koji se odnose na politiku izdavanja vremenskih žigova.
+Praktična pravila usluge izdavanja vremenskih žigova treba da ispunjavaju
+zahteve iz standarda EN 319 421, uključujući zahteve iz drugih standarda na koje se iz tog
+standarda direktno i indirektno upućuje, a koji se odnose na praktična pravila izdavanja
+vremenskih žigova.
+Izvor tačnog vremena
+Član 6
+Jedinica za formiranje vremenskih žigova koristi izvor tačnog vremena (u
+daljem tekstu: časovnik) koji mora biti zaštićen od neprimećenih promena i mora se obezbediti
+da se svaka promena rada časovnika izvan predviđenih parametara odmah ustanovi.
+Časovnik mora biti sinhronizovan sa univerzalnim koordiniranim vremenom
+(UTC), tako da bude obezbeđeno da u trenutku formiranja vremenskog žiga vreme koje je upisano
+u vremenskom žigu ne odstupa od UTC vremena za više od jedne sekunde.
+Objavljivanje asimetričnog javnog ključa
+Član 7
+Asimetrični javni ključ koji služi za verifikaciju elektronskog potpisa
+odnosno pečata vremenskih žigova, tj. koji odgovara asimetričnom privatnom ključu korišćenom
+u jedinici za formiranje vremenskih žigova, objavljuje se u okviru Javne liste kvalifikovanih
+usluga od poverenja.
+Korišćenje naprednog elektronskog potpisa odnosno pečata
+Član 8
+Napredni elektronski potpis odnosno pečat koji se koristi za potpisivanje
+odnosno pečatiranje vremenskog žiga mora biti zasnovan na elektronskom sertifikatu izdatom
+od strane pružaoca usluge izdavanja elektronskih sertifikata koji uslugu pruža saglasno standardu
+ETSI EN 319 411-2 "Electronic Signatures and Infrastructures (ETSI); Policy and security
+requirements for Trust Service Providers issuing certificates; Part 2: Requirements for trust
+service providers issuing EU qualified certificates".
+Elektronski sertifikat koji se koristi za elektronski potpis odnosno pečat
+iz stava 1. ovog člana mora dodatno biti saglasan zahtevima iz standarda ETSI EN 319 422: "Electronic
+Signatures and Infrastructures (ESI); Time-stamping protocol and time-stamp token profiles" (u
+daljem tekstu: EN 319 422) koji se odnose na profil sertifikata jedinice za formiranje vremenskih
+žigova.
+Protokol izdavanja vremenskog žiga
+Član 9
+Sistem za izdavanje vremenskog žiga omogućava elektronski pristup usluzi
+izdavanja kvalifikovanih elektronskih vremenskih žigova korišćenjem protokola koji je saglasan
+standardu ETSI EN 319 422, uključujući i dodatne zahteve tog standarda koji se odnose na
+kvalifikovane elektronske vremenske žigove.
+Format zahteva za izdavanje vremenskog žiga koji se upućuje sistemu za
+izdavanje vremenskog žiga treba da bude u skladu sa zahtevima standarda EN 319 422 koji se
+odnose na profil za format zahteva.
+Format odgovora na zahtev iz stava 2. ovog člana treba da bude u skladu
+sa zahtevima standarda EN 319 422 koji se odnose na profil za format odgovora.
+Izdavanje nekvalifikovanih vremenskih žigova
+Član 10
+Ako pružalac usluge izdavanja kvalifikovanih elektronskih vremenskih žigova
+takođe izdaje elektronske vremenske žigove koji nisu kvalifikovani, tada:
+1) ne sme da se koristi zajednička pristupna tačka za elektronski pristup
+usluzi izdavanja kvalifikovanih elektronskih vremenskih žigova i za elektronski pristup usluzi
+izdavanja nekvalifikovanih elektronskih vremenskih žigova;
+2) ne sme da se koristi isti asimetrični privatni ključ za potpisivanje
+odnosno pečatiranje kvalifikovanih i nekvalifikovanih vremenskih žigova.
+Primena Pravilnika o izdavanju vremenskog žiga
+Član 11
+Izdavaoci vremenskog žiga iz člana 73. stav 4. Zakona mogu da izdaju kvalifikovane
+vremenske žigove u skladu sa Pravilnikom o izdavanju vremenskog žiga ("Službeni glasnik
+RS", broj 112/09) najduže godinu dana od dana stupanja na snagu ovog pravilnika.
+Prestanak važenja drugih propisa
+Član 12
+Pravilnik o izdavanju vremenskog žiga ("Službeni glasnik RS",
+broj 112/09) prestaje da važi istekom roka iz člana 11. ovog pravilnika.
+Stupanje na snagu
+Član 13
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije".

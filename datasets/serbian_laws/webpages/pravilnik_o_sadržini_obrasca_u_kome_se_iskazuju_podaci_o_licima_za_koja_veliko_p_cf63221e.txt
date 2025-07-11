@@ -1,0 +1,105 @@
+Title: PRAVILNIKO SADRŽINI OBRASCA U KOME SE ISKAZUJU PODACI O LICIMA
+ZA KOJA VELIKO PRAVNO LICE OSTVARUJE PRAVO NA UPLATU BESPOVRATNIH NOVČANIH SREDSTAVA
+URL: https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-obrasca-veliko-pravno-lice-bespovratna-novcana-sredstva-vanredno-stanje.html
+Extracted: 2025-07-06T23:13:50.133915
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O SADRŽINI OBRASCA U KOME SE ISKAZUJU PODACI O LICIMA
+ZA KOJA VELIKO PRAVNO LICE OSTVARUJE PRAVO NA UPLATU BESPOVRATNIH NOVČANIH SREDSTAVA
+("Sl. glasnik RS", br. 56/2020)
+Član 1
+Ovim pravilnikom propisuje se obrazac u kome se iskazuju podaci o licima
+za koja veliko pravno lice ostvaruje pravo na uplatu bespovratnih novčanih sredstava iz člana
+10. Uredbe o fiskalnim pogodnostima i direktnim davanjima privrednim subjektima u privatnom
+sektoru i novčanoj pomoći građanima u cilju ublažavanja ekonomskih posledica nastalih usled
+bolesti COVID-19 ("Službeni glasnik RS", broj 54/20).
+Član 2
+Obrazac iz člana 1. ovog pravilnika podnosi se na Obrascu SL - Spisak lica
+za koja veliko pravno lice ostvaruje pravo na uplatu bespovratnih novčanih sredstava (u daljem
+tekstu: Obrazac SL), koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.
+Obrazac SL podnosi se u papirnom obliku neposredno organizacionoj jedinici
+Poreske uprave nadležnoj za teritoriju na kojoj je sedište velikog pravnog lica i Ministarstvu
+finansija - Upravi za trezor, Pop Lukina 7-9, 11000 Beograd.
+Obrazac SL podnosi se u dva primerka, tako da se jedan dostavlja organizacionoj
+jedinici Poreske uprave, a drugi Ministarstvu finansija - Upravi za trezor, saglasno stavu
+2. ovog člana.
+Član 3
+U Obrazac SL podaci se unose na sledeći način:
+1) u delu 1. popunjavaju se podaci:
+(1) Organizaciona jedinica Poreske uprave - naziv organizacione
+jedinice Poreske uprave nadležne za teritoriju na kojoj je sedište velikog pravnog lica;
+(2) PIB - poreski identifikacioni broj velikog pravnog lica;
+(3) naziv privrednog subjekta - naziv velikog pravnog lica;
+(4) adresa - ulica i broj i mesto sedišta velikog pravnog lica;
+(5) sedište - naziv i šifra opštine sedišta velikog pravnog lica.
+Šifra se upisuje iz pravilnika kojim se propisuju uslovi i način vođenja računa za uplatu
+javnih prihoda;
+(6) Obračunski period - mesec i godina za koji se ostvaruje pravo
+na uplatu bespovratnih novčanih sredstava;
+2) u deo 2. unosi se:
+(1) u kolonu 1. Redni broj - redni broj pod kojim se unosi podatak
+za svakog pojedinačno navedenog zaposlenog;
+(2) u kolonu 2. Ime i prezime - ime i prezime zaposlenog;
+(3) u kolonu 3. JMBG - jedinstveni matični broj građana za zaposlenog;
+(4) u kolonu 4. Osnov prekida rada - za zaposlene za koje je doneto
+rešenje o prekidu rada počev od 15. marta 2020. godine u skladu sa članom 116. Zakona o radu
+("Službeni glasnik RS", br. 24/05, 61/05, 54/09, 32/13, 75/14, 13/17 - US, 113/17
+i 95/18) unosi se broj 116; za zaposlene za koje je doneto rešenje o prekidu rada počev od
+15. marta 2020. godine u skladu sa članom 117. Zakona o radu unosi se broj 117;
+(5) u kolonu 5. Datum kada je rešenje doneto - za zaposlene za koje
+je doneto rešenje o prekidu rada počev od 15. marta 2020. godine u skladu sa čl. 116. i 117.
+Zakona o radu, unosi se datum kada je rešenje doneto;
+(6) u kolonu 6. Radno vreme - za zaposlene sa punim radnim vremenom
+unosi se broj 1; za zaposlene sa nepunim radnim vremenom unosi se decimalni broj manji od
+jedan, sa dva decimalna mesta, kao decimalni zapis procenta angažovanja zaposlenog sa nepunim
+radnim vremenom u odnosu na puno radno vreme;
+(7) Ukupno - unosi se zbir brojeva u koloni 6.
+Obrazac SL potpisuje ovlašćeno lice u velikom pravnom licu.
+Član 4
+Ovaj pravilnik stupa na snagu danom objavljivanja u "Službenom glasniku
+Republike Srbije".
+Obrazac SL
+1.
+Organizaciona jedinica Poreske uprave
+Ministarstvo finansija
+Uprava za trezor
+ul. Pop Lukina br. 7-9
+(PIB)
+(naziv privrednog subjekta)
+(adresa)
+(sedište)
+Obračunski period
+SPISAK LICA ZA KOJA VELIKO PRAVNO LICE OSTVARUJE PRAVO NA UPLATU
+BESPOVRATNIH NOVČANIH SREDSTAVA
+2.
+Redni
+broj
+Ime i prezime
+JMBG
+Osnov
+prekida
+rada
+Datum
+kada je
+rešenje
+doneto
+Radno vreme
+1.
+2.
+3.
+4.
+5.
+6.
+UKUPNO
+U ________________________
+Ovlašćeno lice
+dana ______________ godine
+______________________

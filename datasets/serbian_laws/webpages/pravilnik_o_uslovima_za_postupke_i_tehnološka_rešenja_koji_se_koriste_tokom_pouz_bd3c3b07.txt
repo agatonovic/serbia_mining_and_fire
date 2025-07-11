@@ -1,0 +1,148 @@
+Title: PRAVILNIKO USLOVIMA ZA POSTUPKE I TEHNOLOŠKA REŠENJA KOJI SE KORISTE
+TOKOM POUZDANOG ELEKTRONSKOG ČUVANJA DOKUMENTA
+URL: https://www.paragraf.rs/propisi/pravilnik-uslovi-tehnoloska-resenja-pouzdano-elektronskog-cuvanja-dokumenata.html
+Extracted: 2025-07-06T23:14:46.853655
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O USLOVIMA ZA POSTUPKE I TEHNOLOŠKA REŠENJA KOJI SE KORISTE
+TOKOM POUZDANOG ELEKTRONSKOG ČUVANJA DOKUMENTA
+("Sl. glasnik RS", br. 94/2018 i 87/2020)
+Uvodna odredba
+Član 1
+Ovim pravilnikom propisuju se uslovi za postupke i tehnološka rešenja koji
+se koriste tokom pouzdanog elektronskog čuvanja dokumenta koji u izvornom obliku sadrži kvalifikovani
+elektronski potpis odnosno pečat i dokumenta kojem je kvalifikovanim elektronskim potpisom
+odnosno pečatom potvrđena vernost izvornom dokumentu i tačnost dodatno uključenih podataka
+u skladu sa članom 61. stav 1. tačka 4) Zakona o elektronskom dokumentu, elektronskoj identifikaciji
+i uslugama od poverenja u elektronskom poslovanju (u daljem tekstu: Zakon).
+Interna pravila
+Član 2
+Pouzdano elektronsko čuvanje dokumenta vrši se u skladu sa internim pravilima
+za pouzdano elektronsko čuvanje dokumenta (u daljem tekstu: interna pravila), na osnovu kojih
+se postupa tokom pouzdanog elektronskog čuvanja, a kojima se obezbeđuje da pouzdano elektronsko
+čuvanje ispunjava uslove iz Zakona.
+Ciljevi pouzdanog čuvanja
+Član 3
+Kako bi se obezbedila mogućnost dokazivanja validnosti kvalifikovanog elektronskog
+potpisa odnosno pečata tokom celog perioda čuvanja, pouzdano elektronsko čuvanje dokumenta
+podrazumeva obezbeđenje:
+1) dokaza da je dokument postojao u tačno određenom trenutku, zasnovano
+na kvalifikovanom vremenskom žigu;
+2) održavanje statusa validnosti kvalifikovanog elektronskog potpisa ili
+pečata u odnosu na vremenski trenutak iz tačke 1) ovog člana;
+3) dostupnosti izvorno čuvanog elektronskog dokumenta i svih dodatnih podataka
+kojima se potvrđuje ispunjenost uslova iz tač. 1) i 2) ovog člana;
+4) održavanja poverenja u integritet i autentičnost svih podataka iz tačke
+3) ovog člana pod pretpostavkom da tokom perioda čuvanja može da se pojavi sumnja u prethodno
+korišćene kriptografske algoritme, heš funkcije i postupke ili da se dogodi opoziv sertifikata
+korisnika ili sertifikata pružaoca usluge od poverenja.
+Primena standarda
+Član 3a
+Usluga kvalifikovanog elektronskog čuvanja dokumenata obavlja se saglasno
+zahtevima sledećih standarda:
+1) ETSI TS 119 511 "Electronic Signatures and Infrastructures (ESI);
+Policy and security requirements for trust service providers providing long-term preservation
+of digital signatures or general data using digital signature techniques";
+2) ETSI TS 119 512 "Electronic Signatures and Infrastructures (ESI);
+Protocols for trust service providers providing long-term data preservation services".
+Usluga kvalifikovanog elektronskog čuvanja dokumenta obavlja se i saglasno
+zahtevima iz drugih standarda na koje se iz standarda iz stava 1. ovog člana direktno i indirektno
+upućuje, odgovarajućim međunarodnim standardima i preporukama.
+Kvalifikovani elektronski potpis, odnosno pečat na dokumentu
+koji se pouzdano elektronski čuva
+Član 4
+Dokument koji se pouzdano elektronski čuva obavezno mora da ima pridružen
+kvalifikovani elektronski potpis odnosno pečat, bez obzira da li je u pitanju dokument koji
+u izvornom obliku sadrži kvalifikovani elektronski potpis, odnosno pečat ili dokument kojem
+je kvalifikovanim elektronskim potpisom odnosno pečatom iz člana 61. stav 1. tačka 4) Zakona
+potvrđena vernost izvornom dokumentu i tačnost dodatno uključenih podataka.
+Format kvalifikovanog elektronskog potpisa odnosno pečata iz stava 1. ovog
+člana mora da ispunjava jedan od uslova:
+1) PDF u skladu sa ISO 32000 "Document management Portable document
+format" i PAdES formatom elektronskog potpisa odnosno pečata u skladu sa ETSI EN 319
+142 "Electronic Signatures and Infrastructures (ESI); PAdES digital signatures";
+2) ASiC-S kontejner koji u sebi sadrži dokument i elektronski potpis odnosno
+pečat tog dokumenta u XAdES ili CAdES formatu u skladu sa ETSI EN 319 162 "Electronic
+Signatures and Infrastructures (ESI); Associated Signature Containers (ASiC)";
+3) XAdES format elektronskog potpisa odnosno pečata koji u sebi sadrži
+potpisan odnosno pečatiran dokument u skladu sa ETSI EN 319 132 "Electronic Signatures
+and Infrastructures (ESI); XAdES digital signatures";
+4) CAdES format elektronskog potpisa odnosno pečata koji u sebi sadrži
+potpisan odnosno pečatiran dokument u skladu sa ETSI EN 319 122 "Electronic Signatures
+and Infrastructures (ESI); CAdES digital signatures".
+Nivoi XAdES, CAdES i PAdES formata elektronskog potpisa odnosno pečata
+iz stava 1. ovog člana moraju redom biti XAdES-B-LTA ili XAdES-E-A, CAdES-B-LTA ili CAdES-E-A
+i PAdES-B-LTA ili PAdES-E-LTV.
+Nadogradnja kvalifikovanog elektronskog potpisa, odnosno
+pečata
+Član 5
+Prilikom otpočinjanja pouzdanog elektronskog čuvanja, vrši se postupak
+nadogradnje kvalifikovanog elektronskog potpisa, odnosno pečata u XAdES, CAdES ili PAdES
+formatu na dokumentu koji se čuva, što uključuje:
+1) ukoliko je kvalifikovani elektronski potpis odnosno pečat na osnovnom
+XAdES, CAdES odnosno PAdES nivou, kvalifikovanom elektronskom potpisu odnosno pečatu dodaje
+se kvalifikovani vremenski žig;
+2) vrši se validacija kvalifikovanog elektronskog potpisa odnosno pečata
+i tom prilikom se pribavljaju podaci za proveru validnosti kao što su sertifikati i statusi
+opozvanosti;
+3) u skladu sa formatom, kvalifikovanom elektronskom potpisu, odnosno pečatu
+se dodaju nedostajući podaci za proveru validnosti, računa se heš originalno potpisanog odnosno
+pečatiranog dokumenta zajedno sa samim potpisom odnosno pečatom, kreira se kvalifikovani
+vremenski žig na osnovu tog heša i u kvalifikovani elektronski potpis odnosno pečat se dodaje
+i taj vremenski žig.
+Kvalifikovani elektronski potpis odnosno pečat na dokumentu
+koji se prima na pouzdano elektronsko čuvanje
+Član 6
+Dokument koji se prima na pouzdano elektronsko čuvanje mora da ispuni uslove
+iz člana 4. st. 1. i 2. ovog pravilnika, kao i uslov da je nakon nadogradnje kvalifikovanog
+elektronskog potpisa odnosno pečata u skladu sa članom 5. ovog pravilnika moguće obezbediti
+nivoe iz člana 4. stav 3. ovog pravilnika.
+Ponovna nadogradnja kvalifikovanog elektronskog potpisa
+odnosno pečata
+Član 7
+Ponovna nadogradnja kvalifikovanog elektronskog potpisa odnosno pečata
+na elektronskom dokumentu koji se čuva vrši se obavezno pre nego što:
+1) istekne sertifikat poslednjeg vremenskog žiga u kvalifikovanom elektronskom
+potpisu odnosno pečatu;
+2) iz tehničkih ili formalnih razloga kriptografski algoritam ili heš algoritam
+koji je upotrebljen u poslednjem vremenskom žigu u kvalifikovanom elektronskom potpisu odnosno
+pečatu može postati osnov osporavanja validnosti kvalifikovanog elektronskog potpisa odnosno
+pečata.
+Ponovna nadogradnja kvalifikovanog elektronskog potpisa odnosno pečata
+obavlja se po postupku iz člana 5. ovog pravilnika.
+Informacioni sistem za pouzdano elektronsko čuvanje
+Član 8
+Pouzdano elektronsko čuvanje dokumenta vrši se u okviru za to namenjenog
+informacionog sistema (u daljem tekstu: informacioni sistem) kojim upravlja i o kojem se
+stara rukovalac čuvanja.
+Informacioni sistemi, zajedno sa odgovarajućim merama određenim internim
+pravilima, mora da obezbedi da se ponovna nadogradnja kvalifikovanog elektronskog potpisa,
+odnosno pečata vrši blagovremeno, kako bi se obezbedila mogućnost dokazivanja validnosti
+kvalifikovanog elektronskog potpisa, odnosno pečata tokom celog perioda čuvanja.
+Informacioni sistem mora da obezbedi visok nivo zaštite od gubitaka podataka
+koji se čuvaju, narušavanja integriteta tih podataka i neovlašćenog pristupa tim podacima.
+Rukovalac čuvanja upravlja informacionim sistemom saglasno standardu ISO/IEC
+27001 "Information security management" na način da se smatraju visokorizičnim
+incidenti koji dovode do gubitaka podataka koji se čuvaju, narušavanja integriteta tih podataka,
+neovlašćenog pristupa tim podacima ili gubitka mogućnosti dokazivanja validnosti kvalifikovanog
+elektronskog potpisa odnosno pečata tokom celog perioda čuvanja.
+Mere zaštite zahtevane standardom iz stava 4. ovog člana dokumentuju se
+u okviru internih pravila.
+Član 9
+U cilju obezbeđivanja tokova pristupa, razmene i obrade podataka, u skladu
+sa potvrđenim međunarodnim sporazumima, Ministarstvo unutrašnjih poslova može da, pored primene
+ovog pravilnika, primenjuje i druge uslove koji se odnose na pouzdano elektronsko čuvanje
+dokumenta, a koji se primenjuju usled specifičnosti informacionih sistema i tehničko-tehnoloških
+postupaka u Ministarstvu unutrašnjih poslova.
+Stupanje na snagu
+Član 10
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije".

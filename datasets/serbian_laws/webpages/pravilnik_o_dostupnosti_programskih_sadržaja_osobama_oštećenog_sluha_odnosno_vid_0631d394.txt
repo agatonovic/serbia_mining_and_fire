@@ -1,0 +1,60 @@
+Title: PRAVILNIKO DOSTUPNOSTI PROGRAMSKIH SADRŽAJA OSOBAMA OŠTEĆENOG SLUHA ODNOSNO VIDA
+URL: https://www.paragraf.rs/propisi/pravilnik-o-dostupnosti-programskih-sadrzaja-osobama-ostecenog-sluha-odnosno-vida.html
+Extracted: 2025-07-06T23:09:34.973859
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O DOSTUPNOSTI PROGRAMSKIH SADRŽAJA OSOBAMA OŠTEĆENOG SLUHA ODNOSNO VIDA
+("Sl. glasnik RS", br. 43/2024)
+Predmet pravilnika
+Član 1
+Ovim pravilnikom se bliže uređuju obaveze pružalaca medijskih usluga televizije da svoje programske sadržaje učine dostupnim osobama oštećenog sluha odnosno vida, način korišćenja srpskog znakovnog jezika, otvorenog i zatvorenog titla i zvučnog opisa i načina izveštavanja, kako bi se obezbedilo njihovo nesmetano ostvarivanje prava na javno informisanje.
+Značenje izraza
+Član 2
+Otvoreni ili zatvoreni titlovi su natpisi na ekranu kojima se u tekstualnom obliku izražava emitovani govor ili drugi zvuk programskog sadržaja i koji su u najvećoj meri sinhronizovani sa emitovanim zvukom.
+Otvoreni titlovi se čine dostupnim uz sadržaj svim gledaocima nezavisno od njihove volje, dok se zatvoreni titlovi čine dostupnim posredstvom dodatne usluge (npr. teletekst i sl.), a gledalac svojevoljno odlučuje da li će ih koristiti.
+Srpski znakovni jezik je prirodni oblik komunikacije gluvih koji ima svoja jezička svojstva (gramatičke funkcije, fonologiju, morfologiju, sintaksu), a posredstvom koga tumač za znakovni jezik interpretira govorni jezik ili drugi zvuk programskog sadržaja za gledaoce sa oštećenim sluhom (u daljem tekstu: znakovni jezik).
+Tumač za znakovni jezik je lice koje je, u skladu sa zakonom, steklo stručno znanje za obavljanje poslova prevođenja govornog jezika na znakovni jezik i obrnuto.
+Otvoreni ili skriveni zvučni opis sadržaja (audio-deskripcija) je narativni opis programskog sadržaja uz koji se čini dostupnim, i to njegovih važnih delova (mesto događanja, okruženje, boje, izrazi lica i pokreti likova i dr.) koje slepi ne bi mogli opaziti ili razumeti posredstvom redovnih zvukova sadržaja.
+Otvoreni zvučni opis sadržaja se čini dostupnim uz sadržaj svim gledaocima nezavisno od njihove volje, dok se skriveni zvučni opis čini dostupnim posredstvom dodatne usluge (npr. posebna aplikacija i sl.), a gledalac svojevoljno odlučuje da li će ga koristiti.
+Dostupnost programskih sadržaja osobama oštećenog sluha odnosno vida
+Član 3
+Pružalac medijske usluge dužan je da, u skladu sa svojim finansijskim i tehničkim mogućnostima, svoj program i sadržaj učini dostupnim osobama oštećenog sluha, odnosno vida i da konstantno radi na uključivanju srpskog znakovnog jezika, otvorenog i zatvorenog titla i zvučnog opisa (audio-deskripcija).
+Način korišćenja titlova i znakovnog jezika
+Član 4
+Slova i znaci koji se koriste u okviru titlova treba da budu jasno vidljivi, s obzirom na njihovu veličinu i boju, boju vizuelnog sadržaja uz koji se čine dostupnim, kao i boju njihove podloge ako se ista koristi.
+Titlovi se čine dostupnim u donjem delu ekrana, osim u slučajevima kada se na taj način zaklanjaju usta lica koje govori ili druga značajna informacija ili aktivnost.
+Osim govora, titlovi jasno saopštavaju i druge emitovane zvukove, kao što su raspoloženje, odnosno tempo emitovane muzike i tekst pesme, reakcije publike u studiju itd.
+Prostor na ekranu namenjen tumaču za znakovni jezik koji putem znakovnog jezika interpretira zvukove programskih sadržaja treba da bude smešten u donji desni ugao ekrana i ne treba da bude manji od 1/6 emitovane slike i preko njega ne smeju da se objavljuju drugi sadržaji (potpisi, tekst u kajronu i sl.). Pozadina iza tumača treba da bude jednobojna i bez ometajućih sadržaja.
+Tumač za znakovni jezik primenjuje tehnike kojima će gluvima ukazati na to čiji se govor prevodi u srpski znakovni jezik, kao i tehnike kojima će njihovu pažnju usmeriti na druge važne zvukove. Tumač za znakovni jezik mora nositi tamniju jednobojnu odeću, ne sme nositi upadljiv nakit niti sme imati upadljive detalje na noktima i rukama koji ometaju praćenje prevoda na znakovni jezik. Dozvoljeno je da virtuelni tumači izgledaju drugačije, posebno u dečijem programu.
+Dostupnost programskog sadržaja u izbornoj kampanji
+Član 5
+Javni medijski servis i komercijalni pružaoci medijskih usluga koji su imaoci dozvole za pružanje medijske usluge na području cele Republike Srbije, u skladu sa svojim finansijskim i tehničkim mogućnostima, dužni su da izborni program prikazan u centralnoj informativnoj emisiji, učine dostupnim osobama oštećenog sluha odnosno vida.
+Obaveza iz stava 1. ovog člana primenjuje se i na komercijalne pružaoce medijske usluge koji su stekli pravo da uslugu pružaju putem druge elektronske komunikacione mreže (kablovski, odnosno satelitski distributivni sistem, IPTV i dr.), čiji broj korisnika usluge distribucije medijskog sadržaja prelazi 1.000.000.
+Pružaoci medijskih usluga koji su imaoci dozvole u pojedinačnoj ili zbirnim servisnim zonama, a koja nije područje cele Republike Srbije, dužni su da, u skladu sa svojim finansijskim i tehničkim mogućnostima, u toku dana sadržaj najmanje jedne informativne emisije, koja se u celosti ili u delu bavi izbornom kampanjom, učine dostupnim osobama oštećenog sluha odnosno vida.
+Obaveza iz stava 3. ovog člana primenjuje se i na pružaoce medijske usluge koji su stekli pravo da uslugu pružaju putem druge elektronske komunikacione mreže (kablovski, odnosno satelitski distributivni sistem, IPTV i dr.), čiji broj korisnika usluge distribucije medijskog sadržaja ne prelazi 1.000.000.
+Dostupnost hitnih informacija od značaja za život i zdravlje
+Član 6
+Pružalac medijske usluge dužan je da prilikom prenošenja hitnih informacija od značaja za život i zdravlje, iste učini dostupnim osobama oštećenog sluha, odnosno vida.
+Obaveza iz stava 1. ovog člana sastoji se u prikazivanju otvorenog titla koji je istaknut svetlosnim znakom i treptanjem u jarkoj boji, praćen istovremeno autentičnim zvučnim signalom, sve dok traje opasnost.
+Pružalac medijske usluge, koji je u svom programskom elaboratu predvideo pružanje medijske usluge na jezicima nacionalnih manjina, dužan je da prilikom prenošenja hitnih informacija od značaja za život i zdravlje, iste učini dostupnim osobama oštećenog sluha, odnosno vida te nacionalne manjine, na način propisan stavom 2. ovog člana.
+Obaveza izveštavanja
+Član 7
+Pružaoci medijske usluge dužni su da jednom godišnje, i to do 31. januara tekuće godine, izveste Regulatorno telo za elektronske medije (u daljem tekstu: Regulator) o izvršavanju obaveza iz ovog pravilnika za prethodnu godinu, tako što će podneti sledeće podatke:
+1) o vrsti programskog sadržaja dostupnog osobama oštećenog sluha odnosno vida;
+2) datum emitovanja, nazivu emisije, trajanju emisije;
+3) način dostupnosti programskog sadržaja osobama oštećenog sluha odnosno vida;
+4) nedeljni, mesečni i godišnji udeo programskog sadržaja prilagođenog osobama oštećenog sluha odnosno vida.
+Prestanak važenja propisa
+Član 8
+Stupanjem na snagu ovog pravilnika prestaje da važi Preporuka o većoj dostupnosti programskih sadržaja osobama sa invaliditetom (objavljena na sajtu Regulatornog tela za elektronske medije 24. maja 2019. godine) i Preporuka o načinu korišćenja titlova i znakovnog jezika (objavljena na sajtu Regulatornog tela za elektronske medije 9. februara 2015. godine).
+Stupanje na snagu
+Član 9
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".

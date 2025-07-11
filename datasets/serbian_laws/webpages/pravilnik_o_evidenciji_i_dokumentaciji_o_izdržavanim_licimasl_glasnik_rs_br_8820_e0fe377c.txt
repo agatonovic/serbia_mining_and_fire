@@ -1,0 +1,86 @@
+Title: PRAVILNIKO EVIDENCIJI I DOKUMENTACIJI O IZDRŽAVANIM LICIMA
+URL: https://www.paragraf.rs/propisi/pravilnik-o-evidenciji-i-dokumentaciji-o-izdrzavanim-licima.html
+Extracted: 2025-07-06T23:09:41.909930
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O EVIDENCIJI I DOKUMENTACIJI O IZDRŽAVANIM LICIMA
+("Sl. glasnik RS", br. 88/2023)
+Član 1
+Ovim pravilnikom uređuje se način vođenja evidencije i dokumentacije o izdržavanim licima.
+Član 2
+Organ starateljstva vodi evidenciju i dokumentaciju o
+izdržavanim licima u elektronskom obliku u jedinstvenom sistemu za
+zaštitu i automatizaciju instrumenata socijalne zaštite (SOZIS), koji
+je utvrđen propisom kojim su uređeni organizacija, normativi i
+standardi rada centra za socijalni rad.
+Član 3
+Evidenciju i dokumentaciju o izdržavanim licima vodi
+organ starateljstva na čijoj teritoriji poverilac izdržavanja ima
+prebivalište, odnosno boravište.
+Evidencija u smislu ovog pravilnika sadrži podatke o:
+1) poveriocu izdržavanja;
+2) zakonskom zastupniku poverioca izdržavanja;
+3) dužniku izdržavanja;
+4) izdržavanju;
+5) presudi o izdržavanju.
+Član 4
+Dokumentacijom u smislu ovog pravilnika smatra se presuda o izdržavanju.
+Član 5
+U evidenciju o izdržavanom licu unose se podaci o:
+1) poveriocu izdržavanja:
+a) ime i prezime;
+b) datum i mesto rođenja;
+v) jedinstveni matični broj građana;
+g) adresa prebivališta (opština, grad, mesto, ulica i broj);
+d) pravni odnos sa dužnikom izdržavanja u skladu sa odredbama zakona kojima se uređuju porodični odnosi;
+2) zakonskom zastupniku poverioca izdržavanja:
+a) ime i prezime;
+b) datum i mesto rođenja;
+v) jedinstveni matični broj građana;
+g) adresa prebivališta (opština, grad, mesto, ulica i broj);
+d) pravni odnos sa poveriocem izdržavanja u skladu sa odredbama zakona kojima se uređuju porodični odnosi;
+3) dužniku izdržavanja:
+a) ime i prezime;
+b) datum i mesto rođenja;
+v) jedinstveni matični broj građana;
+g) adresa prebivališta (opština, grad, mesto, ulica i broj);
+d) pravni odnos sa poveriocem izdržavanja u skladu sa odredbama zakona kojima se uređuju porodični odnosi;
+4) izdržavanju:
+a) način određenog izdržavanja (u novcu ili na drugi način);
+b) visina određenog
+izdržavanja (u fiksnom mesečnom novčanom iznosu ili u procentu od
+redovnih mesečnih novčanih primanja koja ne može biti manja od 15% niti
+veća od 50% redovnih mesečnih novčanih primanja dužnika izdržavanja
+umanjenih za poreze i doprinose za obavezno socijalno osiguranje);
+v) trajanje određenog izdržavanja (određeno ili neodređeno vreme);
+5) presudi o izdržavanju:
+a) naziv suda;
+b) broj i datum presude i datum njene pravnosnažnosti;
+v) datum dostavljanja presude nadležnom organu starateljstva;
+g) datum početka obaveze davanja izdržavanja;
+d) datum prestanka obaveze davanja izdržavanja.
+Član 6
+U slučaju promene prebivališta poverioca izdržavanja,
+organ starateljstva koji vodi evidenciju o izdržavanom licu, u roku od
+15 dana od dana saznanja o navedenoj promeni dostavlja novom mesno
+nadležnom organu starateljstva elektronskim putem evidenciju o
+izdržavanom licu i presudu na osnovu koje su uneti podaci u evidenciju
+o izdržavanju.
+Član 7
+Presuda u smislu odredaba ovog pravilnika čuva se u
+arhivi organa starateljstva u skladu sa odredbama propisa kojim se
+uređuje kancelarijsko poslovanje organa državne uprave.
+Član 8
+Danom stupanja na snagu ovog pravilnika prestaje da
+važi Pravilnik o evidenciji i dokumentaciji o izdržavanim licima
+("Službeni glasnik RS", broj 56/05).
+Član 9
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".

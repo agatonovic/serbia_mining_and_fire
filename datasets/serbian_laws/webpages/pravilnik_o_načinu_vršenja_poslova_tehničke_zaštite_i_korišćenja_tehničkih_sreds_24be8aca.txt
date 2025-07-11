@@ -1,0 +1,302 @@
+Title: PRAVILNIKO NAČINU VRŠENJA POSLOVA TEHNIČKE ZAŠTITE I KORIŠĆENJA
+TEHNIČKIH SREDSTAVA
+URL: https://www.paragraf.rs/propisi/pravilnik-nacinu-vrsenja-poslova-tehnicke-zastite-koriscenja-tehnickih-sredstava.html
+Extracted: 2025-07-06T23:11:37.669394
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O NAČINU VRŠENJA POSLOVA TEHNIČKE ZAŠTITE I KORIŠĆENJA
+TEHNIČKIH SREDSTAVA
+("Sl. glasnik RS", br. 91/2019)
+Član 1
+Ovim pravilnikom bliže se propisuje način vršenja poslova tehničke zaštite
+i korišćenja tehničkih sredstava u obavljanju poslova privatnog obezbeđenja.
+Član 2
+Sredstva i uređaji tehničke zaštite, u smislu ovog pravilnika, su:
+1) mehanička sredstva, elementi, uređaji ili konstrukcije koje za rad ne
+koriste električnu energiju, a namenjeni su za fizičko sprečavanje nedozvoljenog ulaska lica
+ili predmeta u štićeni objekat i prostor koji mu pripada, odnosno za zaštitu lica, imovine
+i poslovanja (protivbalistička stakla, protivprovalne folije za staklene površine, trokrake
+barijere, sigurnosne kabine, oprema za smeštaj, čuvanje i prenos vrednosti, predmeta i dokumenta,
+i dr.);
+2) elektronska i elektro-mehanička sredstva i uređaji (protivprovalni i
+protivprepadni alarmni sistemi sa aktivnim i pasivnim javljačima, uređaji i oprema za kontrolu
+pristupa, sistemi kojima se obavlja stalni nadzor nad štićenim objektom s jednog mesta, integralni
+sistemi zaštite sa najmanje jednim lokalnim nadzornim mestom, uređaji i oprema video obezbeđenja,
+i dr.);
+3) protivdiverziona i protivsabotažna sredstva i uređaji (detektori metala,
+detektori eksploziva i drugih opasnih materija, rendgenski uređaji za pregled prtljaga, ogledala
+za pregled podnožja vozila, uređaji i oprema za elektrohemijsku zaštitu novca i drugih vrednosti,
+i dr.);
+4) sredstva i uređaji za globalno pozicioniranje lica i pokretnih dobara
+(GPS satelitsko praćenje) koji su namenjeni za zaštitu lica, imovine i poslovanja ili su
+u funkciji njihove zaštite.
+Član 3
+Sistemi tehničke zaštite, u smislu ovog pravilnika, sastoje se od:
+1) sredstava i uređaja tehničke zaštite na štićenom objektu ili prostoru
+(razni detektori alarmnih stanja, kamere video obezbeđenja i drugi periferni uređaji i sredstva
+tehničke zaštite);
+2) spojenih puteva za prenos signala alarmnih stanja, video obezbeđenja
+i prenos podataka između elemenata sistema tehničke zaštite;
+3) jedne ili više kontrolnih soba ili tehničkih centara na objektu zaštite
+ili spojnim putevima, ako se planira njihovo uspostavljanje i
+4) kontrolnog centra.
+Član 4
+Sredstvima, uređajima i sistemima tehničke zaštite, može se upravljati
+i vršiti monitoring na daljinu.
+Monitoringom iz kontrolnog centra, kontrolne sobe ili tehničkog centra
+omogućava se pružanje alarmnih i drugih informacija korisniku i intervencija na sistemima
+tehničke zaštite, nakon prijema informacija o postojanju tehničkih neispravnosti sistema
+tehničke zaštite u štićenim objektima, kao i ostalih informacija bitnih za funkcionisanje
+sistema tehničke zaštite i zaštitu štićenog objekta ili prostora.
+Obaveštavanje odgovarajućih javnih službi o štetnom događaju na objektu
+zaštite (policija, vatrogasci, hitna medicinska pomoć i dr.), vrši dežurni operater kontrolnog
+centra ili korisnik tehničke zaštite.
+Sredstva, uređaji i sistemi tehničke zaštite ne mogu se, radi obaveštavanja,
+automatski povezivati na komunikacije javnih službi iz stava 3. ovog člana.
+Član 5
+Protivprovalni sistemi planiraju se, projektuju i ugrađuju na način da
+se detektori smeštaju na mesta koja pokrivaju ulaze i druge identifikovane kritične tačke
+štićenog objekta (prozori, stakleni zidovi, rek sobe, prostorije sa vrednom robom i dr.),
+odnosno na opremu ili uređaje za čuvanje novca i vrednosti (kase, sefovi, trezori, bankomati
+i dr.), centrale, rezervna napajanja i druge uređaje za dojavu alarma na teško dostupnim
+mestima, kablove zaštićene od spoljnih uticaja i alarmne sirene ili svetla, ako se postavljaju
+na vidnim, a teško dostupnim mestima.
+Protivprepadni sistemi projektuju se, planiraju i ugrađuju na skrivenim
+ali lako dostupnim mestima, tako da službenik obezbeđenja ili korisnik usluga može da ih
+blagovremeno i neometano aktivira.
+Alarmni signal sa protivprovalnih sistema prosleđuje se na spoljnu i/ili
+unutrašnju sirenu i/ili kontrolnu sobu i/ili kontrolni centar, dok se alarmni signal sa protivprepadnih
+sistema prosleđuje u kontrolnu sobu i/ili kontrolni centar.
+Napajanje i rezervno napajanje koje obezbeđuje rad uređaja, sredstava i
+sistema tehničke zaštite, planira se i postavlja na osnovu plana i projekta tehničke zaštite
+koji je izrađen u skladu sa aktom o proceni rizika u zaštiti lica imovine i poslovanja, ili
+zahteva korisnika kada procena rizika nije obavezna.
+Član 6
+Uređaji i sredstva video obezbeđenja koji se koriste u tehničkoj zaštiti
+moraju zadovoljavati osnovne zahteve u smislu kvaliteta, funkcionalnosti, minimalne rezolucije,
+funkcionalnosti u noćnim uslovima, kao i druge zahteve prema planu sistema tehničke zaštite,
+a u skladu sa važećim tehničkim standardima.
+Sredstva i uređaji video obezbeđenja kojima se pored monitoringa vrši i
+snimanje štićenog objekta ili prostora moraju imati digitalni zapis i dovoljan kapacitet
+memorije za sačinjavanje zapisa u trajanju od najmanje 30 dana, u modu kontinualnog snimanja
+24/7 i/ili u modu snimanja detekcijom kretanja, a prema planu sistema tehničke zaštite, da
+imaju mogućnost prenosa podataka na prenosni medijum u formatu čitljivom na računaru, uz
+potvrdu odgovarajućeg vodenog žiga (watermark) u skladu sa važećim tehničkim standardima.
+Spoljne kamere postavljaju se na takav način da budu zaštićene od uništenja,
+otuđenja, klimatskih uslova i da se u vidnom polju kamere ne nalaze prepreke koje bi onemogućavale
+funkcionalnost tehničke zaštite.
+Uređaji za snimanje u sistemu video obezbeđenja, moraju biti smešteni u
+objektu na način da su zaštićeni od uništenja, otuđenja i neovlašćenog pristupa (smeštaj
+u odgovarajuće ormare sa zaključavanjem, prostore trezora ili drugih prostorija s kontrolom
+ulaska i pristupa ili na drugi način), da imaju mogućnost automatskog starta snimanja u slučaju
+nestanka napajanja uređaja, mogućnost programiranja korisničkih šifara i definisanja prava
+pristupa radi kontrole i evidencije korišćenja uređaja za video snimanje.
+Član 7
+Izvođenjem i upotrebom sredstava, uređaja i sistema tehničke zaštite, u
+smislu ovog pravilnika, smatra se:
+1) izrada plana tehničke zaštite (i/ili plana obezbeđenja);
+2) projektovanje tehničke zaštite;
+3) montaža, povezivanje, puštanje u rad sredstava, uređaja i sistema tehničke
+zaštite i obuka korisnika;
+4) stručni nadzor nad izvođenjem radova;
+5) obavljanje tehničkog prijema sredstava, uređaja i sistema tehničke zaštite;
+6) održavanje i servisiranje sredstava, uređaja i sistema tehničke zaštite;
+7) neposredni ili daljinski monitoring.
+Član 8
+Izrada plana tehničke zaštite vrši se na osnovu akta o proceni rizika u
+zaštiti lica imovine i poslovanja ili zahteva korisnika kada procena rizika nije obavezna.
+Plan tehničke zaštite treba da bude u skladu sa zahtevima iz projektnog
+zadatka, ukoliko je projektni zadatak sačinjen.
+Planiranje tehničke zaštite obuhvata:
+1) uvodnu analizu stanja;
+2) prikaz stanja postojeće tehničke zaštite;
+3) mere i postupke za realizaciju usluga na osnovu akta o proceni rizika
+i/ili zahteva korisnika;
+4) definisanje vrsta tehničke zaštite;
+5) definisanje rasporeda elemenata u sistemima tehničke zaštite;
+6) definisanje funkcionalnih celina.
+Član 9
+Na osnovu plana tehničke zaštite utvrđuju se svi parametri potrebni za
+izradu projekta sistema tehničke zaštite, a naročito:
+1) vrsta tehničke zaštite;
+2) smeštaj centra tehničke zaštite (kontrolni paneli, centrale, rekorderi
+i dr.);
+3) smeštaj uređaja i opreme (detektori, kamere, senzori i dr.);
+4) način polaganja instalacija (kablova za povezivanje).
+Član 10
+Projekat tehničke zaštite izrađuje se na osnovu plana tehničke zaštite
+na način utvrđen propisima o planiranju i izgradnji.
+Projektovanje tehničke zaštite obuhvata:
+1) implementaciju projektnog zadatka;
+2) izbor uređaja i opreme;
+3) izradu projektne dokumentacije.
+Član 11
+Projektna dokumentacija tehničke zaštite predstavlja deo ukupne tehničke
+dokumentacije objekta i razvrstava se u poseban deo u okviru sveske "5. Telekomunikacione
+i signalne instalacije".
+Projektna dokumentacija se sastoji iz tekstualne, numeričke i grafičke
+dokumentacije.
+Tekstualna dokumentacija sadrži opis tehničke zaštite, sa karakteristikama
+projektovane opreme i sistema, kao i vrste instalacija koja se koristi za povezivanje u jedinstveni
+sistem. Opis vrste instalacija, kao i način postavljanja predstavlja poseban deo tekstualne
+dokumentacije.
+Numerička dokumentacija obuhvata proračun kapaciteta hard diska, autonomije
+rada tehničke zaštite koji koriste rezervno napajanje, pad napona na osnovu potrošača i dužine
+instalacija koja ih povezuje, kao i predmer.
+Deo predmera koji definiše instalacije tehničke zaštite mora biti izdvojen
+u poseban deo u predmeru.
+Grafička dokumentacija sadrži situaciju objekta, osnove objekta po nivoima,
+kao i jednopolnu šemu tehničke zaštite.
+Crteži koji na osnovama prikazuju broj i raspored opreme tehničke zaštite,
+moraju biti odvojeni od crteža koji prikazuju vrstu i trasu vođenja instalacija.
+Akt o proceni rizika u zaštiti lica, imovine i poslovanja i plan tehničke
+zaštite, po propisima o privatnom obezbeđenju i planiranju i izgradnji, ne moraju biti sastavni
+deo projektne dokumentacije tehničke zaštite.
+Član 12
+Pravno lice ili preduzetnik privatnog obezbeđenja, koje je izradio projektnu
+dokumentaciju obezbeđuje bezbedno čuvanje projekata tehničke zaštite kao i vođenje evidencije
+o svim izrađenim kopijama.
+Svaka izrađena kopija mora biti brojčano označena.
+Kopiju projekta, odnosno uvid u projektnu dokumentaciju mogu na strani
+davaoca usluga imati lica koja imaju licencu za vršenje poslova tehničke zaštite, korisnik
+usluga ili lice koje za to ovlasti korisnik usluga.
+Kada se naznači odlukom nadležnog organa, za određene kategorije objekata,
+projekat tehničke zaštite ne može biti deo idejnog projekta, projekta za građevinsku dozvolu,
+projekta za izvođenje ili drugog projekta po propisima o planiranju i izgradnji i podleže
+zaštiti tajnosti u skladu sa posebnim zakonom.
+Član 13
+Montažom tehničke zaštite smatra se:
+1) ispitivanje instalacija;
+2) ugradnja elemenata, uređaja i opreme tehničke zaštite;
+3) programiranje, podešavanje i testiranje rada tehničke zaštite;
+4) puštanje u rad tehničke zaštite;
+5) verifikacija uređaja i opreme, sistema i tehnički prijem;
+6) izrada i provera uputstva za rukovanje;
+7) obuka osoblja i izrada, overa i izdavanje Zapisnika o izvršenoj obuci;
+8) izrada, overa i predaja Zapisnika i Potvrde o izvedenoj tehničkoj zaštiti.
+Član 14
+Montaži tehničke zaštite i ugradnji uređaja i opreme, prethode pripremni
+radovi.
+Pripremni radovi uključuju postavljanje kablovskih polica, instalacionih
+cevi, kanala i kablova do spoljnjih tačaka, kao i druge potrebne građevinsko-tehničke radove
+i ne smatraju se poslovima tehničke zaštite, u smislu odredaba ovog pravilnika.
+Pripremne radove mogu vršiti pravna lica i preduzetnici koja nisu licencirani
+za vršenje poslova tehničke zaštite.
+Pri obavljanju pripremnih radova u izradi tehničke zaštite, pravna i fizička
+lica iz stava 3. ovog člana, ne mogu imati uvid u sadržaj projekta tehničke zaštite, osim
+crteža koji prikazuju vrstu i trasu vođenja instalacija. Instalacije tehničke zaštite moraju
+biti izvedene u skladu sa tehničkim normativima telekomunikacionih i signalnih instalacija,
+kao i električnih instalacija niskog napona.
+Član 15
+Ispitivanje instalacija sistema tehničke zaštite obuhvata ispitivanje i
+spajanje vodova od perifernih tačaka do sredstava i uređaja tehničke zaštite i vrše ih pravna
+lica i preduzetnici za privatno obezbeđenje koji su licencirani za vršenje poslova montaže,
+puštanja u rad, održavanje sistema tehničke zaštite i obuku korisnika.
+Nakon postavljanja i ispitivanja instalacija tehničke zaštite, ugrađuju
+se sredstva i uređaji.
+Sredstva i uređaji ugrađuju se i podešavaju shodno projektnoj dokumentaciji
+i uputstvima proizvođača uređaja i opreme.
+Svako pojedinačno sredstvo, uređaj ili sistem tehničke zaštite mora imati
+uputstva za rukovanje koja se čuvaju na bezbednom mestu, kod korisnika usluga.
+Verifikacija uređaja i opreme, odnosno sistema tehničke zaštite koji su
+ugrađeni u objekat, obavlja se puštanjem u rad i proverom ispravnosti funkcionisanja uređaja,
+sredstva ili sistema tehničke zaštite.
+Korisnik usluga će sredstva, uređaje i sisteme tehničke zaštite koristiti
+u skladu sa Zakonom o privatnom obezbeđenju i propisima koji uređuju zaštitu podataka o ličnosti.
+Član 16
+Stručni nadzor nad izvođenjem poslova tehničke zaštite obavlja pravno lice
+ili preduzetnik za privatno obezbeđenje koje poseduje licencu za obavljanje poslova nadzora,
+na način i pod uslovima utvrđenim propisima o planiranju i izgradnji.
+Stručni nadzor ne može da obavlja lice zaposleno kod pravnog lica ili preduzetnika
+koji izvodi radove.
+Lice koje vrši stručni nadzor o izvršenom nadzoru sačinjava Zapisnik o
+stručnom nadzoru tehničke zaštite (Prilog 1), koji je odštampan uz ovaj pravilnik i koji
+čini njegov sastavni deo.
+Član 17
+Obuku osoblja koje će upravljati tehničkom zaštitom, vrši službenik obezbeđenja
+sa licencom za vršenje poslova tehničke zaštite, o čemu sačinjava Zapisnik o izvršenoj obuci
+u rukovanju sredstvima, uređajima i sistemima tehničke zaštite (Prilog 2), koji je odštampan
+uz ovaj pravilnik i koji čini njegov sastavni deo.
+Član 18
+Tehničkim prijemom ugrađene tehničke zaštite smatra se:
+1) provera usklađenosti tehničke zaštite sa projektom, odnosno planom tehničke
+zaštite;
+2) provera ispravnosti i funkcionalnosti svih uređaja i opreme koji čine
+tehničku zaštitu;
+3) provera postojanja dostavljenih korisničkih uputstava za rukovanje;
+4) provera dokaza kvaliteta ugrađene opreme, saglasno standardima kojoj
+ta oprema pripada.
+Tehnički prijem iz stava 1. ovog člana obavljaju: korisnik usluga ili ovlašćeni
+predstavnik korisnika usluga, službenik obezbeđenja sa licencom za vršenje poslova nadzora
+nad izvođenjem i službenik obezbeđenja sa odgovarajućom licencom za vršenje poslova tehničke
+zaštite, koji je izvodio radove.
+O obavljenom tehničkom prijemu sastavlja se Zapisnik o tehničkom prijemu
+(Prilog 3), koji je odštampan uz ovaj pravilnik i koji čini njegov sastavni deo.
+Zapisnik o tehničkom prijemu potpisuju lica iz stava 2. ovog člana.
+Pravno lice ili preduzetnik za privatno obezbeđenje koji je izvodio radove
+izdaje korisniku Potvrdu da je tehnička zaštita izvedena u skladu sa odredbama ovog pravilnika
+(Prilog 4), koji je odštampan uz ovaj pravilnik i koji čini njegov sastavni deo.
+Član 19
+Korisnik tehničke zaštite, obezbeđuje održavanje ugrađenih sredstava, uređaja
+ili sistema tehničke zaštite i njegovih delova u ispravnom stanju u skladu sa Zakonom o privatnom
+obezbeđenju i propisima o zaštiti potrošača, o čemu sačinjava ugovor o održavanju sa pravnim
+licem ili preduzetnikom koji poseduje licencu za vršenje poslova montaže, puštanja u rad
+i obuke korisnika.
+Korisnik tehničke zaštite, kome se ne pruža usluga monitoringa iz kontrolnog
+centra, o neispravnosti uređaja, sredstava i opreme obaveštava davaoca održavanja odmah po
+uočavanju neispravnosti najkasnije u roku od 48 časova.
+Pravno lice i preduzetnik za privatno obezbeđenje, u skladu sa odredbama
+ugovora o održavanju, obezbeđuje održavanje i servisiranje sredstava, uređaja i sistema tehničke
+zaštite, vrši redovne kontrole ispravnosti i u najkraćem mogućem roku otklanja neispravnosti
+ili zamenjuje sredstva i uređaje, o čemu korisniku usluga izdaje primerak dokumenta o izvršenim
+radovima.
+Član 20
+Dokumenta sačinjena u toku izvođenja i upotrebe tehničke zaštite, u smislu
+ovog pravilnika, smatraju se poslovnom tajnom i u odnosu na medijum na kome nastaju štite
+se primenom mera tehničke zaštite koje preduzimaju davalac i korisnik usluga tehničke zaštite
+(obezbeđene prostorije, kase, i dr.), merama softverske (pravo pristupa, lozinke i dr.) i
+hardverske zaštite elektronskih uređaja tehničke zaštite (mehanička zaštita računara i dr.).
+U smislu ovog pravilnika, dokumenta iz stava 1. ovog člana su:
+1) ugovor o pružanju usluga privatnog obezbeđenja i/ili održavanju tehničke
+zaštite;
+2) akt o proceni rizika u zaštiti lica, imovine i poslovanja;
+3) plan sistema tehničke zaštite ili plan obezbeđenja;
+4) projektni zadatak ukoliko je sačinjen;
+5) projektna dokumentacija tehničke zaštite u skladu sa propisima o planiranju
+i izgradnji;
+6) evidencija o izrađenim kopijama projekta tehničke zaštite;
+7) uputstva za rukovanje uređajima, sredstvima ili sistemima tehničke zaštite;
+8) zapisnik o stručnom nadzoru;
+9) zapisnik o izvršenoj obuci u rukovanju sredstvima, uređajima i sistemima
+tehničke zaštite;
+10) zapisnik o tehničkom prijemu;
+11) potvrda da je tehnička zaštita izvedena u skladu sa odredbama ovog
+pravilnika;
+12) pisane procedure postupanja;
+13) dokument o izvršenim radovima na održavanju uređaja, sredstava i sistema
+tehničke zaštite;
+14) drugi sačinjeni dokumenti.
+Član 21
+Uređaji i sredstva odnosno sistemi tehničke zaštite koji su ugrađeni pre
+stupanja na snagu ovog pravilnika održavaju se na način propisan ovim pravilnikom.
+Davalac i korisnik usluge tehničke zaštite iz stava 1. ovog člana, uskladiće
+svoje postupanje sa odredbama ovog pravilnika u roku od šest meseca od dana njegovog stupanja
+na snagu.
+Član 22
+Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o načinu
+vršenja poslova tehničke zaštite i korišćenja tehničkih sredstava ("Službeni glasnik
+RS", br. 19/15 i 71/17).
+Član 23
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije".
+Priloge 1-4, koji su sastavni deo ovog pravilnika, objavljene
+u "Sl. glasniku RS", br. 91/2019, možete pogledati
+OVDE

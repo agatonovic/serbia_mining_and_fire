@@ -1,0 +1,1555 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serbian Geology Final Simple</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nouislider@15.7.1/dist/nouislider.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/nouislider@15.7.1/dist/nouislider.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        #map {
+            height: 100vh;
+            width: 100vw;
+            margin-top: 0; /* Remove margin since info bar is fixed */
+        }
+        /* Control Panel Styles */
+        .control-panel {
+            position: absolute;
+            top: 80px;
+            left: 20px;
+            z-index: 1000;
+            background: white;
+            padding: 22px 20px 20px 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.13);
+            max-width: 320px;
+            min-width: 260px;
+            font-size: 15px;
+        }
+        .control-panel h3 {
+            margin-top: 0;
+            margin-bottom: 18px;
+            font-size: 1.15em;
+            font-weight: bold;
+        }
+        .control-group {
+            margin-bottom: 18px;
+        }
+        .control-group:last-child {
+            margin-bottom: 0;
+        }
+        .control-group label,
+        .control-group input,
+        .control-group select {
+            font-size: 15px;
+        }
+        .date-range-selector {
+            margin: 18px 0 18px 0;
+            padding-bottom: 6px;
+            border-bottom: 1px solid #eee;
+        }
+        #dateRangeDisplay {
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        #fireCountDisplay {
+            margin-bottom: 10px;
+            color: #ff6600;
+            font-weight: bold;
+            font-size: 15px;
+        }
+        #dateRangeSlider {
+            margin-top: 6px;
+            margin-bottom: 0;
+        }
+        .control-panel button {
+            margin-top: 8px;
+            background-color: #ff6600;
+            color: white;
+            padding: 12px 0;
+            border: none;
+            border-radius: 7px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+            font-weight: bold;
+            box-shadow: 0 2px 8px rgba(255,102,0,0.08);
+            transition: background 0.2s;
+        }
+        .control-panel button:hover {
+            background-color: #e65c00;
+        }
+        /* Legend Styles */
+        .leaflet-control-container .leaflet-bottom.leaflet-right {
+            right: 20px !important;
+            bottom: 20px !important;
+        }
+        .leaflet-control-attribution {
+            margin-bottom: 8px;
+            margin-right: 8px;
+        }
+        .leaflet-control {
+            font-size: 15px;
+        }
+        .leaflet-control .legend {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.13);
+            padding: 16px 18px 14px 18px;
+            margin-bottom: 0;
+            min-width: 160px;
+        }
+        .legend h4, .legend h3 {
+            margin: 0 0 10px 0;
+            font-size: 1em;
+            font-weight: bold;
+        }
+        .legend .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 7px;
+        }
+        .legend .legend-item:last-child {
+            margin-bottom: 0;
+        }
+        .legend .legend-icon {
+            width: 22px;
+            height: 22px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 8px;
+            font-size: 20px;
+        }
+        /* Info Bar Improvements */
+        .info-bar {
+            padding: 12px 28px;
+            border-radius: 0 0 12px 12px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.13);
+            font-size: 15px;
+        }
+        .info-content {
+            gap: 18px;
+        }
+        .info-text {
+            margin-right: 18px;
+        }
+        .info-actions {
+            gap: 10px;
+        }
+        .btn-coffee, .btn-toggle {
+            padding: 8px 16px;
+            font-size: 15px;
+            border-radius: 7px;
+        }
+        .floating-toggle {
+            top: 18px;
+            right: 18px;
+            padding: 10px 18px;
+            font-size: 15px;
+            border-radius: 7px;
+        }
+        /* Responsive tweaks */
+        @media (max-width: 900px) {
+            .control-panel {
+                left: 10px;
+                padding: 16px 10px 14px 10px;
+                min-width: 180px;
+                max-width: 98vw;
+            }
+            .legend {
+                min-width: 120px;
+                padding: 10px 8px 10px 8px;
+            }
+            .info-bar {
+                padding: 8px 10px;
+                font-size: 13px;
+            }
+            .btn-coffee, .btn-toggle, .floating-toggle {
+                font-size: 13px;
+                padding: 6px 10px;
+            }
+        }
+        @media (max-width: 600px) {
+            .control-panel {
+                left: 2vw;
+                top: 60px;
+                padding: 8px 2vw 8px 2vw;
+                min-width: 0;
+                max-width: 98vw;
+            }
+            .legend {
+                min-width: 0;
+                padding: 8px 4px 8px 4px;
+            }
+            .info-bar {
+                padding: 6px 2vw;
+                font-size: 12px;
+            }
+            .btn-coffee, .btn-toggle, .floating-toggle {
+                font-size: 12px;
+                padding: 5px 7px;
+            }
+        }
+        .control-panel button {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .btn-primary {
+            background: #007bff;
+            color: white;
+        }
+        .filter-item {
+            margin: 10px 0;
+            display: flex;
+            align-items: center;
+        }
+        .filter-item input[type="checkbox"] {
+            margin-right: 10px;
+        }
+        .tile-selector {
+            margin: 15px 0;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 5px;
+        }
+        .tile-selector select {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+            font-size: 14px;
+        }
+        .legend {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 5px 0;
+        }
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            margin-right: 10px;
+            border: 1px solid #ccc;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+        }
+        
+        /* Modal Styles */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 2000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+        }
+        .modal-content {
+            background-color: white;
+            margin: 5% auto;
+            padding: 20px;
+            border-radius: 10px;
+            width: 90%;
+            max-width: 800px;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+        .modal-content h2 {
+            margin-top: 0;
+            color: #ff6600;
+        }
+        .modal-content input, 
+        .modal-content textarea, 
+        .modal-content select {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        .modal-content button {
+            padding: 12px 24px;
+            margin: 8px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            color: white;
+        }
+        .btn-secondary {
+            background-color: #6c757d;
+            color: white;
+        }
+        .btn-success {
+            background-color: #28a745;
+            color: white;
+        }
+        .radius-controls {
+            margin: 15px 0;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 5px;
+        }
+        .radius-slider {
+            width: 100%;
+            margin: 10px 0;
+        }
+        .media-upload {
+            margin: 15px 0;
+        }
+        .media-upload input {
+            display: none;
+        }
+        .media-upload label {
+            display: block;
+            padding: 12px;
+            background: #28a745;
+            color: white;
+            text-align: center;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .media-upload label:hover {
+            background: #218838;
+        }
+        
+        /* GPS Instructions */
+        .gps-instructions {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+            border-left: 4px solid #2196f3;
+        }
+        .gps-instructions h4 {
+            margin-top: 0;
+            color: #1976d2;
+        }
+        .gps-instructions ol {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        .gps-instructions li {
+            margin: 8px 0;
+        }
+        
+        /* Map Container for Fire Modal */
+        .fire-map-container {
+            height: 400px;
+            width: 100%;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            margin: 15px 0;
+            position: relative;
+        }
+        .fire-map {
+            height: 100%;
+            width: 100%;
+        }
+        
+        /* Coordinates Display */
+        .coordinates-display {
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+            font-family: monospace;
+            font-size: 14px;
+        }
+        
+        /* Right-click context menu */
+        .context-menu {
+            position: fixed;
+            background: white;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            z-index: 3000;
+            display: none;
+        }
+        .context-menu-item {
+            padding: 8px 15px;
+            cursor: pointer;
+            border-bottom: 1px solid #eee;
+        }
+        .context-menu-item:hover {
+            background: #f0f0f0;
+        }
+        .context-menu-item:last-child {
+            border-bottom: none;
+        }
+        
+        /* Checkbox styling */
+        .checkbox-group {
+            display: flex;
+            align-items: center;
+            margin: 10px 0;
+        }
+        .checkbox-group input[type="checkbox"] {
+            margin-right: 10px;
+            width: auto;
+        }
+        .checkbox-group label {
+            margin: 0;
+        }
+        
+        /* Fire modal layout */
+        .fire-modal-layout {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        .fire-map-section {
+            grid-column: 1 / -1;
+        }
+        .fire-controls-section {
+            grid-column: 1 / -1;
+            margin-top: -10px; /* Move closer to map */
+        }
+        .fire-form-section {
+            grid-column: 1 / -1;
+        }
+        
+        /* Location toggle button */
+        .location-toggle {
+            display: inline-flex;
+            align-items: center;
+            padding: 8px 12px;
+            background: #f8f9fa;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 12px;
+            margin-left: 10px;
+            transition: all 0.3s;
+        }
+        .location-toggle.active {
+            background: #007bff;
+            color: white;
+            border-color: #007bff;
+        }
+        .location-toggle input[type="checkbox"] {
+            margin-right: 5px;
+        }
+
+        /* Info Bar Styles */
+        .info-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 2000;
+            background: #fff;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            border-top-left-radius: 16px;
+            border-top-right-radius: 16px;
+            border-bottom-left-radius: 0;
+            border-bottom-right-radius: 0;
+            max-width: 100vw;
+            margin: 0 auto;
+            padding: 0;
+            overflow-x: auto;
+            white-space: nowrap;
+            transition: transform 0.35s cubic-bezier(.4,1.3,.5,1), max-height 0.3s;
+            height: 54px;
+            display: flex;
+            align-items: center;
+        }
+        .info-bar.collapsed {
+            transform: translateY(-100%);
+            max-height: 0;
+        }
+        .info-bar-content {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            padding: 0 18px;
+            gap: 18px;
+            min-width: 0;
+        }
+        .info-bar-toggle {
+            background: none;
+            border: none;
+            font-size: 22px;
+            cursor: pointer;
+            margin-right: 12px;
+            color: #333;
+            transition: color 0.2s;
+            flex: 0 0 auto;
+            height: 40px;
+            width: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .info-bar-toggle:hover {
+            color: #ffb300;
+        }
+        .info-bar-title {
+            font-weight: 500;
+            font-size: 16px;
+            color: #222;
+            flex: 1 1 auto;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            min-width: 0;
+        }
+        .info-bar-bmc {
+            display: flex;
+            align-items: center;
+            margin-left: 10px;
+            flex: 0 0 auto;
+        }
+        .info-bar-bmc img {
+            height: 38px;
+            width: auto;
+            border-radius: 8px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            border: none;
+            display: block;
+        }
+        @media (max-width: 600px) {
+            .info-bar {
+                border-top-left-radius: 10px;
+                border-top-right-radius: 10px;
+                height: 48px;
+            }
+            .info-bar-title {
+                font-size: 14px;
+            }
+            .info-bar-bmc img {
+                height: 32px;
+            }
+        }
+        .info-bar-logo {
+            height: 32px;
+            margin-right: 12px;
+        }
+        .info-bar-links {
+            display: flex;
+            align-items: center;
+            gap: 18px;
+            flex-wrap: wrap;
+        }
+        .info-bar-link {
+            color: #1976d2;
+            text-decoration: none;
+            font-size: 15px;
+            font-weight: 500;
+            margin-right: 8px;
+            transition: color 0.2s;
+        }
+        .info-bar-link:hover {
+            color: #ff6600;
+        }
+        .info-bar-bmc {
+            display: flex;
+            align-items: center;
+            margin-left: 10px;
+        }
+        .info-bar-bmc img {
+            height: 40px;
+            width: auto;
+            border-radius: 8px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            border: none;
+            display: block;
+        }
+        .info-text {
+            flex: 1;
+            margin-right: 15px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .info-text strong {
+            color: #ff6600;
+        }
+        .data-sources {
+            font-size: 0.8em;
+            color: #ccc;
+        }
+        .info-actions {
+            display: flex;
+            gap: 8px;
+            flex-shrink: 0;
+        }
+        .btn-coffee {
+            background-color: #ff6600;
+            color: white;
+            padding: 6px 10px;
+            border-radius: 4px;
+            border: none;
+            cursor: pointer;
+            font-size: 12px;
+            transition: background-color 0.3s;
+            white-space: nowrap;
+        }
+        .btn-coffee:hover {
+            background-color: #cc5500;
+        }
+        .btn-toggle {
+            background-color: #6c757d;
+            color: white;
+            padding: 6px 10px;
+            border-radius: 4px;
+            border: none;
+            cursor: pointer;
+            font-size: 12px;
+            transition: background-color 0.3s;
+            white-space: nowrap;
+        }
+        .btn-toggle:hover {
+            background-color: #5a6268;
+        }
+        
+        /* Floating toggle button when info bar is hidden */
+        .floating-toggle {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background-color: #ff6600;
+            color: white;
+            padding: 8px 12px;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+            font-size: 14px;
+            z-index: 1001;
+            transition: all 0.3s ease-in-out;
+            opacity: 0;
+            pointer-events: none;
+        }
+        .floating-toggle.visible {
+            opacity: 1;
+            pointer-events: auto;
+        }
+        .floating-toggle:hover {
+            background-color: #cc5500;
+        }
+        
+        /* Zoom controls positioning */
+        .leaflet-control-zoom {
+            position: fixed !important;
+            bottom: 20px !important;
+            left: 20px !important;
+            top: auto !important;
+            right: auto !important;
+        }
+
+        /* Responsive design for smaller screens */
+        @media (max-width: 768px) {
+            .info-bar {
+                padding: 6px 10px;
+                font-size: 12px;
+            }
+            .info-text {
+                margin-right: 10px;
+            }
+            .info-actions {
+                gap: 5px;
+            }
+            .btn-coffee, .btn-toggle {
+                padding: 5px 8px;
+                font-size: 11px;
+            }
+            .data-sources {
+                display: none; /* Hide on very small screens */
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .info-text strong {
+                display: block;
+                margin-bottom: 2px;
+            }
+            .btn-coffee {
+                display: none; /* Hide coffee button on very small screens */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    
+    <!-- Info Bar -->
+    <div class="info-bar" id="infoBar">
+      <div class="info-bar-content">
+        <button class="info-bar-toggle" id="infoBarToggle" onclick="toggleInfoBar()" title="Sakrij/Prikaži info">⮝</button>
+        <div class="info-bar-title">
+          🇷🇸 Interaktivna mapa sa lokacijama rudarskih istraživanja i požarima. 📊 Podaci: Geo Srbija (geologija) + NASA FIRMS (požari)
+        </div>
+        <span class="info-bar-bmc">
+          <a href="https://coff.ee/agatonovic" target="_blank" rel="noopener">
+            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" />
+          </a>
+        </span>
+      </div>
+    </div>
+    
+    <!-- Floating toggle button -->
+    <button id="floatingToggle" class="floating-toggle" onclick="toggleInfoBar()">ℹ️ Informacije</button>
+    
+    <div class="control-panel">
+        <h3>🎛️ Kontrole</h3>
+        
+        <div class="control-group">
+            <label>🗺️ Tip mape:</label>
+            <select id="tileSelector" onchange="changeTileLayer()">
+                <option value="osm">OpenStreetMap</option>
+                <option value="satellite">Satelit</option>
+                <option value="terrain">Terrain</option>
+                <option value="dark">Tamna tema</option>
+                <option value="light">Svetla tema</option>
+                <option value="hybrid">Hibrid</option>
+                <option value="topo">Topo</option>
+                <option value="watercolor">Akvarel</option>
+            </select>
+        </div>
+        
+        <div class="control-group">
+            <label><input type="checkbox" id="geologyToggle" checked onchange="toggleGeologyLayer()"> Geološki podaci</label>
+        </div>
+        
+        <div class="control-group">
+            <label><input type="checkbox" id="fireToggle" checked onchange="toggleFireLayer()"> Prijave požara</label>
+        </div>
+        
+        <div class="date-range-selector">
+            <label>🗓️ Prikaži požare u periodu:</label>
+            <div id="dateRangeDisplay" style="margin-bottom: 8px; font-weight: bold;"></div>
+            <div id="fireCountDisplay" style="margin-bottom: 8px; color: #ff6600; font-weight: bold; font-size: 14px;"></div>
+            <div id="dateRangeSlider"></div>
+        </div>
+        <!-- Removed Dodaj požar button -->
+    </div>
+    
+    <div class="legend">
+        <h4>Legenda</h4>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #4CAF50;"></div>
+            <span>Geološki podaci</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: transparent; font-size: 20px;">🔥</div>
+            <span>Prijave požara</span>
+        </div>
+    </div>
+
+    <!-- GPS Input Modal -->
+    <div id="gpsModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeGPSModal()">&times;</span>
+            <h2>📍 Unesite GPS koordinate</h2>
+            <p><strong>Kako da pronađete GPS koordinate:</strong></p>
+            <ul>
+                <li><strong>Google Maps:</strong> Desni klik na lokaciju → "Šta je ovde?" → koordinate se prikazuju</li>
+                <li><strong>Naša mapa:</strong> Zoom na lokaciju → desni klik → "Kopiraj GPS"</li>
+            </ul>
+            <div class="input-group">
+                <label for="gpsInput">GPS koordinate (lat,long):</label>
+                <input type="text" id="gpsInput" placeholder="44.7866,20.4489" style="width: 100%; padding: 8px; margin: 5px 0;">
+            </div>
+            <div class="button-group">
+                <button onclick="submitGPS()" style="background-color: #ff6600; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Potvrdi</button>
+                <button onclick="closeGPSModal()" style="background-color: #6c757d; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Otkaži</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Fire Report Modal -->
+    <div id="fireModal" class="modal">
+        <div class="modal-content" style="max-width: 800px;">
+            <span class="close" onclick="closeFireModal()">&times;</span>
+            <h2>🔥 Prijava požara</h2>
+            
+            <div style="display: flex; gap: 20px;">
+                <div style="flex: 1;">
+                    <div class="input-group">
+                        <label for="fireStartTime">Vreme početka:</label>
+                        <input type="datetime-local" id="fireStartTime" required>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="fireEndTime">Vreme završetka:</label>
+                        <input type="datetime-local" id="fireEndTime">
+                    </div>
+                    
+                    <div class="input-group">
+                        <label><input type="checkbox" id="fireOngoing"> Traje i sada</label>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="fireDescription">Opis:</label>
+                        <textarea id="fireDescription" rows="3" placeholder="Opisite požar..."></textarea>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="fireImage">Dodaj sliku:</label>
+                        <input type="file" id="fireImage" accept="image/*" onchange="previewImage()">
+                        <div id="imagePreview" style="margin-top: 10px;"></div>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="locationToggle">Promeni lokaciju:</label>
+                        <input type="checkbox" id="locationToggle" onchange="toggleLocationEdit()">
+                    </div>
+                    
+                    <div class="button-group">
+                        <button onclick="submitFireReport()" style="background-color: #ff6600; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Pošalji prijavu</button>
+                        <button onclick="closeFireModal()" style="background-color: #6c757d; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Otkaži</button>
+                    </div>
+                </div>
+                
+                <div style="flex: 1;">
+                    <div id="fireMap" style="height: 300px; border: 1px solid #ccc; border-radius: 5px;"></div>
+                    <div style="margin-top: 10px;">
+                        <label>Radius (metri): <span id="radiusValue">100</span></label>
+                        <input type="range" id="radiusSlider" min="10" max="1000" value="100" onchange="updateRadius()" style="width: 100%;">
+                        <p>Površina: <span id="areaValue">0.03</span> km²</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Right-click context menu -->
+    <div id="contextMenu" class="context-menu">
+        <div class="context-menu-item" onclick="copyGPSFromContext()">📋 Kopiraj GPS koordinate</div>
+        <div class="context-menu-item" onclick="openFireModalFromContext()">🔥 Dodaj požar ovde</div>
+    </div>
+
+    <script>
+        // Initialize main map
+        const map = L.map('map').setView([44.0165, 21.0059], 7);
+        
+        // Tile layer definitions
+        const tileLayers = {
+            osm: {
+                url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                attribution: '© OpenStreetMap contributors'
+            },
+            satellite: {
+                url: 'https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',
+                attribution: '© Google Satellite'
+            },
+            terrain: {
+                url: 'https://mt1.google.com/vt/lyrs=t&x={x}&y={y}&z={z}',
+                attribution: '© Google Terrain'
+            },
+            dark: {
+                url: 'https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png',
+                attribution: '© CartoDB'
+            },
+            light: {
+                url: 'https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png',
+                attribution: '© CartoDB'
+            },
+            hybrid: {
+                url: 'https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}',
+                attribution: '© Google Hybrid'
+            },
+            topo: {
+                url: 'https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png',
+                attribution: '© OpenTopoMap'
+            },
+            watercolor: {
+                url: 'https://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.png',
+                attribution: '© Stamen Design'
+            }
+        };
+        
+        // Current tile layer
+        let currentTileLayer = L.tileLayer(tileLayers.osm.url, {
+            attribution: tileLayers.osm.attribution
+        }).addTo(map);
+        
+        // Store layers
+        let geologyLayer = null;
+        let fireLayer = null;
+        
+        // Fire modal map variables
+        let fireMap = null;
+        let fireMarker = null;
+        let fireCircle = null;
+        let currentLat = null;
+        let currentLng = null;
+        
+        // Context menu variables
+        let contextMenu = null;
+        let contextCoords = null;
+        
+        // Function to change tile layer
+        function changeTileLayer() {
+            const selectedTile = document.getElementById('tileSelector').value;
+            const tileConfig = tileLayers[selectedTile];
+            
+            // Remove current tile layer
+            map.removeLayer(currentTileLayer);
+            
+            // Add new tile layer
+            currentTileLayer = L.tileLayer(tileConfig.url, {
+                attribution: tileConfig.attribution
+            }).addTo(map);
+        }
+        
+        // Load geology data
+        fetch('geology_data.json')
+            .then(response => response.json())
+            .then(data => {
+                geologyLayer = L.geoJSON(data, {
+                    style: () => ({
+                        fillColor: '#4CAF50',
+                        weight: 2,
+                        opacity: 1,
+                        color: '#000000',
+                        fillOpacity: 0.6
+                    }),
+                    onEachFeature: (feature, layer) => {
+                        if (feature.properties) {
+                            const props = feature.properties;
+                            // Create popup content for geological features
+                            let popupContent = `<div style="font-family: Arial, sans-serif; max-width: 350px;">
+                                <h3 style="color: #2c3e50;">🏔️ ${props.NAZIV || 'Geološki objekat'}</h3>
+                                <p><strong>Tip:</strong> ${props.TIP || 'Nije navedeno'}</p>
+                                <p><strong>Kategorija:</strong> ${props.KATEGORIJA || 'Nije navedeno'}</p>`;
+                            
+                            if (props.NPO) {
+                                popupContent += `<p><strong>NPO:</strong> ${props.NPO}</p>`;
+                            }
+                            
+                            if (props.PODNOSILAC) {
+                                popupContent += `<p><strong>Podnosilac:</strong> ${props.PODNOSILAC}</p>`;
+                            }
+                            
+                            if (props.KOMPANIJA) {
+                                popupContent += `<p><strong>Kompanija:</strong> ${props.KOMPANIJA}</p>`;
+                            }
+                            
+                            if (props.OPIS) {
+                                popupContent += `<p><strong>Opis:</strong> ${props.OPIS}</p>`;
+                            }
+                            
+                            popupContent += `<p><strong>Lokacija:</strong> ${props.latitude?.toFixed(4) || ''}, ${props.longitude?.toFixed(4) || ''}</p>
+                            </div>`;
+                            layer.bindPopup(popupContent);
+                        }
+                    }
+                }).addTo(map);
+            })
+            .catch(error => {
+                console.error('Error loading geology data:', error);
+            });
+        
+        let allFireFeatures = [];
+        let minFireDate = null;
+        let maxFireDate = null;
+        let slider = null;
+
+        function parseDate(dateStr) {
+            if (!dateStr) return null;
+            if (dateStr.length === 10) return new Date(dateStr + 'T00:00:00');
+            return new Date(dateStr);
+        }
+
+        function formatSliderDate(date) {
+            const months = ['Jan', 'Feb', 'Mar', 'Apr', 'Maj', 'Jun', 'Jul', 'Avg', 'Sep', 'Okt', 'Nov', 'Dec'];
+            return `${date.getDate()}. ${months[date.getMonth()]} ${date.getFullYear()}`;
+        }
+
+        function loadFireData() {
+            fetch('fire_data.json')
+                .then(response => response.json())
+                .then(data => {
+                    allFireFeatures = data.features;
+                    console.log(`🔥 Loaded ${allFireFeatures.length} fire features`);
+                    setupDateRangeSlider();
+                    updateFireLayer();
+                })
+                .catch(error => {
+                    console.error('Error loading fire data:', error);
+                });
+        }
+
+        function setupDateRangeSlider() {
+            if (!allFireFeatures.length) return;
+            const dates = allFireFeatures.map(f => parseDate(f.properties.datetime)).sort((a, b) => a - b);
+            minFireDate = dates[0];
+            maxFireDate = dates[dates.length - 1];
+            const minTimestamp = minFireDate.getTime();
+            const maxTimestamp = maxFireDate.getTime();
+            // Remove old slider if exists
+            if (slider) slider.noUiSlider.destroy();
+            slider = document.getElementById('dateRangeSlider');
+            noUiSlider.create(slider, {
+                start: [minTimestamp, maxTimestamp],
+                connect: true,
+                range: {
+                    'min': minTimestamp,
+                    'max': maxTimestamp
+                },
+                step: 24 * 60 * 60 * 1000, // 1 day
+                tooltips: false,
+                format: {
+                    to: value => value,
+                    from: value => value
+                }
+            });
+            // Display initial range
+            updateDateRangeDisplay([minTimestamp, maxTimestamp]);
+            slider.noUiSlider.on('update', function (values) {
+                updateDateRangeDisplay(values);
+                updateFireLayer();
+            });
+        }
+
+        function updateDateRangeDisplay(values) {
+            const start = new Date(Number(values[0]));
+            const end = new Date(Number(values[1]));
+            document.getElementById('dateRangeDisplay').textContent = `${formatSliderDate(start)} — ${formatSliderDate(end)}`;
+            
+            // Update fire count
+            updateFireCount(values);
+        }
+        
+        function updateFireCount(range) {
+            const [startTs, endTs] = range;
+            const filtered = allFireFeatures.filter(f => {
+                const dt = parseDate(f.properties.datetime).getTime();
+                return dt >= startTs && dt <= endTs;
+            });
+            document.getElementById('fireCountDisplay').textContent = `🔥 Prikazano: ${filtered.length} požara`;
+        }
+
+        function updateFireLayer() {
+            if (fireLayer) {
+                map.removeLayer(fireLayer);
+            }
+            fireLayer = L.layerGroup();
+            map.addLayer(fireLayer);
+            // Get slider range
+            let range = [minFireDate.getTime(), maxFireDate.getTime()];
+            if (slider && slider.noUiSlider) {
+                range = slider.noUiSlider.get().map(Number);
+            }
+            const [startTs, endTs] = range;
+            // Filter features by slider
+            const filtered = allFireFeatures.filter(f => {
+                const dt = parseDate(f.properties.datetime).getTime();
+                return dt >= startTs && dt <= endTs;
+            });
+            console.log(`🔥 Displaying ${filtered.length} fires after date filtering`);
+            
+            // Update fire count display
+            document.getElementById('fireCountDisplay').textContent = `🔥 Prikazano: ${filtered.length} požara`;
+            
+            filtered.forEach(feature => {
+                const props = feature.properties;
+                const coords = feature.geometry.coordinates;
+                
+                // Create marker and circle
+                const fireMarker = L.marker([coords[1], coords[0]], {
+                    icon: L.divIcon({
+                        className: 'fire-marker',
+                        html: '🔥',
+                        iconSize: [30, 30]
+                    })
+                }).addTo(fireLayer);
+                const circle = L.circle([coords[1], coords[0]], {
+                    radius: 500,
+                    color: '#ff6600',
+                    fillColor: '#ff6600',
+                    fillOpacity: 0.3,
+                    weight: 2
+                }).addTo(fireLayer);
+                
+                // Create popup content
+                function formatSerbianDateTime(dateString) {
+                    const date = new Date(dateString);
+                    const day = date.getDate();
+                    const month = date.getMonth();
+                    const year = date.getFullYear();
+                    const hours = date.getHours().toString().padStart(2, '0');
+                    const minutes = date.getMinutes().toString().padStart(2, '0');
+                    
+                    const months = [
+                        'Jan', 'Feb', 'Mar', 'Apr', 'Maj', 'Jun',
+                        'Jul', 'Avg', 'Sep', 'Okt', 'Nov', 'Dec'
+                    ];
+                    
+                    return `${day}. ${months[month]} ${year}. ${hours}:${minutes}`;
+                }
+                
+                // Handle different data formats
+                let startTime, endTime, location, area, description, mediaData, dataSource;
+                
+                if (props.data_source === 'NASA_FIRMS') {
+                    // NASA FIRMS data format
+                    startTime = formatSerbianDateTime(props.datetime);
+                    endTime = 'Satelitska detekcija';
+                    location = `${coords[1].toFixed(4)}, ${coords[0].toFixed(4)}`; // lat, lng
+                    area = 'N/A';
+                    description = `Brightness: ${props.brightness}, FRP: ${props.frp}, Confidence: ${props.confidence}`;
+                    mediaData = null;
+                    dataSource = 'NASA FIRMS';
+                } else {
+                    // User-submitted fire data format
+                    startTime = formatSerbianDateTime(props.start_time);
+                    endTime = props.end_time ? formatSerbianDateTime(props.end_time) : 'Traje i sada';
+                    location = `${props.latitude.toFixed(4)}, ${props.longitude.toFixed(4)}`;
+                    area = props.area + ' km²';
+                    description = props.description || '';
+                    mediaData = props.media_data;
+                    dataSource = props.data_source || 'Korisnik';
+                }
+                
+                let popupContent = `<div style="font-family: Arial, sans-serif; max-width: 350px;">
+                    <h3 style="color: #ff6600;">🔥 ${props.data_source === 'NASA_FIRMS' ? 'Satelitska detekcija požara' : 'Prijava požara'}</h3>
+                    <p><strong>Datum:</strong> ${startTime}</p>
+                    <p><strong>Kraj:</strong> ${endTime}</p>
+                    <p><strong>Lokacija:</strong> ${location}</p>`;
+                
+                if (area !== 'N/A') {
+                    popupContent += `<p><strong>Površina:</strong> ${area}</p>`;
+                }
+                
+                if (description) {
+                    popupContent += `<p><strong>Opis:</strong> ${description}</p>`;
+                }
+                
+                if (mediaData) {
+                    popupContent += `<p><strong>Medija:</strong> <a href="${mediaData}" target="_blank">Pogledaj sliku</a></p>`;
+                }
+                
+                popupContent += `<p><strong>Izvor:</strong> ${dataSource}</p>`;
+                
+                // Only show voting for user-submitted fires
+                if (props.data_source !== 'NASA_FIRMS') {
+                    popupContent += `<div style="margin-top: 10px;">
+                        <button onclick="voteFire(${props.id}, 'up')" style="background-color: #28a745; color: white; border: none; padding: 5px 10px; border-radius: 3px; cursor: pointer; margin-right: 5px;">👍 ${props.upvotes || 0}</button>
+                        <button onclick="voteFire(${props.id}, 'down')" style="background-color: #dc3545; color: white; border: none; padding: 5px 10px; border-radius: 3px; cursor: pointer;">👎 ${props.downvotes || 0}</button>
+                    </div>`;
+                }
+                
+                popupContent += `</div>`;
+                
+                fireMarker.bindPopup(popupContent);
+                circle.bindPopup(popupContent);
+            });
+        }
+
+        // Control functions
+        function toggleGeologyLayer() {
+            const isChecked = document.getElementById('geologyToggle').checked;
+            if (isChecked) {
+                map.addLayer(geologyLayer);
+            } else {
+                map.removeLayer(geologyLayer);
+            }
+        }
+        
+        function toggleFireLayer() {
+            const isChecked = document.getElementById('fireToggle').checked;
+            if (isChecked) {
+                if (fireLayer) {
+                    map.addLayer(fireLayer);
+                }
+            } else {
+                if (fireLayer) {
+                    map.removeLayer(fireLayer);
+                }
+            }
+        }
+        
+        // GPS Modal functions
+        function openGPSModal() {
+            document.getElementById('gpsModal').style.display = 'block';
+            updateCoordinatesDisplay();
+        }
+        
+        function closeGPSModal() {
+            document.getElementById('gpsModal').style.display = 'none';
+            document.getElementById('gpsInput').value = ''; // Clear input field
+        }
+        
+        function updateCoordinatesDisplay() {
+            const gpsInput = document.getElementById('gpsInput').value.trim();
+            const coordText = document.getElementById('coordinatesDisplay'); // Changed from coordText to coordinatesDisplay
+            
+            if (gpsInput) {
+                coordText.textContent = gpsInput;
+            } else {
+                coordText.textContent = 'Nisu unete';
+            }
+        }
+        
+        // Fire modal functions
+        function openFireModal() {
+            document.getElementById('fireModal').style.display = 'block';
+            // Set default start time to now
+            const now = new Date();
+            const localDateTime = new Date(now.getTime() - now.getTimezoneOffset() * 60000).toISOString().slice(0, 16);
+            document.getElementById('fireStartTime').value = localDateTime;
+            
+            // Initialize fire map if coordinates are available
+            if (selectedCoordinates) {
+                initializeFireMap(selectedCoordinates.lat, selectedCoordinates.lng);
+            }
+        }
+        
+        function closeFireModal() {
+            document.getElementById('fireModal').style.display = 'none';
+            if (fireMap) {
+                fireMap.remove();
+                fireMap = null;
+            }
+        }
+        
+        function submitGPS() {
+            const gpsInput = document.getElementById('gpsInput').value.trim();
+            if (!gpsInput) {
+                alert('Molimo unesite GPS koordinate');
+                return;
+            }
+            
+            const coords = gpsInput.split(',').map(c => parseFloat(c.trim()));
+            if (coords.length !== 2 || isNaN(coords[0]) || isNaN(coords[1])) {
+                alert('Molimo unesite validne koordinate u formatu: širina,dužina');
+                return;
+            }
+            
+            selectedCoordinates = { lat: coords[0], lng: coords[1] };
+            closeGPSModal();
+            openFireModal();
+        }
+        
+        function initializeFireMap(lat, lng) {
+            if (fireMap) {
+                fireMap.remove();
+            }
+            
+            // Create fire map
+            fireMap = L.map('fireMap').setView([lat, lng], 15);
+            
+            // Use the same tile layer as the main map
+            const selectedTile = document.getElementById('tileSelector').value;
+            const tileConfig = tileLayers[selectedTile];
+            
+            L.tileLayer(tileConfig.url, {
+                attribution: tileConfig.attribution
+            }).addTo(fireMap);
+            
+            // Add draggable marker
+            fireMarker = L.marker([lat, lng], {
+                draggable: true,
+                icon: L.divIcon({
+                    className: 'fire-marker',
+                    html: '🔥',
+                    iconSize: [30, 30]
+                })
+            }).addTo(fireMap);
+            
+            // Add radius circle
+            const radius = parseFloat(document.getElementById('radiusSlider').value);
+            fireCircle = L.circle([lat, lng], {
+                radius: radius,
+                color: '#ff6600',
+                fillColor: '#ff6600',
+                fillOpacity: 0.3,
+                weight: 2
+            }).addTo(fireMap);
+            
+            // Handle marker drag
+            fireMarker.on('drag', function(e) {
+                const newLat = e.target.getLatLng().lat;
+                const newLng = e.target.getLatLng().lng;
+                currentLat = newLat;
+                currentLng = newLng;
+                
+                // Update circle position
+                fireCircle.setLatLng([newLat, newLng]);
+                
+                // Update location display
+                document.getElementById('fireLocationDisplay').textContent = 
+                    `${newLat.toFixed(6)}, ${newLng.toFixed(6)}`;
+            });
+            
+            // Update location display
+            document.getElementById('fireLocationDisplay').textContent = 
+                `${lat.toFixed(6)}, ${lng.toFixed(6)}`;
+        }
+        
+        function toggleEndTime() {
+            const active = document.getElementById('fireOngoing').checked;
+            const endInput = document.getElementById('fireEndTime');
+            endInput.disabled = active;
+            if (active) {
+                endInput.value = '';
+            }
+        }
+        
+        function updateRadius() {
+            const radius = document.getElementById('radiusSlider').value;
+            const area = (Math.PI * radius * radius / 1000000).toFixed(2); // km²
+            
+            document.getElementById('radiusValue').textContent = radius;
+            document.getElementById('areaValue').textContent = area;
+            
+            if (fireCircle) {
+                fireCircle.setRadius(parseInt(radius));
+            }
+        }
+        
+        function previewImage() {
+            const file = document.getElementById('fireImage').files[0];
+            const preview = document.getElementById('imagePreview');
+            
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    preview.innerHTML = `<img src="${e.target.result}" style="max-width: 200px; max-height: 150px; border-radius: 5px;">`;
+                };
+                reader.readAsDataURL(file);
+            }
+        }
+        
+        function toggleLocationEdit() {
+            const isEnabled = document.getElementById('locationToggle').checked;
+            if (fireMap && fireMarker) {
+                if (isEnabled) {
+                    fireMarker.dragging.enable();
+                } else {
+                    fireMarker.dragging.disable();
+                }
+            }
+        }
+        
+        // GPS Form submission - removed since we use direct button clicks now
+        
+        function openFireModalWithCoords(lat, lng) {
+            document.getElementById('fireModal').style.display = 'block';
+            
+            // Set default values
+            const now = new Date();
+            document.getElementById('fireStartTime').value = now.toISOString().slice(0, 16);
+            document.getElementById('fireEndTime').value = '';
+            document.getElementById('fireOngoing').checked = false;
+            
+            // Initialize radius display
+            updateRadius();
+            
+            // Initialize fire map after a short delay to ensure modal is visible
+            setTimeout(() => {
+                initializeFireMap(lat, lng);
+            }, 100);
+        }
+        
+        // Form submission - removed since we use direct button clicks now
+        
+        // Function to save fire report
+        function saveFireReport(reportData) {
+            // Send data to backend API
+            fetch('/api/fire-report', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(reportData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    alert('Prijava uspešno kreirana!');
+                    closeFireModal();
+                    
+                    // Reload fire data to show the new report
+                    setTimeout(() => {
+                        loadFireData();
+                    }, 500);
+                } else {
+                    alert('Greška pri kreiranju prijave: ' + (data.message || 'Nepoznata greška'));
+                }
+            })
+            .catch(error => {
+                console.error('Error saving fire report:', error);
+                alert('Greška pri povezivanju sa serverom. Pokušajte ponovo.');
+            });
+        }
+        
+        // Right-click context menu
+        map.on('contextmenu', function(e) {
+            contextCoords = e.latlng;
+            
+            // Show context menu
+            const contextMenu = document.getElementById('contextMenu');
+            contextMenu.style.display = 'block';
+            contextMenu.style.left = e.originalEvent.pageX + 'px';
+            contextMenu.style.top = e.originalEvent.pageY + 'px';
+            
+            // Prevent default context menu
+            e.originalEvent.preventDefault();
+        });
+        
+        // Hide context menu when clicking elsewhere
+        document.addEventListener('click', function() {
+            document.getElementById('contextMenu').style.display = 'none';
+        });
+        
+        function copyGPSFromContext() {
+            if (contextCoords) {
+                const coords = `${contextCoords.lat.toFixed(6)}, ${contextCoords.lng.toFixed(6)}`;
+                navigator.clipboard.writeText(coords).then(() => {
+                    alert(`GPS koordinate kopirane: ${coords}`);
+                }).catch(() => {
+                    // Fallback for older browsers
+                    const textArea = document.createElement('textarea');
+                    textArea.value = coords;
+                    document.body.appendChild(textArea);
+                    textArea.select();
+                    document.execCommand('copy');
+                    document.body.removeChild(textArea);
+                    alert(`GPS koordinate kopirane: ${coords}`);
+                });
+            }
+            document.getElementById('contextMenu').style.display = 'none';
+        }
+        
+        function openGPSModalWithCoords() {
+            if (contextCoords) {
+                document.getElementById('gpsInput').value = `${contextCoords.lat.toFixed(6)}, ${contextCoords.lng.toFixed(6)}`;
+                document.getElementById('contextMenu').style.display = 'none';
+                openGPSModal();
+            }
+        }
+        
+        // Initialize radius display
+        updateRadius();
+        
+        // Load fire data automatically
+        loadFireData();
+        
+        // Location edit mode toggle
+        function toggleLocationEdit() {
+            const checkbox = document.getElementById('locationToggle');
+            
+            if (checkbox.checked) {
+                // Enable marker dragging
+                if (fireMarker) {
+                    fireMarker.dragging.enable();
+                }
+            } else {
+                // Disable marker dragging
+                if (fireMarker) {
+                    fireMarker.dragging.disable();
+                }
+            }
+        }
+        
+        // Right-click context menu - go directly to fire modal
+        function openFireModalFromContext() {
+            if (contextCoords) {
+                currentLat = contextCoords.lat;
+                currentLng = contextCoords.lng;
+                document.getElementById('contextMenu').style.display = 'none';
+                openFireModalWithCoords(contextCoords.lat, contextCoords.lng);
+            }
+        }
+
+        let uploadedMediaData = null;
+        let uploadedMediaType = null;
+
+        function handleMediaUpload(event) {
+            const file = event.target.files[0];
+            const previewDiv = document.getElementById('mediaPreview');
+            previewDiv.innerHTML = '';
+            uploadedMediaData = null;
+            uploadedMediaType = null;
+            if (!file) return;
+            if (file.size > 5 * 1024 * 1024) { // 5MB limit
+                alert('Fajl je prevelik! Maksimalna veličina je 5MB.');
+                event.target.value = '';
+                return;
+            }
+            if (!file.type.startsWith('image/')) {
+                alert('Molimo izaberite sliku!');
+                event.target.value = '';
+                return;
+            }
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                uploadedMediaData = e.target.result;
+                uploadedMediaType = 'image';
+                previewDiv.innerHTML = `<img src="${uploadedMediaData}" style="max-width: 100%; max-height: 200px; border-radius: 8px; margin-top: 10px;" alt="Preview">`;
+            };
+            reader.readAsDataURL(file);
+        }
+
+        // Info Bar Collapse/Expand
+        const infoBar = document.getElementById('infoBar');
+        const floatingToggle = document.getElementById('floatingToggle');
+        
+        function toggleInfoBar() {
+            infoBar.classList.toggle('collapsed');
+            floatingToggle.classList.toggle('visible');
+        }
+
+        // Buy Me a Coffee Link
+        function buyMeACoffee() {
+            window.open('https://www.buymeacoffee.com/yourusername', '_blank'); // Replace with your actual username
+        }
+
+        function submitFireReport() {
+            if (!currentLat || !currentLng) {
+                alert('Molimo prvo postavite lokaciju!');
+                return;
+            }
+            
+            const reportData = {
+                start_time: document.getElementById('fireStartTime').value,
+                end_time: document.getElementById('fireEndTime').value,
+                latitude: currentLat,
+                longitude: currentLng,
+                area: document.getElementById('areaValue').textContent,
+                radius: parseFloat(document.getElementById('radiusSlider').value),
+                description: document.getElementById('fireDescription').value,
+                media_data: uploadedMediaData,
+                media_type: uploadedMediaType
+            };
+            
+            // Save to backend and reload data
+            saveFireReport(reportData);
+        }
+    </script>
+</body>
+</html> 

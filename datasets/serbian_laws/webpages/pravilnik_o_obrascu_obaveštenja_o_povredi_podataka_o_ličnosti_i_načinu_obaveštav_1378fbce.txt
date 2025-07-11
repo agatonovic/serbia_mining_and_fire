@@ -1,0 +1,93 @@
+Title: PRAVILNIKO OBRASCU OBAVEŠTENJA O POVREDI PODATAKA O LIČNOSTI I NAČINU
+OBAVEŠTAVANJA POVERENIKA ZA INFORMACIJE OD JAVNOG ZNAČAJA I ZAŠTITU PODATAKA O LIČNOSTI O
+POVREDI PODATAKA O LIČNOSTI
+URL: https://www.paragraf.rs/propisi/pravilnik-o-obrascu-obavestavanja-poverenika-za-informacije-od-javnog-znacaja-o-povredi.html
+Extracted: 2025-07-06T23:11:56.588000
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O OBRASCU OBAVEŠTENJA O POVREDI PODATAKA O LIČNOSTI I NAČINU
+OBAVEŠTAVANJA POVERENIKA ZA INFORMACIJE OD JAVNOG ZNAČAJA I ZAŠTITU PODATAKA O LIČNOSTI O
+POVREDI PODATAKA O LIČNOSTI
+("Sl. glasnik RS", br. 40/2019)
+Član 1
+Ovim pravilnikom utvrđuje se obrazac obaveštenja o povredi podataka o ličnosti
+(u daljem tekstu: obrazac obaveštenja) i način obaveštavanja Poverenika za informacije od
+javnog značaja i zaštitu podataka o ličnosti (u daljem tekstu: Poverenik) o povredi podataka
+o ličnosti.
+Član 2
+Obrazac obaveštenja sadrži:
+1) Podatke o rukovaocu:
+(1) naziv rukovaoca;
+(2) adresa i sedište;
+(3) ime i kontakt podatke lica za zaštitu podataka o ličnosti rukovaoca,
+ako je ono određeno, ili informacije o drugom načinu na koji se mogu dobiti podaci o povredi.
+2) Podatke o povredi podataka:
+(1) opis prirode povrede podataka, uključujući okolnosti koje se
+odnose na povredu;
+(2) vrsta podataka o ličnosti;
+(3) broj lica na koja se podaci odnose;
+(4) broj podataka o ličnosti čija je bezbednost povređena;
+(5) datum i vreme povrede bezbednosti podataka (ukoliko je poznat,
+ili prema proceni).
+3) Opis mogućih posledica povrede.
+4) Opis mera koje je rukovalac preduzeo ili čije je preduzimanje predloženo.
+5) Ostale podatke od značaja za obaveštavanje o povredi podataka.
+Obrazac obaveštenja odštampan je uz ovaj pravilnik i čini njegov sastavni
+deo.
+Član 3
+Rukovalac dostavlja Povereniku obaveštenje o povredi podataka o ličnosti
+na obrascu iz člana 2. ovog pravilnika u roku od 72 časa od saznanja za povredu.
+U slučaju da rukovalac u trenutku dostavljanja obaveštenja Povereniku ne
+može da unese sve podatke, dužan je da ih naknadno dostavi na isti način na koji je dostavio
+obaveštenje.
+Rukovalac koji ne postupi u propisanom roku, dužan je da obrazloži razloge
+zbog kojih nije postupio u tom roku.
+Član 4
+Uz obaveštenje rukovalac dostavlja i evidencije radnji obrade koje se odnose
+na podatke koji su bili predmet povrede podataka o ličnosti, a koje rukovalac vodi u skladu
+sa članom 47. Zakona o zaštiti podataka o ličnosti (u daljem tekstu: Zakon).
+Rukovalac dostavlja i drugu dokumentaciju, po nalogu Poverenika, ili na
+sopstvenu inicijativu.
+Član 5
+Rukovalac dostavlja Povereniku obaveštenje o povredi podataka u pisanom
+obliku, neposredno ili putem pošte.
+Rukovalac može da dostavi i skenirani primerak obaveštenja na imejl adresu:
+povredapodataka@poverenik.rs.
+Član 6
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije", a primenjuje se od dana primene Zakona.
+Prilog
+OBRAZAC OBAVEŠTENJA O POVREDI PODATAKA O LIČNOSTI
+1) Podaci o rukovaocu:
+(1) naziv rukovaoca
+(2) adresa/sedište
+(3) ime i kontakt podaci lica za zaštitu podataka o ličnosti
+rukovaoca ili informacije o drugom načinu na koji se mogu dobiti podaci o povredi
+2) Podaci o povredi podataka:
+(1) opis prirode povrede podataka, uključujući okolnosti
+koje se odnose na povredu
+(2) vrsta podataka o ličnosti
+(3) broj lica na koja se podaci odnose
+(4) broj podataka o ličnosti čija je bezbednost povređena
+(5) datum i vreme povrede bezbednosti podataka (ukoliko
+je poznat, ili prema proceni)
+3) Opis mogućih posledica povrede
+4) Opis mera koje je rukovalac preduzeo ili čije je preduzimanje
+predloženo
+5) Ostali podaci od značaja za obaveštavanje o povredi
+podataka
+Prilog:
+U ________, dana ___________. godine
+Za RUKOVAOCA
+______________________
+Ime i prezime
+________________
+Potpis

@@ -1,0 +1,2705 @@
+Title: ODLUKAO ODREĐIVANJU POLJOPRIVREDNIH I PREHRAMBENIH PROIZVODA ZA KOJE SE PLAĆA POSEBNA DAŽBINA PRI UVOZU I UTVRĐIVANJU IZNOSA POSEBNE DAŽBINE
+URL: https://www.paragraf.rs/propisi/poljoprivredni-prehrambeni-proizvodi-za-koje-se-placa-posebna-dazbina.html
+Extracted: 2025-07-06T23:08:28.984828
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+ODLUKA
+O ODREĐIVANJU POLJOPRIVREDNIH I PREHRAMBENIH PROIZVODA ZA KOJE SE PLAĆA POSEBNA DAŽBINA PRI UVOZU I UTVRĐIVANJU IZNOSA POSEBNE DAŽBINE
+("Sl. glasnik RS", br. 132/2021,  4/2022,  141/2022,  14/2023,  42/2023,  60/2023, 71/2023,  112/2023 i 106/2024)
+1
+.
+Ovom odlukom određuju se poljoprivredni i prehrambeni proizvodi za koje se plaća posebna dažbina pri uvozu i utvrđuje iznos posebne dažbine.
+2. Posebna dažbina pri uvozu poljoprivrednih i prehrambenih proizvoda plaća se po jedinici proizvoda, i to za:
+Tarifna oznaka
+Naimenovanje
+Iznos u din./kg/l/kom.
+Za uvoz iz EU i UK
+Osim za uvoz iz EU i UK
+1
+2
+3
+4
+0102
+Žive životinje, vrste goveda:
+- Stoka:
+0102 29
+- - Ostalo:
+- - - ostalo:
+0102 29 10 00
+- - - - mase ne preko 80 kg
+3,00
+15,00
+- - - - mase preko 80 kg, ali ne preko 160 kg:
+0102 29 21 00
+- - - - - za klanje
+2,80
+14,00
+- - - - mase preko 160 kg, ali ne preko 300 kg:
+0102 29 41 00
+- - - - - za klanje
+3,90
+13,00
+- - - - mase preko 300 kg:
+- - - - - ostalo:
+0102 29 91 00
+- - - - - - za klanje
+4,80
+12,00
+0102 39
+- - Ostalo:
+0102 39 10
+- - - domaće vrste:
+0102 39 10 10
+- - - - mase ne preko 160 kg
+ex mase preko 80 kg, osim za klanje
+0,00
+15,00
+ex mase ne preko 80 kg
+2,80
+14,00
+ex mase preko 80 kg za klanje
+2,80
+14,00
+0102 39 10 90
+- - - - ostale
+ex mase preko 160 kg, ali ne preko 300 kg, za klanje
+3,90
+13,00
+ex mase preko 300 kg, ostalo
+4,80
+12,00
+0102 90
+- Ostalo:
+- - ostalo:
+0102 90 91
+- - - domaće vrste:
+0102 90 91 10
+- - - - mase ne preko 160 kg:
+ex mase preko 80 kg, osim za klanje
+0,00
+15,00
+ex mase ne preko 80 kg
+2,80
+14,00
+ex mase preko 80 kg za klanje
+2,80
+14,00
+0102 90 91 90
+- - - - ostale
+ex mase preko 160 kg, ali ne preko 300 kg, za klanje
+3,90
+13,00
+ex mase preko 300 kg, ostalo
+4,80
+12,00
+0103
+Svinje, žive:
+- Ostalo:
+0103 91 10 00
+- - - domaće vrste
+8,30
+15,00
+0103 92
+- - Mase 50 kg ili veće:
+- - - domaće vrste:
+0103 92 11 00
+- - - - koje su se najmanje jedanput prasile, mase 160 kg i veće
+4,80
+12,00
+0103 92 19 00
+- - - - ostale
+3,60
+12,00
+0104
+Ovce i koze, žive:
+0104 10
+- Ovce:
+- - ostale:
+0104 10 30 00
+- - - jagnjad (do jedne godine starosti)
+5,60
+14,00
+0104 10 80 00
+- - - ostale
+0,00
+12,00
+0105
+Živina domaća, živa (kokoške vrste
+Gallus domesticus
+, patke, guske, ćurke i biserke):
+- Ostalo:
+0105 94 00 00
+- - Kokoške vrste
+Gallus domesticus
+0,00
+14,00
+0201
+Meso goveđe, sveže ili rashlađeno:
+0201 10 00 00
+- Trupovi i polutke:
+ex teleći
+8,80
+44,00
+ex juneći
+8,00
+40,00
+ex ostali
+6,00
+30,00
+0201 20
+- Ostali komadi sa kostima:
+0201 20 20 00
+- - kompenzirane četvrti:
+ex teleće
+8,80
+44,00
+ex juneće
+8,00
+40,00
+ex ostale
+6,00
+30,00
+0201 20 30 00
+- - prednje četvrti, nerazdvojene ili razdvojene:
+ex teleće
+5,20
+26,00
+ex juneće
+6,00
+30,00
+ex ostale
+5,20
+26,00
+0201 20 50 00
+- - zadnje četvrti, nerazdvojene ili razdvojene:
+ex teleće
+6,00
+30,00
+ex juneće
+8,00
+40,00
+ex ostale
+6,00
+30,00
+0201 20 90 00
+- - ostalo:
+ex teleće
+5,20
+26,00
+ex juneće
+6,00
+30,00
+ex ostalo
+5,20
+26,00
+0201 30 00 00
+- Bez kostiju:
+ex teleće
+10,00
+50,00
+ex juneće
+8,80
+44,00
+ex ostalo
+7,20
+36,00
+0202
+Meso, goveđe, smrznuto:
+0202 10 00 00
+- Trupovi i polutke:
+ex teleći
+7,20
+36,00
+ex juneći
+6,00
+30,00
+ex ostali
+6,00
+30,00
+0202 20
+- Ostali komadi sa kostima:
+0202 20 10 00
+- - kompenzirane četvrti:
+ex teleće
+7,20
+36,00
+ex juneće
+6,00
+30,00
+ex ostale
+6,00
+30,00
+0202 20 30 00
+- - prednje četvrti, nerazdvojene ili razdvojene:
+ex teleće
+7,20
+36,00
+ex juneće
+6,00
+30,00
+ex ostale
+6,00
+30,00
+0202 20 50 00
+- - zadnje četvrti, nerazdvojene ili razdvojene:
+ex teleće
+7,20
+36,00
+ex juneće
+6,00
+30,00
+ex ostale
+6,00
+30,00
+0202 20 90 00
+- - ostalo:
+ex teleće
+7,20
+36,00
+ex juneće
+6,00
+30,00
+ex ostalo
+6,00
+30,00
+0202 30
+- Bez kostiju:
+0202 30 10 00
+- - prednje četvrti, cele ili sečene u najviše pet komada, svaka sastavljena u jedan blok; kompenzirane četvrti u dva bloka, jednom od prednje četvrti, cele ili isečene u najviše pet delova, a drugom od zadnje četvrti, isključujući pečenice, u jednom komadu:
+ex teleće
+8,00
+40,00
+ex juneće
+7,20
+36,00
+ex ostale
+7,00
+35,00
+0202 30 50 00
+- - delovi prednje četvrti, sečene ("crop, chuck and blade") i grudi:
+ex teleći
+8,00
+40,00
+ex juneći
+7,20
+36,00
+ex ostali
+7,00
+35,00
+0202 30 90 00
+- - ostalo:
+ex teleće
+8,00
+40,00
+ex juneće
+7,20
+36,00
+ex ostalo
+5,00
+25,00
+0203
+Meso svinjsko, sveže, rashlađeno ili smrznuto:
+- Sveže ili rashlađeno:
+0203 11
+- - trupovi i polutke:
+0203 11 10 00
+- - - od domaćih svinja
+12,60
+42,00
+0203 11 90 00
+- - - ostalo
+0,00
+32,00
+0203 12
+- - Butovi, plećke i komadi od njih, sa kostima:
+- - - od domaćih svinja:
+0203 12 11 00
+- - - - butovi i komadi od njih
+13,20
+44,00
+0203 12 19 00
+- - - - plećke i komadi od njih
+10,80
+36,00
+0203 12 90 00
+- - - ostalo
+12,80
+32,00
+0203 19
+- - Ostalo:
+- - - od domaćih svinja:
+0203 19 11 00
+- - - - prednji delovi i komadi od njih
+10,50
+35,00
+0203 19 13 00
+- - - - bubrežnjak i komadi od njega, sa kostima
+10,50
+35,00
+0203 19 15 00
+- - - - potrbušine i komadi od njih
+10,00
+25,00
+- - - - ostalo:
+0203 19 55 00
+- - - - - bez kostiju
+16,00
+40,00
+0203 19 59 00
+- - - - - ostalo
+8,00
+40,00
+- Smrznuto:
+0203 21
+- - Trupovi i polutke:
+0203 21 10 00
+- - - od domaćih svinja
+12,00
+30,00
+0203 21 90 00
+- - - ostali
+0,00
+30,00
+0203 22
+- - Butovi, plećke i komadi od njih, sa kostima:
+- - - od domaćih svinja:
+0203 22 11 00
+- - - - butovi i komadi od njih
+10,80
+36,00
+0203 22 19 00
+- - - - plećke i komadi od njih
+9,00
+30,00
+0203 22 90 00
+- - - ostali
+0,00
+25,00
+0203 29
+- - Ostalo:
+- - - od domaćih svinja:
+0203 29 11 00
+- - - - prednji delovi i komadi od njih
+6,00
+20,00
+0203 29 13 00
+- - - - bubrežnjak i komadi od njega, sa kostima
+10,00
+20,00
+0203 29 15 00
+- - - - potrbušine i komadi od njih
+6,00
+20,00
+- - - - ostalo:
+0203 29 55 00
+- - - - - bez kostiju
+7,50
+25,00
+0203 29 59 00
+- - - - - ostalo
+7,50
+25,00
+0203 29 90 00
+- - - ostalo
+0,00
+25,00
+0204
+Meso ovčje ili kozje, sveže, rashlađeno ili smrznuto:
+0204 10 00 00
+- Trupovi i polutke jagnjeći, sveži ili rashlađeni
+18,00
+36,00
+- Ostalo meso ovčje, sveže ili rashlađeno:
+0204 21 00 00
+- - Trupovi i polutke
+12,50
+25,00
+0204 22
+- - Ostali komadi sa kostima:
+0204 22 10 00
+- - - skraćene prednje četvrti
+10,00
+20,00
+0204 22 30 00
+- - - slabine i/ili podplećke
+10,00
+20,00
+0204 22 50 00
+- - - butovi
+10,00
+20,00
+0204 22 90 00
+- - - ostalo
+10,00
+20,00
+0204 23 00 00
+- - Bez kostiju
+10,00
+20,00
+0204 30 00 00
+- Trupovi i polutke jagnjeći, smrznuti
+15,00
+30,00
+- Ostalo meso ovčje, smrznuto:
+0204 41 00 00
+- - Trupovi i polutke
+10,00
+20,00
+0204 42
+- - Ostali komadi sa kostima:
+0204 42 10 00
+- - - skraćene prednje četvrti
+10,00
+20,00
+0204 42 30 00
+- - - slabine i/ili podplećke
+10,00
+20,00
+0204 42 50 00
+- - - butovi
+10,00
+20,00
+0204 42 90 00
+- - - ostalo
+10,00
+20,00
+0204 43
+- - Bez kostiju:
+0204 43 10 00
+- - - jagnjeće
+10,00
+20,00
+0204 43 90 00
+- - - ostalo
+10,00
+20,00
+0207
+Meso i ostali jestivi klanični proizvodi od živine iz tar. br. 0105, sveži, rashlađeni ili smrznuti:
+- Od kokošaka vrste
+Gallus domesticus
+:
+0207 11
+- - Neisečeni u komade, sveži ili rashlađeni:
+☐
+0207 11 10 00
+- - - očerupani i bez creva, ali sa glavom i nogama, poznati kao "83% pilića"
+7,88
+45,00
+☐
+0207 11 30 00
+- - - očerupani i sa očišćenom utrobom, bez glava i nogu, ali sa vratovima, srcima, džigericom i želucima, poznati kao "70% pilića"
+7,88
+45,00
+☐
+0207 11 90 00
+- - - očerupani i sa očišćenom utrobom, bez glava i nogu i bez vratova, srca, džigerica i želudaca, poznati kao "65% pilića", ili drukčije isporučeni
+7,88
+45,00
+0207 12
+- - Neisečeno u komade, smrznuto:
+☐
+0207 12 10 00
+- - - očerupani i sa očišćenom utrobom, bez glava i nogu, vratova, srca, džigerica i želudaca, poznati kao "70% pilića"
+4,65
+31,00
+☐
+0207 12 90 00
+- - - očerupani i sa očišćenom utrobom, bez glava i nogu, vratova, srca, džigerica i želudaca, poznati kao "65% pilića", ili drukčije isporučeni
+4,65
+31,00
+0207 13
+- - Isečeni komadi i ostali klanični proizvodi, sveži ili rashlađeni:
+- - - isečeni komadi:
+0207 13 10 00
+- - - - bez kostiju
+5,10
+34,00
+- - - - sa kostima:
+☐
+0207 13 20 00
+- - - - - polutke ili četvrti
+5,10
+34,00
+0207 13 30 00
+- - - - - krila, cela, sa ili bez vrhova
+5,10
+34,00
+0207 13 40 00
+- - - - - leđa, vratovi, leđa sa neodvojenim vratovima, trtice i vrhovi krila
+5,10
+34,00
+0207 13 50 00
+- - - - - grudi i isečeni komadi od njih
+5,10
+34,00
+0207 13 60 00
+- - - - - bataci i isečeni komadi od njih
+5,10
+34,00
+0207 13 70 00
+- - - - - ostalo
+5,10
+34,00
+- - - ostali klanični proizvodi:
+0207 13 91 00
+- - - - džigerice
+5,10
+34,00
+0207 13 99 00
+- - - - ostali
+5,10
+34,00
+0207 14
+- - Isečeni komadi i ostali klanični proizvodi, smrznuti:
+- - - isečeni komadi:
+0207 14 10 00
+- - - - bez kostiju
+7,50
+50,00
+- - - - sa kostima:
+☐
+0207 14 20 00
+- - - - - polutke ili četvrti
+7,50
+50,00
+0207 14 30 00
+- - - - - krila, cela, sa ili bez vrhova
+7,50
+50,00
+0207 14 40 00
+- - - - - leđa, vratovi, leđa sa neodvojenim vratovima, trtice i vrhovi krila
+7,50
+50,00
+0207 14 50 00
+- - - - - grudi i isečeni komadi od njih
+7,50
+50,00
+0207 14 60 00
+- - - - - bataci i isečeni komadi od njih
+7,50
+50,00
+0207 14 70 00
+- - - - - ostalo
+7,50
+50,00
+- - - ostali klanični proizvodi:
+0207 14 91 00
+- - - - džigerice
+7,50
+50,00
+0207 14 99 00
+- - - - ostali
+7,50
+50,00
+- Od ćurki:
+0207 24
+- - Neisečeno u komade, sveže ili rashlađeno:
+☐
+0207 24 10 00
+- - - očerupane i sa očišćenom utrobom, bez glava i nogu, ali sa vratovima, srcima, džigericama i želucima, poznate kao "80% ćurke"
+0,00
+31,00
+☐
+0207 24 90 00
+- - - očerupane i sa očišćenom utrobom, bez glava i nogu i bez vratova, srca, džigerica i želudaca, poznate kao "73% ćurke", ili drukčije isporučene
+0,00
+31,00
+0207 25
+- - Neisečeno u komade, smrznuto:
+☐
+0207 25 10 00
+- - - očerupane i sa očišćenom utrobom, bez glava i nogu, ali sa vratovima, srcima, džigericom i želucima, poznate kao "80% ćurke"
+0,00
+31,00
+☐
+0207 25 90 00
+- - - očerupane i sa očišćenom utrobom, bez glava i nogu, kao i bez vratova, srca, džigerice i želudaca, poznate kao "73% ćurke", ili drukčije isporučene
+0,00
+31,00
+0207 26
+- - Isečeni komadi i ostali klanični proizvodi, sveži ili rashlađeni:
+- - - isečeni komadi:
+0207 26 10 00
+- - - - bez kostiju
+0,00
+31,00
+- - - - sa kostima:
+0207 26 20 00
+- - - - - polutke ili četvrti
+0,00
+31,00
+0207 26 30 00
+- - - - - krila, cela, sa ili bez vrhova
+0,00
+31,00
+0207 26 40 00
+- - - - - leđa, vratovi, leđa zajedno sa vratovima, trtice i vrhovi krila
+0,00
+31,00
+0207 26 50 00
+- - - - - grudi i isečeni komadi od grudi
+0,00
+31,00
+- - - - - noge i isečeni komadi od nogu:
+0207 26 60 00
+- - - - - - bataci i isečeni komadi od bataka
+0,00
+31,00
+0207 26 70 00
+- - - - - - ostalo
+0,00
+31,00
+0207 26 80 00
+- - - - - ostalo
+0,00
+31,00
+- - - ostali klanični proizvodi:
+0207 26 91 00
+- - - - džigerice
+0,00
+31,00
+0207 26 99 00
+- - - - ostali
+0,00
+31,00
+0207 27
+- - Isečeni komadi i ostali klanični proizvodi, smrznuti:
+- - - isečeni komadi:
+0207 27 10 00
+- - - - bez kostiju
+0,00
+50,00
+- - - - sa kostima:
+0207 27 20 00
+- - - - - polutke ili četvrti
+0,00
+50,00
+0207 27 30 00
+- - - - - krila, cela, sa ili bez vrhova
+0,00
+50,00
+0207 27 40 00
+- - - - - leđa, vratovi, leđa zajedno sa vratovima, trtice i vrhovi krila
+0,00
+50,00
+0207 27 50 00
+- - - - - grudi i isečeni komadi od grudi
+0,00
+50,00
+- - - - - noge i isečeni komadi od nogu:
+0207 27 60 00
+- - - - - - bataci i isečeni komadi od bataka
+0,00
+50,00
+0207 27 70 00
+- - - - - - ostalo
+0,00
+50,00
+0207 27 80 00
+- - - - - ostalo
+0,00
+50,00
+- - - ostali klanični proizvodi:
+0207 27 91 00
+- - - - džigerice
+0,00
+50,00
+0207 27 99 00
+- - - - ostali
+0,00
+50,00
+- Od pataka:
+0207 41
+- - Neisečeno u komade, sveže ili rashlađeno:
+☐
+0207 41 20 00
+- - - očerupano, bez krvi,, bez creva ali sa, neočišćenom utrobom, sa glavama i nogama, poznato kao "85% patke"
+0,00
+31,00
+☐
+0207 41 30 00
+- - - očerupano i sa očišćenom utrobom, bez glava i nogu, ali sa vratovima, srcima, džigericom i želucima, poznato kao "70% patke"
+0,00
+31,00
+☐
+0207 41 80 00
+- - - očerupano i sa očišćenom utrobom, bez glava i nogu, kao i bez vratova, srca, džigerice i želudaca, poznato kao "63% patke", ili drukčije isporučeno
+0,00
+31,00
+0207 42
+- - Neisečeno u komade, smrznuto:
+☐
+0207 42 30 00
+- - - očerupano i sa očišćenom utrobom, bez glava i nogu, ali sa vratovima, srcima, džigericom i želucima, poznato kao "70% patke"
+0,00
+31,00
+☐
+0207 42 80 00
+- - - očerupano i sa očišćenom utrobom, bez glava i nogu, kao i bez vratova, srca, džigerice i želudaca, poznato kao "63% patke", ili drukčije isporučeno
+0,00
+31,00
+0207 44
+- - Ostalo, sveže ili rashlađeno:
+- - - isečeni komadi:
+0207 44 10 00
+- - - - bez kostiju
+0,00
+31,00
+- - - - sa kostima:
+0207 44 21 00
+- - - - - polutke ili četvrti
+0,00
+31,00
+0207 44 31 00
+- - - - - krila, cela, sa ili bez vrhova
+0,00
+31,00
+0207 44 41 00
+- - - - - leđa, vratovi, leđa zajedno sa vratovima, trtice i vrhovi krila
+0,00
+31,00
+0207 44 51 00
+- - - - - grudi i isečeni komadi od njih
+0,00
+31,00
+0207 44 61 00
+- - - - - noge i isečeni komadi od njih
+0,00
+31,00
+0207 44 71 00
+- - - - - trupovi ("
+paletots
+")
+0,00
+31,00
+0207 44 81 00
+- - - - - ostalo
+0,00
+31,00
+- - - ostali klanični proizvodi:
+0207 44 91 00
+- - - - džigerice, izuzev masnih džigerica
+0,00
+31,00
+0207 44 99 00
+- - - - ostali
+0,00
+31,00
+0207 45
+- - Ostalo, smrznuto:
+- - - isečeni komadi:
+0207 45 10 00
+- - - - bez kostiju
+0,00
+31,00
+- - - - sa kostima:
+0207 45 21 00
+- - - - - polutke ili četvrti
+0,00
+31,00
+0207 45 31 00
+- - - - - krila cela, sa ili bez vrhova
+0,00
+31,00
+0207 45 41 00
+- - - - - leđa, vratovi, leđa sa neodsečenim vratovima, trtice i vrhovi krila
+0,00
+31,00
+0207 45 51 00
+- - - - - grudi i isečeni komadi od njih
+0,00
+31,00
+0207 45 61 00
+- - - - - noge i isečeni komadi od njih
+0,00
+31,00
+0207 45 71 00
+- - - - - trupovi ("
+paletots
+")
+0,00
+31,00
+0207 45 81 00
+- - - - - ostalo
+0,00
+31,00
+- - - ostali klanični proizvodi:
+- - - - džigerice:
+0207 45 93 00
+- - - - - masne džigerice
+0,00
+31,00
+0207 45 95 00
+- - - - - ostale
+0,00
+31,00
+0207 45 99 00
+- - - - ostali
+0,00
+31,00
+- Od gusaka:
+0207 51
+- - Neisečeno u komade, sveže ili rashlađeno:
+☐
+0207 51 10 00
+- - - očerupano, bez krvi, bez creva, sa glavama i nogama, poznato kao "82% guske"
+0,00
+31,00
+☐
+0207 51 90 00
+- - - očerupano i sa očišćenom utrobom, bez glava i nogu, sa ili bez srca i želudaca, poznato kao "75% guske", ili drukčije isporučeno
+0,00
+31,00
+0207 52
+- - Neisečeno u komade, smrznuto:
+☐
+0207 52 10 00
+- - - očerupano, bez krvi, sa neočišćenom utrobom, sa glavama i nogama, poznato kao "82% guske"
+0,00
+31,00
+☐
+0207 52 90 00
+- - - očerupano i sa očišćenom utrobom, bez glava i nogu, sa ili bez srca i želudaca, poznato kao "75% guske", ili drukčije isporučeno
+0,00
+31,00
+0207 54
+- - Ostalo, sveže ili rashlađeno:
+- - - isečeni komadi:
+0207 54 10 00
+- - - - bez kostiju
+0,00
+31,00
+- - - - sa kostima:
+0207 54 21 00
+- - - - - polutke ili četvrti
+0,00
+31,00
+0207 54 31 00
+- - - - - krila, cela, sa ili bez vrhova
+0,00
+31,00
+0207 54 41 00
+- - - - - leđa, vratovi, leđa zajedno sa vratovima, trtice i vrhovi krila
+0,00
+31,00
+0207 54 51 00
+- - - - - grudi i isečeni komadi od njih
+0,00
+31,00
+0207 54 61 00
+- - - - - noge i isečeni komadi od njih
+0,00
+31,00
+0207 54 71 00
+- - - - - trupovi ("
+paletots
+")
+0,00
+31,00
+0207 54 81 00
+- - - - - ostalo
+0,00
+31,00
+- - - ostali klanični proizvodi:
+0207 54 91 00
+- - - - džigerice, izuzev masnih džigerica
+0,00
+31,00
+0207 54 99 00
+- - - - ostali
+0,00
+31,00
+0207 55
+- - Ostalo, smrznuto:
+- - - isečeni komadi:
+0207 55 10 00
+- - - - bez kostiju
+0,00
+31,00
+- - - - sa kostima:
+0207 55 21 00
+- - - - - polutke ili četvrti
+0,00
+31,00
+0207 55 31 00
+- - - - - krila cela, sa ili bez vrhova
+0,00
+31,00
+0207 55 41 00
+- - - - - leđa, vratovi, leđa sa neodsečenim vratovima, trtice i vrhovi krila
+0,00
+31,00
+0207 55 51 00
+- - - - - grudi i isečeni komadi od njih
+0,00
+31,00
+0207 55 61 00
+- - - - - noge i isečeni komadi od njih
+0,00
+31,00
+0207 55 71 00
+- - - - - trupovi ("
+paletots
+")
+0,00
+31,00
+0207 55 81 00
+- - - - - ostalo
+0,00
+31,00
+- - - ostali klanični proizvodi:
+- - - - džigerice:
+0207 55 93 00
+- - - - - masne džigerice
+0,00
+31,00
+0207 55 95 00
+- - - - - ostale
+0,00
+31,00
+0207 55 99 00
+- - - - ostali
+0,00
+31,00
+0207 60
+- Od biserki:
+0207 60 05 00
+- - neisečeno u komade, sveže, rashlađeno ili smrznuto
+0,00
+31,00
+- - ostalo, sveže, rashlađeno ili smrznuto:
+- - - isečeni komadi:
+0,00
+0207 60 10 00
+- - - - bez kostiju
+0,00
+31,00
+- - - - sa kostima:
+0207 60 21 00
+- - - - - polutke ili četvrti
+0,00
+31,00
+0207 60 31 00
+- - - - - krila, cela, sa ili bez vrhova
+0,00
+31,00
+0207 60 41 00
+- - - - - leđa, vratovi, leđa zajedno sa vratovima, trtice i vrhovi krila
+0,00
+31,00
+0207 60 51 00
+- - - - - grudi i isečeni komadi od njih
+0,00
+31,00
+0207 60 61 00
+- - - - - noge i isečeni komadi od njih
+0,00
+31,00
+0207 60 81 00
+- - - - - ostalo
+0,00
+31,00
+- - - ostali klanični proizvodi:
+0207 60 91 00
+- - - - džigerice
+0,00
+31,00
+0207 60 99 00
+- - - - ostali
+0,00
+31,00
+☐
+0209
+Svinjska masnoća bez mesne krtine i živinsko salo, neistopljeni niti drugačije ekstrahovani, sveži, rashlađeni, smrznuti, soljeni, u salamuri, sušeni ili dimljeni:
+0209 10
+- Od svinja:
+- - potkožna svinjska masnoća:
+0209 10 11 00
+- - - sveža, rashlađena, smrznuta, soljena ili u salamuri
+4,50
+15,00
+0209 10 19 00
+- - - sušena ili dimljena
+12,00
+30,00
+0210
+Meso i ostali jestivi klanični proizvodi, soljeni, u salamuri, sušeni ili dimljeni; Jestivo brašno i prah od mesa ili od ostalih klaničnih proizvoda:
+- Meso svinjsko:
+0210 11
+- - Butovi, plećke i isečeni komadi od njih, sa kostima:
+- - - od domaćih svinja:
+- - - - soljeni ili u salamuri:
+0210 11 11 00
+- - - - - butovi i isečeni komadi od njih
+16,00
+40,00
+0210 11 19 00
+- - - - - plećke i isečeni komadi od njih
+16,00
+40,00
+- - - - sušeni ili dimljeni:
+0210 11 31 00
+- - - - - butovi i isečeni komadi od njih
+16,00
+40,00
+0210 11 39 00
+- - - - - plećke i isečeni komadi od njih
+16,00
+40,00
+0210 11 90 00
+- - - ostalo
+16,00
+40,00
+0210 12
+- - Potrbušine i isečeni komadi od njih:
+- - - od domaćih svinja:
+0210 12 11 00
+- - - - soljeni ili u salamuri
+12,00
+30,00
+0210 12 19 00
+- - - - sušeni ili dimljeni
+12,00
+30,00
+0210 12 90 00
+- - - ostali
+12,00
+30,00
+0210 19
+- - Ostalo:
+- - - od domaćih svinja:
+- - - - soljeno ili u salamuri:
+0210 19 10 00
+- - - - - bekon polutke ili "spenser"
+12,00
+30,00
+0210 19 20 00
+- - - - - tri četvrtine polutke ("three - quarter sides") ili srednji delovi ("middles")
+12,00
+30,00
+0210 19 30 00
+- - - - - prednji delovi i isečeni komadi od njih
+12,00
+30,00
+0210 19 40 00
+- - - - - bubrežnjak i isečeni komadi od njih
+12,00
+30,00
+0210 19 50 00
+- - - - - ostalo
+9,00
+30,00
+- - - - sušeno ili dimljeno:
+0210 19 60 00
+- - - - - prednji delovi i isečeni komadi od njih
+12,00
+30,00
+0210 19 70 00
+- - - - - bubrežnjak i isečeni komadi od njih
+12,00
+30,00
+- - - - - ostalo:
+0210 19 81 00
+- - - - - - bez kostiju
+12,00
+30,00
+0210 19 89 00
+- - - - - - ostalo
+12,00
+30,00
+0210 19 90 00
+- - - ostalo
+12,00
+30,00
+0210 20
+- Meso, goveđe:
+0210 20 10 00
+- - sa kostima
+12,00
+30,00
+0210 20 90 00
+- - bez kostiju
+12,00
+30,00
+- Ostalo, uključujući jestivo brašno, prah od mesa ili od ostalih klaničnih proizvoda:
+0210 91 00 00
+- - Od primata
+0,00
+20,00
+0210 92
+- - Od kitova, delfina i pliskavica (sisari reda
+Cetacea
+); morskih krava i dugonga (sisari reda
+Sirenia
+); foka, morskih lavova i morževa (sisari podreda
+Pinnipedia
+):
+0210 92 10 00
+- - - od kitova, delfina i pliskavica (sisari reda
+Cetacea
+); morskih krava i dugonga (sisari reda
+Sirenia
+)
+0,00
+20,00
+- - - ostalo:
+0210 92 91 00
+- - - - meso
+0,00
+20,00
+0210 92 92 00
+- - - - ostali klanični proizvodi
+0,00
+20,00
+0210 92 99 00
+- - - - jestivo brašno i prah od mesa ili od ostalih klaničnih proizvoda
+6,00
+20,00
+0210 93 00 00
+- - Od reptila (uključujući zmije i kornjače)
+0,00
+20,00
+0210 99
+- - Ostalo:
+- - - meso:
+0210 99 10 00
+- - - - od konja, soljeno, u salamuri ili sušeno
+0,00
+20,00
+- - - - od ovaca i koza:
+0210 99 21 00
+- - - - - sa kostima
+0,00
+20,00
+0210 99 29 00
+- - - - - bez kostiju
+0,00
+20,00
+0210 99 31 00
+- - - - od irvasa
+0,00
+20,00
+0210 99 39 00
+- - - - ostalo
+0,00
+20,00
+- - - ostali klanični proizvodi:
+- - - - od domaćih svinja:
+0210 99 41 00
+- - - - - džigerice
+10,00
+20,00
+0210 99 49 00
+- - - - - ostalo
+6,00
+20,00
+- - - - od goveda:
+0210 99 51 00
+- - - - - dijafragma, mišićna i tetivna
+10,00
+20,00
+0210 99 59 00
+- - - - - ostalo
+10,00
+20,00
+- - - - ostalo:
+- - - - - džigerice, živinske:
+0210 99 71 00
+- - - - - - masne džigerice od gusaka ili pataka, soljene ili u salamuri
+0,00
+20,00
+0210 99 79 00
+- - - - - - ostalo
+0,00
+20,00
+0210 99 85 00
+- - - - - ostalo
+ex od ovaca i koza
+10,00
+20,00
+ex ostalo
+0,00
+20,00
+0210 99 90 00
+- - - jestivo brašno i prah od mesa ili od ostalih klaničnih proizvoda
+6,00
+20,00
+☐
+0301
+Riba, živa:
+☐
+- Ostala riba, živa:
+0301 93 00 00
+- - Šaran (
+Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.
+)
+12,00
+20,00
+☐
+0301 99
+- - Ostala:
+☐
+- - - slatkovodna riba:
+☐
+0301 99 17
+- - - - ostala:
+0301 99 17 10
+- - - - - šaran, ostali
+12,00
+20,00
+☐
+0401
+Mleko i pavlaka, koncentrovani i bez sadržaja dodatog šećera ili druge materije za zaslađivanje:
+0401 10
+- Sa sadržajem masnoće ne preko 1% po masi:
+0401 10 90 00
+- - ostalo
+0,00
+12,00
+0401 20
+- Sa sadržajem masnoće preko 1%, ali ne preko 6,00% po masi:
+- - ne preko 3%:
+0401 20 19 00
+- - - ostalo
+0,00
+15,00
+- - preko 3%:
+0401 20 99 00
+- - - ostalo
+0,00
+15,00
+0401 40
+- Sa sadržajem masnoće preko 6%, ali ne preko 10% po masi:
+0401 40 90 00
+- - ostalo
+0,00
+8,00
+0401 50
+- Sa sadržajem masnoće preko 10%, po masi:
+- - ne preko 21%:
+0401 50 19 00
+- - - ostalo
+0,00
+8,00
+- - preko 21%, ali ne preko 45%:
+0401 50 39 00
+- - - ostalo
+0,00
+8,00
+- - preko 45%:
+0401 50 99 00
+- - - ostalo
+0,00
+8,00
+☐
+0402
+Mleko i pavlaka, koncentrovani ili sa sadržajem dodatog šećera ili druge materije za zaslađivanje:
+0402 10
+- U prahu, granulama ili drugim čvrstim oblicima, sa sadržajem masnoće ne preko 1,5% po masi:
+☐
+- - bez sadržaja dodatog šećera ili druge materije za zaslađivanje:
+0402 10 11 00
+- - - u pakovanjima neto-mase ne preko 2,5 kg
+25,20
+70,00
+0402 10 19 00
+- - - ostalo
+25,20
+70,00
+- - ostalo:
+0402 10 99 00
+- - - ostalo
+25,20
+70,00
+- U prahu, granulama ili drugim čvrstim oblicima, sa sadržajem masnoće preko 1,5% po masi:
+☐
+0402 21
+- - Bez sadržaja dodatog šećera ili druge materije za zaslađivanje:
+- - - sa sadržajem masnoće ne preko 27% po masi:
+0402 21 11 00
+- - - - u pakovanjima neto-mase ne preko 2,5 kg
+19,60
+70,00
+0402 21 18 00
+- - - - ostalo
+ex sa sadržajem masnoće ne preko 11% po masi
+25,20
+70,00
+ex sa sadržajem masnoće preko 11% po masi ali ne preko 27% po masi
+19,60
+70,00
+- - - sa sadržajem masnoće preko 27% po masi:
+0402 21 91 00
+- - - - u pakovanjima neto-mase ne preko 2,5 kg
+25,20
+70,00
+0402 21 99 00
+- - - - ostalo
+25,20
+70,00
+- Ostalo:
+☐
+0402 91
+- - Bez sadržaja dodatog šećera ili druge materije za zaslađivanje:
+0402 91 10 00
+- - - sa sadržajem masnoće ne preko 8% po masi
+0,00
+16,00
+0402 91 30 00
+- - - sa sadržajem masnoće preko 8%, ali ne preko 10% po masi
+0,00
+16,00
+- - - sa sadržajem masnoće preko 10%, ali ne preko 45% po masi:
+0402 91 59 00
+- - - - ostalo
+0,00
+16,00
+- - - sa sadržajem masnoće preko 45% po masi:
+0402 91 99 00
+- - - - ostalo
+0,00
+21,00
+0402 99
+- - Ostalo:
+- - - sa sadržajem masnoće preko 9,5%, ali ne preko 45% po masi:
+0402 99 39 00
+- - - - ostalo
+0,00
+16,00
+- - - sa sadržajem masnoće preko 45% po masi:
+0402 99 99 00
+- - - - ostalo
+0,00
+21,00
+☐
+0403
+Jogurt; Mlaćenica, kiselo mleko i kisela pavlaka, kefir i ostalo fermentisano ili zakiseljeno mleko i pavlaka, koncentrovani ili nekoncentrovani, sa sadržajem dodatog šećera ili druge materije za zaslađivanje ili bez sadržaja dodatog šećera ili druge materije za zaslađivanje aromatizovani ili nearomatizovani, sa sadržajem dodatog voća, jezgrastog voća ili kakaoa ili bez sadržaja dodatog voća, jezgrastog voća ili kakaoa:
+0403 20
+- Jogurt:
+★
+- - nearomatizovan, bez dodatka voća, uključujući jezgrasto voće ili kakaa:
+★
+- - - bez dodatog šećera ili druge materije za zaslađivanje, sa sadržajem masnoće po masi:
+★
+0403 20 11 00
+- - - - ne preko 3%
+3,00
+10,00
+★
+0403 20 13 00
+- - - - preko 3%, ali ne preko 6%
+3,00
+10,00
+★
+0403 20 19 00
+- - - - preko 6%
+3,00
+10,00
+★
+- - - ostali, sa sadržajem masnoće po masi:
+3,00
+10,00
+★
+0403 20 31 00
+- - - - ne preko 3%
+3,00
+10,00
+★
+0403 20 33 00
+- - - - preko 3%, ali ne preko 6%
+3,00
+10,00
+★
+0403 20 39 00
+- - - - preko 6%
+3,00
+10,00
+★
+- - aromatizovan ili sa dodatkom voća, uključujući jezgrasto voće, ili kakaa:
+★
+- - - u prahu, granulama ili drugim čvrstim oblicima, sa sadržajem mlečne masnoće po masi:
+★
+0403 20 51 00
+- - - - ne preko 1,5%
+0,00
+10,00
+★
+0403 20 53 00
+- - - - preko 1,5%, ali ne preko 27%
+0,00
+10,00
+★
+0403 20 59 00
+- - - - preko 27%
+0,00
+10,00
+- - - ostali, sa sadržajem mlečne masnoće po masi:
+0,00
+10,00
+★
+0403 20 91 00
+- - - - ne preko 3%
+0,00
+10,00
+★
+0403 20 93 00
+- - - - preko 3%, ali ne preko 6%
+0,00
+10,00
+★
+0403 20 99 00
+- - - - preko 6%
+0,00
+10,00
+0405
+Maslac i ostale masnoće i ulja dobijeni od mleka; Mlečni namazi:
+0405 10
+- Maslac:
+- - sa sadržajem masnoće po masi ne preko 85%:
+- - - prirodni maslac:
+0405 10 11 00
+- - - - u ambalaži neto-mase ne preko 1 kg
+14,00
+70,00
+0405 10 19 00
+- - - - ostali
+14,00
+70,00
+0405 10 30 00
+- - - rekombinovani maslac
+14,00
+70,00
+0405 10 50 00
+- - - maslac od surutke
+14,00
+70,00
+0405 10 90 00
+- - ostalo
+14,00
+70,00
+0405 20
+- Mlečni namazi:
+0405 20 10 00
+- - sa sadržajem masnoće od 39% i većim ali manjim od 60% po masi
+10,00
+50,00
+0405 20 30 00
+- - sa sadržajem masnoće od 60%, ali ne preko 75% po masi
+10,00
+50,00
+0405 20 90 00
+- - sa sadržajem masnoće većim od 75% ali manjim od 80% po masi
+10,00
+50,00
+0405 90
+- Ostalo:
+0405 90 10 00
+- - sa sadržajem masnoće od 99,3% ili većim po masi i sa sadržajem vode koji ne prelazi 0,5% po masi
+10,00
+50,00
+0405 90 90 00
+- - ostalo
+10,00
+50,00
+0406
+Sir i urda:
+0406 10
+- Svež (nezreo) sir, uključujući sir od surutke i urda:
+- - sa sadržajem masnoće ne preko 40% po masi
+0406 10 30 00
+- - - Mozzarela, bez obzira da li je tečna
+16,00
+80,00
+0406 10 50 00
+- - - ostali
+16,00
+80,00
+0406 10 80 00
+- - ostali
+16,00
+80,00
+0406 30
+- Sir topljen, osim rendanog ili u prahu:
+0406 30 10 00
+- - za čiju proizvodnju se upotrebljavaju samo sirevi Emmentaler, Gruiyere i Appenzell i koji može, kao dodatak, sadržati Glarus sir sa začinskim biljem (poznat kao Schabziger); pripremljen za prodaju na malo, sa sadržajem masnoće u suvoj materiji ne preko 56% po masi
+16,00
+80,00
+- - ostali:
+- - - sa sadržajem masnoće ne preko 36% po masi i sa sadržajem masnoće u suvoj materiji po masi:
+0406 30 31 00
+- - - - ne preko 48%
+16,00
+80,00
+0406 30 39 00
+- - - - preko 48%
+16,00
+80,00
+0406 30 90 00
+- - - sa sadržajem masnoće preko 36% po masi
+16,00
+80,00
+0406 90
+- Sir ostali:
+0406 90 01 00
+- - za preradu
+0,00
+80,00
+- - ostali:
+0406 90 13 00
+- - - Emmentaler
+24,00
+80,00
+0406 90 15 00
+- - - Gruyere, Sbrinz
+24,00
+80,00
+0406 90 17 00
+- - - Bergkase, Appenzell
+24,00
+80,00
+0406 90 18 00
+- - - Fromage friburgeois, Vacherin Mont d’Or i Tete de Moine
+24,00
+80,00
+0406 90 21 00
+- - - Cheddar
+24,00
+80,00
+0406 90 23 00
+- - - Edam
+14,00
+80,00
+0406 90 25 00
+- - - Tilsit
+24,00
+80,00
+0406 90 29 00
+- - - kačkavalj (Kashkaval)
+28,00
+80,00
+0406 90 32 00
+- - - Feta
+14,00
+80,00
+0406 90 35 00
+- - - Kefalo-tyri
+0,00
+80,00
+0406 90 37 00
+- - - Finlandia
+20,00
+80,00
+0406 90 39 00
+- - - Jarlsberg
+20,00
+80,00
+- - - ostali
+0406 90 50 00
+- - - - sir od ovčjeg mleka ili mleka od bufala, u kontejnerima sa salamurom, ili u ovčjim ili kozjim mešinama
+12,00
+80,00
+- - - - ostali:
+- - - - - sa sadržajem masnoće ne preko 40% po masi i sa sadržajem vode u nemasnoj materiji po masi:
+- - - - - - ne preko 47%:
+0406 90 61 00
+- - - - - - - Grana Padano, Parmigiano Reggiano
+12,00
+80,00
+0406 90 63 00
+- - - - - - - Fiore Sardo, Pecorino
+12,00
+80,00
+0406 90 69 00
+- - - - - - - ostali
+12,00
+80,00
+- - - - - - preko 47%, ali ne preko 72%:
+0406 90 73 00
+- - - - - - - Provolone
+12,00
+80,00
+0406 90 74 00
+- - - - - - - Maasdam
+12,00
+80,00
+0406 90 75 00
+- - - - - - - Asiago, Caciocavallo, Montasio, Ragusano
+12,00
+80,00
+0406 90 76 00
+- - - - - - - Danbo, Fontal, Fontina, Fynbo, Havarti, Maribo, Samso
+12,00
+80,00
+0406 90 78 00
+- - - - - - - Gouda
+12,00
+80,00
+0406 90 79 00
+- - - - - - - Esrom, Italico, Kernhem, Saint-Nectaire, Saint-Paulin, Taleggio
+12,00
+80,00
+0406 90 81 00
+- - - - - - - Cantal, Cheshire, Wensleydale, Lancashire, Double Gloucester, Blarney, Colby, Monterey
+12,00
+80,00
+0406 90 82 00
+- - - - - - - Camembert
+12,00
+80,00
+0406 90 84 00
+- - - - - - - Brie
+12,00
+80,00
+0406 90 85 00
+- - - - - - - Kefalograviera, Kasseri
+0,00
+80,00
+- - - - - - - ostali sir, sa sadržajem vode, po masi, u nemasnoj materiji:
+0406 90 86 00
+- - - - - - - - preko 47%, ali ne preko 52%
+12,00
+80,00
+0406 90 89 00
+- - - - - - - - preko 52%, ali ne preko 62%
+ex Glarus sir sa začinskim biljem (poznat kao Schabziger) proizveden od obranog mleka i pomešan sa sitno mlevenim začinskim biljem
+24,00
+80,00
+ex ostali
+12,00
+80,00
+0406 90 92 00
+- - - - - - preko 62%, ali ne preko 72%
+ex Butterkäse
+24,00
+80,00
+ex ostali
+12,00
+80,00
+0406 90 93 00
+- - - - - - preko 72%
+12,00
+80,00
+0406 90 99 00
+- - - - - ostali
+12,00
+80,00
+0407
+Živinska i ptičja jaja, u ljusci, sveža, konzervisana ili kuvana:
+- Oplođena jaja za inkubaciju:
+0407 11 00 00
+- - od kokošaka vrste
+Gallus domesticus
+0,00
+1,00
+0407 19
+- - Ostala:
+- - - od živine, osim od kokošaka vrste
+Gallus domesticus
+:
+0407 19 19 00
+- - - - ostala
+0,00
+1,00
+- Ostala sveža jaja:
+0407 21 00 00
+- - od kokošaka vrste
+Gallus domesticus
+0,20
+1,50
+0407 29
+- - Ostala:
+0407 29 10 00
+- - - od živine, osim od kokošaka vrste
+Gallus domesticus
+0,20
+1,50
+0407 90
+- Ostala:
+0407 90 10 00
+- - od živine
+0,20
+1,50
+0409 00 00 00
+Med prirodni
+4,50
+15,00
+0701
+Krompir, svež ili rashlađen:
+0701 90
+- Ostali:
+0701 90 10 00
+- - za proizvodnju skroba
+0,00
+5,00
+- - ostali:
+0701 90 50 00
+- - - mladi krompir, od 1. januara do 30. juna
+0,00
+5,00
+0701 90 90 00
+- - - ostali
+0,00
+5,00
+0702 00
+Paradajz, sveži ili rashlađeni:
+0702 00 10 00
+- ceo paradajz, sa najvećim prečnikom manjim od 47 mm
+0,00
+12,00
+- ostali:
+0702 00 91 00
+- - u grozdu (na jednoj rodnoj grani)
+0,00
+12,00
+0702 00 99 00
+- - ostali
+0,00
+12,00
+0703
+Crni luk, šalot, beli luk, praziluk i ostali lukovi, sveži ili rashlađeni:
+0703 10
+- Crni luk i šalot:
+- - crni luk:
+0703 10 19 00
+- - - ostali
+0,00
+6,00
+0704
+Kupus, karfiol, keleraba, kelj i slično kupusno jestivo povrće, sveži ili rashlađeni:
+★
+0704 10
+- Karfiol i brokoli:
+★
+0704 10 10 00
+- - Karfiol i glavičasti brokoli
+0,00
+6,00
+★
+0704 10 90 00
+- - ostali
+0,00
+6,00
+0704 90
+- Ostalo:
+0704 90 10 00
+- - kupus, beli i crveni
+0,00
+6,00
+0707 00
+Krastavci i kornišoni, sveži ili rashlađeni:
+0707 00 05 00
+- Krastavci
+3,00
+15,00
+0707 00 90 00
+- Kornišoni
+3,00
+15,00
+0708
+Mahunasto povrće, u mahunama ili zrnu, sveže ili rashlađeno:
+0708 10 00 00
+- Grašak (
+Pisum sativum
+)
+3,60
+18,00
+0708 20 00 00
+- Pasulj i boranija (
+Vigna spp, Phaseolus spp
+.)
+ex boranija
+0,00
+18,00
+0709
+Ostalo povrće, sveže ili rashlađeno:
+0709 60 00
+- Paprike iz roda
+Capsicum
+ili iz roda
+Pimenta
+:
+0709 60 10 00
+- - slatka paprika
+4,50
+15,00
+- - ostala:
+0709 60 91 00
+- - - iz roda
+Capsicum
+, za proizvodnju kapsicina ili boja na bazi kapsikum oleo - smola
+4,50
+15,00
+0709 60 95 00
+- - - za industrijsku proizvodnju eteričnih ulja ili rezinoida
+4,50
+15,00
+0709 60 99 00
+- - - ostala
+4,50
+15,00
+0710
+Povrće (nekuvano ili kuvano u vodi ili na pari), smrznuto:
+- Mahunasto povrće u zrnu ili mahunama:
+0710 21 00 00
+- - Grašak (
+Pisum sativum
+)
+3,60
+18,00
+0710 22 00 00
+- - Pasulj i boranija (
+Vigna spp, Phaseolus spp
+.)
+ex boranija
+3,60
+18,00
+0710 40 00 00
+- Kukuruz šećerac
+5,40
+18,00
+0710 80
+- Ostalo povrće:
+- - paprika iz roda
+Capsicum
+ili iz roda
+Pimenta
+:
+0710 80 51 00
+- - - slatka paprika
+3,60
+18,00
+0710 80 59 00
+- - - ostala
+5,40
+18,00
+0710 80 95 00
+- - ostalo
+ex šargarepa
+3,00
+15,00
+0710 90 00 00
+- Mešavine povrća
+3,60
+18,00
+☐
+0711
+Povrće, privremeno konzervisano, ali u takvom stanju nepodesno za neposrednu ishranu:
+0711 40 00 00
+- Krastavci i kornišoni
+3,00
+15,00
+0711 90
+- Ostalo povrće; mešavine povrća:
+- - povrće:
+0711 90 10 00
+- - - paprika iz roda
+Capsicum
+ili iz roda
+Pimenta
+, osim slatke paprika
+7,50
+15,00
+0711 90 30 00
+- - - kukuruz šećerac
+0,00
+20,00
+0711 90 80 00
+- - - ostalo
+5,40
+18,00
+0711 90 90 00
+- - mešavine povrća
+5,40
+18,00
+0806
+Grožđe, sveže ili suvo:
+0806 10
+- Sveže:
+0806 10 10 00
+- - stono grožđe
+0,00
+5,00
+0806 10 90 00
+- - ostalo
+0,00
+5,00
+0807
+Dinje, lubenice i papaje, sveže:
+- Dinje i lubenice:
+0807 11 00 00
+- - Lubenice
+0,00
+4,00
+0807 19 00 00
+- - ostalo
+0,00
+4,00
+0808
+Jabuke, kruške i dunje, sveže:
+0808 10
+- Jabuke:
+0808 10 10 00
+- - jabuke za vino od jabuke (cider), neupakovane (in bulk), od 16. septembra do 15. decembra
+0,00
+10,00
+0808 10 80 00
+- - ostale
+0,00
+10,00
+0808 30
+- Kruške:
+0808 30 10 00
+- - kruške za vino od kruške (perry), neupakovane (in bulk), od 1. avgusta do 31. decembra
+0,00
+10,00
+0808 30 90 00
+- - ostale
+2,00
+10,00
+0808 40 00 00
+- Dunje
+0,00
+5,00
+0809
+Kajsije, trešnje i višnje, breskve (uključujući nektarine), šljive i divlje šljive, sveže:
+0809 10 00 00
+- Kajsije
+0,00
+5,00
+- Trešnje i višnje:
+0809 21 00 00
+- - višnje (
+Prunus cerasus
+)
+0,00
+5,00
+0809 29 00 00
+- - Ostalo
+0,00
+5,00
+0809 40
+- Šljive i divlje šljive
+0809 40 05 00
+- - šljive
+0,00
+10,00
+0809 40 90 00
+- - divlje šljive
+0,00
+10,00
+0904
+Biber roda
+Piper
+; suva, drobljena ili mlevena paprika roda
+Capsicum
+ili roda
+Pimenta
+:
+- Paprika roda
+Capsicum
+ili roda
+Pimenta
+:
+0904 21
+- - Suva, nedrobljena niti mlevena:
+0904 21 10 00
+- - - slatka paprika (
+Capsicum annum
+)
+3,00
+6,00
+0904 21 90 00
+- - - ostala
+4,00
+8,00
+0904 22 00 00
+- - drobljena ili mlevena
+5,00
+10,00
+☐
+1517
+Margarin; Jestive mešavine ili preparati od masti ili ulja životinjskog ili biljnog ili mikrobnog porekla ili od frakcija različitih masti ili ulja iz ove glave, osim jestivih masti ili ulja i njihovih frakcija iz tar, broja 1516:
+1517 10
+- Margarin, isključujući tečni margarin:
+1517 10 10 00
+- - sa sadržajem mlečnih masnoća preko 10% do 15% po masi
+6,00
+15,00
+1517 10 90 00
+- - ostalo
+3,00
+15,00
+☐
+1601 00
+Kobasičarski i slični proizvodi od mesa, ostalih klaničnih proizvoda ili krvi ili insekata. Složeni prehrambeni proizvodi na bazi tih proizvoda:
+1601 00 10 00
+- Od džigerice
+3,00
+40,00
+- Ostalo:
+★
+1601 00 91
+- - kobasičarski proizvodi, sušeni ili za mazanje, nekuvani:
+★
+1601 00 91 90
+- - - ostali
+4,50
+40,00
+☐
+1602
+Ostali prerađena ili konzervisani proizvodi od mesa, ostalih klaničnih proizvoda ili krvi ili insekata:
+★
+1602 10 00
+- Homogenizovani proizvodi:
+★
+1602 10 00 90
+- - ostali
+8,00
+40,00
+1602 20
+- Od džigerice bilo koje životinje:
+1602 20 10 00
+- - od guščije ili pačije džigerice
+0,00
+40,00
+1602 20 90 00
+- - ostalo
+0,00
+40,00
+- Od svinja:
+1602 41
+- - Butovi i komadi od njih:
+1602 41 10 00
+- - - od domaćih svinja
+8,00
+40,00
+1602 41 90 00
+- - - ostali
+8,00
+40,00
+1602 42
+- - Plećke i komadi od njih:
+1602 42 10 00
+- - - od domaćih svinja
+8,00
+40,00
+1602 42 90 00
+- - - ostali
+8,00
+40,00
+1602 49
+- - Ostalo, uključujući mešavine:
+- - - od domaćih svinja:
+- - - - koji po masi sadrži 80% ili više mesa ili ostalih klaničnih proizvoda, bilo koje vrste, uključujući masnoće bilo koje vrste ili porekla:
+1602 49 11 00
+- - - - - bubrežnjaci (bez vrata) i komadi od njih, uključujući mešavine leđa ili butova
+8,00
+40,00
+1602 49 13 00
+- - - - - vrat i komadi od vrata, uključujući mešavine vrata i plećki
+8,00
+40,00
+1602 49 15 00
+- - - - - ostale mešavine koje sadrže butove, plećke, bubrežnjake ili vratove i komade od njih
+8,00
+40,00
+1602 49 19 00
+- - - - - ostalo
+8,00
+40,00
+1602 49 30 00
+- - - - koji po masi sadrže od 40%, ali ne preko 80% mesa ili ostalih klaničnih proizvoda bilo koje vrste, uključujući masnoće bilo koje vrste ili porekla
+8,00
+40,00
+1602 49 50 00
+- - - - koji po masi sadrže manje od 40% mesa ili ostalih klaničnih proizvoda bilo koje vrste, uključujući masnoće bilo koje vrste ili porekla
+8,00
+40,00
+1602 49 90 00
+- - - ostalo
+8,00
+40,00
+1602 50
+- Od goveda:
+1602 50 10 00
+- - nekuvano; mešavine kuvanog mesa ili ostalih klaničnih proizvoda i nekuvanog mesa ili ostalih klaničnih proizvoda
+8,00
+40,00
+- - ostalo:
+1602 50 31 00
+- - - - konzervisana govedina (corned beef) u hermetički zatvorenom pakovanju
+8,00
+40,00
+1602 50 95 00
+- - - ostalo
+8,00
+40,00
+1602 90
+- Ostalo, uključujući prerađevine od krvi od bilo kojih životinja:
+1602 90 10 00
+- - prerađevine od krvi od bilo kojih životinja
+0,00
+40,00
+- - ostalo:
+1602 90 31 00
+- - - od divljači ili kunića
+0,00
+40,00
+- - - ostalo:
+1602 90 51 00
+- - - - koje sadrži meso ili ostale klanične proizvode od domaćih svinja
+0,00
+40,00
+- - - - ostalo:
+- - - - - koje sadrži goveđe meso ili ostale klanične proizvode od goveda:
+1602 90 61 00
+- - - - - - nekuvano; mešavine kuvanog mesa ili ostalih klaničnih proizvoda i nekuvanog mesa ili ostalih klaničnih proizvoda
+0,00
+40,00
+1602 90 69 00
+- - - - - - ostalo
+0,00
+40,00
+- - - - - ostalo:
+1602 90 91 00
+- - - - - - od ovaca
+0,00
+40,00
+1602 90 95 00
+- - - - - - od koza
+0,00
+40,00
+★
+1602 90 99
+- - - - - - ostalo:
+★
+1602 90 99 90
+- - - - - - - ostalo
+0,00
+40,00
+1701
+Šećer od šećerne trske ili šećerne repe i hemijski čista saharoza, u čvrstom stanju:
+- Sirovi šećer bez dodatih sredstava za aromatizaciju ili materija za bojenje:
+1701 12
+- - Šećer od šećerne repe:
+1701 12 10 00
+- - - za rafinisanje
+12,00
+16,00
+1701 12 90 00
+- - - ostali
+12,00
+16,00
+1701 13
+- - šećer od šećerne trske naveden u Napomeni za tarifni podbroj 2 uz ovu glavu:
+1701 13 10 00
+- - - za rafinisanje
+12,00
+16,00
+1701 13 90 00
+- - - ostali
+12,00
+16,00
+1701 14
+- - ostali šećer od šećerne trske:
+16,00
+1701 14 10 00
+- - - za rafinisanje
+12,00
+16,00
+1701 14 90 00
+- - - ostali
+12,00
+16,00
+- Ostalo:
+☐
+1701 99
+- - ostalo:
+1701 99 10 00
+- - - beli šećer
+12,00
+18,00
+☐
+1702
+Ostali šećeri, uključujući hemijski čistu laktozu, maltozu, glikozu i fruktozu u čvrstom stanju; šećerni sirupi bez sadržaja dodatih sredstava za aromatizaciju ili materija za bojenje; veštački med, pomešan ili nepomešan sa prirodnim medom; karamel:
+1702 90
+- Ostalo, uključujući invertni šećer i ostali šećer i mešavine šećernog sirupa koji u suvom stanju sadrže 50% fruktoze po masi:
+1702 90 95 00
+- - ostalo
+ex invertni šećer
+0,00
+15,00
+☐
+2103
+Sosovi i njihovi preparati; Mešani začini i mešana začinska sredstva; Brašno i griz od slačice i pripremljena slačica (senf):
+2103 90
+- Ostalo:
+2103 90 90
+- - ostalo:
+2103 90 90 90
+- - - ostalo
+0,00
+5,00
+2104
+Supe i čorbe i preparati za te proizvode; Homogenizovani složeni prehrambeni proizvodi:
+2104 10 00 00
+- Supe i čorbe i preparati za te proizvode
+0,00
+3,00
+2207
+Nedenaturisan etil-alkohol alkoholne jačine 80% vol., ili jači; Etil-alkohol i ostali alkoholi, denaturisani, bilo koje jačine:
+2207 10 00 00
+- Etil-alkohol alkoholne jačine 80%, vol. ili jači, nedenaturisani
+12,00
+30,00
+2207 20 00 00
+- Etil-alkohol i ostali alkoholi, bilo koje jačine, denaturisani
+12,00
+30,00
+2208
+Nedenaturisan etil-alkohol alkoholne jačine manje od 80% vol.; Rakije, likeri i ostala alkoholna pića:
+2208 30
+- Viski:
+- - bourbon viski, u sudovima:
+2208 30 11 00
+- - - ne preko 2 l
+0,00
+30,00
+2208 30 19 00
+- - - preko 2 l
+0,00
+30,00
+- - škotski viski:
+2208 30 30 00
+- - - viski od ječmenog slada, nemešani (single mal whisky)
+0,00
+30,00
+- - - viski od ječmenog slada, mešani (blended mal whisky), u sudovima:
+2208 30 41 00
+- - - - ne preko 2 l
+0,00
+30,00
+2208 30 49 00
+- - - - preko 2 l
+0,00
+30,00
+- - - viski od ječma i drugih žitarica, nemešani (single grain whisky) ili viski od ječma i drugih žitarica, mešani (blended grain whisky), u sudovima:
+2208 30 61 00
+- - - - ne preko 2 l
+0,00
+30,00
+2208 30 69 00
+- - - - preko 2 l
+0,00
+30,00
+- - - ostali viski, mešani (blended whisky), u sudovima
+2208 30 71 00
+- - - - ne preko 2 l
+0,00
+30,00
+2208 30 79 00
+- - - - preko 2 l
+0,00
+30,00
+- - ostali, u sudovima:
+2208 30 82 00
+- - - ne preko 2 l
+0,00
+30,00
+2208 30 88 00
+- - - preko 2 l
+0,00
+30,00
+2208 90
+- Ostalo:
+- - arak, u sudovima:
+2208 90 11 00
+- - - ne preko 2 l
+0,00
+30,00
+2208 90 19 00
+- - - preko 2 l
+0,00
+30,00
+- - rakije od šljive, kruške, trešnje ili višnje (isključujući likere), u sudovima:
+2208 90 33 00
+- - - ne preko 2 l
+9,00
+30,00
+2208 90 38 00
+- - - preko 2 l
+9,00
+30,00
+- - ostala alkoholna pića dobijena destilacijom i ostala alkoholna pića, u sudovima:
+- - - ne preko 2 l:
+2208 90 41 00
+- - - - ouzo
+0,00
+30,00
+- - - - ostala:
+- - - - - ostala alkoholna pića dobijena destilacijom (isključujući likere):
+- - - - - - dobijena destilacijom voća:
+2208 90 45 00
+- - - - - - - kalvados
+0,00
+30,00
+2208 90 48 00
+- - - - - - - ostala
+9,00
+30,00
+- - - - - - ostala:
+2208 90 54 00
+- - - - - - - tekila
+0,00
+30,00
+2208 90 56 00
+- - - - - - - ostala
+0,00
+30,00
+2208 90 69 00
+- - - - - ostala žestoka alkoholna pića
+0,00
+30,00
+- - - preko 2 l:
+- - - - ostala alkoholna pića dobijena destilacijom (isključujući likere):
+2208 90 71 00
+- - - - - dobijena destilacijom voća
+0,00
+30,00
+2208 90 75 00
+- - - - - tekila
+0,00
+30,00
+2208 90 77 00
+- - - - - ostala
+0,00
+30,00
+2208 90 78 00
+- - - - ostala alkoholna pića
+0,00
+30,00
+- - nedenaturisani etil-alkohol sa zapreminskom alkoholnom jačinom manjom od 80% vol., u sudovima:
+2208 90 91 00
+- - - ne preko 2 l
+6,00
+30,00
+2208 90 99 00
+- - - preko 2 l
+6,00
+30,00
+2401
+Duvan, sirov ili neprerađen: Otpaci od duvana:
+2401 10
+- Duvan, neižiljen:
+2401 10 35 00
+- - svetli duvan sušen na vazduhu (light air-cured)
+ex: tipa Berlej (uključujući Berlej hibride)
+15,00
+15,00
+2401 10 85 00
+- - duvan sušen u sušari (flue-cured)
+ex: tipa Virdžinija
+0,00
+5,00
+2401 20
+- Duvan, delimično ili potpuno ižiljen:
+2401 20 35 00
+- - svetli duvan sušen na vazduhu (light air-cured)
+ex: tipa Berlej (uključujući Berlej hibride), delimično ižiljen
+20,00
+20,00
+ex: tipa Berlej (uključujući Berlej hibride), potpuno ižiljen
+25,00
+25,00
+2401 20 85 00
+- - duvan sušen u sušari (flue-cured)
+ex: tipa Virdžinija, delimično ižiljen
+0,00
+7,00
+ex: tipa Virdžinija, potpuno ižiljen
+0,00
+10,00
+3. Izuzetno od tačke 2. ove odluke, posebna dažbina za uvoz robe iz tar. oznaka 0402 10 19 00, 0402 21 18 00 i 0405 10 19 00 za konditorsku industriju, iz tar. oznaka 0402 10 19 00 i 0402 21 18 00 za proizvodnju gotovih proizvoda pogodnih za bebe i malu decu iz tar. br. 1901 i 2104 i iz tar. oznaka 0402 10 19 00, 0402 21 18 00 i 0405 10 19 00, za proizvodnju sladoleda, kao i za robu iz tar. oznaka 0102 29 91 00 i 0103 91 10 00 koja se uvozi iz Evropske unije, posebna dažbina se ne plaća do 31. decembra 2025. godine.
+4. Izuzetno od tačke 2. ove odluke, posebna dažbina pri uvozu poljoprivrednih i prehrambenih proizvoda poreklom iz Evropske unije u okviru kvota sadržanih u Protokolu uz Sporazum o stabilizaciji i pridruživanju Evropske zajednice i njenih država članica, sa jedne strane i Republike Srbije sa druge strane, kojim se uzima u obzir pristupanje Republike Hrvatske Evropskoj uniji, kao i kvota sadržanih u Sporazumu o partnerstvu, trgovini i saradnji između Vlade Republike Srbije i Vlade Ujedinjenog Kraljevstva Velike Britanije i Severne Irske ne plaća se za:
+Tarifna oznaka
+Naimenovanje
+0103
+Svinje, žive:
+- Ostalo:
+0103 92
+- - mase 50 kg ili veće:
+- - - domaće vrste:
+0103 92 11 00
+- - - - koje su se najmanje jedanput prasile, mase 160 kg i veće
+0103 92 19 00
+- - - - ostale
+☐
+0301
+Riba, živa:
+☐
+- Ostala riba, živa:
+0301 93 00 00
+- - Šaran (
+Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)
+☐
+0402
+Mleko i pavlaka, koncentrovani ili sa sadržajem dodatog šećera ili drugih materija za zaslađivanje:
+0402 10
+- U prahu, granulama ili drugim čvrstim oblicima, sa sadržajem masnoće ne preko 1,5% po masi:
+☐
+- - bez sadržaja dodatog šećera ili druge materije za zaslađivanje
+0402 10 11 00
+- - - u pakovanjima neto-mase ne preko 2,5 kg
+0402 10 19 00
+- - - ostalo
+- - ostalo:
+0402 10 99 00
+- - - ostalo
+- U prahu, granulama ili drugim čvrstim oblicima, sa sadržajem masnoće preko 1,5% po masi:
+☐
+0402 21
+- - Bez sadržaja dodatog šećera ili druge materije za zaslađivanje:
+- - - sa sadržajem masnoće ne preko 27% po masi:
+0402 21 11 00
+- - - - u pakovanjima neto-mase ne preko 2,5 kg
+0402 21 18 00
+- - - - ostalo
+ex sa sadržajem masnoće ne preko 11% po masi
+ex sa sadržajem masnoće preko 11%, ali ne preko 27% po masi
+☐
+0403
+Jogurt; Mlaćenica, kiselo mleko i kisela pavlaka, kefir i ostalo fermentisano ili zakiseljeno mleko i pavlaka, koncentrovani ili nekoncentrovani, sa sadržajem dodatog šećera ili druge materije za zaslađivanje ili bez sadržaja dodatog šećera ili druge materije za zaslađivanje aromatizovani ili nearomatizovani, sa sadržajem dodatog voća, jezgrastog voća ili kakaoa ili bez sadržaja dodatog voća, jezgrastog voća ili kakaoa:
+☐
+0403 20
+- Jogurt:
+☐
+- - nearomatizovan, bez dodatka voća, uključujući jezgrasto voće ili kakaa:
+☐
+- - - bez dodatog šećera ili druge materije za zaslađivanje, sa sadržajem masnoće po masi:
+☐
+0403 20 11 00
+- - - - ne preko 3%
+☐
+0403 20 13 00
+- - - - preko 3%, ali ne preko 6%
+0406 00
+Sir i urda:
+- Svež (nezreo) sir, uključujući sir od surutke i urda:
+- - sa sadržajem masnoće ne preko 40% po masi
+0406 10 30 00
+- - - Mozzarela, bez obzira da li je tečna
+0406 10 50 00
+- - - ostali
+0406 10 80 00
+- - ostali
+0406 30
+- Sir topljen, osim rendanog ili u prahu:
+0406 30 10 00
+- - za čiju proizvodnju se upotrebljavaju samo sirevi Emmentaler, Gruiyere i Appenzell i koji može, kao dodatak, sadržati Glarus sir sa začinskim biljem (poznat kao Schabziger); pripremljen za prodaju na malo, sa sadržajem masnoće u
+0406 30 31 00
+- - - - ne preko 48%
+0406 30 39 00
+- - - - preko 48%
+0406 30 90 00
+- - - sa sadržajem masnoće preko 36% po masi
+0406 90
+- Sir ostali:
+- - ostali:
+0406 90 13 00
+- - - Emmentaler
+0406 90 15 00
+- - - Gruyere, Sbrinz
+0406 90 17 00
+- - - Bergkase, Appenzell
+0406 90 18 00
+- - - Fromage friburgeois, Vacherin Mont d’Or i Tete de Moine
+0406 90 21 00
+- - - Cheddar
+0406 90 23 00
+- - - Edam
+0406 90 25 00
+- - - Tilsit
+0406 90 29 00
+- - - kačkavalj (Kashkaval)
+0406 90 32 00
+- - - Feta
+0406 90 37 00
+- - - Finlandia
+0406 90 39 00
+- - - Jarlsberg
+0406 90 50 00
+- - - - sir od ovčjeg mleka ili mleka od bufala u kontejnerima sa salamurom ili u ovčjim ili kozjim mešinama
+0406 90 61 00
+- - - - - - - Grana Padano, Parmigiano Reggiano
+0406 90 63 00
+- - - - - - - Fiore Sardo, Pecorino
+0406 90 69 00
+- - - - - - - ostali
+0406 90 73 00
+- - - - - - - Provolone
+0406 90 74 00
+- - - - - - - Maasdam
+0406 90 75 00
+- - - - - - - Asiago, Caciocavallo, Montasio, Ragusano
+0406 90 76 00
+- - - - - - - Danbo, Fontal, Fontina, Fynbo, Havarti, Maribo, Samso
+0406 90 78 00
+- - - - - - - Gouda
+0406 90 79 00
+- - - - - - - Esrom, Italico, Kernhem, Saint-Nectaire, Saint-Paulin, Taleggio
+0406 90 81 00
+- - - - - - - Cantal, Cheshire, Wensleydale, Lancashire, Double Gloucester, Blarney, Colby, Monterey
+0406 90 82 00
+- - - - - - - Camembert
+0406 90 84 00
+- - - - - - - Brie
+0406 90 86 00
+- - - - - - - - preko 47%, ali ne preko 52%
+0406 90 89 00
+- - - - - - - - preko 52%, ali ne preko 62%
+ex Glarus sir sa začinskim biljem (poznat kao Schabziger) proizveden od obranog mleka i pomešan sa sitno mlevenim začinskim biljem
+ex ostali
+0406 90 92 00
+- - - - - - preko 62%, ali ne preko 72%
+ex Butterkäse
+ex ostali
+0406 90 93 00
+- - - - - - preko 72%
+0406 90 99 00
+- - - - - ostali
+0710
+Povrće (nekuvano ili kuvano u vodi ili na pari), smrznuto:
+- Mahunasto povrće u zrnu ili mahunama:
+0710 21 00 00
+- - Grašak (
+Pisum sativum
+)
+☐
+1602
+Ostali prerađeni ili konzervisani proizvodi od mesa, ostalih klaničnih proizvoda, krvi ili insekata:
+★
+1602 10 00
+- Homogenizovani proizvodi:
+★
+1602 10 00 90
+- - ostali
+- Od svinja:
+1602 41
+- - Butovi i komadi od njih:
+1602 41 10 00
+- - - od domaćih svinja
+1602 41 90 00
+- - - ostali
+1602 42
+- - Plećke i komadi od njih:
+1602 42 10 00
+- - - od domaćih svinja
+1602 42 90 00
+- - - ostali
+1602 49
+- - Ostalo, uključujući mešavine:
+- - - od domaćih svinja:
+- - - - koji po masi sadrži 80% ili više mesa ili ostalih klaničnih proizvoda, bilo koje vrste, uključujući masnoće bilo koje vrste ili porekla:
+1602 49 11 00
+- - - - - leđa (bez vrata) i odresci od njih, uključujući mešavine leđa ili šunki (butova)
+1602 49 13 00
+- - - - - vrat i komadi od vrata, uključujući mešavine vrata i plećki
+1602 49 15 00
+- - - - - ostale mešavine koje sadrže butove (noge), plećke, leđa ili vrat i odreske od njih
+1602 49 19 00
+- - - - - ostalo
+1602 49 30 00
+- - - - koji po masi sadrže od 40%, ali ne preko 80% mesa ili ostalih klaničnih proizvoda bilo koje vrste, uključujući masnoće bilo koje vrste ili porekla
+1602 49 50 00
+- - - - koji po masi sadrže manje od 40% mesa ili ostalih klaničnih proizvoda bilo koje vrste, uključujući masnoće bilo koje vrste ili porekla
+1602 49 90 00
+- - - ostalo
+1602 50
+- Od goveda:
+1602 50 10 00
+- - nekuvano; mešavine kuvanog mesa ili ostalih klaničnih proizvoda i nekuvanog mesa ili ostalih klaničnih proizvoda
+1602 50 31 00
+- - - konzervisana govedina (corned beef) u hermetički zatvorenom pakovanju:
+1602 50 95 00
+- - - ostalo
+1701
+Šećer od šećerne trske ili šećerne repe i hemijski čista saharoza, u čvrstom stanju:
+- Sirovi šećer bez dodatih sredstava za aromatizaciju ili materija za bojenje:
+1701 12
+- - šećer od šećerne repe:
+1701 12 90 00
+- - - ostali
+1701 14
+- - ostali šećer od šećerne trske:
+1701 14 90 00
+- - - ostali
+- Ostalo:
+1701 99
+- - ostalo:
+1701 99 10 00
+- - - beli šećer
+2207
+Nedenaturisan etil-alkohol alkoholne jačine 80% vol., ili jači; Etil-alkohol i ostali alkoholi, denaturisani, bilo koje jačine:
+2207 10 00 00
+- Etil-alkohol alkoholne jačine 80% vol ili jači, nedenaturisani
+2401
+Duvan, sirov ili neprerađen; Otpaci od duvana:
+2401 10
+- Duvan, neižiljen:
+2401 10 35 00
+- - svetli duvan sušen na vazduhu (light air - cured)
+ex: tipa Berlej (uključujući Berlej hibride)
+2401 20
+- Duvan, delimično ili potpuno ižiljen:
+2401 20 35 00
+- - svetli duvan sušen na vazduhu (light air - cured)
+ex: tipa Berlej (uključujući Berlej hibride), delimično ižiljen
+ex: tipa Berlej (uključujući Berlej hibride), potpuno ižiljen
+5. Posebnu dažbinu iz tačke 1. ove odluke plaćaju privredna društva i preduzetnici pri uvozu poljoprivrednih i prehrambenih proizvoda.
+6. Posebna dažbina pri uvozu poljoprivrednih i prehrambenih proizvoda naplaćuje se prilikom carinjenja robe, u skladu sa propisima koji važe za naplaćivanje carine.
+7. Posebna dažbina pri uvozu poljoprivrednih i prehrambenih proizvoda poreklom iz zemalja sa kojima Republika Srbija ima zaključene sporazume o slobodnoj trgovini naplaćuje se u skladu sa odredbama tih sporazuma.
+8. Privredna društva i preduzetnici pri uvozu poljoprivrednih i prehrambenih proizvoda iz tač. 2, 3, 4. i 7. ove odluke poreklom iz zemalja članica Evropske unije i zemalja sa kojima Republika Srbija ima zaključene sporazume o slobodnoj trgovini, nadležnoj carinarnici podnose uverenje o preferencijalnom poreklu robe.
+9. Za robu iz tačke 3. ove odluke namenjenu potrebama konditorske industrije, proizvodnje sladoleda, odnosno proizvodnje gotovih proizvoda pogodnih za bebe i malu decu iz tar. br. 1901 i 2104, uvoznik podnosi carinskom organu i izjavu da se roba uvozi za potrebe konditorske industrije, proizvodnje sladoleda, odnosno proizvodnje gotovih proizvoda pogodnih za bebe i malu decu iz tar. br. 1901 i 2104.
+10. Posebna dažbina iz tač. 2, 3, 4. i 7. ove odluke plaća se pri uvozu proizvoda iz tarifne oznake 1702 90 95 00 Carinske tarife najkasnije do prijema Republike Srbije u Svetsku trgovinsku organizaciju.
+11. Sredstva ostvarena naplatom posebne dažbine pri uvozu poljoprivrednih i prehrambenih proizvoda uplaćuju se u budžet Republike Srbije.
+12. Danom početka primene ove odluke prestaje da važi Odluka o određivanju poljoprivrednih i prehrambenih proizvoda za koje se plaća posebna dažbina pri uvozu i utvrđivanju iznosa posebne dažbine ("Službeni glasnik RS", br. 108/16, 78/17, 119/17, 42/18, 104/18, 94/19, 102/20 i 159/20), kao i Odluka o oslobađanju od plaćanja posebne dažbine pri uvozu vina i cigareta namenjenih prodaji u posebnim carinskim prodavnicama ("Službeni list SFRJ", broj 72/91).
+13. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", a primenjuje se od 1. januara 2022. godine.
+Samostalna odredba Odluke o dopuni
+Odluke o određivanju poljoprivrednih i prehrambenih proizvoda za koje se plaća posebna dažbina pri uvozu i utvrđivanju iznosa posebne dažbine
+("Sl. glasnik RS", br. 4/2022)
+2. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Samostalna odredba Odluke o izmeni
+Odluke o određivanju poljoprivrednih i prehrambenih proizvoda za koje se plaća posebna dažbina pri uvozu i utvrđivanju iznosa posebne dažbine
+("Sl. glasnik RS", br. 141/2022)
+2. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", a primenjuje se od 1. januara 2023. godine.
+Samostalna odredba Odluke o izmeni
+Odluke o određivanju poljoprivrednih i prehrambenih proizvoda za koje se plaća posebna dažbina pri uvozu i utvrđivanju iznosa posebne dažbine
+("Sl. glasnik RS", br. 14/2023)
+2. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", a primenjuje se do 30. juna 2023. godine.
+Samostalna odredba Odluke o izmeni
+Odluke o određivanju poljoprivrednih i prehrambenih proizvoda za koje se plaća posebna dažbina pri uvozu i utvrđivanju iznosa posebne dažbine
+("Sl. glasnik RS", br. 42/2023)
+2. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", a primenjuje se do 31. avgusta 2023. godine.
+Samostalna odredba Odluke o izmeni
+Odluke o određivanju poljoprivrednih i prehrambenih proizvoda za koje se plaća posebna dažbina pri uvozu i utvrđivanju iznosa posebne dažbine
+("Sl. glasnik RS", br. 60/2023)
+2. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", a primenjuje se do 31. oktobra 2023. godine.
+Samostalna odredba Odluke o izmeni
+Odluke o određivanju poljoprivrednih i prehrambenih proizvoda za koje se plaća posebna dažbina pri uvozu i utvrđivanju iznosa posebne dažbine
+("Sl. glasnik RS", br. 71/2023)
+2. Ova odluka stupa na snagu 1. septembra 2023. godine, osim tarifne oznake 0404 10 02 00 i tarifne oznake 0406 30 31 00 koje stupaju na snagu narednog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", a primenjuje se do 31. oktobra 2023. godine.
+Samostalna odredba Odluke o izmeni
+Odluke o određivanju poljoprivrednih i prehrambenih proizvoda za koje se plaća posebna dažbina pri uvozu i utvrđivanju iznosa posebne dažbine
+("Sl. glasnik RS", br. 112/2023)
+2. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", a primenjuje se od 1. januara 2024. godine.
+Samostalna odredba Odluke o izmenama
+Odluke o određivanju poljoprivrednih i prehrambenih proizvoda za koje se plaća posebna dažbina pri uvozu i utvrđivanju iznosa posebne dažbine
+("Sl. glasnik RS", br. 106/2024)
+4. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", a primenjuje se od 1. januara 2025. godine.

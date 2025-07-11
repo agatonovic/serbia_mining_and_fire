@@ -1,0 +1,2820 @@
+Title: PRAVILNIKO KONTNOM OKVIRU I SADRŽINI RAČUNA U KONTNOM OKVIRU ZA PRIVREDNA DRUŠTVA, ZADRUGE I PREDUZETNIKE
+URL: https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html
+Extracted: 2025-07-06T23:10:17.506458
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+﻿
+PRAVILNIK
+O KONTNOM OKVIRU I SADRŽINI RAČUNA U KONTNOM OKVIRU ZA PRIVREDNA DRUŠTVA, ZADRUGE I PREDUZETNIKE
+("Sl. glasnik RS", br. 89/2020)
+I OSNOVNE ODREDBE
+Član 1
+Ovim pravilnikom propisuje se Kontni okvir i sadržina
+računa u Kontnom okviru za privredna društva, zadruge i preduzetnike
+koji, u skladu sa Zakonom o računovodstvu ("Službeni glasnik RS", broj
+73/19 - u daljem tekstu: Zakon), poslovne knjige vode po sistemu
+dvojnog knjigovodstva (u daljem tekstu: pravna lica i preduzetnici).
+Kontni okvir za privredna društva, zadruge i
+preduzetnike (u daljem tekstu: Kontni okvir) odštampan je uz ovaj
+pravilnik i čini njegov sastavni deo.
+Odredbe ovog pravilnika odnose se na sva pravna lica,
+osim na Narodnu banku Srbije, banke, društva za osiguranje, davaoce
+finansijskog lizinga, dobrovoljne penzijske fondove i društva za
+upravljanje dobrovoljnim penzijskim fondovima, investicione fondove i
+društva za upravljanje investicionim fondovima, Centralni registar,
+depo i kliring hartija od vrednosti, berze i brokersko-dilerska
+društva, kao i druga pravna lica definisana Zakonom.
+Odredbe ovog pravilnika odnose se na institucije
+elektronskog novca, platne institucije, društva za posredovanje u
+osiguranju, društva za zastupanje u osiguranju i
+preduzetnike-zastupnike u osiguranju.
+Odredbe ovog pravilnika odnose se i na:
+1) druga pravna lica koja primenjuju Međunarodne
+standarde finansijskog izveštavanja (MSFI), odnosno Međunarodni
+standard finansijskog izveštavanja za mala i srednja pravna lica (MSFI
+za MSP);
+2) pravna lica i preduzetnike u postupku stečaja ili likvidacije (osim pravnih lica navedenih u stavu 3. ovog člana);
+3) ogranke i druge organizacione delove pravnih lica
+sa sedištem u inostranstvu, koji obavljaju privrednu delatnost u
+Republici Srbiji, ako posebnim propisima nije drukčije uređeno; i
+4) stečajne mase stečajnih dužnika nad kojima je
+obustavljen, odnosno zaključen postupak stečaja, osim ako nisu u
+pitanju stečajne mase banaka, društava za osiguranje, davaoca
+finansijskog lizinga, penzijskih fondova i društava za upravljanje
+dobrovoljnim penzijskim fondovima, investicionih fondova i društava za
+upravljanje investicionim fondovima, berzi i brokersko-dilerskih
+društava, kao i drugih pravnih lica definisanih Zakonom.
+Član 2
+Pravna lica i preduzetnici iskazuju stanje i promene
+imovine, kapitala i obaveza, rashode i prihode i utvrđuju rezultate
+poslovanja prema sadržini pojedinih računa u Kontnom okviru.
+Član 3
+Stanje i promene imovine, kapitala i obaveza, prihodi
+i rashodi i utvrđivanje rezultata poslovanja evidentiraju se na
+osnovnim (trocifrenim) računima propisanim u Kontnom okviru, u skladu
+sa regulativom koju pravno lice, odnosno preduzetnik primenjuje za
+priznavanje, vrednovanje, prezentaciju i obelodanjivanje pozicija u
+finansijskim izveštajima (MSFI, MSFI za MSP ili podzakonski akt kojim
+se uređuje način priznavanja, vrednovanja, prezentacije i
+obelodanjivanja pozicija u pojedinačnim finansijskim izveštajima mikro
+i drugih pravnih lica) i usvojenim računovodstvenim politikama.
+Propisani osnovni (trocifreni) računi mogu se u
+skladu sa odredbama ovog pravilnika i potrebama obveznika primene ovog
+pravilnika dalje raščlanjavati.
+II SADRŽINA RAČUNA
+Klasa 0: Upisani a neuplaćeni kapital i stalna imovina
+Član 4
+Na računima grupe 00 - Upisani a neuplaćeni kapital,
+iskazuju se iznosi upisanih a neuplaćenih akcija i upisanih a
+neuplaćenih udela i uloga prema nazivima računa ove grupe.
+Kursne razlike po osnovu preračuna upisanog a
+neuplaćenog kapitala u stranoj valuti knjiže se zaduženjem računa grupe
+00 a u korist računa grupe 31 - Upisani a neuplaćeni kapital.
+U slučaju da je kursna razlika negativna, knjiženje se vrši odobrenjem računa grupe 00, a na teret računa grupe 31.
+Na računu 000 - Upisane a neuplaćene akcije, iskazuju
+se iznosi upisanih a neuplaćenih akcija u nominalnom iznosu, odnosno u
+dinarskoj protivvrednosti strane valute na dan upisa.
+Uplata upisanih akcija knjiži se na teret računa 241
+- Tekući (poslovni) računi u korist računa 000 za nominalnu vrednost
+upisanih akcija, uz istovremeno knjiženje na teret računa 310 - Upisane
+a neuplaćene akcije i u korist računa 300 - Akcijski kapital.
+Na računu 001 - Upisani a neuplaćeni udeli i ulozi,
+iskazuju se iznosi upisanih a neuplaćenih udela i uloga u nominalnom
+iznosu, odnosno u dinarskoj protivvrednosti strane valute na dan upisa.
+Uplata upisanih udela i uloga knjiži se na teret
+računa 241 - Tekući (poslovni) računi u korist računa 001 - Upisani a
+neuplaćeni udeli i ulozi, za nominalnu vrednost upisanih udela, odnosno
+uloga uz istovremeno knjiženje na teret računa 311 - Upisani a
+neuplaćeni udeli i ulozi i u korist računa 301 - Udeli društava s
+ograničenom odgovornošću, odnosno računa 302 - Ulozi.
+Član 5
+Na računima grupe 01 - Nematerijalna imovina,
+iskazuju se ulaganja u određena nemonetarna sredstva bez fizičkog
+sadržaja, koja služe za proizvodnju ili isporuku robe ili usluga, za
+iznajmljivanje ili se koriste u administrativne svrhe.
+Na računu 010 - Ulaganja u razvoj, iskazuju se ulaganja u razvoj čiji se efekti očekuju u periodu dužem od jedne godine.
+Na računu 011 - Koncesije, patenti, licence, robne i
+uslužne marke, iskazuju se ulaganja u nematerijalna prava koja se
+priznaju u skladu sa računovodstvenom politikom.
+Na računu 012 - Softver i ostala prava, iskazuje se
+softver koji je kupljen odvojeno od računara na osnovu licencnog
+ugovora na osnovu kojeg se može koristiti u periodu dužem od godinu
+dana (uključujući i pravo na neograničeno korišćenje) i druga prava u
+skladu sa računovodstvenom politikom.
+Na računu 013 - Gudvil, iskazuje se višak prenete
+naknade u odnosu na učešće sticaoca u fer vrednosti stečenih
+identifikovanih sredstava i obaveza na datum transakcije razmene po
+osnovu poslovnih kombinacija, u skladu sa računovodstvenom politikom.
+Na računu 014 - Ostala nematerijalna imovina,
+iskazuju se ulaganja u ostalu nematerijalnu imovinu koja se priznaje u
+skladu sa računovodstvenom politikom.
+Na računu 015 - Nematerijalna imovina uzeta u lizing,
+iskazuje se nematerijalna imovina sa pravom korišćenja preko godinu
+dana koja ispunjava uslove da se prizna kao imovina u skladu sa MSFI
+16.
+Na računu 016 - Nematerijalna imovina u pripremi,
+iskazuju se svi oblici nematerijalne imovine koji se priznaju u skladu
+sa računovodstvenom politikom od dana ulaganja do dana njihovog
+aktiviranja na nekom od računa grupe 01.
+Na računu 017 - Avansi za nematerijalnu imovinu, iskazuju se dati avansi za sticanje svih oblika nematerijalne imovine.
+Na posebnom računu, odnosno računima otvorenim u
+okviru odgovarajućeg trocifrenog računa ove grupe, iskazuje se ispravka
+vrednosti po osnovu obračunate amortizacije i eventualnog obezvređenja
+nematerijalne imovine.
+Gubitak po osnovu obezvređenja nematerijalne imovine
+knjiži se vrednosnim usklađivanjem otvorenih računa nabavne vrednosti i
+ispravke vrednosti, a na teret računa 581 - Rashodi od usklađivanja
+vrednosti nematerijalne imovine, odnosno na teret raspoloživih
+revalorizacionih rezervi na računu 330 - Revalorizacione rezerve po
+osnovu revalorizacije nematerijalne imovine, nekretnina, postrojenja i
+opreme, ako su prethodno formirane za konkretno nematerijalno ulaganje.
+Dobitak po osnovu usklađivanja vrednosti
+nematerijalne imovine knjiži se vrednosnim usklađivanjem otvorenih
+računa nabavne vrednosti i ispravke vrednosti, u korist računa 330 -
+Revalorizacione rezerve po osnovu revalorizacije nematerijalne imovine,
+nekretnina, postrojenja i opreme ili u korist računa 681 - Prihodi od
+usklađivanja vrednosti nematerijalne imovine do visine rashoda koji su
+u prethodnom/im periodu/ima proknjiženi na teret računa 581 - Rashodi
+od usklađivanja vrednosti nematerijalne imovine.
+Član 6
+Na računima grupe 02 - Nekretnine, postrojenja i
+oprema, iskazuju se zemljište, građevinski objekti, investicione
+nekretnine, postrojenja i oprema, alat i inventar sa kalkulativnim
+otpisom i ostale nekretnine, postrojenja i oprema, uključujući stanove,
+stambene zgrade i odmarališta koji ispunjavaju uslov za priznavanje u
+skladu sa računovodstvenom politikom, kao i ulaganja za pribavljanje
+nekretnina, postrojenja i opreme.
+Na računu 020 - Poljoprivredno i ostalo zemljište,
+iskazuju se poljoprivredno i ostalo zemljište, u skladu sa
+računovodstvenom politikom.
+Na računu 021 - Građevinsko zemljište, iskazuje se građevinsko zemljište, u skladu sa računovodstvenom politikom.
+Na računu 022 - Građevinski objekti, iskazuju se građevinski objekti, u skladu sa računovodstvenom politikom.
+Na računu 023 - Postrojenja i oprema, iskazuju se postrojenja i oprema, u skladu sa računovodstvenom politikom.
+Na računu 024 - Investicione nekretnine, iskazuju se investicione nekretnine, u skladu sa računovodstvenom politikom.
+Na računu 025 - Nekretnine, postrojenja i oprema
+uzeti u lizing sa pravom korišćenja preko godinu dana, iskazuju se kod
+korisnika zakupa nekretnine, postrojenja i oprema koji su uzeti u zakup
+ili lizing koji ispunjavaju uslove da se priznaju kao imovina u skladu
+sa MSFI 16.
+Na računu 026 - Ostale nekretnine, postrojenja i
+oprema, iskazuju se vrednosti onih sredstava koja nisu iskazana na
+drugim računima ove grupe, kao što su: spomenici kulture i istorijski
+spomenici, dela likovne, vajarske, filmske i druge umetnosti, muzejske
+vrednosti, knjige u bibliotekama i druga osnovna sredstva.
+Na računu 027 - Nekretnine, postrojenja i oprema u
+pripremi, iskazuju se ulaganja u ove oblike sredstava od dana ulaganja
+do dana njihovog aktiviranja na nekom od računa grupe 02.
+Na račun 028 - Ulaganja na tuđim nekretninama,
+postrojenjima i opremi, iskazuju se ulaganja koja se vrše na tuđim
+sredstvima radi obavljanja delatnosti.
+Na računu 029 - Avansi za nekretnine, postrojenja i opremu, iskazuju se dati avansi za sticanje ovih oblika sredstava.
+Na posebnom računu, odnosno računima otvorenim u
+okviru odgovarajućeg trocifrenog računa ove grupe, iskazuje se ispravka
+vrednosti po osnovu obračunate amortizacije i eventualnog obezvređenja
+nekretnina, postrojenja i opreme.
+Gubitak po osnovu obezvređenja nekretnina,
+postrojenja i opreme knjiži se vrednosnim usklađivanjem otvorenih
+računa nabavne vrednosti i ispravke vrednosti, a na teret računa računa
+582 - Rashodi od usklađivanja vrednosti nekretnina, postrojenja i
+opreme, odnosno na teret raspoloživih revalorizacionih rezervi na
+računu 330 - Revalorizacione rezerve po osnovu revalorizacije
+nematerijalne imovine, nekretnina, postrojenja i opreme, ako su
+prethodno formirane za konkretno sredstvo.
+Dobitak po osnovu usklađivanja vrednosti nekretnina,
+postrojenja i opreme knjiži se, vrednosnim usklađivanjem otvorenih
+računa nabavne vrednosti i ispravke vrednosti, u korist računa 330 -
+Revalorizacione rezerve po osnovu revalorizacije nematerijalne imovine,
+nekretnina, postrojenja i opreme ili u korist računa 682 - Prihodi od
+usklađivanja vrednosti, nekretnina, postrojenja i opreme do visine
+rashoda koji su u prethodnom/im periodu/ima proknjiženi na teret računa
+582 - Rashodi od usklađivanja vrednosti nekretnina, postrojenja i
+opreme.
+Član 7
+Na računima grupe 03 - Biološka sredstva, iskazuju se
+šume, višegodišnji zasadi, osnovno stado, biološka sredstva u pripremi
+i ostala biološka sredstva u skladu sa računovodstvenom politikom.
+Na računu 030 - Šume, iskazuje se vrednost drvne mase u šumama u skladu sa računovodstvenom politikom.
+Na računu 031 - Plodonosni višegodišnji zasadi,
+iskazuju se voćnjaci, vinogradi, hmeljnjaci i ostali višegodišnji
+zasadi koji se drže radi davanja prinosa, proizvodnje poljoprivrednih
+proizvoda, odnosno ubiranja plodova u periodu dužem od godinu dana.
+Na računu 032 - Ostali višegodišnji zasadi, iskazuje
+se drveće i višegodišnje žbunje koje se ne drži primarno radi davanja
+prinosa, odnosno proizvodnje poljoprivrednih proizvoda u smislu
+ubiranja plodova.
+Na računu 033 - Osnovno stado, iskazuju se biološka
+sredstva, koja saglasno računovodstvenoj politici predstavljaju
+životinje koje se koriste kao radna i priplodna stoka.
+Na računu 037 - Biološka sredstva u pripremi,
+iskazuju se ulaganja u ove oblike sredstava izvršena od dana ulaganja
+do dana njihovog aktiviranja na nekom od računa grupe 03.
+Na računu 038 - Avansi za biološka sredstva, iskazuju se dati avansi za sticanje ovih oblika sredstava.
+Na posebnom računu, odnosno računima otvorenim u
+okviru odgovarajućeg trocifrenog računa ove grupe, iskazuje se ispravka
+vrednosti po osnovu obračunate amortizacije i eventualnog obezvređenja
+bioloških sredstava.
+Gubitak po osnovu obezvređenja bioloških sredstava
+knjiži se na teret računa 580 - Rashodi od usklađivanja vrednosti
+bioloških sredstava, a dobitak u korist računa 680 - Prihodi od
+usklađivanja vrednosti bioloških sredstava.
+Član 8
+Na računima grupe 04 - Dugoročni finansijski
+plasmani, iskazuju se učešća u kapitalu i druge hartije od vrednosti
+koje se vrednuju po fer vrednosti kroz ostali ukupan rezultat, krediti
+i zajmovi sa rokom dospeća preko godinu dana od dana njihovog nastanka,
+odnosno od datuma bilansa, dugoročne hartije od vrednosti koje se drže
+do dospeća, otkupljene sopstvene akcije i ostali dugoročni plasmani.
+Na računima ove grupe iskazuju se i pripisane kamate
+po dugoročnim finansijskim plasmanima (interkalarne kamate, odnosno
+kamate u toku grejs perioda).
+Na računu 040 - Učešća u kapitalu zavisnih pravnih
+lica, iskazuju se akcije i udeli u kapitalu pravnih lica nad čijim
+poslovanjem postoji kontrola u smislu Zakona.
+Na računu 041 - Učešća u kapitalu pridruženih pravnih
+lica i zajedničkim poduhvatima, iskazuju se učešća u kapitalu pravnih
+lica na čije poslovanje postoji značajan uticaj i učešće u zajedničkim
+aranžmanima dva ili više lica, u skladu sa računovodstvenom politikom.
+Na računu 042 - Učešća u kapitalu ostalih pravnih
+lica i dugoročne hartije od vrednosti koje se vrednuju po fer vrednosti
+kroz ostali ukupni rezultat, iskazuju se akcije i udeli u kapitalu
+drugih pravnih lica nad čijim poslovanjem ne postoji kontrola, niti
+značajan uticaj i druge dugoročne hartije od vrednosti koje se vrednuju
+po fer vrednosti kroz ostali ukupan rezultat.
+Na računu 043 - Dugoročni plasmani matičnom, zavisnim
+i ostalim povezanim licima u zemlji, iskazuju se dugoročni krediti i
+zajmovi povezanim pravnim licima u zemlji prema nazivu ovog računa.
+Na računu 044 - Dugoročni plasmani matičnom, zavisnim
+i ostalim povezanim licima u inostranstvu, iskazuju se dugoročni
+krediti i zajmovi dati pravnim licima u inostranstvu prema nazivu ovog
+računa.
+Na računu 045 - Dugoročni plasmani u zemlji i
+inostranstvu, iskazuju se dugoročni krediti i zajmovi dati pravnim
+licima u zemlji i inostranstvu.
+Na računu 046 - Hartije od vrednosti koje se vrednuju
+po amortizovanoj vrednosti, iskazuju se finansijska sredstva sa fiksnim
+ili odredivim iznosima plaćanja i sa fiksnom dospelošću, za koje pravno
+lice i preduzetnik imaju verovatnu nameru i sposobnost da ih drže do
+dospeća (obveznice i sl.).
+Na računu 047 - Otkupljene sopstvene akcije i
+otkupljeni sopstveni udeli, iskazuju se otkupljene sopstvene akcije i
+otkupljeni sopstveni udeli u nominalnoj vrednosti, koje je pravno lice
+dužno da otuđi u roku dužem od godinu dana od dana sticanja.
+Na računu 048 - Ostali dugoročni finansijski
+plasmani, iskazuju se ostala dugoročna ulaganja koja nisu iskazana na
+ostalim računima u okviru grupe 04.
+Na posebnom računu, odnosno računima otvorenim u
+okviru odgovarajućeg trocifrenog računa ove grupe, iskazuje se ispravka
+vrednosti dugoročnih finansijskih plasmana utvrđena po osnovu
+obezvređenja, u skladu sa računovodstvenom politikom.
+Gubitak po osnovu obezvređenja dugoročnih
+finansijskih plasmana knjiži se na teret računa 583 - Rashodi od
+usklađivanja vrednosti dugoročnih finansijskih plasmana i drugih
+hartija od vrednosti koje se vrednuju po fer vrednosti kroz ostali
+ukupan rezultat, a dobitak u korist računa 683 - Prihodi od
+usklađivanja vrednosti dugoročnih finansijskih plasmana i hartija od
+vrednosti koje se vrednuju po fer vrednosti kroz ostali ukupan
+rezultat.
+Član 9
+Na računima grupe 05 - Dugoročna potraživanja,
+iskazuju se potraživanja sa rokom dospelosti dužim od 12 meseci posle
+izveštajnog perioda u skladu sa računovodstvenom politikom.
+Na računu 050 - Potraživanja od matičnog i zavisnih
+pravnih lica, iskazuju se potraživanja iz odnosa sa povezanim licima
+koja čine grupu pravnih lica u smislu Zakona.
+Na računu 051 - Potraživanja od ostalih povezanih
+lica, iskazuju se potraživanja iz odnosa sa ostalim povezanim licima na
+čije poslovanje postoji značajan uticaj i učešće u zajedničkim
+poslovima dva ili više lica u skladu sa računovodstvenom politikom.
+Na računu 052 - Potraživanja po osnovu prodaje na
+robni kredit, iskazuju se potraživanja po osnovu prodaje na robni
+kredit sa odloženim plaćanjem dužim od 12 meseci posle izveštajnog
+perioda.
+Na računu 053 - Potraživanja za prodaju po ugovorima
+o finansijskom lizingu, iskazuju se potraživanja po osnovu prodaje
+pokretnih i nepokretnih stvari po ugovoru o finansijskom lizingu u
+skladu sa računovodstvenom politikom.
+Na računu 054 - Potraživanja po osnovu jemstva,
+iskazuju se potraživanja na ime plaćenog jemstva sa rokom dospelosti
+dužim od 12 meseci posle izveštajnog perioda.
+Na računu 055 - Sporna i sumnjiva potraživanja,
+iskazuju se potraživanja u sudskom sporu i sumnjiva potraživanja sa
+procenjenim rokom naplate dužim od 12 meseci posle izveštajnog perioda.
+Na računu 056 - Ostala dugoročna potraživanja,
+iskazuju se druga potraživanja sa rokom naplate dužim od 12 meseci
+posle izveštajnog perioda.
+Na posebnom računu, odnosno računima otvorenim u
+okviru odgovarajućeg trocifrenog računa ove grupe, iskazuje se ispravka
+vrednosti dugoročnih potraživanja utvrđena po osnovu obezvređenja, u
+skladu sa računovodstvenom politikom. Formiranje, smanjenje i ukidanje
+ispravke vrednosti dugoročnih potraživanja vrši se shodno postupanju sa
+računima ispravke potraživanja u grupi 20.
+Klasa 1: Zalihe i stalna sredstva namenjena prodaji
+Član 10
+Na računima grupe 10 - Zalihe materijala, iskazuju se
+zalihe materijala, rezervnih delova, alata i sitog inventara koji se u
+celini otpisuje u obračunskom periodu, prema nazivima računa ove grupe.
+Na računu 100 - Obračun nabavne vrednosti zaliha
+materijala, rezervnih delova, alata i sitnog inventara, iskazuje se
+vrednost po obračunu dobavljača i zavisni troškovi nabavke, ako pravno
+lice i preduzetnik odluči da obračun nabavke zaliha vrši preko ovog
+računa. Na ovom računu iskazuje se fakturna vrednost nabavljenih zaliha
+umanjena za popuste iskazane u računu dobavljača i za porez na dodatu
+vrednost i druge dažbine koje se mogu povratiti, zavisni troškovi
+nabavke koji se mogu direktno pripisati konkretnoj nabavci zaliha,
+carine i druge uvozne dažbine koje se uključuju u nabavnu vrednost
+zaliha, porez na dodatu vrednost i akciza koji se ne mogu povratiti. Za
+nabavnu vrednost nabavljenih zaliha zadužuju se računi 101, 102, 103 i
+104 u korist ovog računa. Upotreba računa 100 nije obavezna.
+Na računu 101 - Materijal, iskazuju se zalihe sirovina, osnovnog i pomoćnog materijala, ostalog materijala, goriva i maziva.
+Na računu 102 - Rezervni delovi, iskazuje se zalihe rezervnih delova.
+Na računu 103 - Alat i sitan inventar, iskazuje se
+vrednost zaliha alata i sitnog inventara koji se u celini otpisuju u
+momentu davanja na korišćenje (kao što su sitan inventar, auto - gume i
+ambalaža, ako se u celini otpisuju u izveštajnom periodu).
+Na računu 104 - Materijal, rezervni delovi, alat i
+sitan inventar u obradi, doradi i manipulaciji, iskazuje se materijal,
+rezervni delovi, alat i sitan inventar dati u obradu, doradu i
+manipulaciju.
+Na posebnim računima otvorenim u okviru računa ove
+grupe, iskazuje se ispravka vrednosti materijala, rezervnih delova,
+alata i sitnog inventara utvrđena kao pozitivna razlika između njihove
+knjigovodstvene vrednosti i neto ostvarive cene, odnosno po osnovu
+obezvređenja. Deo ispravke vrednosti koji se odnosi na utrošene,
+prodate ili rashodovane zalihe materijala, rezervnih delova, alata i
+sitnog inventara prenosi se sa računa ispravke vrednosti u korist
+odgovarajućeg računa na kojem je iskazan trošak, gubitak ili dobitak po
+osnovu trošenja, prodaje ili rashodovanja ovih sredstava.
+Pravna lica i preduzetnici koja se bave proizvodnjom
+i pružanjem usluga se mogu opredeliti za vođenje evidencije materijala,
+rezervnih delova, alata i sitnog inventara u okviru grupe 10 ili u
+okviru klase 9.
+Član 11
+Na računima grupe 11 - Nedovršena proizvodnja,
+iskazuje se početno stanje i povećanje ili smanjenje vrednosti zaliha
+proizvodnje, nedovršene proizvodnje, poluproizvoda i delova, kao i
+nedovršene usluge po ceni koja je obračunata u skladu sa
+računovodstvenom politikom.
+Na računu 110 - Nedovršena proizvodnja, odnosno na
+računima otvorenim u okviru ovog računa, iskazuje se početno stanje, a
+na kraju izveštajnog perioda - povećanje ili smanjenje zaliha
+proizvodnje, nedovršenih proizvoda, poluproizvoda i delova (u daljem
+tekstu: nedovršena proizvodnja), po ceni koja je obračunata u skladu sa
+računovodstvenom politikom.
+Na računu 111 - Nedovršene usluge, odnosno na
+računima otvorenim u okviru ovog računa, iskazuje se početno stanje, a
+na kraju izveštajnog perioda - povećanje ili smanjenje zaliha
+nedovršenih usluga po ceni koja je obračunata u skladu sa
+računovodstvenom politikom.
+Član 12
+Na računima grupe 12 - Gotovi proizvodi, iskazuje se
+početno stanje, povećanje ili smanjenje vrednosti zaliha gotovih
+proizvoda po ceni koja je obračunata u skladu sa računovodstvenom
+politikom.
+Na računu 120 - Gotovi proizvodi, odnosno na računima
+otvorenim u okviru ovog računa, iskazuje se početno stanje, a na kraju
+izveštajnog perioda - povećanje ili smanjenje zaliha gotovih proizvoda
+po ceni koja je obračunata u skladu sa računovodstvenom politikom.
+Član 13
+Na računima grupe 13 - Roba, iskazuju se zalihe robe
+u magacinu, prodajnim objektima na veliko i prodajnim objektima na
+malo, roba u obradi, doradi i manipulaciji, roba u tranzitu, roba na
+putu, ukalkulisani porez na dodatu vrednost (PDV) i ukalkulisana
+razlika u ceni robe.
+Na računu 130 - Obračun nabavke robe, iskazuje se
+vrednost po obračunu dobavljača i zavisni troškovi nabavke u skladu sa
+računovodstvenom politikom. Upotreba računa 130 nije obavezna.
+Na računu 131 - Roba u magacinu, iskazuje se vrednost zaliha robe u magacinu pre stavljanja robe u promet.
+Na računu 132 - Roba u prometu na veliko, iskazuje se vrednost zaliha robe u prodajnim objektima na veliko.
+Na računu 133 - Roba u skladištu, stovarištu i
+prodavnicama kod drugih lica, iskazuje se vrednost zaliha robe koja je
+data na skladištenje, komisionu i konsignacionu prodaju.
+Na računu 134 - Roba u prometu na malo, iskazuje se vrednost zaliha robe u prodajnim objektima na malo po maloprodajnoj ceni.
+Ako se roba na zalihama vodi po prodajnim cenama,
+razlika u ceni i ukalkulisani PDV vode se na računima otvorenim u
+okviru računa na kojem se evidentira roba.
+Na računu 135 - Roba u obradi, doradi i manipulaciji,
+iskazuje se vrednost zaliha robe koja je data na pakovanje i druge
+oblike dorade i obrade.
+Na računu 136 - Roba u tranzitu, iskazuje se vrednost
+robe koja se po nalogu kupca neposredno isporučuje bez prethodnog
+skladištenja.
+Na računu 137 - Roba na putu, iskazuje se vrednost robe isporučene kupcu, do trenutka potvrde prijema robe od strane kupca.
+Na posebnim računima otvorenim u okviru računa ove
+grupe, iskazuje se ispravka vrednosti robe utvrđena kao pozitivna
+razlika između knjigovodstvene i neto ostvarive vrednosti robe, odnosno
+po osnovu obezvređenja. Deo ispravke vrednosti koji se odnosi na
+prodate, rashodovane ili utrošene zalihe robe prenosi se sa računa
+ispravke vrednosti u korist odgovarajućeg računa na kojem je iskazan
+rashod, gubitak ili dobitak po osnovu prodaje, rashodovanja ili
+trošenja ovih sredstava.
+Pravna lica i preduzetnici koja se bave proizvodnjom
+mogu se opredeliti za vođenje evidencije robe u okviru grupe 13 ili u
+okviru klase 9.
+Izuzetno od stava 12. ovog člana, pravna lica i
+preduzetnici koji obavljaju proizvodnu delatnost i koja vrše prodaju
+proizvoda i robe u sopstvenim maloprodajnim objektima, mogu vršiti
+prenos zaliha sopstvenih proizvoda na račun 134 - Roba u prometu na
+malo, zaduženjem tog računa u korist računa 621 - Prihod od aktiviranja
+ili potrošnje proizvoda i usluga za sopstvene potrebe. Na računima
+klase 9, taj prenos knjiži se zaduženjem računa 980 - Troškovi prodatih
+proizvoda i usluga, u korist računa grupe 96 - Gotovi proizvodi. U tom
+slučaju, na kraju godine zalihe gotovih proizvoda koje su prenete na
+robu svode se na cenu koštanja ili neto prodajnu cenu ako je niža u
+skladu sa relevantnom računovodstvenom politikom.
+Član 14
+Na računima grupe 14 - Stalna imovina koja se drži za
+prodaju i prestanak poslovanja, iskazuju se nematerijalna imovina,
+zemljišta, građevinski objekti i druge nekretnine i postrojenja, oprema
+i biološka sredstva namenjena prodaji, odnosno koja su preneta sa
+računa korišćenih sredstava na osnovu odluke o prodaji, kao i sredstva
+poslovanja koje će biti obustavljeno, a sredstva otuđena u skladu sa
+MSFI 5.
+Na računu 140 - Nematerijalna imovina namenjena
+prodaji, iskazuje se korišćena nematerijalna imovina za koju je doneta
+odluka o prodaji.
+Na računu 141 - Zemljište namenjeno prodaji, iskazuje se korišćeno zemljište za koje je doneta odluka o prodaji.
+Na računu 142 - Građevinski objekti namenjeni
+prodaji, iskazuju se korišćeni građevinski objekti za koje je doneta
+odluka o prodaji.
+Na računu 143 - Investicione nekretnine namenjene
+prodaji, iskazuju se korišćene investicione nekretnine za koje je
+doneta odluka o prodaji.
+Na računu 144 - Ostale nekretnine namenjene prodaji, iskazuju se korišćene druge nekretnine za koje je doneta odluka o prodaji.
+Na računu 145 - Postrojenja i oprema namenjena
+prodaji, iskazuje se korišćena postrojenja i oprema za koju je doneta
+odluka o prodaji.
+Na računu 146 - Biološka sredstva namenjena prodaji,
+iskazuju se korišćena biološka sredstva za koja je doneta odluka o
+prodaji, a koja nisu obuhvaćena na računima 140 do 143.
+Na računu 147 - Sredstva poslovanja koje se
+obustavlja, iskazuju se sredstva organizacionog dela pravnog lica i
+preduzetnika čije se poslovanje obustavlja, u skladu sa MSFI 5. Na
+računima otvorenim u okviru računa 147, sredstva se iskazuju u skladu
+sa potrebama pravnog lica, odnosno preduzetnika.
+Na posebnim računima otvorenim u okviru računa grupe
+14, iskazuje se ispravka vrednosti utvrđena po osnovu obezvređenja
+stalne imovine koja se drži za prodaju i poslovanja koje prestaje.
+Član 15
+Na računima grupe 15 - Plaćeni avansi za zalihe i
+usluge, iskazuje se vrednost avansa plaćenih za nabavku zaliha
+materijala, rezervnih delova, alata, sitnog inventara, robe i usluga.
+Na računu 150 - Plaćeni avansi za materijal, rezervne
+delove i sitan inventar u zemlji, iskazuju se avansi dati za nabavku
+materijala, rezervnih delova i sitnog inventara u zemlji, zaduženjem
+ovog računa a odobrenjem odgovarajućeg računa novčanih sredstava.
+Na računu 151 - Plaćeni avansi za materijal, rezervne
+delove i sitan inventar u inostranstvu, iskazuju se avansi dati za
+nabavku materijala, rezervnih delova i sitnog inventara u inostranstvu,
+zaduženjem ovog računa a odobrenjem odgovarajućeg računa novčanih
+sredstava.
+Na računu 152 - Plaćeni avansi za robu i stalna
+sredstva koja se pribavljaju radi prodaje u zemlji, iskazuju se avansi
+dati za nabavku robe i stalna sredstva koja se pribavljaju radi prodaje
+u zemlji, zaduženjem ovog računa a odobrenjem odgovarajućeg računa
+novčanih sredstava.
+Na računu 153 - Plaćeni avansi za robu i stalna
+sredstva koja se pribavljaju radi prodaje u inostranstvu, iskazuju se
+avansi dati za nabavku robe i stalna sredstva koja se pribavljaju radi
+prodaje u inostranstvu, zaduženjem ovog računa a odobrenjem
+odgovarajućeg računa novčanih sredstava.
+Na računu 154 - Plaćeni avansi za usluge u zemlji,
+iskazuju se avansi dati za nabavku usluga u zemlji, zaduženjem ovog
+računa a odobrenjem odgovarajućeg računa novčanih sredstava.
+Na računu 155 - Plaćeni avansi za usluge u
+inostranstvu, iskazuju se avansi dati za nabavku usluga u inostranstvu,
+zaduženjem ovog računa a odobrenjem odgovarajućem računu novčanih
+sredstava.
+Na posebnim računima otvorenim u okviru računa ove
+grupe, iskazuje se ispravka vrednosti plaćenih avansa utvrđena kao
+pozitivna razlika između njihove knjigovodstvene i procenjene
+vrednosti, odnosno po osnovu obezvređenja.
+Klasa 2: Kratkoročna potraživanja i plasmani, novčana sredstva i aktivna vremenska razgraničenja
+Član 16
+Na računima grupe 20 - Potraživanja po osnovu
+prodaje, iskazuju se potraživanja od kupaca - matičnih i zavisnih,
+ostalih povezanih lica i ostalih kupaca u zemlji i inostranstvu po
+osnovu prodaje proizvoda, robe i usluga.
+Na računu 200 - Kupci u zemlji - matično i zavisna
+pravna lica, iskazuju se potraživanja po osnovu prodaje proizvoda, robe
+i usluga pravnim licima u zemlji koja čine grupu pravnih lica u smislu
+Zakona.
+Na računu 201 - Kupci u inostranstvu - matično i
+zavisna pravna lica, iskazuju se potraživanja po osnovu prodaje
+proizvoda, robe i usluga pravnim licima u inostranstvu koja čine grupu
+pravnih lica u smislu Zakona.
+Na računu 202 - Kupci u zemlji - ostala povezana
+lica, iskazuju se potraživanja po osnovu prodaje proizvoda, robe i
+usluga ostalim povezanim licima u zemlji.
+Na računu 203 - Kupci u inostranstvu - ostala
+povezana lica, iskazuju se potraživanja po osnovu prodaje proizvoda,
+robe i usluga ostalim povezanim licima u inostranstvu.
+Na računu 204
+-
+Kupci u zemlji, iskazuju se
+potraživanja po osnovu prodaje proizvoda, robe i usluga u zemlji, osim
+matičnom, zavisnim i ostalim povezanim licima.
+Na računu 205 - Kupci u inostranstvu, iskazuju se
+potraživanja od stranih lica po osnovu izvoza robe i usluga u
+inostranstvu, osim potraživanja po osnovu izvoza robe i usluga
+matičnom, zavisnim i ostalim povezanim licima u inostranstvu. Na ovom
+računu izvoznici evidentiraju i potraživanja iz inostranstva na osnovu
+izvoza u svoje ime za tuđi račun.
+Na računu 206 - Ostala potraživanja po osnovu
+prodaje, iskazuju se ostala potraživanja po osnovu sredstava, osim
+potraživanja po osnovu prodaje proizvoda, robe i usluga.
+Na posebnim računima otvorenim u okviru računa ove
+grupe, iskazuje se ispravka vrednosti potraživanja od prodaje utvrđena
+kao pozitivna razlika između njihove knjigovodstvene i procenjene
+vrednosti, odnosno po osnovu obezvređenja. Otvoreni račun ispravke nije
+obavezno dalje raščlanjavati po kupcima.
+Najkasnije na datum bilansa utvrđuje se da li je
+stanje procenjene ispravke vrednosti (umanjenja) na ovom računu
+povećano ili smanjeno.
+Ako je stanje procenjenih ispravki vrednosti
+povećano, razlika se knjiži na teret računa 585 - Rashodi od
+usklađivanja vrednosti potraživanja i kratkoročnih finansijskih
+plasmana, a u korist odgovarajućeg računa ispravke vrednosti. Ako je
+stanje procenjene ispravke vrednosti smanjeno, razlika se knjiži na
+teret odgovarajućeg računa ispravke vrednosti, u korist računa 685 -
+Prihodi od usklađivanja vrednosti potraživanja i kratkoročnih
+finansijskih plasmana.
+U slučaju direktnog isknjižavanja potpuno ili
+delimično ispravljenog potraživanja po osnovu prodaje zadužuje se
+odgovarajući račun ispravke vrednosti a odobrava račun potraživanja iz
+grupe 20, uz zaduženje računa 576 za deo potraživanja koje prethodno
+nije bilo indirektno ispravljeno preko odgovarajućeg računa ispravke
+vrednosti.
+Član 17
+Na računima grupe 21 - Potraživanja iz specifičnih
+poslova, iskazuju se potraživanja od izvoznika, po osnovu uvoza za tuđ
+račun, od komisione i konsignacione prodaje i ostala potraživanja iz
+specifičnih poslova.
+Na računu 210 - Potraživanja od izvoznika, iskazuju
+se potraživanja po osnovu izvoza koji je izvršio izvoznik u svoje ime a
+za račun vlasnika izvezenih proizvoda i usluga.
+Na računu 211 - Potraživanja po osnovu uvoza za tuđ
+račun, iskazuju se potraživanja, troškovi i provizija po osnovu
+pojedinačnih uvoznih zaključaka.
+Na računu 212 - Potraživanja iz komisione i konsignacione prodaje, iskazuju se potraživanja po osnovu te prodaje.
+Na računu 218 - Ostala potraživanja iz specifičnih
+poslova, iskazuju se sva ostala kratkoročna potraživanja po osnovu
+specifičnih poslova za koja u grupi 21 nije predviđen poseban račun,
+kao što su potraživanja po osnovu zajedničkih poslova i ostala
+potraživanja.
+Na posebnim računima otvorenim u okviru računa ove
+grupe, iskazuje se ispravka vrednosti potraživanja iz specifičnih
+poslova utvrđena kao pozitivna razlika između njihove knjigovodstvene i
+procenjene vrednosti koja može da bude naplaćena, odnosno po osnovu
+obezvređenja. Formiranje, smanjenje i ukidanje ispravke vrednosti
+potraživanja iz specifičnih poslova radi se shodno postupanju sa
+računima ispravke potraživanja u grupi 20.
+Član 18
+Na računima grupe 22 - Druga potraživanja, iskazuju
+se potraživanja za kamatu i dividende, potraživanja od zaposlenih,
+potraživanja od državnih organa i organizacija, potraživanja po osnovu
+preplaćenih poreza i doprinosa i potraživanja po osnovu naknada šteta
+od društava za osiguranje i drugih lica.
+Na računu 220 - Potraživanja za kamatu i dividende,
+iskazuju se potraživanja za ugovorenu i zateznu kamatu po dužničko -
+poverilačkim odnosima i kreditima, kao i potraživanja za dividende.
+Na računu 221 - Potraživanja od zaposlenih, iskazuju
+se potraživanja od zaposlenih po osnovu akontacija za službena
+putovanja, po osnovu naknada šteta koje su zaposleni pričinili pravnom
+licu i preduzetniku, po osnovu manjkova koji se naknađuju od zaposlenih
+i sl.
+Na računu 222 - Potraživanja od državnih organa i
+organizacija, iskazuju se potraživanja za regres, premije, stimulacije,
+subvencije, dotacije, kompenzacije i sl.
+Na računu 223 - Potraživanja za više plaćen porez na
+dobitak, iskazuju se potraživanja po osnovu više plaćenog poreza na
+dobitak.
+Na računu 224 - Potraživanja po osnovu preplaćenih
+ostalih poreza i doprinosa, iskazuju se potraživanja za više plaćene
+poreze, doprinose i druge dažbine utvrđene na datum bilansa.
+Na računu 225 - Potraživanja za naknade zarada koje
+se refundiraju, iskazuju se potraživanja po osnovu naknada zarada koje
+se refundiraju od državnih organa i drugih subjekata.
+Na računu 226 - Potraživanja po osnovu naknada šteta,
+iskazuju se potraživanja po osnovu naknada šteta od društava za
+osiguranje i drugih lica.
+Na računu 227 - Potraživanja za prihode po posebnim
+propisima, iskazuju se potraživanja za prihode u skladu sa posebnim
+propisima.
+Na računu 228 - Ostala kratkoročna potraživanja,
+iskazuju se ostala kratkoročna potraživanja koja nisu iskazana na
+drugim računima grupe 22.
+Na posebnim računima otvorenim u okviru računa ove
+grupe, iskazuje se ispravka vrednosti drugih potraživanja utvrđena kao
+pozitivna razlika između njihove knjigovodstvene i procenjene vrednosti
+koja može da bude naplaćena, odnosno po osnovu obezvređenja.
+Formiranje, smanjenje i ukidanje ispravke vrednosti drugih potraživanja
+radi se shodno postupanju sa računima ispravke potraživanja u grupi 20.
+Član 19
+Na računima grupe 23 - Kratkoročni finansijski
+plasmani, iskazuju se krediti i zajmovi, hartije od vrednosti i ostali
+kratkoročni plasmani sa rokom dospeća, odnosno prodaje kraćem od 12
+meseci posle izveštajnog perioda, odnosno od datuma bilansa.
+Na računu 230 - Kratkoročni krediti i plasmani -
+matična i zavisna pravna lica, iskazuju se krediti i zajmovi, hartije
+od vrednosti i ostali kratkoročni plasmani u pravna lica koja čine
+grupu pravnih lica u smislu Zakona.
+Na računu 231 - Kratkoročni krediti i plasmani -
+ostala povezana lica, iskazuju se krediti i zajmovi, hartije od
+vrednosti i ostali kratkoročni plasmani u ostala povezana lica.
+Na računu 232 - Kratkoročni krediti i zajmovi u
+zemlji, iskazuju se kratkoročni robni, potrošački i ostali krediti i
+zajmovi sa rokom dospeća kraćim od 12 meseci posle izveštajnog perioda,
+dati pravnim i fizičkim licima u zemlji.
+Na računu 233 - Kratkoročni krediti i zajmovi u
+inostranstvu, iskazuju se kratkoročni robni, potrošački i ostali
+krediti i zajmovi sa rokom dospeća kraćim od 12 meseci posle
+izveštajnog perioda, dati pravnim i fizičkim licima u inostranstvu u
+skladu sa propisima o deviznom i spoljnotrgovinskom poslovanju.
+Na računu 234 - Deo dugoročnih finansijskih plasmana
+koji dospeva do jedne godine, iskazuju se anuiteti, odnosno otplate
+dugoročnih kredita i zajmova koje dospevaju za plaćanje u roku kraćem
+od 12 meseci posle izveštajnog perioda i ostali dugoročni finansijski
+plasmani koji dospevaju u roku kraćem od 12 meseci posle izveštajnog
+perioda. Na datum pod kojim se sastavlja Bilans stanja, na taj račun
+prenose se otplate dugoročnog kredita i zajma i ostali dugoročni
+finansijski plasmani koji dospevaju u roku kraćem od 12 meseci posle
+izveštajnog perioda.
+Na računu 235 - Hartije od vrednosti koje se vrednuju
+po amortizovanoj vrednosti - deo koji dospeva do jedne godine, iskazuju
+se otplate dugoročnih hartija od vrednosti koje dospevaju za plaćanje u
+roku kraćem od 12 meseci posle izveštajnog perioda. Na datum pod kojim
+se sastavlja Bilans stanja, na taj račun prenose se otplate hartija od
+vrednosti koje dospevaju u roku kraćem od 12 meseci posle izveštajnog
+perioda.
+Na računu 236 - Finansijska sredstva koja se vrednuju
+po fer vrednosti kroz Bilans uspeha, iskazuju se finansijska sredstva
+pribavljena ili nastala prvenstveno u svrhe ostvarivanja dobitka iz
+kratkoročnih fluktuacija cena ili marže dilera.
+Na ovom računu iskazuju se plasmani u kupljene ili na
+drugi način stečene kratkoročne i dugoročne prenosive hartije od
+vrednosti (akcije, obveznice, blagajnički zapisi, komercijalni zapisi,
+državni zapisi, sertifikati o depozitu i ostale hartije od vrednosti
+kojima se trguje) koje su, u skladu sa poslovnom politikom pravnog lica
+i preduzetnika, pribavljene sa namerom da se u kratkom roku ponovo
+prodaju sa ciljem sticanja dobitka na razlici u ceni.
+Na računu 237 - Otkupljene sopstvene akcije namenjene
+prodaji ili poništavanju i otkupljeni sopstveni udeli namenjeni prodaji
+ili poništavanju, iskazuju se otkupljene sopstvene akcije ili sopstveni
+udele po nominalnoj vrednosti.
+Na računu 238 - Potraživanja po osnovu finansijskih
+derivata, iskazuju se potraživanja po osnovu finansijskih derivata,
+koja uključuju i sve efekte promene vrednosti ovih derivata
+evidentirane u okviru prihoda i rashoda ili u okviru kapitala. Na
+posebnim računima otvorenim u okviru ovog računa, iskazuju se derivati
+u skladu sa njihovom namenom.
+Na računu 239 - Ostali kratkoročni finansijski
+plasmani, iskazuju se ostali kratkoročni finansijski plasmani koji nisu
+iskazani na drugim računima grupe 23.
+Na ovom računu iskazuju se potraživanja po menicama
+kao instrumentima plaćanja, s tim što se na posebnom računu otvorenom u
+okviru ovog računa može iskazati kamata budućeg perioda sadržana u
+meničnoj vrednosti.
+Na posebnim računima otvorenim u okviru računa ove
+grupe, iskazuju se ispravke vrednosti kratkoročnih finansijskih
+plasmana utvrđenih kao pozitivna razlika između njihove knjigovodstvene
+i procenjene vrednosti koja može da bude naplaćena, odnosno po osnovu
+obezvređenja. Formiranje, smanjenje i ukidanje ispravke vrednosti
+kratkoročnih finansijskih plasmana radi se shodno postupanju sa
+računima ispravke potraživanja u grupi 20.
+Član 20
+Na računima grupe 24 - Gotovinski ekvivalenti i
+gotovina, iskazuju se neposredno unovčive hartije od vrednosti,
+depoziti po viđenju, gotovina, plemeniti metali i predmeti od
+plemenitih metala.
+Na računu 240 - Hartije od vrednosti - gotovinski
+ekvivalenti, iskazuju se neposredno unovčive hartije od vrednosti, uz
+beznačajni rizik smanjenja vrednosti.
+Na računu 241 - Tekući (poslovni) računi, iskazuju se
+novčana sredstva na poslovnim računima, kao i iskorišćeni okvirni
+krediti. Na posebnim računima otvorenim u okviru ovog računa iskazuju
+se novčana sredstva ponaosob po otvorenim tekućim (poslovnim) računima.
+Pravno lice i preduzetnik u okviru ovog računa po potrebi koristi poseban prelazni račun.
+Na računu 242 - Izdvojena novčana sredstva i
+akreditivi, iskazuju se sredstva izdvojena na posebnim računima kod
+poslovne banke za otvorene akreditive u zemlji, za isplatu čekova, za
+investicije i za druge namene.
+Na računu 243 - Blagajna, iskazuju se dinarske uplate i isplate gotovog novca i drugih vrednosnica.
+Na računu 244 - Devizni račun, iskazuju se stanja i promene na deviznom računu.
+Na računu 245 - Devizni akreditivi, iskazuju se otvoreni devizni akreditivi kod banke za plaćanja u inostranstvu.
+Na računu 246 - Devizna blagajna, iskazuju se uplate
+i isplate efektivnog stranog novca i drugih vrednosnica naplativih u
+stranoj valuti.
+Na računu 248 - Ostala novčana sredstva, iskazuju se
+novčana sredstva koja nisu iskazana na ostalim računima novčanih
+sredstava u okviru grupe računa 24.
+Na računu 249 - Novčana sredstva čije je korišćenje
+ograničeno ili vrednost umanjena, iskazuju se novčana sredstva prema
+nazivu ovog računa.
+Član 21
+Na računima grupe 27 - Porez na dodatu vrednost,
+iskazuje se prethodni porez na dodatu vrednost prema nazivima računa
+ove grupe.
+Na računu 270 - Porez na dodatu vrednost u primljenim
+fakturama po opštoj stopi (osim plaćenih avansa), obuhvata se
+zaračunati PDV po opštoj stopi zaduženjem ovog računa i odobrenjem
+računa 430, 431, 432, 433, 434, 435, 436 i 439 i drugim računima
+obaveza iz klase 4 sa čijim nastankom je povezano i plaćanje prethodnog
+PDV.
+Na računu 271 - Porez na dodatu vrednost u primljenim
+fakturama po posebnoj stopi (osim plaćenih avansa), obuhvata se
+zaračunati PDV po posebnoj stopi zaduženjem ovog računa i odobrenjem
+računa 430, 431, 432, 433, 434, 435, 436 i 439 i drugim računima
+obaveza iz klase 4 sa čijim nastankom je povezano i plaćanje prethodnog
+PDV.
+Na računu 272 - Porez na dodatu vrednost u datim
+avansima po opštoj stopi, obuhvata se u datim avansima zaračunati PDV
+po opštoj stopi zaduženjem ovog računa i odobrenjem računa novčanih
+sredstava.
+Na računu 273 - Porez na dodatu vrednost u datim
+avansima po posebnoj stopi, obuhvata se, u datim avansima, zaračunati
+PDV po posebnoj stopi zaduženjem ovog računa i odobrenjem računa
+novčanih sredstava.
+Na računu 274 - Porez na dodatu vrednost pri uvozu
+dobara po opštoj stopi, obuhvata se zaračunati PDV (pri uvozu dobara)
+po opštoj stopi zaduženjem ovog računa i odobrenjem računa 482 ili na
+teret troškova.
+Na računu 275 - Porez na dodatu vrednost pri uvozu
+dobara po posebnoj stopi, obuhvata se zaračunati PDV (pri uvozu dobara)
+po posebnoj stopi zaduženjem ovog računa i odobrenjem računa 482 ili na
+teret troškova.
+Na računu 276 - Porez na dodatu vrednost obračunat na
+usluge inostranih lica, obuhvata se zaračunati PDV (pri korišćenju
+usluga inostranih lica) po opštoj stopi zaduženjem ovog računa i
+odobrenjem računa 470.
+Na računu 277 - Naknadno vraćen porez na dodatu
+vrednost kupcima - stranim državljanima, obuhvata se vraćeni PDV
+kupcima - stranim državljanima zaduženjem ovog računa i odobrenjem
+računa novčanih sredstava.
+Na računu 278 - Nadoknada poreza na dodatu vrednost
+isplaćena poljoprivrednicima, obuhvata se zaračunati PDV nadoknada (pri
+nabavci dobara od registrovanih poljoprivrednika) po stopi od 8%
+zaduženjem ovog računa i odobrenjem obaveza ili novčanih sredstava, ako
+je plaćanje izvršeno u gotovu.
+Na računu 279 - Potraživanja za više plaćeni porez na
+dodatu vrednost, obuhvata se razlika između prethodnog poreza
+(iskazanog na računima grupe 27) i iznosa poreza na dodatu vrednost
+iskazanu u izlaznim fakturama pravnog lica, odnosno preduzetnika
+(iskazanog na računima grupe 47), pod uslovom da je stanje iskazano na
+računima grupe 27 veće od stanja iskazanog na računima grupe 47.
+Na posebnim računima otvorenim u okviru računa grupe 27, iskazuje se razgraničeni PDV.
+Član 22
+Na računima grupe 28 - Aktivna vremenska
+razgraničenja, iskazuju se troškovi plaćeni u toku poslovne godine koji
+se odnose na narednu poslovnu godinu i prihodi po osnovu kojih su
+nastali troškovi u tekućoj godini, a koji nisu fakturisani za tekuću
+godinu.
+Na računu 280 - Unapred plaćeni troškovi, iskazuju se
+troškovi koji su unapred plaćeni. U korist ovog računa iskazuje se
+obračunati otpis unapred plaćenih troškova za odnosni period.
+Na računu 281 - Potraživanja za nefakturisani prihod,
+iskazuju se prihodi tekućeg perioda koji nisu mogli biti fakturisani, a
+za koje su nastali troškovi u tekućem periodu.
+Na računu 282 - Razgraničeni troškovi po osnovu
+obaveza, iskazuju se plaćeni transakcioni troškovi po osnovu primljenih
+kredita i emitovanih dužničkih instrumenata, koji se, u skladu sa
+relevantnom računovodstvenom politikom, vode po amortizovanoj
+vrednosti, primenom efektivne kamatne stope. Ovi troškovi terete
+rashode u periodu otplate kredita ili drugih dužničkih instrumenata.
+Na računu 288 - Odložena poreska sredstva, iskazuju
+se iznosi poreza iz dobiti nadoknadivi u narednim periodima po osnovu
+odbitnih privremenih razlika, neiskorišćenih poreskih gubitaka i
+kredita, u skladu sa računovodstvenom politikom.
+Na računu 289 - Ostala aktivna vremenska
+razgraničenja, iskazuju se ostala aktivna vremenska razgraničenja koja
+nisu iskazana na drugim računima grupe 28.
+Klasa 3: Kapital
+Član 23
+Na računima grupe 30 - Osnovni kapital, iskazuju se
+akcijski kapital, udeli društva s ograničenom odgovornošću, ulozi,
+državni kapital, društveni kapital, zadružni i ostali kapital, kao i
+emisiona premija prema nazivima računa ove grupe.
+Na računu 300 - Akcijski kapital, iskazuju se obične
+i prioritetne akcije sa pravom učešća u upravljanju, pravom na učešće u
+dobiti akcionarskog društva i pravom na deo likvidacione mase u skladu
+s aktom o osnivanju, odnosno odlukom o emisiji akcija.
+Na računu 301 - Udeli društava s ograničenom
+odgovornošću, iskazuju se udeli koji čine osnovni kapital u skladu sa
+aktom o osnivanju.
+Na računu 302 - Ulozi, iskazuju se ulozi članova
+ortačkog i komanditnog društva u skladu sa ugovorom o osnivanju koji
+čine osnovni kapital.
+Na računu 303 - Državni kapital, iskazuje se kapital
+pravnih lica koje osniva država, odnosno jedinica lokalne samouprave,
+to jest u kojima država ili jedinica lokalne samouprave ima učešće.
+Na računu 304 - Društveni kapital, iskazuje se kapital društvenog preduzeća podeljen na obračunske akcije ili udele.
+Na računu 305 - Zadružni udeli, iskazuje se zadružni kapital podeljen na udele zadrugara.
+Na računu 306 - Emisiona premija, iskazuje se razlika
+(pozitivna ili negativna) između postignute prodajne vrednosti akcija,
+odnosno udela i njihove nominalne vrednosti.
+Negativna emisiona premija, odnosno dugovni saldo na
+ovom računu, na datum bilansa prenosi se na račun 340 - Neraspoređeni
+dobitak ranijih godina ili račun 350 - Gubitak ranijih godina.
+Na računu 307 - Ulozi - sopstveni izvori drugih
+pravnih lica - ulozi osnivača i drugih lica, iskazuju se ulozi
+formirani od osnivača i drugih lica.
+Na računu 309 - Ostali osnovni kapital, iskazuju se
+ostali oblici osnovnog kapitala koji nisu iskazani na posebnim računima
+u okviru grupe računa 30 (kapital preduzetnika osnovni kapital kod
+kojeg još nije završen postupak registracije, deo kapitala pravnog lica
+koji pripada ogranku stranog pravnog lica i dr.).
+Član 24
+Na računima grupe 31 - Upisani a neuplaćeni kapital,
+iskazuju se iznosi upisanih a neuplaćenih akcija i upisanih a
+neuplaćenih udela i uloga, prema nazivima računa ove grupe.
+Na računu 310 - Upisane a neuplaćene akcije, iskazuje
+se iznos upisanih a neuplaćenih akcija koji se utvrđuje na osnovu
+odluke skupštine akcionarskog društva o izdavanju akcija.
+Na računu 311 - Upisani a neuplaćeni udeli i ulozi,
+iskazuje se iznos upisanih a neuplaćenih udela i uloga koji se utvrđuje
+na osnovu ugovora o osnivanju društva s ograničenom odgovornošću,
+ortačkog i komanditnog društva.
+Član 25
+Na računima grupe 32 - Rezerve, iskazuje se, rezerve iz dobiti, zakonske, statutarne i druge rezerve.
+Na računu 321 - Zakonske rezerve, iskazuju se obavezne rezerve koje se formiraju u skladu sa zakonom.
+Na računu 322 - Statutarne i druge rezerve, iskazuju
+se rezerve koje se formiraju u skladu sa opštim i drugim aktom pravnog
+lica i preduzetnika.
+Na računu 323 - Dodatne uplate kojima se ne povećava
+kapital, iskazuju se dodatne uplate vlasnika privrednog društva kojima
+se ne povećava osnovni kapital registrovan kod nadležnog organa i za
+koje ne postoji obaveza njihovog vraćanja.
+Član 26
+Na računima grupe 33 - Revalorizacione rezerve i
+nerealizovani dobici i gubici, iskazuju se efekti revalorizacije i
+nerealizovani dobici i gubici koji se uključuju u Izveštaj o ostalom
+rezultatu.
+Na računima ove grupe iskazuju se: efekti promena fer
+vrednosti nekretnina, postrojenja, opreme, nematerijalne imovine;
+aktuarski dobici i gubici po osnovu planova definisanih primanja;
+dobici i gubici po osnovu ulaganja u vlasničke instrumente kapitala i
+hartija od vrednosti koje se vrednuju po fer vrednosti kroz ostali
+ukupan rezultat; dobici i gubici po osnovu preračuna finansijskih
+izveštaja prikazanih u drugoj funkcionalnoj valuti; dobici ili gubici
+od instrumenata zaštite neto ulaganja u inostrano poslovanje; dobici
+ili gubici po osnovu instrumenata zaštite rizika (hedžinga) novčanog
+toka; dobici i gubici po osnovu udela u ostalom sveobuhvatnom dobitku
+ili gubitku pridruženih društava, kao i ostali dobici i gubici koji se
+iskazuju u okviru ostalog sveobuhvatnog dobitka utvrđeni u skladu sa
+računovodstvenom politikom.
+Na računu 330 - Revalorizacione rezerve po osnovu
+revalorizacije nematerijalne imovine, nekretnina, postrojenja i opreme,
+iskazuju se promene revalorizacionih rezervi nastalih po osnovu promena
+fer vrednosti predmetnih dobara u skladu sa računovodstvenom politikom.
+Na računu 331 - Aktuarski dobici ili gubici po osnovu
+planova definisanih primanja, iskazuju se aktuarski dobici i/ili gubici
+u skladu sa računovodstvenom politikom.
+Na računu 332 - Dobici ili gubici po osnovu ulaganja
+u vlasničke instrumente kapitala, iskazuju se dobici i/ili gubici na
+vlasničkim instrumentima kapitala vrednovanim po fer vrednosti kroz
+ostali sveobuhvatni dobitak ili gubitak.
+Na računu 333 - Dobici ili gubici po osnovu udela u
+ostalom sveobuhvatnom dobitku ili gubitku pridruženih društava,
+iskazuje se udeo ulagača u promenama u ostalom sveobuhvatnom dobitku
+pridruženog društva u skladu sa računovodstvenom politikom.
+Na računu 334 - Dobici ili gubici po osnovu preračuna
+finansijskih izveštaja inostranog poslovanja, iskazuju se efekti
+kursnih razlika koje su nastale po osnovu ulaganja u inostrano
+poslovanje, koji se priznaju u okviru ostalog sveobuhvatnog dobitka ili
+gubitka u skladu sa računovodstvenom politikom.
+Na računu 335 - Dobici ili gubici od instrumenata
+zaštite neto ulaganja u inostrano poslovanje, iskazuju se dobici i
+gubici od instrumenata zaštite neto ulaganja u inostrano poslovanje,
+uključujući i zaštitu monetarne imovine koja se smatra delom neto
+ulaganja u skladu računovodstvenom politikom.
+Na računu 336 - Dobici ili gubici po osnovu
+instrumenata zaštite rizika (hedžinga) novčanog toka, iskazuje se deo
+dobitka ili gubitka od instrumenata zaštite novčanog toka u skladu sa
+računovodstvenom politikom.
+Na računu 337 - Dobici ili gubici po osnovu hartija
+od vrednosti koje se vrednuju po fer vrednosti kroz ostali ukupan
+rezultat, iskazuju se promene fer vrednosti finansijske imovine koje se
+vrednuju po fer vrednosti kroz ostali ukupan rezultat u skladu sa
+računovodstvenom politikom.
+Član 27
+Na računima grupe 34 - Neraspoređeni dobitak, iskazuje se neraspoređeni dobitak ranijih godina i tekuće godine.
+Na računu 340 - Neraspoređeni dobitak ranijih godina, iskazuje se kumulirani neraspoređeni dobitak ranijih godina.
+U korist ili na teret ovog računa evidentiraju se i
+efekti promene računovodstvene politike i ispravke materijalno značajne
+greške, u skladu sa usvojenom računovodstvenom politikom.
+Na računu 341 - Neraspoređeni dobitak tekuće godine,
+iskazuje se neraspoređeni dobitak tekuće godine. Prilikom otvaranja
+poslovnih knjiga na početku naredne poslovne godine saldo sa ovog
+računa prenosi se na račun 340.
+Na teret računa 340 evidentira se iznos raspoređenog dobitka.
+Na teret ovog računa evidentira se i iznos utvrđene
+obaveze za porez iz rezultata po rešenju poreskog organa, iznad iznosa
+koji je utvrdilo pravno lice, odnosno preduzetnik.
+Član 28
+Na računima grupe 35 - Gubitak, iskazuje se gubitak ranijih godina i gubitak tekuće godine prema nazivima računa ove grupe.
+Na računu 350 - Gubitak ranijih godina, iskazuje se gubitak iz ranijih godina prenosom sa računa 351 - Gubitak tekuće godine.
+U korist ili na teret ovog računa evidentiraju se i
+efekti po osnovu promene računovodstvene politike i ispravke
+materijalno značajne greške, u skladu sa usvojenom računovodstvenom
+politikom.
+Na računu 351 - Gubitak tekuće godine, iskazuje se gubitak utvrđen na kraju izveštajnog perioda zaduženjem ovog računa.
+Gubitak tekuće godine koji je iskazan na računu 351,
+prilikom prenosa početnog stanja u narednom obračunskom periodu prenosi
+se na račun 350.
+Pokriće gubitka vrši se na teret računa 340 -
+Neraspoređeni dobitak ranijih godina i računa grupa 30 i 32 u skladu sa
+zakonom i opštim ili drugim aktom pravnog lica, odnosno preduzetnika.
+Klasa 4: Rezervisanja, obaveze i pasivna vremenska razgraničenja
+Član 29
+Na računima grupe 40 - Dugoročna rezervisanja,
+iskazuju se dugoročna rezervisanja za troškove i rizike koji se
+priznaju i vrednuju u skladu sa računovodstvenom politikom.
+Na računu 400 - Rezervisanja za troškove u garantnom
+roku, iskazuju se dugoročna rezervisanja za rizike po osnovu troškova
+garantnog roka.
+Na računu 401 - Rezervisanja za troškove obnavljanja
+prirodnih bogatstava, iskazuju se dugoročna rezervisanja za obnavljanje
+zemljišta i za obnavljanje šuma u skladu sa računovodstvenom politikom.
+Na računu 402 - Rezervisanja za zadržane kaucije i
+depozite, iskazuju se dugoročna rezervisanja za troškove koji će se s
+velikom izvesnošću javiti u narednim godinama po osnovu zadržanih
+kaucija i depozita za posao izvršen kvalitetno i u roku i sl.
+Na računu 403 - Rezervisanja za troškove
+restrukturiranja, iskazuju se dugoročna rezervisanja za troškove po
+osnovu restrukturiranja u skladu sa računovodstvenom politikom.
+Na računu 404 - Rezervisanja za naknade i druge
+beneficije zaposlenih, iskazuju se dugoročna rezervisanja po osnovu
+beneficija, kao što su otpremnine prilikom odlaska u penziju, jubilarne
+nagrade i druge obaveze prema zaposlenima, koje se isplaćuju u skladu
+sa stečenim pravima u toku trajanja i nakon prestanka zaposlenja.
+Na računu 405 - Rezervisanja za troškove sudskih
+sporova, iskazuju se rezervisanja po osnovu postojećih sudskih sporova
+koji se vode protiv pravnih lica i preduzetnika, a koje je potrebno
+iskazati u skladu sa računovodstvenom politikom.
+Na računu 409 - Ostala dugoročna rezervisanja,
+iskazuju se rezervisanja za izdate garancije i druga jemstva i ostala
+rezervisanja u skladu sa računovodstvenom politikom.
+Kada nastane odliv sredstava po osnovu obaveze za
+koju je prethodno izvršeno rezervisanje, stvarni troškovi se ne
+iskazuju ponovo kao rashod, već se knjiženje sprovodi zaduženjem računa
+rezervisanja, a u korist odgovarajućeg računa obaveza (prema vrstama)
+ili odgovarajućeg računa sredstava (zalihe, novčana sredstva) u
+zavisnosti od karaktera rezervisanja, vrste nastale obaveze i načina na
+koji je ona izmirena. Neiskorišćeni iznos rezervisanja ukida se u
+korist računa 678 - Prihodi od ukidanja dugoročnih i kratkoročnih
+rezervisanja.
+Član 30
+Na računima grupe 41 - Dugoročne obaveze, iskazuju se
+dugoročne obaveze prema matičnom, zavisnim i povezanim pravnim licima,
+dugoročni krediti i zajmovi, obaveze po hartijama od vrednosti i ostale
+dugoročne obaveze. Dugoročne obaveze su obaveze koje dospevaju u roku
+dužem od 12 meseci posle izveštajnog perioda, odnosno od datuma
+bilansa.
+Na računu 410 - Obaveze koje se mogu konvertovati u
+kapital, iskazuju se dugoročne obaveze koje se prema ugovoru mogu
+konvertovati u odgovarajući oblik kapitala, u skladu sa zakonom.
+Na računu 411 - Dugoročne obaveze prema matičnom i
+zavisnim pravnim licima, iskazuju se obaveze po osnovu primljenih
+dugoročnih kredita i zajmova od pravnih lica koja čine grupu pravnih
+lica u smislu Zakona.
+Na računu 412 - Dugoročne obaveze prema ostalim
+povezanim licima, iskazuju se obaveze po osnovu primljenih dugoročnih
+kredita i zajmova od ostalih povezanih lica.
+Na računu 413 - Obaveze po emitovanim hartijama od
+vrednosti u periodu dužem od godinu dana, iskazuju se obaveze po
+izdatim hartijama od vrednosti sa rokom dospeća preko godinu dana od
+datuma bilansa.
+Na računu 414 - Dugoročni krediti i zajmovi u zemlji,
+iskazuju se obaveze po osnovu primljenih dugoročnih kredita i zajmova
+od pravnih i fizičkih lica u zemlji, osim od matičnog, zavisnih i
+povezanih lica.
+Na računu 415 - Dugoročni krediti i zajmovi u
+inostranstvu, iskazuju se obaveze po osnovu primljenih dugoročnih
+kredita i zajmova od pravnih i fizičkih lica u inostranstvu, osim od
+matičnog, zavisnih i povezanih lica.
+Na računu 416 - Dugoročne obaveze po osnovu lizinga,
+iskazuju se obaveze po osnovu finansijskog lizinga, odnosno obaveze po
+osnovu lizinga u skladu sa računovodstvenom politikom.
+Na računu 419 - Ostale dugoročne obaveze, iskazuju se
+ostale dugoročne obaveze koje nisu iskazane na ostalim računima u
+okviru grupe 41.
+Član 31
+Na računima grupe 42 - Kratkoročne finansijske
+obaveze, iskazuju se obaveze po kreditima i zajmovima, hartijama od
+vrednosti i ostale kratkoročne obaveze koje dospevaju u roku kraćem od
+12 meseci od datuma izveštavanja, odnosno od datuma bilansa.
+Na računu 420 - Kratkoročni krediti i zajmovi od
+matičnog i zavisnih pravnih lica, iskazuju se obaveze po osnovu
+primljenih kratkoročnih kredita i zajmova od pravnih lica koja čine
+grupu pravnih lica u smislu Zakona.
+Na računu 421 - Kratkoročni krediti i zajmovi od
+ostalih povezanih lica, iskazuju se obaveze po osnovu primljenih
+kratkoročnih kredita i zajmova od ostalih povezanih lica.
+Na računu 422 - Kratkoročni krediti i zajmovi u
+zemlji, iskazuju se obaveze po kratkoročnim finansijskim, robnim i
+ostalim kreditima i zajmovima koje dospevaju u roku kraćem od 12 meseci
+od datuma bilansa.
+Na računu 423 - Kratkoročni krediti i zajmovi u
+inostranstvu, iskazuju se obaveze po kratkoročnim finansijskim, robnim
+i ostalim kreditima i zajmovima koje dospevaju u roku kraćem od 12
+meseci od datuma izveštavanja, koji su primljeni od pravnih i fizičkih
+lica u inostranstvu, u skladu s propisima o deviznom i
+spoljnotrgovinskom poslovanju.
+Na računu 424 - Deo dugoročnih kredita i zajmova koji
+dospeva do jedne godine, iskazuju se obaveze po anuitetima, odnosno po
+otplatama dugoročnih kredita i zajmova koje dospevaju u roku kraćem od
+12 meseci od datuma izveštavanja. Na datum bilansa, na ovaj račun
+prenose se obaveze za otplate dugoročnog kredita i zajma koje dospevaju
+u roku do godinu dana od datuma bilansa.
+Na računu 425 - Deo ostalih dugoročnih obaveza koje
+dospevaju do jedne godine, iskazuju se obaveze po otplatama koje
+dospevaju za plaćanje u roku kraćem od 12 meseci od datuma
+izveštavanja. Na datum pod kojim se sastavlja Bilans stanja, na ovaj
+račun prenose se obaveze za otplate dugoročnih obaveza koje dospevaju u
+roku kraćem od dvanaest meseci od datuma izveštavanja.
+Na računu 426 - Obaveze po kratkoročnim hartijama od
+vrednosti, iskazuju se obaveze po emitovanim kratkoročnim hartijama od
+vrednosti u skladu sa računovodstvenom politikom.
+Na računu 427 - Obaveze po osnovu stalnih sredstava i
+sredstava obustavljenog poslovanja namenjenih prodaji, iskazuju se
+obaveze po osnovu stalnih sredstava namenjenih prodaji i sredstava
+poslovanja koje se obustavlja u skladu sa računovodstvenom politikom,
+koje se izmiruju ili gase prilikom otuđenja tih sredstava.
+Na računu 428 - Obaveze po osnovu finansijskih
+derivata, iskazuju se obaveze po osnovu finansijskih derivata, koje
+uključuju i sve efekte promene vrednosti ovih derivata evidentirane u
+okviru prihoda i rashoda ili u okviru kapitala. Na posebnim računima
+otvorenim u okviru ovog računa, iskazuju se derivati u skladu sa
+njihovom namenom.
+Na računu 429 - Ostale kratkoročne finansijske
+obaveze, iskazuju se ostale kratkoročne finansijske obaveze koje nisu
+iskazane na drugim računima grupe 42.
+Član 32
+Na računima grupe 43 - Obaveze iz poslovanja,
+iskazuju se obaveze za primljene avanse, depozite i kaucije, obaveze
+prema dobavljačima, obaveze po izdatim čekovima, obaveze po menicama i
+ostale obaveze iz poslovanja.
+Na računu 430 - Primljeni avansi, depoziti i kaucije,
+iskazuju se unapred naplaćeni iznosi i novčana obezbeđenja za obrtna
+sredstva.
+Na računu 431 - Dobavljači - matična i zavisna pravna
+lica u zemlji, iskazuju se obaveze prema dobavljačima u zemlji koji
+čine grupu pravnih lica u smislu Zakona.
+Na računu 432 - Dobavljači - matična i zavisna pravna
+lica u inostranstvu, iskazuju se obaveze prema dobavljačima u
+inostranstvu koji čine grupu pravnih lica u smislu Zakona.
+Na računu 433 - Dobavljači - ostala povezana lica u zemlji, iskazuju se obaveze prema ostalim povezanim licima u zemlji.
+Na računu 434 - Dobavljači - ostala povezana lica u
+inostranstvu, iskazuju se obaveze prema ostalim povezanim licima u
+inostranstvu.
+Na računu 435 - Dobavljači u zemlji, iskazuju se
+obaveze prema dobavljačima u zemlji, osim prema matičnom, zavisnim i
+ostalim povezanim pravnim licima.
+Na računu 436 - Dobavljači u inostranstvu, iskazuju
+se obaveze prema dobavljačima u inostranstvu, osim prema matičnom,
+zavisnim i ostalim povezanim pravnim licima.
+Na računu 439 - Ostale obaveze iz poslovanja,
+iskazuju se ostale kratkoročne obaveze iz poslovanja koje nisu iskazane
+na drugim računima ove grupe.
+Na ovom računu iskazuju se i obaveze za izdate čekove
+koji su predati poveriocima za izmirenje obaveza i obaveze po izdatim
+menicama koje su predate poveriocima za izmirenje obaveza.
+Član 33
+Na računima grupe 44 - Obaveze iz specifičnih
+poslova, iskazuju se obaveze prema uvozniku, po osnovu izvoza za tuđ
+račun, obaveze po osnovu komisione i konsignacione prodaje i ostale
+obaveze iz specifičnih poslova.
+Na računu 440 - Obaveze prema uvozniku, iskazuju se obaveze po osnovu uvoza koji je izvršio uvoznik u svoje ime i za tuđ račun.
+Na računu 441 - Obaveze po osnovu izvoza za tuđ
+račun, iskazuju se obaveze, troškovi i provizija po osnovu pojedinačnih
+izvoznih zaključaka.
+Na računu 442 - Obaveze po osnovu komisione i konsignacione prodaje, iskazuju se obaveze prema domaćem vlasniku robe.
+Na računu 449 - Ostale obaveze iz specifičnih
+poslova, iskazuju se ostale kratkoročne obaveze iz specifičnih poslova
+za koje u grupi 44 nije predviđen poseban račun, kao što su obaveze po
+osnovu zajedničkih poslova i drugih specifičnih poslova.
+Član 34
+Na računima grupe 45 - Obaveze po osnovu zarada i
+naknada zarada, iskazuju se obaveze za neto zarade i neto naknade
+zarade, kao i neto naknade zarade koja se refundira i porezi i
+doprinosi po navedenim osnovama na teret zaposlenog i na teret
+poslodavca.
+Na računu 450 - Obaveze za neto zarade i naknade
+zarada, osim naknada zarada koje se refundiraju, iskazuju se obaveze za
+neto zarade i neto naknade zarada.
+Na računu 451 - Obaveze za porez na zarade i naknade zarada na teret zaposlenog, iskazuju se obaveze prema nazivu ovog računa.
+Na računu 452 - Obaveze za doprinose na zarade i
+naknade zarada na teret zaposlenog, iskazuju se obaveze prema nazivu
+ovog računa.
+Na računu 453 - Obaveze za poreze i doprinose na
+zarade i naknade zarada na teret poslodavca, iskazuju se obaveze prema
+nazivu ovog računa.
+Na računu 454 - Obaveze za neto naknade zarada koje se refundiraju, iskazuju se obaveze prema nazivu ovog računa.
+Na računu 455 - Obaveze za poreze i doprinose na
+naknade zarada na teret zaposlenog koje se refundiraju, iskazuju se
+obaveze prema nazivu ovog računa.
+Na računu 456 - Obaveze za poreze i doprinose na
+naknade zarada na teret poslodavca koje se refundiraju, iskazuju se
+obaveze prema nazivu ovog računa.
+Član 35
+Na računima grupe 46 - Druge obaveze, iskazuju se
+obaveze za kamate, troškove finansiranja, dividende, za učešće u
+dobitku, obaveze prema zaposlenima, članovima upravnog i nadzornog
+odbora, obaveze prema fizičkim licima za naknade prema ugovorima,
+obaveze za neto prihod preduzetnika koji akontaciju podiže u toku
+godine i ostale obaveze.
+Na računu 460 - Obaveze po osnovu kamata i troškova
+finansiranja, iskazuju se obaveze po osnovu rashoda kamata i ostalih
+finansijskih rashoda.
+Na računu 461 - Obaveze za dividende, iskazuju se obaveze za dividende po osnovu raspodele dobitka.
+Na računu 462 - Obaveze za učešće u dobitku, iskazuju se obaveze po osnovu raspodele dobitka.
+Na računu 463 - Obaveze prema zaposlenima, iskazuju
+se neto obaveze prema zaposlenima po raznim osnovama, kao što su:
+otpremnina za odlazak u penziju, jubilarne nagrade, dnevnice i naknade
+troškova na službenom putu, naknade troškova prevoza na radno mesto i
+sa radnog mesta, naknade za smeštaj i ishranu na terenu i ostale
+naknade troškova zaposlenima.
+Na računu 464 - Obaveze prema direktoru, odnosno
+članovima organa upravljanja i nadzora, iskazuju se obaveze po osnovu
+primanja direktora, odnosno članova organa upravljanja i nadzora u
+skladu sa aktima pravnog lica.
+Na računu 465 - Obaveze prema fizičkim licima za
+naknade po ugovorima, iskazuju se navedene obaveze u neto iznosu
+zaduženjem odgovarajućeg računa iz grupe 52.
+Na računu 466 - Obaveze za neto prihod preduzetnika
+koji akontaciju podiže u toku godine, iskazuju se akontacije neto
+prihoda koje preduzetnik podiže u toku godine zaduženjem računa 723 -
+Lična primanja poslodavca, odnosno obaveze za neto prihod koji podiže
+po godišnjem finansijskom izveštaju, na teret računa 340 -
+Neraspoređeni dobitak ranijih godina.
+Na računu 467 - Obaveze za kratkoročna rezervisanja,
+iskazuju se kratkoročna rezervisanja za troškove i rizike koji se
+priznaju i vrednuju u skladu sa računovodstvenom politikom.
+Na računu 468 - Obaveze za prikupljena sredstva
+pomoći, iskazuju se obaveze po osnovu primljenih donacija, humanitarnih
+akcija i prikupljenih sredstava pomoći, koje pripadaju drugom pravnom
+licu, prikupljenih radi podele drugima i koja se ne iskazuju kao prihod
+već se ovaj račun zatvara sa računom na kojem su iskazana primljena
+sredstva koja se prenose primaocu pomoći.
+Na računu 469 - Ostale obaveze, iskazuju se ostale
+kratkoročne obaveze koje nisu iskazane na posebnim računima u okviru
+grupe računa 46, kao što su članarine, troškovi platnog prometa i sl.
+Član 36
+Na računima grupe 47 - Obaveze za porez na dodatu
+vrednost, iskazuju se obaveze nastale po osnovu obračunatog poreza na
+dodatu vrednost prema nazivima računa ove grupe.
+Na računu 470 - Obaveze za porez na dodatu vrednost
+po izdatim fakturama po opštoj stopi (osim primljenih avansa), obuhvata
+se zaračunati PDV po opštoj stopi odobrenjem ovog računa i zaduženjem
+računa grupe 20 ili nekog drugog računa iz klase 2.
+Na računu 471 - Obaveze za porez na dodatu vrednost
+po izdatim fakturama po posebnoj stopi (osim primljenih avansa),
+obuhvata se zaračunati PDV po posebnoj stopi odobrenjem ovog računa i
+zaduženjem računa grupe 20 ili nekog drugog računa iz klase 2.
+Na računu 472 - Obaveze za porez na dodatu vrednost
+po primljenim avansima po opštoj stopi, obuhvata se zaračunati PDV po
+opštoj stopi u primljenim avansima odobrenjem ovog računa i računa
+primljenih avansa (za primljeni iznos umanjen za PDV) a zaduženjem za
+primljeni iznos računa grupe 24.
+Na računu 473 - Obaveze za porez na dodatu vrednost
+po primljenim avansima po posebnoj stopi obuhvata se zaračunati PDV po
+posebnoj stopi u primljenim avansima odobrenjem ovog računa i računa
+primljenih avansa (za primljeni iznos umanjen za PDV) a zaduženjem za
+primljeni iznos računa grupe 24.
+Na računu 474 - Obaveze za porez na dodatu vrednost
+po osnovu sopstvene potrošnje po opštoj stopi, obuhvata se zaračunati
+PDV po opštoj stopi koji je obračunat po osnovu sopstvene potrošnje
+dobara i usluga na koju se obračunava PDV.
+Na računu 475 - Obaveze za porez na dodatu vrednost
+po osnovu sopstvene potrošnje po posebnoj stopi, obuhvata se zaračunati
+PDV po posebnoj stopi koji je obračunat po osnovu sopstvene potrošnje
+dobara ili usluga na koju se obračunava PDV.
+Na računu 476 - Obaveze za porez na dodatu vrednost
+po osnovu prodaje za gotovinu, obuhvata se zaračunati PDV po opštoj i
+posebnoj stopi koji je obračunat po osnovu prodaje dobara i usluga za
+gotovinu.
+Na računu 479 - Obaveze za porez na dodatu vrednost
+po osnovu razlike obračunatog PDV i prethodnog poreza, obuhvata se
+razlika između prethodnog poreza (iskazanog na računima grupe 27) i
+iznosa poreza na dodatu vrednost iskazanu u izlaznim fakturama
+preduzeća (iskazanog na računima grupe 47), pod uslovom da je stanje
+iskazano na računima grupe 47 veće od stanja iskazanog na računima
+grupe 27.
+Na posebnim računima otvorenim u okviru računa grupe 47, iskazuju se razgraničene obaveze za PDV.
+Član 37
+Na računima grupe 48 - Obaveze za ostale poreze,
+doprinose i druge dažbine, iskazuju se obaveze za akcize, obaveze za
+poreze i doprinose koji terete troškove, obaveze za porez iz rezultata
+i ostale obaveze za poreze i doprinose i druge dažbine.
+Dugovna salda na računima ove grupe utvrđena na datum
+pod kojim se sastavlja Bilans stanja iskazuju se na računu 224 -
+Potraživanja po osnovu preplaćenih ostalih poreza i doprinosa.
+Na računu 480 - Obaveze za akcize, iskazuju se akcize
+koji se naplaćuju uz prodajnu cenu proizvoda, robe i usluga, zaduženjem
+odgovarajućeg računa potraživanja, zaliha i sl.
+Na računu 481 - Obaveze za porez iz rezultata, iskazuje se obračunati porez na dobitak.
+Na računu 482 - Obaveze za poreze, carine i druge
+dažbine iz nabavke ili na teret troškova, iskazuju se porezi, carine i
+druge dažbine koji čine zavisne troškove nabavke zaliha i osnovnih
+sredstava, odnosno koji se nadoknađuju neposredno na teret troškova.
+Na računu 483 - Obaveze za doprinose koji terete
+troškove, iskazuju se obaveze za doprinose za preduzetnika i vlasnika
+pravnog lica.
+Na računu 489 - Ostale obaveze za poreze, doprinose i
+druge dažbine, iskazuju se obaveze za ostale poreze, doprinose i
+dažbine koji nisu iskazani na posebnim računima u okviru grupe računa
+48, kao što su obaveze za poreze i doprinose koji su obračunati po
+ugovoru o delu, ugovoru o autorstvu, drugim ugovorima uz naknadu,
+obaveze za takse, obaveze za naknade za nedovoljan broj zaposlenih
+osoba sa invaliditetom, obaveze za ostale naknade i slične obaveze.
+Član 38
+Na računima grupe 49 - Pasivna vremenska
+razgraničenja, iskazuju se unapred naplaćeni, odnosno obračunati
+prihodi i troškovi tekućeg perioda za koje nije primljena isprava, ili
+kad obaveza plaćanja nastaje u budućem periodu, kao i odložene poreske
+obaveze i razgraničene obaveze za porez na dodatu vrednost.
+Na računu 490 - Unapred obračunati troškovi, iskazuju
+se obračunati troškovi koji terete tekući obračunski period, a nisu
+fakturisani, kao što su obračunati troškovi zakupnine, grejanja,
+obračunate kamate i ostali troškovi koji nisu fakturisani u periodu na
+koji se odnose.
+Na računu 491 - Unapred naplaćeni prihodi, iskazuju
+se naplaćeni ili obračunati prihodi u tekućem periodu koji se odnose na
+naredni izveštajni period.
+Na računu 494 - Razgraničeni zavisni troškovi
+nabavke, iskazuju se zavisni troškovi nabavke osnovnih sredstava, robe,
+materijala, rezervnih delova i sl. koji nisu fakturisani u momentu
+evidentiranja nabavke.
+Na računu 495 - Odloženi prihodi i primljene
+donacije, iskazuju se primljene donacije i državna davanja u skladu sa
+računovodstvenom politikom.
+Na računu 496 - Razgraničeni prihodi po osnovu
+potraživanja, iskazuju se prihodi od naplate transakcionih troškova po
+osnovu datih kredita, kupljenih hartija od vrednosti i drugih plasmana.
+Na računu 498 - Odložene poreske obaveze, iskazuju se
+iznosi poreza na dobitak koji su plativi u narednim periodima po osnovu
+oporezivih privremenih razlika u skladu sa računovodstvenom politikom.
+Na računu 499 - Ostala pasivna vremenska
+razgraničenja, iskazuju se ostala pasivna vremenska razgraničenja koja
+nisu iskazana na posebnim računima u okviru grupe 49.
+Klasa 5: Rashodi
+Član 39
+Na računima grupe 50 - Nabavna vrednost prodate robe,
+iskazuje se nabavka robe, nabavna vrednost prodate robe i nabavna
+vrednost prodatih nekretnina pribavljenih radi prodaje.
+Na računu 500 - Nabavka robe, iskazuje se nabavka robe kada se podaci o stanju, nabavci i prodaji robe vode na računu 911.
+Na računu 501 - Nabavna vrednost prodate robe,
+iskazuje se nabavna vrednost prodate robe, osim nabavne vrednosti
+stalnih sredstava pribavljenih radi prodaje.
+Na računu 502 - Nabavna vrednost nekretnina
+pribavljenih radi prodaje, iskazuje se nabavna vrednost prodatih
+nekretnina zaduženjem ovog računa u korist odgovarajućeg računa grupe
+14.
+Na računu 503 - Nabavna vrednost ostalih stalnih
+sredstava namenjenih prodaji, iskazuje se nabavna vrednost ostalih
+stalnih sredstava koja su namenjena daljoj prodaji zaduženjem ovog
+računa u korist odgovarajućih računa grupe 14.
+Član 40
+Na računima grupe 51 - Troškovi materijala i
+energije, iskazuju se nabavka i troškovi materijala za izradu, troškovi
+ostalog materijala i troškovi goriva i energije.
+Na računu 510 - Nabavka materijala, iskazuje se
+nabavka materijala kada se podaci o stanju, nabavci i troškovima
+materijala vode na računu 910.
+Na računu 511 - Troškovi materijala za izradu, iskazuju se troškovi materijala za izradu.
+Na računu 512 - Troškovi ostalog materijala (režijskog), iskazuju se troškovi režijskog materijala.
+Na računu 513 - Troškovi goriva i energije, iskazuju se troškovi goriva i energije.
+Na računu 514 - Troškovi rezervnih delova, iskazuju
+se troškovi rezervnih delova utrošenih za tekuće održavanje nekretnina,
+postrojenja i opreme.
+Na računu 515 - Troškovi jednokratnog otpisa alata i
+inventara, iskazuju se troškovi alata i sitnog inventara koji je
+stavljen u upotrebu.
+Član 41
+Na računima grupe 52 - Troškovi zarada, naknada
+zarada i ostali lični rashodi, evidentiraju se troškovi po osnovu
+obračunatih zarada, naknada zarada i drugih primanja zaposlenih, kao i
+troškovi po osnovu obračunatih naknada po ugovorima sa fizičkim licima.
+Na računu 520 - Troškovi zarada i naknada zarada
+(bruto), iskazuju se troškovi obračunatih zarada i ostali lični rashodi
+u skladu sa propisima kojima se uređuju radni odnosi. U okviru ovog
+računa mogu se otvoriti posebni analitički računi kako bi se obezbedili
+podaci o troškovima neto zarade, poreza i doprinosa.
+Na računu 521 - Troškovi poreza i doprinosa na zarade
+i naknade zarada na teret poslodavca, iskazuju se troškovi poreza i
+doprinosa.
+Na računu 522 - Troškovi naknada po ugovoru o delu, iskazuju se ukupni troškovi naknada po ugovoru o delu.
+Na računu 523 - Troškovi naknada po autorskim ugovorima, iskazuju se ukupni troškovi naknada po osnovu autorskih ugovora.
+Na računu 524 - Troškovi naknada po ugovoru o
+privremenim i povremenim poslovima, iskazuju se ukupni troškovi naknada
+po osnovu privremenih i povremenih poslova.
+Na računu 525 - Troškovi naknada fizičkim licima po
+osnovu ostalih ugovora, iskazuju se ukupni troškovi naknada fizičkim
+licima po napred nepomenutim ugovorima.
+Na računu 526 - Troškovi naknada direktoru, odnosno
+članovima organa upravljanja i nadzora, iskazuju se ukupni troškovi
+naknada direktoru, odnosno članovima organa upravljanja i nadzora.
+Na računu 528 - Troškovi angažovanja zaposlenih preko
+agencija i zadruga, iskazuju se ukupni troškovi angažovanja zaposlenih
+preko agencija za zapošljavanje i omladinskih i drugih zadruga.
+Na računu 529 - Ostali lični rashodi i naknade,
+iskazuju se ukupni troškovi ostalih ličnih rashoda i naknada kao što su
+otpremnina za odlazak u penziju, jubilarne nagrade, naknade troškova
+smeštaja i ishrane na službenom putu, naknade troškova prevoza na
+službenom putu, naknade troškova prevoza na radno mesto i sa radnog
+mesta, naknade za smeštaj i ishranu na terenu, i ostale naknade
+troškova zaposlenima, poslodavcima i drugim fizičkim licima.
+Član 42
+Na računima grupe 53 - Troškovi proizvodnih usluga,
+iskazuju se proizvodne usluge na izradi učinaka, transportne usluge,
+usluge održavanja, zakupnine, troškovi sajmova, reklame i propagande,
+troškovi istraživanja i ostale proizvodne usluge.
+Na računu 530 - Troškovi usluga na izradi učinaka,
+iskazuju se usluge na izradi proizvoda, odnosno učinaka koji su
+sastavni deo procesa proizvodnje.
+Na računu 531 - Troškovi transportnih usluga, iskazuju se transportne usluge drugih pravnih lica i preduzetnika.
+Na računu 532 - Troškovi usluga održavanja, iskazuju
+se troškovi održavanja nekretnina, postrojenja i opreme, nematerijalne
+imovine i bioloških sredstava, koji se ne kapitalizuju.
+Na računu 533 - Troškovi zakupa, iskazuju se
+zakupnine osnovnih sredstava (opreme i poslovnog, skladišnog i drugog
+prostora). Na ovom računu iskazuju se i troškovi zakupa nematerijalne
+imovine i bioloških sredstava.
+Na računu 534 - Troškovi sajmova, iskazuju se
+troškovi koji nastaju u vezi sa izlaganjem na sajmovima i drugim
+izložbama proizvoda, robe i usluga u zemlji i inostranstvu.
+Na računu 535 - Troškovi reklame i propagande,
+iskazuju se usluge po osnovu izvršene reklame i propagande, kao i
+troškovi po osnovu reklamnog i propagandnog materijala.
+Na računu 536 - Troškovi istraživanja, iskazuju se troškovi istraživanja.
+Na računu 537 - Troškovi razvoja koji se ne
+kapitalizuju, iskazuju se troškovi razvoja koji ne ispunjavaju uslove
+da se kapitalizuju, u skladu sa računovodstvenom politikom.
+Na računu 539 - Troškovi ostalih proizvodnih usluga,
+iskazuju se ostale proizvodne usluge, usluge zaštite na radu, komunalne
+usluge, usluge u prometu, troškovi registracije vozila i mašina,
+troškovi korišćenja auto puta i troškovi za ostale proizvodne usluge
+koje nisu iskazane na posebnim računima u okviru grupe računa 53.
+Član 43
+Na računima grupe 54 - Troškovi amortizacije i
+rezervisanja, iskazuju se troškovi amortizacije nematerijalnih ulaganja
+i osnovnih sredstava i troškovi rezervisanja u skladu sa
+računovodstvenom politikom pravnog lica i preduzetnika.
+Na računu 540 - Troškovi amortizacije, iskazuju se
+troškovi amortizacije nematerijalnih ulaganja i osnovnih sredstava
+obračunati prema računovodstvenoj politici pravnog lica i preduzetnika.
+Na računima 541, 542, 543, 544, 545 i 549 - troškovi
+rezervisanja prema nazivima računa, iskazuju se rezervisanja za
+troškove u garantnom roku, za zadržane kaucije i depozite i za
+obnavljanje prirodnih bogatstava, za restrukturiranje pravnog lica i
+preduzetnika, isplatu naknada i drugih beneficija zaposlenima i ostala
+rezervisanja u korist odgovarajućih računa grupe 40 i računa 467.
+Član 44
+Na računima grupe 55 - Nematerijalni troškovi,
+iskazuju se troškovi neproizvodnih usluga, reprezentacije, premija
+osiguranja, troškovi platnog prometa, članarina, poreza, doprinosa i
+ostali nematerijalni troškovi.
+Na računu 550 - Troškovi neproizvodnih usluga,
+iskazuju se troškovi advokatskih usluga, usluga revizije, usluga
+konsaltinga, zdravstvenih usluga, usluga stručnog obrazovanja i
+usavršavanja zaposlenih i sl.
+Na računu 551 - Troškovi reprezentacije, iskazuju se
+izdaci za reprezentaciju, uključujući i vrednost sopstvenih proizvoda,
+robe i usluga.
+Na računu 552 - Troškovi premija osiguranja, iskazuju
+se troškovi premija osiguranja, osim premija po osnovu osiguranja
+života zaposlenih.
+Na računu 553 - Troškovi platnog prometa, iskazuju se
+usluge platnog prometa i druge bankarske usluge koje se plaćaju za
+obavljeni platni promet i izvršene druge bankarske usluge.
+Na računu 554 - Troškovi članarina, iskazuju se članarine poslovnim i drugim udruženjima, komorama i zadružnim savezima.
+Na računu 555 - Troškovi poreza i naknada, iskazuju
+se troškovi poreza i naknada koji se naknađuju na teret troškova u
+korist računa 482. Troškovi poreza i naknada uključuju sledeće: porez
+na imovinu, porez na upotrebu, držanje i nošenje dobara (motornih
+vozila, čamaca, aviona, ostalih letelica i oružja), naknadu za
+korišćenje prirodnog lekovitog faktora u banji, naknadu za korišćenje
+voda, naknadu za zaštitu voda i naknadu za izvađeni materijal iz
+vodotoka, naknadu za eksploataciju šuma i korišćenje ostalih šumskih
+proizvoda, naknadu za eksploataciju rudnog bogatstva, naknadu za
+korišćenje nacionalnih parkova, naknadu za korišćenje ribarskog
+područja, naknadu za puteve prilikom registracije vozila i naknadu za
+pristup i priključenje na magistralni i regionalni put i korišćenje
+objekata i zemljišta koje pripada tom putu, naknadu za građevinsko
+zemljište, akcizu plaćenu puštanjem u promet proizvoda, troškove PDV-a
+na koji obveznik nema pravo odbitka, niti mogućnosti da ih uključi u
+nabavnu vrednost nekog sredstva, druge poreze i naknade koje imaju
+karakter troškova (razne vrste taksi i sl.).
+Na računu 556 - Troškovi doprinosa, iskazuju se doprinosi koji terete troškove.
+Na računu 559 - Ostali nematerijalni troškovi,
+iskazuju se ostali troškovi za koje nije propisan poseban račun u
+okviru grupe računa 55 (troškovi oglasa u štampi i drugim medijima
+(osim za reklamu i propagandu), takse (administrativne, sudske,
+registracione, konzularne, lokalne i dr.), pretplate na časopise i
+ostali nematerijalni troškovi).
+Član 45
+Na računima grupe 56 - Finansijski rashodi, iskazuju
+se rashodi po osnovu kamata, kursnih razlika, negativni efekti po
+osnovu valutne klauzule i ostali finansijski rashodi.
+Na računu 560 - Finansijski rashodi iz odnosa sa
+matičnim i zavisnim pravnim licima, iskazuju se rashodi po osnovu
+kamata i kursnih razlika i ostali finansijski rashodi iz odnosa pravnih
+lica koja čine grupu pravnih lica u smislu Zakona.
+Na računu 561 - Finansijski rashodi iz odnosa sa
+ostalim povezanim licima, iskazuju se rashodi po osnovu kamata i
+kursnih razlika i ostali finansijski rashodi iz odnosa sa ostalim
+povezanim licima.
+Na računu 562 - Rashodi kamata (prema trećim licima),
+iskazuju se rashodi kamata po kreditima, po obavezama iz
+dužničko-poverilačkih odnosa, zatezne i druge kamate, osim kamata po
+osnovu obaveza prema matičnom, zavisnim i ostalim povezanim pravnim
+licima.
+Na ovom računu iskazuju se kod primaoca lizinga rashodi kamata po lizingu.
+Na računu 563 - Negativne kursne razlike (prema
+trećim licima), iskazuju se negativne kursne razlike nastale u
+obračunskom periodu, osim kursnih razlika iz odnosa prema matičnom,
+zavisnim i ostalim povezanim licima.
+Na računu 564 - Rashodi po osnovu efekata valutne
+klauzule (prema trećim licima), iskazuju se negativni efekti proistekli
+iz zaštite potraživanja, plasmana i obaveza valutnom klauzulom, osim
+rashoda po osnovu efekata valutne klauzule iz odnosa prema matičnom,
+zavisnim i ostalim povezanim licima.
+Na računu 565 - Rashodi od učešća u gubitku
+pridruženih pravnih lica i zajedničkih poduhvata, koji se obračunavaju
+korišćenjem metoda udela, iskazuju se rashodi od učešća u gubitku
+pridruženih pravnih lica i zajedničkih poduhvata.
+Na računu 569 - Ostali finansijski rashodi, iskazuju
+se ostali finansijski rashodi za koje nisu propisani posebni računi u
+grupi 56.
+Član 46
+Na računima grupe 57 - Ostali rashodi, iskazuju se
+gubici po osnovu prodaje i rashodovanja nekretnina, postrojenja i
+opreme i nematerijalnih ulaganja, gubici po osnovu rashodovanja i
+prodaje bioloških sredstava, gubici po osnovu prodaje hartija od
+vrednosti i učešća u kapitalu pravnih lica, gubici od prodaje
+materijala, manjkovi, rashodi po osnovu efekata ugovorene zaštite od
+rizika, rashodi po osnovu direktnih otpisa potraživanja, rashodi po
+osnovu rashodovanja zaliha i ostali nepomenuti rashodi.
+Na računima grupe 57 iskazuju se i gubici po osnovu
+prodaje stalnih sredstava namenjenih prodaji, u smislu MSFI 5,
+iskazanih na računima grupe 14, u iznosu manjem od neotpisane
+vrednosti.
+Na računu 570 - Gubici po osnovu rashodovanja i
+prodaje nematerijalne imovine, nekretnina, postrojenja i opreme,
+iskazuje se neotpisana vrednost i dodatni troškovi rashodovane i
+otpisane nematerijalne imovine, nekretnina, postrojenja i opreme koji
+nisu pokriveni prihodom od prodaje, zaduženjem ovog računa, računa
+ispravke vrednosti u okviru grupe računa 01 i 02, računa potraživanja
+za izvršenu prodaju i računa 330 - Revalorizacione rezerve po osnovu
+revalorizacije nematerijalne imovine, nekretnina, postrojenja i opreme
+(ako su prethodno formirane za konkretno sredstvo), u korist
+odgovarajućeg računa na kojem se vode nematerijalna imovina,
+nekretnine, postrojenja i oprema.
+Na računu 571 - Gubici po osnovu rashodovanja i
+prodaje bioloških sredstava, iskazuje se neotpisana vrednost i dodatni
+troškovi otpisanih bioloških sredstava koji nisu pokriveni prihodom od
+prodaje.
+Na računu 572 - Gubici po osnovu rashodovanja i
+prodaje učešća u kapitalu i hartija od vrednosti, iskazuje se manje
+ostvaren iznos prihoda od prodaje učešća i hartija od vrednosti u
+odnosu na njihovu knjigovodstvenu vrednost.
+Na računu 573 - Gubici od prodaje materijala,
+iskazuje se manje ostvaren iznos prihoda od prodaje materijala u odnosu
+na njegovu knjigovodstvenu vrednost.
+Na računu 574 - Manjkovi, iskazuju se manjkovi
+sredstava koji se utvrde na osnovu redovnog i vanrednog popisa.
+Manjkovi učinaka (nedovršene proizvodnje i gotovih proizvoda) koji se
+evidentiraju na računima troškova i učinaka u klasi 9, knjiže se na
+računima te klase zaduženjem računa 983 u korist računa na kojima se
+iskazuju ti učinci (računi grupa 91, 95 i 96). U finansijskom
+knjigovodstvu manjkovi učinaka knjiže se zaduženjem računa 574 u korist
+računa 630.
+Na računu 575 - Rashodi po osnovu efekata ugovorene
+zaštite od rizika, koji ne ispunjavaju uslove da se iskažu u okviru
+ostalog rezultata (sveobuhvatnog dobitka ili gubitka), iskazuje se
+negativan efekat ugovorene revalorizacije ili ostalih oblika ugovorene
+zaštite od rizika, osim efekata po osnovu valutne klauzule.
+Na računu 576 - Rashodi po osnovu direktnih otpisa
+potraživanja, iskazuju se rashodi po osnovu direktnih otpisa
+potraživanja čija je nenaplativost dokumentovana.
+Na računu 577 - Rashodi po osnovu rashodovanja
+zaliha, iskazuju se rashodi po osnovu kala, rastura, kvara, loma i sl.
+zaliha. Rashodi učinaka koji se evidentiraju na računima troškova i
+učinaka u klasi 9, knjiže se na računima te klase zaduženjem računa 983
+u korist računa na kojima se iskazuju ti učinci (računi grupa 91, 95 i
+96). U finansijskom knjigovodstvu rashodi učinaka knjiže se zaduženjem
+računa 577 u korist računa 630.
+Na računu 579 - Ostali nepomenuti rashodi, iskazuju
+se ostali rashodi za koje nije propisan poseban račun u okviru računa
+grupe 57.
+Član 47
+Na računima grupe 58 - Rashodi od usklađivanja
+vrednosti imovine, iskazuju se negativni efekti vrednosnih usklađivanja
+nematerijalne imovine, nekretnina, postrojenja, opreme i bioloških
+sredstava, dugoročnih i kratkoročnih finansijskih plasmana, zaliha,
+hartija od vrednosti koje se vrednuju po fer vrednosti kroz ostali
+ukupan rezultat, potraživanja, finansijskih derivata i finansijskih
+sredstava u skladu sa računovodstvenom politikom.
+Na računima ove grupe iskazuje se i negativan efekat promene fer vrednosti sredstava, u skladu sa računovodstvenom politikom.
+Član 48
+Na računima grupe 59 - Gubitak poslovanja koje se
+obustavlja, efekti promene računovodstvene politike, ispravke grešaka
+ranijih perioda i prenos rashoda, iskazuju se rashodi prema nazivima
+računa ove grupe i prenos ukupnih rashoda na kraju izveštajnog perioda.
+Na računu 590 - Gubitak poslovanja koje se
+obustavlja, iskazuju se gubici organizacionih delova za koje je doneta
+odluka o obustavljanju poslovanja.
+Na računu 591 - Rashodi po osnovu efekata promene
+računovodstvenih politika, iskazuju se efekti promena računovodstvene
+politike koji nisu materijalno značajni.
+Na računu 592 - Rashodi po osnovu ispravki grešaka iz
+ranijih godina koje nisu materijalno značajne, iskazuju se efekti
+ispravke grešaka iz ranijih godina koje nisu materijalno značajne.
+Na računu 599 - Prenos rashoda, iskazuju se efekti
+zatvaranja klase 5, koje se vrši na kraju izveštajnog perioda
+zaduživanjem ovog računa i odobravanjem svih računa klase 5. Nakon
+toga, vrši se prenos rashoda na teret odgovarajućih računa u grupi 71.
+Na kraju godine vrši se zaključivanje ovog računa njegovim zaduženjem u
+korist računa grupe 50 do 59, osim računa 599 - Prenos rashoda.
+Klasa 6: Prihodi
+Član 49
+Na računima grupe 60 - Prihodi od prodaje robe,
+iskazuju se prihodi od prodaje robe na domaćem i inostranom tržištu
+prema nazivima ovih računa.
+Na računu 600 - Prihodi od prodaje robe matičnom i
+zavisnim pravnim licima na domaćem tržištu, iskazuju se prihodi po
+osnovu prodaje robe pravnim licima na domaćem tržištu koja čine grupu
+pravnih lica u smislu Zakona.
+Na računu 601 - Prihodi od prodaje robe matičnom i
+zavisnim pravnim licima na inostranom tržištu, iskazuju se prihodi po
+osnovu prodaje robe pravnim licima na inostranom tržištu koja čine
+grupu pravnih lica u smislu Zakona.
+Na računu 602 - Prihodi od prodaje robe ostalim
+povezanim licima na domaćem tržištu iskazuju se prihodi po osnovu
+prodaje robe ostalim povezanim licima na domaćem tržištu.
+Na računu 603 - Prihodi od prodaje robe ostalim
+povezanim licima na inostranom tržištu iskazuju se prihodi po osnovu
+prodaje robe ostalim povezanim pravnim licima na inostranom tržištu.
+Na računu 604 - Prihodi od prodaje robe na domaćem
+tržištu, iskazuju se prihodi od prodaje robe na domaćem tržištu, osim
+prihoda od prodaje robe pravnim licima koja čine grupu pravnih lica i
+ostalim povezanim licima.
+Na ovom računu iskazuju se kod davaoca lizinga prihodi od davanja sredstava u finansijski lizing.
+Na računu 605 - Prihodi od prodaje robe na inostranom
+tržištu, iskazuju se prihodi od prodaje robe na inostranom tržištu,
+osim prihoda od prodaje robe pravnim licima koja čine grupu pravnih
+lica i ostalim povezanim licima.
+Član 50
+Na računima grupe 61 - Prihodi od prodaje proizvoda i
+usluga, iskazuju se prihodi od prodaje proizvoda i usluga na domaćem i
+inostranom tržištu.
+Na računu 610 - Prihodi od prodaje proizvoda i usluga
+matičnom i zavisnim pravnim licima na domaćem tržištu, iskazuju se
+prihodi po osnovu prodaje proizvoda i usluga pravnim licima na domaćem
+tržištu koja čine grupu pravnih lica u smislu Zakona.
+Na računu 611 - Prihodi od prodaje proizvoda i usluga
+matičnom i zavisnim pravnim licima na inostranom tržištu, iskazuju se
+prihodi po osnovu prodaje proizvoda i usluga pravnim licima na
+inostranom tržištu koja čine grupu pravnih lica u smislu Zakona.
+Na računu 612 - Prihodi od prodaje proizvoda i usluga
+ostalim povezanim licima na domaćem tržištu, iskazuju se prihodi po
+osnovu prodaje proizvoda i usluga ostalim povezanim licima na domaćem
+tržištu.
+Na računu 613 - Prihodi od prodaje proizvoda i usluga
+ostalim povezanim licima na inostranom tržištu, iskazuju se prihodi po
+osnovu prodaje proizvoda i usluga ostalim povezanim licima na
+inostranom tržištu.
+Na računu 614 - Prihodi od prodaje proizvoda i usluga
+na domaćem tržištu, iskazuju se prihodi od prodaje proizvoda i usluga
+na domaćem tržištu, osim prihoda od prodaje proizvoda i usluga pravnim
+licima koja čine grupu pravnih lica i ostalim povezanim licima.
+Na računu 615 - Prihodi od prodaje proizvoda i usluga
+na inostranom tržištu, iskazuju se prihodi od prodaje proizvoda i
+usluga na inostranom tržištu, osim prihoda od prodaje proizvoda i
+usluga pravnim licima koja čine grupu pravnih lica i ostalim povezanim
+licima.
+Član 51
+Na računima grupe 62 - Prihodi od aktiviranja učinaka
+i robe, iskazuju se prihodi po osnovu upotrebe robe, proizvoda i usluga
+za nematerijalnu imovinu, nekretnine, postrojenja, opremu, biološka
+sredstva, materijal, sopstveni transport nabavke materijala i robe, kao
+i za reprezentaciju.
+Na računu 620 - Prihodi od aktiviranja ili potrošnje
+robe za sopstvene potrebe, iskazuju se prihodi po osnovu upotrebe robe
+za nematerijalnu imovinu, nekretnine, postrojenja, opremu, biološka
+sredstva, materijal i rezervne delove, kao i za reprezentaciju.
+Na računu 621 - Prihodi od aktiviranja ili potrošnje
+proizvoda i usluga za sopstvene potrebe, iskazuju se prihodi po osnovu
+upotrebe proizvoda i usluga za nematerijalnu imovinu, nekretnine,
+postrojenja, opremu, biološka sredstva, materijal i rezervne delove i
+sopstveni transport nabavke materijala i robe, kao i za reprezentaciju.
+Član 52
+Na računima grupe 63 - Promena vrednosti zaliha
+učinaka, iskazuje se povećanje ili smanjenje vrednosti zaliha
+nedovršene proizvodnje, nedovršenih usluga i gotovih proizvoda na kraju
+izveštajnog perioda u odnosu na početak perioda.
+Na računu 630 - Povećanje vrednosti zaliha nedovršene
+proizvodnje i usluga i gotovih proizvoda, iskazuje se povećanje
+vrednosti zaliha nedovršene proizvodnje, nedovršenih usluga i gotovih
+proizvoda na kraju izveštajnog perioda u odnosu na početak perioda,
+zaduženjem računa 110, 111 i 120.
+Na računu 631 - Smanjenje vrednosti zaliha nedovršene
+proizvodnje i usluga i gotovih proizvoda, iskazuje se smanjenje
+vrednosti zaliha nedovršene proizvodnje, nedovršenih usluga i gotovih
+proizvoda na kraju izveštajnog perioda u odnosu na početak perioda,
+odobrenjem računa 110, 111 i 120.
+Član 53
+Na računima grupe 64 - Prihodi od premija,
+subvencija, dotacija, donacija i sl., iskazuju se prihodi po osnovu
+potraživanja od državnih organa i organizacija od premija, subvencija,
+dotacija, regresa, kompenzacija i povraćaja poreskih dažbina.
+Na računu 640 - Prihodi od premija, subvencija, dotacija, regresa, kompenzacija i povraćaja poreskih dažbina
+Na računu 641 - Prihod po osnovu uslovljenih
+donacija, iskazuju se ukidanja odloženih prihoda, u skladu sa
+računovodstvenom politikom.
+Na računu 642 - Prihodi od donacija, dotacija,
+subvencija i sl. iz republičkog budžeta, iskazuju se navedeni prihodi
+drugih pravnih lica koji su ostvareni iz republičkog budžeta.
+Na računu 643 - Prihodi od donacija, dotacija,
+subvencija i sl. iz budžeta autonomne pokrajine ili lokalne samouprave,
+iskazuju se navedeni prihodi drugih pravnih lica koji su ostvareni iz
+budžeta autonomne pokrajine, odnosno lokalne samouprave.
+Na računu 644 - Prihodi od donacija, dotacija i sl.
+od inostranih vlada i međunarodnih organizacija, iskazuju se pomenuti
+prihodi drugih pravnih lica od strane inostranih vlada i međunarodnih
+organizacija.
+Na računu 645 - Prihodi od donacija, dotacija i sl.
+od domaćih privrednih društava, preduzetnika i drugih pravnih lica,
+iskazuju se pomenuti prihodi drugih pravnih lica od strane domaćih
+pravnih lica i preduzetnika.
+Na računu 646 - Prihodi od donacija, dotacija i sl.
+od fizičkih lica iz zemlje i inostranstva, iskazuju se pomenuti prihodi
+drugih pravnih lica od strane domaćih i stranih fizičkih lica.
+Na računu 649 - Ostali prihodi od donacija, dotacija,
+subvencija i sl., iskazuju se ostali prihodi za koje nije predviđen
+poseban račun u okviru računa grupe 64.
+Član 54
+Na računima grupe 65 - Drugi poslovni prihodi,
+iskazuju se prihodi po osnovu zakupnina, članarina i članskih doprinosa
+poslovnih i drugih udruženja, tantijema i ostali poslovni prihodi.
+Na računu 650 - Prihodi od zakupa, iskazuju se
+prihodi po osnovu davanja u zakup (operativnog lizinga) nematerijalnih
+ulaganja, nekretnina, postrojenja i opreme i bioloških sredstava.
+Na računu 651 - Prihodi od članarina, iskazuju se prihodi od članarine poslovnih i drugih udruženja.
+Na računu 652 - Prihodi od tantijema i licencnih
+naknada, iskazuju se prihodi od naknada po osnovu patenata, žigova,
+autorskih i ostalih prava.
+Na računu 653 - Prihodi od članskih doprinosa, iskazuju se prihodi od članskih doprinosa poslovnih i drugih udruženja.
+Na računu 654 - Prihodi po posebnim propisima iz
+budžeta, iskazuju se prihodi ostvareni iz budžeta u skladu sa iznosima
+utvrđenim po posebnim propisima.
+Na računu 655 - Prihodi po posebnim propisima iz
+ostalih izvora, iskazuju se prihodi ostvareni iz ostalih izvora
+finansiranja predviđenih posebnim propisima.
+Na računu 659 - Ostali poslovni prihodi, iskazuju se
+ostali poslovni prihodi za koje nije predviđen poseban račun u okviru
+računa grupe 65.
+Član 55
+Na računima grupe 66 - Finansijski prihodi, iskazuju
+se prihodi od kamata, kursnih razlika, prihodi po osnovu efekata
+valutne klauzule, dividendi i ostali finansijski prihodi.
+Na računu 660 - Finansijski prihodi od matičnog i
+zavisnih pravnih lica, iskazuju se prihodi od kamata, pozitivnih
+kursnih razlika, dividendi i ostali finansijski prihodi pravnih lica
+koja čine grupu pravnih lica u smislu Zakona, osim udela u dobitku
+zavisnih pravnih lica i zajedničkih ulaganja, koji se obračunava
+korišćenjem metoda udela.
+Na računu 661 - Finansijski prihodi od ostalih
+povezanih lica, iskazuju se prihodi od kamata, pozitivnih kursnih
+razlika, dividendi i ostali finansijski prihodi ostalih povezanih lica.
+Na računu 662 - Prihodi od kamata (od trećih lica),
+iskazuju se prihodi od kamata po datim kreditima trećim licima, po
+potraživanjima iz dužničko-poverilačkih odnosa, zateznim i drugim
+kamatama, osim kamata po osnovu obaveza prema matičnom i zavisnim i
+ostalim povezanim pravnim licima.
+Na ovom računu iskazuju se kod davaoca lizinga prihodi od kamata po finansijskom lizingu.
+Na računu 663 - Pozitivne kursne razlike (prema
+trećim licima), iskazuju se pozitivne kursne razlike po osnovu
+potraživanja i obaveza u obračunskom periodu, osim kursnih razlika iz
+odnosa prema matičnom i zavisnim i ostalim povezanim pravnim licima.
+Na računu 664 - Prihodi po osnovu efekata valutne
+klauzule (prema trećim licima), iskazuju se pozitivni efekti proistekli
+iz zaštite potraživanja, plasmana i obaveza valutnom klauzulom.
+Na računu 665 - Prihodi od učešća u dobitku
+pridruženih pravnih lica i zajedničkih poduhvata, iskazuju se prihodi
+od učešća u dobitku pridruženih pravnih lica i zajedničkih poduhvata,
+koji se obračunavaju korišćenjem metoda udela.
+Na računu 669 - Ostali finansijski prihodi, iskazuju
+se finansijski prihodi za koje nije propisan poseban račun u okviru
+računa grupe 66.
+Član 56
+Na računima grupe 67 - Ostali prihodi, iskazuju se
+dobici po osnovu prodaje nekretnina, postrojenja i opreme (osnovnih
+sredstava) i nematerijalnih ulaganja, dobici od prodaje bioloških
+sredstava, dobici po osnovu prodaje dugoročnih hartija od vrednosti i
+učešća u kapitalu, dobici od prodaje materijala, naplaćena otpisana
+potraživanja, viškovi, prihodi po osnovu efekata ugovorene zaštite od
+rizika, prihodi od smanjenja obaveza, prihodi od ukidanja dugoročnih
+rezervisanja i ostali nepomenuti prihodi.
+Na računima grupe 67 iskazuju se takođe i dobici po
+osnovu prodaje stalnih sredstava namenjenih prodaji, u smislu MSFI 5,
+iskazani na računima grupe 14, u iznosu većem od neotpisane vrednosti.
+Na računu 670 - Dobici od prodaje nematerijalne
+imovine, nekretnina, postrojenja i opreme, iskazuje se prihod od
+prodaje ovih oblika imovine u iznosu većem od neotpisane vrednosti.
+Na računu 671 - Dobici od prodaje bioloških
+sredstava, iskazuje se prihod od prodaje bioloških sredstava u iznosu
+većem od neotpisane vrednosti.
+Na računu 672 - Dobici od prodaje učešća i hartija od
+vrednosti, iskazuje se više ostvaren iznos prihoda od prodaje učešća i
+hartija od vrednosti u odnosu na njihovu knjigovodstvenu vrednost.
+Na računu 673 - Dobici od prodaje materijala,
+iskazuje se više ostvaren iznos prihoda od prodaje materijala u odnosu
+na njegovu knjigovodstvenu vrednost.
+Na računu 674 - Viškovi, iskazuju se viškovi
+sredstava koji se utvrde na osnovu redovnog ili vanrednog popisa.
+Viškovi učinaka koji se evidentiraju na računima troškova i učinaka u
+klasi 9, knjiže se na računima te klase zaduženjem računa na kojima se
+iskazuju ti učinci (računi grupa 91, 95 i 96) u korist računa 983. U
+finansijskom knjigovodstvu viškovi učinaka knjiže se zaduženjem računa
+631 u korist računa 674.
+Na računu 675 - Naplaćena otpisana potraživanja, iskazuju se prihodi po osnovu naplate direktno otpisanih potraživanja.
+Na računu 676 - Prihodi po osnovu efekata ugovorene
+zaštite od rizika koji ne ispunjavaju uslove da se iskažu u okviru
+ostalog rezultata, iskazuje se pozitivan efekat ugovorene
+revalorizacije ili ostalih oblika ugovorene zaštite od rizika, osim
+efekata po osnovu valutne klauzule.
+Na računu 677 - Prihodi od smanjenja obaveza,
+iskazuje se smanjenje obaveza po osnovu zakona, vanparničnog poravnanja
+i sl., direktnim otpisivanjem, zaduženjem računa na kome je obaveza
+iskazana.
+Na računu 678 - Prihodi od ukidanja dugoročnih i
+kratkoročnih rezervisanja, iskazuje se ukidanje neiskorišćenih
+dugoročnih rezervisanja zaduženjem odgovarajućih računa grupe 40 i
+računa 467.
+Na računu 679 - Ostali nepomenuti prihodi, iskazuju
+se ostali nepomenuti prihodi za koje nije propisan poseban račun u
+okviru računa grupe 67.
+Član 57
+Na računima grupe 68 - Prihodi po osnovu usklađivanja
+vrednosti imovine, iskazuju se pozitivni efekti vrednosnih usklađivanja
+nematerijalnih ulaganja, nekretnina, postrojenja, opreme i bioloških
+sredstava, dugoročnih i kratkoročnih finansijskih plasmana, zaliha,
+hartija od vrednosti koje se vrednuju po fer vrednosti kroz ostali
+ukupan rezultat, potraživanja, finansijskih derivata i finansijskih
+sredstava u skladu sa računovodstvenom politikom.
+Na računima ove grupe iskazuje se i pozitivan efekat promene fer vrednosti sredstava, u skladu sa računovodstvenom politikom.
+Član 58
+Na računima grupe 69 - Dobitak poslovanja koje se
+obustavlja, efekti promene računovodstvene politike, ispravke grešaka
+ranijih perioda i prenos prihoda, iskazuju se dobici prema nazivima
+računa ove grupe i prenos ukupnih prihoda na kraju perioda.
+Na računu 690 - Dobitak poslovanja koje se
+obustavlja, iskazuju se dobici organizacionih delova za koje je doneta
+odluka o obustavljanju poslovanja.
+Na računu 691 - Prihodi od efekata promene
+računovodstvenih politika, iskazuju se efekti promena računovodstvene
+politike koji nisu materijalno značajni.
+Na računu 692 - Prihodi po osnovu ispravki grešaka iz
+ranijih godina koje nisu materijalno značajne, iskazuju se efekti
+ispravke grešaka iz ranijih godina koje nisu materijalno značajne.
+Na računu 699 - Prenos prihoda, iskazuje se prenos
+prihoda zaduženjem ovog računa u korist odgovarajućih računa grupe 71.
+Na kraju godine vrši se zaključivanje ovog računa njegovim odobrenjem,
+a na teret pojedinih računa grupe 60 do 69, osim računa 699.
+Klasa 7: Otvaranje i zaključak računa stanja i uspeha
+Član 59
+Na računima grupe 70 - Otvaranje glavne knjige,
+iskazuju se početna stanja pojedinih pozicija aktive i pasive na
+početku svake nove poslovne godine ili u toku godine pri otpočinjanju
+poslovanja novog pravnog lica i preduzetnika.
+Na računu 700 - Otvaranje glavne knjige finansijskog
+knjigovodstva, iskazuju se stanja početnih pozicija aktive i pasive na
+početku svake nove poslovne godine ili u toku godine ili otpočinjanju
+poslovanja novog pravnog lica i preduzetnika. Otvaranje glavne knjige
+vrši se zaduženjem računa 700 u korist računa glavne knjige sa pasivnim
+saldom, odnosno zaduženjem računa glavne knjige sa aktivnim početnim
+saldom a odobrenjem računa 700.
+Član 60
+Na računima grupe 71 - Zaključak računa uspeha, na datum bilansa, iskazuje se zaključak računa rashoda i prihoda.
+Na računu 710 - Rashodi i prihodi, iskazuje se
+zaključak računa rashoda i prihoda, osim dobitaka i gubitaka poslovanja
+koje se obustavlja, zaduženjem ovog računa u korist računa 599, odnosno
+odobrenjem ovog računa na teret računa 699. Saldo računa 710 posle
+prenosa rashoda i prihoda prenosi se na račun 712.
+Na računu 711 - Dobitak i gubitak poslovanja koje se
+obustavlja, iskazuje se zaključak računa, zaduženjem ovog računa u
+korist računa 599, odnosno odobrenjem ovog računa na teret računa 699.
+Saldo računa 711 posle prenosa dobitka i gubitka poslovanja koje se
+obustavlja prenosi se na račun 712.
+Na računu 712 - Prenos ukupnog rezultata, iskazuje se
+prenos dobitka na kraju izveštajnog perioda, zaduženjem ovog računa u
+korist računa 720, odnosno zaduženjem računa 720 u korist ovog računa,
+ako je ostvaren gubitak.
+Član 61
+Na računima grupe 72 - Račun dobitka i gubitka,
+iskazuje se ostvareni dobitak ili gubitak na kraju izveštajnog perioda,
+porez na dobit, lična primanja poslodavca i prenos dobitka ili gubitka.
+Na računu 720 - Dobitak ili gubitak, iskazuje se
+ostvareni dobitak ili gubitak na kraju izveštajnog perioda odobrenjem
+ili zaduženjem ovog računa na teret ili u korist računa 724.
+Na računu 721 - Poreski rashod perioda, iskazuje se
+poreski rashod tekućeg perioda obračunat u skladu sa poreskim propisima
+zaduženjem ovog računa u korist računa 481 - Obaveze za porez iz
+rezultata.
+Na računu 722 - Odloženi poreski rashodi i prihodi
+perioda, iskazuju se odloženi poreski rashodi i prihodi obračunati u
+skladu sa računovodstvenom politikom.
+Na računu 723 - Lična primanja poslodavca, iskazuju
+se isplate ličnih primanja poslodavcu u društvima lica u toku godine.
+Ako se iznos izvršenih isplata ne može pokriti iz ostvarenog dobitka,
+nepokriveni iznos se prenosi, na kraju izveštajnog perioda, na teret
+računa 724.
+Na računu 724 - Prenos dobitka ili gubitka, iskazuje
+se ostvareni dobitak ili gubitak na kraju izveštajnog perioda
+zaduženjem ili odobrenjem ovog računa u korist ili na teret računa 720,
+721, 722 i 723. Ostvareni dobitak koji nije raspoređen, na kraju
+izveštajnog perioda prenosi se zaduženjem računa 724 u korist računa
+341. Ostvareni gubitak na kraju izveštajnog perioda prenosi se na teret
+računa 351, u korist računa 724.
+U pravnom licu sa statusom društva lica u narednoj
+godini ostvareni dobitak se pripisuje kapitalu ako je tako ugovorom
+utvrđeno, odnosno iskazuje kao obaveza za isplatu prema vlasnicima, a
+za iznos gubitka umanjuje se kapital po godišnjem bilansu.
+Član 62
+Na računima grupe 73 - Zaključak računa stanja, na datum bilansa, iskazuje se zaključak računa aktive i pasive Bilansa stanja.
+Na računu 730 - Izravnanje računa stanja, iskazuje se
+zaključak računa glavne knjige finansijskog knjigovodstva zaduženjem
+ovog računa u korist računa aktive, odnosno odobrenjem ovog računa na
+teret računa pasive. Evidentiranje na računu 730 vrši se po pojedinim
+pozicijama Bilansa stanja. Po izvršenom zaključku svih računa glavne
+knjige na ovom računu zbir dugovne i potražne strane je jednak.
+Član 63
+Na računima grupe 74 - Slobodna grupa, pravna lica i
+preduzetnici mogu otvarati posebne osnovne račune prema sopstvenim
+potrebama.
+Klasa 8: Vanbilansna evidencija
+Član 64
+Na računima grupe 88 - Vanbilansna aktiva, iskazuju
+se preuzeti proizvodi i roba za zajedničko poslovanje, komisiona roba,
+roba u konsignaciji, materijal i roba primljeni na obradu i doradu,
+sredstva uzeta u zakup po osnovu ugovora o poslovnom lizingu, data
+jemstva, garancije i druga prava i ostala sredstva koja nisu u
+vlasništvu pravnog lica i preduzetnika.
+Na računima ove grupe iskazuju se i hartije od
+vrednosti koje su van prometa, avali, garancije i druga jemstva, kao i
+imovina koja se nalazi kod drugih subjekata.
+Član 65
+Na računima grupe 89 - Vanbilansna pasiva, iskazuju se obaveze po osnovu sredstava iskazanih na računima grupe 88.
+Klasa 9: Obračun troškova i učinaka
+Član 66
+Pravna lica i preduzetnici koji obavljaju proizvodnu
+delatnost u klasi 9 obavezno vode osnovne račune 900, 902, grupe računa
+95 i 96 i račune 980, 982 i 983.
+Ostale račune predviđene u klasi 9, lica iz stava 1.
+ovog člana vode u skladu sa svojim potrebama i načinom obračuna
+troškova i učinaka.
+Pravna lica i preduzetnici koji ne obavljaju proizvodnu delatnost nisu obavezni da vode evidenciju u okviru računa klase 9.
+Član 67
+Na računima grupe 90 - Računi odnosa s finansijskim
+knjigovodstvom, iskazuje se preuzimanje zaliha, preuzimanje nabavke
+materijala i robe, preuzimanje troškova i preuzimanje prihoda.
+Na računu 900 - Račun za preuzimanje zaliha, na
+početku poslovne godine, iskazuje se preuzimanje zaliha materijala,
+nedovršene proizvodnje, gotovih proizvoda i robe zaduženjem računa
+grupe 91, 95 i 96 u korist ovog računa. Preuzete zalihe na ovom računu
+iskazuju se u iznosu koji je iskazan u finansijskom knjigovodstvu na
+računima grupe 10, 11, 12 i 13.
+Na računu 901 - Račun za preuzimanje nabavke
+materijala i robe, iskazuje se nabavka materijala i robe kada se
+stanje, nabavka, trošenje i prodaja tih zaliha vodi na računima 910,
+911 i 912 u okviru klase 9. Za preuzetu nabavku zadužuju se računi 910,
+911 i 912 u korist računa 901.
+Na računu 902 - Račun za preuzimanje troškova,
+iskazuju se troškovi koji su u finansijskom knjigovodstvu evidentirani
+na računima grupe 51 do 55, kao i troškovi finansiranja koji se
+zaduženjem odgovarajućih računa grupa 92, 93 i 94, ako se troškovi vode
+po mestima troškova, a na teret računa grupe 95 i računa 982, ako se
+troškovi ne vode po mestima troškova.
+Na računu 902 ne evidentira se preuzimanje troškova
+materijala kada se evidencija o stanju, nabavci i trošenju materijala
+vodi na računu 910, jer se u tom slučaju trošenje materijala evidentira
+na potražnoj strani računa 910, uz zaduženje odgovarajućih računa mesta
+troškova i nosilaca (računi grupa 92, 93, 94 i 95), odnosno na teret
+računa grupe 95 i računa 982, ako se troškovi materijala ne vode po
+mestima troškova.
+Na računu 903 - Račun za preuzimanje vrednosti zaliha
+poljoprivrednih proizvoda koji se odmeravaju po fer vrednosti, iskazuju
+se poljoprivredni proizvodi koji se na dan ubiranja, odnosno žetve
+odmeravaju se po fer vrednosti umanjenoj za troškove prodaje.
+Na računu 904 - Račun za preuzimanje prihoda,
+iskazuje se preuzimanje poslovnih prihoda koji su evidentirani u
+finansijskom knjigovodstvu, a koji se u posebnom knjigovodstvu obračuna
+troškova i učinaka evidentiraju u korist računa 986, 987, 988 i 989.
+Član 68
+Na računima grupe 91 - Materijal i roba, iskazuju se
+zalihe materijala, robe i proizvoda i robe u prodavnicama proizvođača,
+kada se evidencija o stanju, nabavci, trošenju i prodaji tih zaliha
+vodi na računima ove grupe u okviru posebnog knjigovodstva obračuna
+troškova i učinaka.
+Kada se evidencija o stanju, nabavci, trošenju i
+prodaji zaliha materijala i robe vodi u finansijskom knjigovodstvu na
+računima grupa 10 i 13, na računima grupe 91 ne vrši se evidentiranje.
+Na računu 910 - Materijal, odnosno na posebnim
+analitičkim računima u okviru ovog računa iskazuje se evidencija o
+stanju, nabavci i trošenju zaliha sirovina, osnovnog i pomoćnog
+materijala, ostalog materijala, goriva i maziva, alata i inventara koji
+se u celini otpisuju u obračunskom periodu (kao što su sitan inventar,
+auto-gume i ambalaža, ako se u celini otpisuju u obračunskom periodu).
+Na posebnim analitičkim računima u okviru ovog računa vode se
+odstupanja od planskih nabavnih cena, ispravka vrednosti i
+revalorizacija zaliha. Preuzimanje početnog stanja materijala
+evidentira se zaduženjem računa 910 u korist računa 900, a nabavka u
+korist računa 901.
+Ako se podaci o stanju, nabavci i trošenju materijala
+vode na računu 910, nabavka materijala u finansijskom knjigovodstvu
+evidentira se zaduženjem računa 510, u korist odgovarajućeg računa
+grupe 43. U tom slučaju, na osnovu izveštaja iz obračuna troškova i
+učinaka (pogonskog obračuna) o promeni stanja zaliha na datum bilansa,
+u finansijskom knjigovodstvu ova promena evidentira se na računima
+grupe 10 i računu 510.
+Utrošeni materijal evidentira se zaduženjem računa
+grupe 92, 93, 94 i 95, a za prodat materijal zaduženjem računa 991, za
+manjkove računa 992, za otpise računa 993, a sve u korist računa 910.
+Za viškove materijala zadužuje se račun 910, a odobrava 994.
+Za izlaz materijala vrši se evidentiranje i u klasi
+5, zaduženjem računa 511, 512, 513, 514, 515, 573, 575, 576, a u korist
+računa 510, a za viškove zaduženjem računa 510 u korist računa 674.
+Na računu 911 - Roba, na posebnim analitičkim
+računima, iskazuje se vrednost zaliha robe u skladištu i stovarištu na
+veliko, u prodavnicama i drugim maloprodajnim objektima, u obradi,
+doradi i manipulaciji, kao i ukalkulisani PDV i razlika u ceni robe.
+Preuzimanje početnog stanja robe evidentira se
+zaduženjem računa 911 u korist računa 900, a nabavka u korist računa
+901. Prodaja robe evidentira se zaduženjem računa 981, u korist računa
+911.
+Ako pravno lice i preduzetnik odluči da stanje,
+nabavku i prodaju robe vodi na računu 911, u okviru klase 9, na
+računima grupe 13, vodi se samo početno stanje zaliha robe i promene
+vrednosti tih zaliha na datum bilansa.
+Ako se podaci o stanju, nabavci i prodaji robe vode
+na računu 911, nabavka robe u finansijskom knjigovodstvu evidentira se
+zaduženjem računa 500, u korist odgovarajućeg računa grupe 43. U tom
+slučaju, na osnovu izveštaja iz obračuna troškova i učinaka (pogonskog
+obračuna) o promeni stanja zaliha na datum bilansa u finansijskom
+knjigovodstvu ta promena evidentira se zaduženjem ili odobrenjem računa
+grupe 13 i obrnutim evidentiranjem na računu 500.
+Na računu 912 - Proizvodi i roba u prodavnicama
+proizvođača, na posebnim analitičkim računima, iskazuje se vrednost
+zaliha proizvoda i robe u prodavnicama i drugim maloprodajnim objektima
+proizvođačkih pravnih lica i preduzetnika, kao i ukalkulisani PDV i
+razlika u ceni robe.
+Pravna lica i preduzetnici koji obavljaju proizvodnu
+delatnost koja na računu 912, vode evidenciju o stanju, ulazu, nabavci
+i prodaji zaliha proizvoda i robe, na računima grupe 13, vode
+evidenciju o početnom stanju zaliha robe i promene vrednosti na datum
+bilansa.
+Izuzetno od stava 12. ovog člana, pravna lica i
+preduzetnici koji obavljaju proizvodnu delatnost i koja vrše prodaju
+proizvoda i robe u sopstvenim maloprodajnim objektima, mogu vršiti
+prenos zaliha sopstvenih proizvoda na račun 134, zaduženjem tog računa
+u korist računa 621. Na računima klase 9, taj prenos evidentira se
+zaduženjem računa 980, u korist računa grupe 96. U tom slučaju, na
+kraju godine zalihe gotovih proizvoda koje su prenete na robu svode se
+na cenu koštanja ili neto prodajnu cenu ako je niža u skladu sa
+računovodstvenom politikom.
+Preuzimanje početnog stanja proizvoda i robe
+evidentira se zaduženjem računa 912, u korist računa 900. Nabavke robe
+u toku perioda evidentiraju se zaduženjem računa 912, u korist računa
+901. Prijem sopstvenih proizvoda u prodavnicu u toku perioda evidentira
+se zaduženjem računa 912, u korist računa grupe 96.
+Prodaja proizvoda i robe iz sopstvenih prodavnica evidentira se zaduženjem računa 981 i računa 980, u korist računa 912.
+Član 69
+Na računima grupe 92 - Računi mesta troškova nabavke,
+tehničke uprave i pomoćnih delatnosti, odnosno na posebnim osnovnim
+računima koje pravno lice i preduzetnik otvori u okviru računa ove
+grupe, posle evidentiranja u finansijskom knjigovodstvu, iskazuju se
+odgovarajući troškovi u korist računa 902, odnosno u korist računa 910.
+kada se zalihe materijala vode na ovom računu.
+Član 70
+Na računima grupe 93 - Računi glavnih proizvodnih
+mesta troškova, odnosno na posebnim osnovnim računima koje pravno lice
+i preduzetnik otvori u okviru računa ove grupe, posle evidentiranja u
+finansijskom knjigovodstvu, iskazuju se odgovarajući troškovi u korist
+računa 902, odnosno u korist računa 910, kada se zalihe materijala vode
+na ovom računu.
+Član 71
+Na računima grupe 94 - Računi mesta troškova uprave,
+prodaje i sličnih aktivnosti, odnosno na posebnim osnovnim računima
+koje pravno lice i preduzetnik otvori u okviru računa ove grupe, posle
+evidentiranja u finansijskom knjigovodstvu, iskazuju se odgovarajući
+troškovi u korist računa 902, odnosno u korist računa 910, kada se
+zalihe materijala vode na ovom računu.
+Član 72
+Na računima grupe 95 - Nosioci troškova, iskazuju se
+početno stanje nosioca troškova, direktni troškovi koji se na osnovu
+dokumentacije mogu povezati za pojedine učinke i indirektni troškovi
+koji se na osnovu odgovarajućih ključeva za raspodelu alociraju na
+učinke.
+Preuzimanje početnog stanja nosioca troškova evidentira se zaduženjem računa 950 do 956 u korist računa 900.
+Na računu 950 do 956 - Nosioci troškova, iskazuju se
+direktni i indirektni troškovi zaduženjem pojedinih računa nosilaca
+troškova u korist računa 902 i 910, odnosno u korist računa grupe 93.
+Na računu 957 - Nedovršeni poljoprivredni proizvodi
+koji se odmeravaju po fer vrednosti, iskazuju se neubrani proizvodi od
+bioloških sredstava pravnog lica koji se pouzdano mogu odmeriti po fer
+vrednosti umanjenoj za troškove prodaje u momentu ubiranja.
+Na računu 958 - Poluproizvodi sopstvene proizvodnje,
+iskazuju se poluproizvodi po ceni koštanja zaduženjem pojedinih računa
+poluproizvoda sopstvene proizvodnje u korist računa 950 do 957. Utrošak
+poluproizvoda iskazuje se odobrenjem računa 958 na teret računa grupe
+93 ili na računima 950 do 957.
+Na računu 959 - Odstupanja u troškovima nosilaca
+troškova, iskazuje se razlika između cena po kojima se vode zalihe
+nedovršenih učinaka i cena koštanja tih zaliha.
+Član 73
+Na računima grupe 96 - Gotovi proizvodi, iskazuju se
+gotovi proizvodi po ceni koštanja i odstupanja u troškovima gotovih
+proizvoda.
+Preuzimanje početnog stanja gotovih proizvoda evidentira se zaduženjem računa 960 do 968, a u korist računa 900.
+Na računu 960 do 967 - Gotovi proizvodi, iskazuju se
+gotovi proizvodi po ceni koštanja zaduženjem pojedinih računa gotovih
+proizvoda u korist računa grupe 95.
+Na računu 968 - Gotovi poljoprivredni proizvodi koji
+se odmeravaju po fer vrednosti, iskazuju se ubrani proizvodi od
+bioloških sredstava pravnog lica koji se odmeravaju po fer vrednosti
+umanjenoj za troškove prodaje u momentu ubiranja.
+Na računu 969 - Odstupanja u troškovima gotovih
+proizvoda, iskazuje se razlika između cena po kojima se vode zalihe
+učinaka gotovih proizvoda i cena koštanja tih zaliha.
+Član 74
+Na računima grupe 97 - Slobodna grupa, pravna lica i
+preduzetnici mogu otvarati posebne osnovne račune prema sopstvenim
+potrebama.
+Član 75
+Na računima grupe 98 - Rashodi i prihodi, iskazuju se
+troškovi prodatih proizvoda i usluga, nabavna vrednost prodate robe,
+troškovi perioda, otpisi, manjkovi, obezvređenje i viškovi zaliha
+učinaka, ostali rashodi i prihodi po osnovu prodaje proizvoda i usluga,
+prihodi od prodaje robe i ostali prihodi.
+Na računu 980 - Troškovi prodatih proizvoda i usluga,
+iskazuje se vrednost prodatih proizvoda i usluga po stvarnim
+troškovima, zaduženjem ovog računa u korist računa grupa 95 i 96.
+Na teret ovog računa evidentira se i vrednost
+sopstvenih učinaka upotrebljenih za nematerijalnu imovinu, nekretnine,
+postrojenja i opremu, materijal i rezervne delove, biološka sredstva i
+sopstveni transport nabavke materijala i robe, uključujući i troškove
+utovara, istovara i sl.
+Na računu 981 - Nabavna vrednost prodate robe, iskazuje se nabavna vrednost prodate robe u korist računa 911 i 912.
+Na računu 982 - Troškovi perioda, iskazuju se
+troškovi koji se ne uključuju u cenu koštanja zaliha nedovršene
+proizvodnje i gotovih proizvoda, već se direktno naknađuju na teret
+prihoda izveštajnog perioda.
+Na računu 983 - Otpisi, manjkovi i viškovi zaliha
+učinaka, iskazuje se vrednost otpisa, manjkova i viškova zaliha
+nedovršene proizvodnje i gotovih proizvoda.
+Otpisi i manjkovi evidentiraju se zaduženjem računa
+983 u korist računa grupe 95 i 96, a viškovi se evidentiraju zaduženjem
+računa grupe 95 i 96 u korist računa 983.
+Na ovom računu iskazuju se i gubici od obezvređenja zaliha nedovršene proizvodnje i gotovih proizvoda.
+Na računu 984 - Realizovani poljoprivredni proizvodi
+koji se odmeravaju po fer vrednosti, iskazuje se vrednost prodatih
+poljoprivrednih proizvoda koji se odmeravaju po fer vrednosti.
+Na računu 985 - Slobodan račun, pravna lica i preduzetnici mogu otvarati posebne osnovne račune prema svojim potrebama.
+Na računu 986 - Prihodi po osnovu proizvoda i usluga,
+iskazuju se prihodi ostvareni od prodaje proizvoda i usluga na domaćem
+i stranom tržištu.
+Na računu 987 - Prihodi po osnovu robe, iskazuju se prihodi ostvareni od prodaje robe na domaćem i inostranom tržištu.
+Na računu 988 - Slobodan račun, pravna lica i
+preduzetnici mogu otvarati posebne osnovne račune prema sopstvenim
+potrebama za iskazivanje na pojedine vrste prihoda.
+Na računu 989 - Drugi prihodi, iskazuju se drugi prihodi koji nisu iskazani drugim računima u okviru računa grupe 98.
+Član 76
+Na računima grupe 99 - Računi dobitka, gubitka i
+zaključka, iskazuju se poslovni dobitak i gubitak, gubitak i dobitak po
+osnovu prodaje materijala, manjkovi, otpisi i viškovi materijala i
+robe, zaključak obračuna troškova i učinaka.
+Na računu 990 - Poslovni dobitak i gubitak, iskazuje
+se poslovni dobitak ili gubitak koji se utvrđuje tako što se na teret
+računa 990 prenose poslovni rashodi odobrenjem računa 980, 981, 982 i
+983. U korist računa 990 prenose se poslovni prihodi zaduženjem računa
+986, 987, 988 i 989.
+Na računu 991 - Gubitak i dobitak po osnovu prodaje
+materijala, iskazuju se gubici od prodaje materijala zaduženjem ovog
+računa, a dobici od prodaje materijala odobrenjem ovog računa.
+Na računu 992 - Manjkovi materijala i robe, iskazuju
+se manjkovi materijala i robe zaduženjem ovog računa u korist računa
+910 i 911.
+Na računu 993 - Otpisi materijala i robe, iskazuju se
+otpisi materijala i robe zaduženjem ovog računa u korist računa 910,
+911 i deo računa 912.
+Na računu 994 - Viškovi materijala i robe, iskazuju
+se viškovi materijala i robe zaduženjem računa 910, 911 i deo računa
+912 u korist ovog računa.
+Na računu 999 - Zaključak obračuna troškova i
+učinaka, na datum bilansa, iskazuje se zaključak računa obračuna
+troškova i učinaka zaduženjem računa 999 u korist računa koji imaju
+dugovni saldo i zaduženjem računa koji imaju potražni saldo u korist
+računa 999.
+III PRIZNAVANJE I MERENJE U SLUČAJU STEČAJA I LIKVIDACIJE
+Član 77
+Pri sastavljanju finansijskih izveštaja na dan koji
+prethodi danu otvaranja, odnosno danu zaključenja postupka stečaja i
+likvidacije, kao i u slučajevima kada se u toku trajanja tih postupaka
+sastavljaju godišnji finansijski izveštaji, pravna lica i preduzetnici
+primenjuju odredbe ovog pravilnika, s tim što vrednovanje imovine koja
+čini stečajnu masu vrše u visini očekivanog unovčenja u skladu sa
+propisima kojima se uređuju stečaj i likvidacija pravnih lica.
+IV PRELAZNE I ZAVRŠNE ODREDBE
+Član 78
+Pravna lica i preduzetnici vrše preknjižavanje sa
+računa Kontnog okvira propisanih Pravilnikom o Kontnom okviru i
+sadržini računa u Kontnom okviru za privredna društva, zadruge i
+preduzetnike ("Službeni glasnik RS", broj 95/14) na račune Kontnog
+okvira koji su propisani ovim pravilnikom na osnovu Uporednog pregleda
+za preknjižavanje sa računa prethodnog Kontnog okvira na račune novog
+Kontnog okvira, koji je odštampan uz ovaj pravilnik i čini njegov
+sastavni deo.
+Član 79
+Odredbe ovog pravilnika primenjuju se počev od finansijskih izveštaja koji se sastavljaju na dan 31. decembra 2021. godine.
+Danom početka primene ovog pravilnika prestaje da
+važi Pravilnik o Kontnom okviru i sadržini računa u Kontnom okviru za
+privredna društva, zadruge i preduzetnike ("Službeni glasnik RS", broj
+95/14).
+Pravna lica i preduzetnici koji imaju poslovnu godinu
+različitu od kalendarske, a koja se završava pre 31. decembra 2021.
+godine, kao i pravna lica i preduzetnici koji sastavljaju vanredne
+finansijske izveštaje pre 31. decembra 2021. godine, za tu poslovnu
+godinu, odnosno za te vanredne finansijske izveštaje, primenjuju
+Pravilnik o Kontnom okviru i sadržini računa u Kontnom okviru za
+privredna društva, zadruge i preduzetnike ("Službeni glasnik RS", broj
+95/14).
+Član 80
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+KONTNI OKVIR
+ZA PRIVREDNA DRUŠTVA, ZADRUGE I PREDUZETNIKE
+Klasa 0: UPISANI A NEUPLAĆENI KAPITAL I STALNA IMOVINA
+00 - UPISANI A NEUPLAĆENI KAPITAL
+000 - Upisane a neuplaćene akcije
+001 - Upisani a neuplaćeni udeli i ulozi
+01 - NEMATERIJALNA IMOVINA
+010 - Ulaganja u razvoj
+011 - Koncesije, patenti, licence, robne i uslužne marke
+012 - Softver i ostala prava
+013 - Gudvil
+014 - Ostala nematerijalna imovina
+015 - Nematerijalna imovina uzeta u lizing
+016 - Nematerijalna imovina u pripremi
+017 - Avansi za nematerijalnu imovinu
+02 - NEKRETNINE, POSTROJENJA I OPREMA
+020 - Poljoprivredno i ostalo zemljište
+021 - Građevinsko zemljište
+022 - Građevinski objekti
+023 - Postrojenja i oprema
+024 - Investicione nekretnine
+025 - Nekretnine, postrojenja i oprema uzeta u lizing sa pravom korišćenja preko godinu dana
+026 - Ostale nekretnine, postrojenja i oprema
+027 - Nekretnine, postrojenja i oprema u pripremi
+028 - Ulaganja na tuđim nekretninama, postrojenjima i opremi
+029 - Avansi za nekretnine, postrojenja i opremu
+03 - BIOLOŠKA SREDSTVA
+030 - Šume
+031 - Plodonosni višegodišnji zasadi
+032 - Ostali višegodišnji zasadi
+033 - Osnovno stado
+037 - Biološka sredstva u pripremi
+038 - Avansi za biološka sredstva
+04 - DUGOROČNI FINANSIJSKI PLASMANI
+040 - Učešća u kapitalu zavisnih pravnih lica
+041 - Učešća u kapitalu pridruženih pravnih lica i zajedničkim poduhvatima
+042 - Učešća u kapitalu ostalih pravnih lica i dugoročne hartije od
+vrednosti koje se vrednuju po fer vrednosti kroz ostali ukupan rezultat
+043 - Dugoročni plasmani matičnom, zavisnim i ostalim povezanim licima u zemlji
+044 - Dugoročni plasmani matičnom, zavisnim i ostalim povezanim licima u inostranstvu
+045 - Dugoročni plasmani u zemlji i inostranstvu
+046 - Hartije od vrednosti koje se vrednuju po amortizovanoj vrednosti
+047 - Otkupljene sopstvene akcije i otkupljeni sopstveni udeli
+048 - Ostali dugoročni finansijski plasmani
+05 - DUGOROČNA POTRAŽIVANJA
+050 - Potraživanja od matičnog i zavisnih pravnih lica
+051 - Potraživanja od ostalih povezanih lica
+052 - Potraživanja po osnovu prodaje na robni kredit
+053 - Potraživanja za prodaju po ugovorima o finansijskom lizingu
+054 - Potraživanja po osnovu jemstva
+055 - Sporna i sumnjiva potraživanja
+056 - Ostala dugoročna potraživanja
+Klasa 1: ZALIHE I STALNA SREDSTVA NAMENJENA PRODAJI
+10 - ZALIHE MATERIJALA
+100 - Obračun nabavne vrednosti zaliha materijala, rezervnih delova, alata i sitnog inventara
+101 - Materijal
+102 - Rezervni delovi
+103 - Alat i sitan inventar
+104 - Materijal, rezervni delovi, alat i sitan inventar u obradi, doradi i manipulaciji
+11 - NEDOVRŠENA PROIZVODNJA
+110 - Nedovršena proizvodnja
+111 - Nedovršene usluge
+12 - GOTOVI PROIZVODI
+120 - Gotovi proizvodi
+13 - ROBA
+130 - Obračun nabavke robe
+131 - Roba u magacinu
+132 - Roba u prometu na veliko
+133 - Roba u skladištu, stovarištu i prodavnicama kod drugih lica
+134 - Roba u prometu na malo
+135 - Roba u obradi, doradi i manipulaciji
+136 - Roba u tranzitu
+137 - Roba na putu
+14 - STALNA IMOVINA KOJA SE DRŽI ZA PRODAJU I PRESTANAK POSLOVANJA
+140 - Nematerijalna imovina namenjena prodaji
+141 - Zemljište namenjeno prodaji
+142 - Građevinski objekti namenjeni prodaji
+143 - Investicione nekretnine namenjene prodaji
+144 - Ostale nekretnine namenjene prodaji
+145 - Postrojenja i oprema namenjena prodaji
+146 - Biološka sredstva namenjena prodaji
+147 - Sredstva poslovanja koje se obustavlja
+15 - PLAĆENI AVANSI ZA ZALIHE I USLUGE
+150 - Plaćeni avansi za materijal, rezervne delove i sitan inventar u zemlji
+151 - Plaćeni avansi za materijal, rezervne delove i sitan inventar u inostranstvu
+152 - Plaćeni avansi za robu i stalna sredstva koja se pribavljaju radi prodaje u zemlji
+153 - Plaćeni avansi za robu i stalna sredstva koja se pribavljaju radi prodaje u inostranstvu
+154 - Plaćeni avansi za usluge u zemlji
+155 - Plaćeni avansi za usluge u inostranstvu
+Klasa 2: KRATKOROČNA POTRAŽIVANJA I PLASMANI, NOVČANA SREDSTVA I AKTIVNA VREMENSKA RAZGRANIČENJA
+20 - POTRAŽIVANJA PO OSNOVU PRODAJE
+200 - Kupci u zemlji - matično i zavisna pravna lica
+201 - Kupci u inostranstvu - matično i zavisna pravna lica
+202 - Kupci u zemlji - ostala povezana lica
+203 - Kupci u inostranstvu - ostala povezana lica
+204
+-
+Kupci u zemlji
+205 - Kupci u inostranstvu
+206 - Ostala potraživanja po osnovu prodaje
+21 - POTRAŽIVANJA IZ SPECIFIČNIH POSLOVA
+210 - Potraživanja od izvoznika
+211 - Potraživanja po osnovu uvoza za tuđ račun
+212 - Potraživanja iz komisione i konsignacione prodaje
+218 - Ostala potraživanja iz specifičnih poslova
+22 - DRUGA POTRAŽIVANJA
+220 - Potraživanja za kamatu i dividende
+221 - Potraživanja od zaposlenih
+222 - Potraživanja od državnih organa i organizacija
+223 - Potraživanja za više plaćen porez na dobitak
+224 - Potraživanja po osnovu preplaćenih ostalih poreza i doprinosa
+225 - Potraživanja za naknade zarada koje se refundiraju
+226 - Potraživanja po osnovu naknada šteta
+227 - Potraživanja za prihode po posebnim propisima
+228 - Ostala kratkoročna potraživanja
+23 - KRATKOROČNI FINANSIJSKI PLASMANI
+230 - Kratkoročni krediti i plasmani - matična i zavisna pravna lica
+231 - Kratkoročni krediti i plasmani - ostala povezana lica
+232 - Kratkoročni krediti i zajmovi u zemlji
+233 - Kratkoročni krediti i zajmovi u inostranstvu
+234 - Deo dugoročnih finansijskih plasmana koji dospeva do jedne godine
+235 - Hartije od vrednosti koje se vrednuju po amortizovanoj vrednosti - deo koji dospeva do jedne godine
+236 - Finansijska sredstva koja se vrednuju po fer vrednosti kroz Bilans uspeha
+237 - Otkupljene sopstvene akcije namenjene prodaji ili poništavanju i
+otkupljeni sopstveni udeli namenjeni prodaji ili poništavanju,
+238 - Potraživanja po osnovu finansijskih derivata
+239 - Ostali kratkoročni finansijski plasmani
+24 - GOTOVINSKI EKVIVALENTI I GOTOVINA
+240 - Hartije od vrednosti - gotovinski ekvivalenti
+241 - Tekući (poslovni) računi
+242 - Izdvojena novčana sredstva i akreditivi
+243 - Blagajna
+244 - Devizni račun
+245 - Devizni akreditivi
+246 - Devizna blagajna
+248 - Ostala novčana sredstva
+249 - Novčana sredstva čije je korišćenje ograničeno ili vrednost umanjena
+27 - POREZ NA DODATU VREDNOST
+270 - Porez na dodatu vrednost u primljenim fakturama po opštoj stopi (osim plaćenih avansa)
+271 - Porez na dodatu vrednost u primljenim fakturama po posebnoj stopi (osim plaćenih avansa)
+272 - Porez na dodatu vrednost u datim avansima po opštoj stopi
+273 - Porez na dodatu vrednost u datim avansima po posebnoj stopi
+274 - Porez na dodatu vrednost plaćen pri uvozu dobara po opštoj stopi
+275 - Porez na dodatu vrednost plaćen pri uvozu dobara po posebnoj stopi
+276 - Porez na dodatu vrednost obračunat na usluge inostranih lica
+277 - Naknadno vraćen porez na dodatu vrednost kupcima - stranim državljanima
+278 - Nadoknada poreza na dodatu vrednost isplaćena poljoprivrednicima
+279 - Potraživanja za više plaćeni porez na dodatu vrednost
+28 - AKTIVNA VREMENSKA RAZGRANIČENJA
+280 - Unapred plaćeni troškovi
+281 - Potraživanja za nefakturisani prihod
+282 - Razgraničeni troškovi po osnovu obaveza
+288 - Odložena poreska sredstva
+289 - Ostala aktivna vremenska razgraničenja
+Klasa 3: KAPITAL
+30 - OSNOVNI KAPITAL
+300 - Akcijski kapital
+301 - Udeli društava s ograničenom odgovornošću
+302 - Ulozi
+303 - Državni kapital
+304 - Društveni kapital
+305 - Zadružni udeli
+306 - Emisiona premija
+307 - Ulozi - sopstveni izvori drugih pravnih lica - ulozi osnivača i drugih lica
+309 - Ostali osnovni kapital
+31 - UPISANI A NEUPLAĆENI KAPITAL
+310 - Upisane a neuplaćene akcije
+311 - Upisani a neuplaćeni udeli i ulozi
+32 - REZERVE
+321 - Zakonske rezerve
+322 - Statutarne i druge rezerve
+323 - Dodatne uplate kojima se ne povećava kapital
+33 - REVALORIZACIONE REZERVE I NEREALIZOVANI DOBICI I GUBICI
+330 - Revalorizacione rezerve po osnovu revalorizacije nematerijalne imovine, nekretnina, postrojenja i opreme
+331 - Aktuarski dobici ili gubici po osnovu planova definisanih primanja
+332 - Dobici ili gubici po osnovu ulaganja u vlasničke instrumente kapitala
+333 - Dobici ili gubici po osnovu udela u ostalom sveobuhvatnom dobitku ili gubitku pridruženih društava
+334 - Dobici ili gubici po osnovu preračuna finansijskih izveštaja inostranog poslovanja
+335 - Dobici ili gubici od instrumenata zaštite neto ulaganja u inostrano poslovanje
+336 - Dobici ili gubici po osnovu instrumenata zaštite rizika (hedžinga) novčanog toka
+337 - Dobici ili gubici po osnovu hartija od vrednosti koje se vrednuju po fer vrednosti kroz ostali ukupan rezultat
+34 - NERASPOREĐENI DOBITAK
+340 - Neraspoređeni dobitak ranijih godina
+341 - Neraspoređeni dobitak tekuće godine
+35 - GUBITAK
+350 - Gubitak ranijih godina
+351 - Gubitak tekuće godine
+Klasa 4: REZERVISANJA, OBAVEZE I PASIVNA VREMENSKA RAZGRANIČENJA
+40 - DUGOROČNA REZERVISANJA
+400 - Rezervisanja za troškove u garantnom roku
+401 - Rezervisanja za troškove obnavljanja prirodnih bogatstava
+402 - Rezervisanja za zadržane kaucije i depozite
+403 - Rezervisanja za troškove restrukturiranja
+404 - Rezervisanja za naknade i druge beneficije zaposlenih
+405 - Rezervisanja za troškove sudskih sporova
+409 - Ostala dugoročna rezervisanja
+41 - DUGOROČNE OBAVEZE
+410 - Obaveze koje se mogu konvertovati u kapital
+411 - Dugoročne obaveze prema matičnom i zavisnim pravnim licima
+412 - Dugoročne obaveze prema ostalim povezanim licima
+413 - Obaveze po emitovanim hartijama od vrednosti u periodu dužem od godinu dana
+414 - Dugoročni krediti i zajmovi u zemlji
+415 - Dugoročni krediti i zajmovi u inostranstvu
+416 - Dugoročne obaveze po osnovu lizinga
+419 - Ostale dugoročne obaveze
+42 - KRATKOROČNE FINANSIJSKE OBAVEZE
+420 - Kratkoročni krediti i zajmovi od matičnog i zavisnih pravnih lica
+421 - Kratkoročni krediti i zajmovi od ostalih povezanih lica
+422 - Kratkoročni krediti i zajmovi u zemlji
+423 - Kratkoročni krediti i zajmovi u inostranstvu
+424 - Deo dugoročnih kredita i zajmova koji dospeva do jedne godine
+425 - Deo ostalih dugoročnih obaveza koje dospevaju do jedne godine
+426 - Obaveze po kratkoročnim hartijama od vrednosti
+427 - Obaveze po osnovu stalnih sredstava i sredstava obustavljenog poslovanja namenjenih prodaji
+428 - Obaveze po osnovu finansijskih derivata
+429 - Ostale kratkoročne finansijske obaveze
+43 - OBAVEZE IZ POSLOVANJA
+430 - Primljeni avansi, depoziti i kaucije
+431 - Dobavljači - matična i zavisna pravna lica u zemlji
+432 - Dobavljači - matična i zavisna pravna lica u inostranstvu
+433 - Dobavljači - ostala povezana lica u zemlji
+434 - Dobavljači - ostala povezana lica u inostranstvu
+435 - Dobavljači u zemlji
+436 - Dobavljači u inostranstvu
+439 - Ostale obaveze iz poslovanja
+44 - OBAVEZE IZ SPECIFIČNIH POSLOVA
+440 - Obaveze prema uvozniku
+441 - Obaveze po osnovu izvoza za tuđ račun
+442 - Obaveze po osnovu komisione i konsignacione prodaje
+449 - Ostale obaveze iz specifičnih poslova
+45 - OBAVEZE PO OSNOVU ZARADA I NAKNADA ZARADA
+450 - Obaveze za neto zarade i naknade zarada, osim naknada zarada koje se refundiraju
+451 - Obaveze za porez na zarade i naknade zarada na teret zaposlenog
+452 - Obaveze za doprinose na zarade i naknade zarada na teret zaposlenog
+453 - Obaveze za poreze i doprinose na zarade i naknade zarada na teret poslodavca
+454 - Obaveze za neto naknade zarada koje se refundiraju
+455 - Obaveze za poreze i doprinose na naknade zarada na teret zaposlenog koje se refundiraju
+456 - Obaveze za poreze i doprinose na naknade zarada na teret poslodavca koje se refundiraju
+46 - DRUGE OBAVEZE
+460 - Obaveze po osnovu kamata i troškova finansiranja
+461 - Obaveze za dividende
+462 - Obaveze za učešće u dobitku
+463 - Obaveze prema zaposlenima
+464 - Obaveze prema direktoru, odnosno članovima organa upravljanja i nadzora
+465 - Obaveze prema fizičkim licima za naknade po ugovorima
+466 - Obaveze za neto prihod preduzetnika koji akontaciju podiže u toku godine
+467 - Obaveze za kratkoročna rezervisanja
+468 - Obaveze za prikupljena sredstva pomoći
+469 - Ostale obaveze
+47 - OBAVEZE ZA POREZ NA DODATU VREDNOST
+470 - Obaveze za porez na dodatu vrednost po izdatim fakturama po opštoj stopi (osim primljenih avansa)
+471 - Obaveze za porez na dodatu vrednost po izdatim fakturama po posebnoj stopi (osim primljenih avansa)
+472 - Obaveze za porez na dodatu vrednost po primljenim avansima po opštoj stopi
+473 - Obaveze za porez na dodatu vrednost po primljenim avansima po posebnoj stopi
+474 - Obaveze za porez na dodatu vrednost po osnovu sopstvene potrošnje po opštoj stopi
+475 - Obaveze za porez na dodatu vrednost po osnovu sopstvene potrošnje po posebnoj stopi
+476 - Obaveze za porez na dodatu vrednost po osnovu prodaje za gotovinu
+479 - Obaveze za porez na dodatu vrednost po osnovu razlike obračunatog poreza na dodatu vrednost i prethodnog poreza
+48 - OBAVEZE ZA OSTALE POREZE, DOPRINOSE I DRUGE DAŽBINE
+480 - Obaveze za akcize
+481 - Obaveze za porez iz rezultata
+482 - Obaveze za poreze, carine i druge dažbine iz nabavke ili na teret troškova
+483 - Obaveze za doprinose koji terete troškove
+489 - Ostale obaveze za poreze, doprinose i druge dažbine
+49 - PASIVNA VREMENSKA RAZGRANIČENJA
+490 - Unapred obračunati troškovi
+491 - Unapred naplaćeni prihodi
+494 - Razgraničeni zavisni troškovi nabavke
+495 - Odloženi prihodi i primljene donacije
+496 - Razgraničeni prihodi po osnovu potraživanja
+498 - Odložene poreske obaveze
+499 - Ostala pasivna vremenska razgraničenja
+Klasa 5: RASHODI
+50 - NABAVNA VREDNOST PRODATE ROBE
+500 - Nabavka robe
+501 - Nabavna vrednost prodate robe
+502 - Nabavna vrednost nekretnina pribavljenih radi prodaje
+503 - Nabavna vrednost ostalih stalnih sredstava namenjenih prodaji
+51 - TROŠKOVI MATERIJALA I ENERGIJE
+510 - Nabavka materijala
+511 - Troškovi materijala za izradu
+512 - Troškovi ostalog materijala (režijskog)
+513 - Troškovi goriva i energije
+514 - Troškovi rezervnih delova
+515 - Troškovi jednokratnog otpisa alata i inventara
+52 - TROŠKOVI ZARADA, NAKNADA ZARADA I OSTALI LIČNI RASHODI
+520 - Troškovi zarada i naknada zarada (bruto)
+521 - Troškovi poreza i doprinosa na zarade i naknade zarada na teret poslodavca
+522 - Troškovi naknada po ugovoru o delu
+523 - Troškovi naknada po autorskim ugovorima
+524 - Troškovi naknada po ugovoru o privremenim i povremenim poslovima
+525 - Troškovi naknada fizičkim licima po osnovu ostalih ugovora
+526 - Troškovi naknada direktoru, odnosno članovima organa upravljanja i nadzora
+528 - Troškovi angažovanja zaposlenih preko agencija i zadruga
+529 - Ostali lični rashodi i naknade
+53 - TROŠKOVI PROIZVODNIH USLUGA
+530 - Troškovi usluga na izradi učinaka
+531 - Troškovi transportnih usluga
+532 - Troškovi usluga održavanja
+533 - Troškovi zakupa
+534 - Troškovi sajmova
+535 - Troškovi reklame i propagande
+536 - Troškovi istraživanja
+537 - Troškovi razvoja koji se ne kapitalizuju
+539 - Troškovi ostalih proizvodnih usluga
+54 - TROŠKOVI AMORTIZACIJE I REZERVISANJA
+540 - Troškovi amortizacije
+541 - Troškovi rezervisanja za garantni rok
+542 - Rezervisanja za troškove obnavljanja prirodnih bogatstava
+543 - Troškovi rezervisanja za zadržane kaucije i depozite
+544 - Rezervisanja za troškove restrukturiranja
+545 - Troškovi rezervisanja za naknade i druge beneficije zaposlenih
+549 - Troškovi ostalih rezervisanja
+55 - NEMATERIJALNI TROŠKOVI
+550 - Troškovi neproizvodnih usluga
+551 - Troškovi reprezentacije
+552 - Troškovi premija osiguranja
+553 - Troškovi platnog prometa
+554 - Troškovi članarina
+555 - Troškovi poreza i naknada
+556 - Troškovi doprinosa
+559 - Ostali nematerijalni troškovi
+56 - FINANSIJSKI RASHODI
+560 - Finansijski rashodi iz odnosa sa matičnim i zavisnim pravnim licima
+561 - Finansijski rashodi iz odnosa sa ostalim povezanim licima
+562 - Rashodi kamata (prema trećim licima)
+563 - Negativne kursne razlike (prema trećim licima)
+564 - Rashodi po osnovu efekata valutne klauzule (prema trećim licima)
+565 - Rashodi od učešća u gubitku pridruženih pravnih lica i zajedničkih poduhvata
+569 - Ostali finansijski rashodi
+57 - OSTALI RASHODI
+570 - Gubici po osnovu rashodovanja i prodaje nematerijalne imovine, nekretnina, postrojenja i opreme
+571 - Gubici po osnovu rashodovanja i prodaje bioloških sredstava
+572 - Gubici po osnovu rashodovanja i prodaje učešća u kapitalu i hartija od vrednosti
+573 - Gubici od prodaje materijala
+574 - Manjkovi
+575 - Rashodi po osnovu efekata ugovorene zaštite od rizika, koji ne
+ispunjavaju uslove da se iskažu u okviru ostalog rezultata
+(sveobuhvatnog dobitka ili gubitka)
+576 - Rashodi po osnovu direktnih otpisa potraživanja
+577 - Rashodi po osnovu rashodovanja zaliha
+579 - Ostali nepomenuti rashodi
+58 - RASHODI OD USKLAĐIVANJA VREDNOSTI IMOVINE
+580 - Rashodi od usklađivanja vrednosti bioloških sredstava
+581 - Rashodi od usklađivanja vrednosti nematerijalne imovine
+582 - Rashodi od usklađivanja vrednosti nekretnina, postrojenja i opreme
+583 - Rashodi od usklađivanja vrednosti dugoročnih finansijskih
+plasmana i drugih hartija od vrednosti koje se vrednuju po fer
+vrednosti kroz ostali ukupan rezultat
+584 - Rashodi od usklađivanja vrednosti zaliha
+585 - Rashodi od usklađivanja vrednosti potraživanja i kratkoročnih finansijskih plasmana
+586 - Rashodi od usklađivanja vrednosti finansijskih derivata i
+finansijskih sredstava koja se iskazuju po fer vrednosti kroz Bilans
+uspeha
+589 - Rashodi od usklađivanja vrednosti ostale imovine
+59 - GUBITAK POSLOVANJA KOJE SE OBUSTAVLJA, EFEKTI
+PROMENE RAČUNOVODSTVENE POLITIKE, ISPRAVKE GREŠAKA RANIJIH PERIODA I
+PRENOS RASHODA
+590 - Gubitak poslovanja koje se obustavlja
+591 - Rashodi po osnovu efekata promene računovodstvenih politika
+592 - Rashodi po osnovu ispravki grešaka iz ranijih godina koje nisu materijalno značajne
+599 - Prenos rashoda
+Klasa 6: PRIHODI
+60 - PRIHODI OD PRODAJE ROBE
+600 - Prihodi od prodaje robe matičnom i zavisnim pravnim licima na domaćem tržištu
+601 - Prihodi od prodaje robe matičnom i zavisnim pravnim licima na inostranom tržištu
+602 - Prihodi od prodaje robe ostalim povezanim licima na domaćem tržištu
+603 - Prihodi od prodaje robe ostalim povezanim licima na inostranom tržištu
+604 - Prihodi od prodaje robe na domaćem tržištu
+605 - Prihodi od prodaje robe na inostranom tržištu
+61 - PRIHODI OD PRODAJE PROIZVODA I USLUGA
+610 - Prihodi od prodaje proizvoda i usluga matičnom i zavisnim pravnim licima na domaćem tržištu
+611 - Prihodi od prodaje proizvoda i usluga matičnom i zavisnim pravnim licima na inostranom tržištu
+612 - Prihodi od prodaje proizvoda i usluga ostalim povezanim licima na domaćem tržištu
+613 - Prihodi od prodaje proizvoda i usluga ostalim povezanim licima na inostranom tržištu
+614 - Prihodi od prodaje proizvoda i usluga na domaćem tržištu
+615 - Prihodi od prodaje proizvoda i usluga na inostranom tržištu
+62 - PRIHODI OD AKTIVIRANJA UČINAKA I ROBE
+620 - Prihodi od aktiviranja ili potrošnje robe za sopstvene potrebe
+621 - Prihodi od aktiviranja ili potrošnje proizvoda i usluga za sopstvene potrebe
+63 - PROMENA VREDNOSTI ZALIHA UČINAKA
+630 - Povećanje vrednosti zaliha nedovršene proizvodnje i usluga i gotovih proizvoda
+631 - Smanjenje vrednosti zaliha nedovršene proizvodnje i usluga i gotovih proizvoda
+64 - PRIHODI OD PREMIJA, SUBVENCIJA, DOTACIJA, DONACIJA I SL.
+640 - Prihodi od premija, subvencija, dotacija, regresa, kompenzacija i povraćaja poreskih dažbina
+641 - Prihodi po osnovu uslovljenih donacija
+642 - Prihodi od donacija, dotacija, subvencija i sl. iz republičkog budžeta
+643 - Prihodi od donacija, dotacija, subvencija i sl. iz budžeta autonomne pokrajine ili lokalne samouprave
+644 - Prihodi od donacija, dotacija i sl. od inostranih vlada i međunarodnih organizacija
+645 - Prihodi od donacija, dotacija i sl. od domaćih privrednih društava, preduzetnika i drugih pravnih lica
+646 - Prihodi od donacija, dotacija i sl. od fizičkih lica iz zemlje i inostranstva
+649 - Ostali prihodi od donacija, dotacija, subvencija i sl.
+65 - DRUGI POSLOVNI PRIHODI
+650 - Prihodi od zakupa
+651 - Prihodi od članarina
+652 - Prihodi od tantijema i licencnih naknada
+653 - Prihodi od članskih doprinosa
+654 - Prihodi po posebnim propisima iz budžeta
+655 - Prihodi po posebnim propisima iz ostalih izvora
+659 - Ostali poslovni prihodi
+66 - FINANSIJSKI PRIHODI
+660 - Finansijski prihodi od matičnog i zavisnih pravnih lica
+661 - Finansijski prihodi od ostalih povezanih lica
+662 - Prihodi od kamata (od trećih lica)
+663 - Pozitivne kursne razlike (prema trećim licima)
+664 - Prihodi po osnovu efekata valutne klauzule (prema trećim licima)
+665 - Prihodi od učešća u dobitku pridruženih pravnih lica i zajedničkih poduhvata
+669 - Ostali finansijski prihodi
+67 - OSTALI PRIHODI
+670 - Dobici od prodaje nematerijalne imovine, nekretnina, postrojenja i opreme
+671 - Dobici od prodaje bioloških sredstava
+672 - Dobici od prodaje učešća i hartija od vrednosti
+673 - Dobici od prodaje materijala
+674 - Viškovi
+675 - Naplaćena otpisana potraživanja
+676 - Prihodi po osnovu efekata ugovorene zaštite od rizika koji ne ispunjavaju uslove da se iskažu u okviru ostalog rezultata
+677 - Prihodi od smanjenja obaveza
+678 - Prihodi od ukidanja dugoročnih i kratkoročnih rezervisanja
+679 - Ostali nepomenuti prihodi
+68 - PRIHODI OD USKLAĐIVANJA VREDNOSTI IMOVINE
+680 - Prihodi od usklađivanja vrednosti bioloških sredstava
+681 - Prihodi od usklađivanja vrednosti nematerijalne imovine
+682 - Prihodi od usklađivanja vrednosti nekretnina, postrojenja i opreme
+683 - Prihodi od usklađivanja vrednosti dugoročnih finansijskih
+plasmana i hartija od vrednosti koje se vrednuju po fer vrednosti kroz
+ostali ukupan rezultat
+684 - Prihodi od usklađivanja vrednosti zaliha
+685 - Prihodi od usklađivanja vrednosti potraživanja i kratkoročnih finansijskih plasmana
+686 - Prihodi od usklađivanja vrednosti finansijskih derivata i
+finansijskih sredstava koja se iskazuju po fer vrednosti kroz Bilans
+uspeha
+689 - Prihodi od usklađivanja vrednosti ostale imovine
+69 - DOBITAK POSLOVANJA KOJE SE OBUSTAVLJA, EFEKTI
+PROMENE RAČUNOVODSTVENE POLITIKE, ISPRAVKE GREŠAKA RANIJIH PERIODA I
+PRENOS PRIHODA
+690 - Dobitak poslovanja koje se obustavlja
+691 - Prihodi od efekata promene računovodstvenih politika
+692 - Prihodi po osnovu ispravki grešaka iz ranijih godina koje nisu materijalno značajne
+699 - Prenos prihoda
+Klasa 7: OTVARANJE I ZAKLJUČAK RAČUNA STANJA I USPEHA
+70 - OTVARANJE GLAVNE KNJIGE
+700 - Otvaranje glavne knjige finansijskog knjigovodstva
+71 - ZAKLJUČAK RAČUNA USPEHA
+710 - Rashodi i prihodi
+711 - Dobitak i gubitak poslovanja koje se obustavlja
+712 - Prenos ukupnog rezultata
+72 - RAČUN DOBITKA I GUBITKA
+720 - Dobitak ili gubitak
+721 - Poreski rashod perioda
+722 - Odloženi poreski rashodi i prihodi perioda
+723 - Lična primanja poslodavca
+724 - Prenos dobitka ili gubitka
+73 - ZAKLJUČAK RAČUNA STANJA
+730 - Izravnanje računa stanja
+74 - SLOBODNA GRUPA
+Klasa 8: VANBILANSNA EVIDENCIJA
+88 - VANBILANSNA AKTIVA
+880 - Tuđa sredstva uzeta u operativni lizing (zakup)
+881 - Preuzeti proizvodi i roba za zajedničko poslovanje
+882 - Roba uzeta u komision i konsignaciju
+883 - Materijal i roba primljeni na obradu i doradu
+884 - Data jemstva, garancije i druga prava
+885 - Hartije od vrednosti koje su van prometa
+889 - Ostala imovina drugih subjekata
+89 - VANBILANSNA PASIVA
+890 - Obaveze za sredstva uzeta u operativni lizing (zakup)
+891 - Obaveze za preuzete proizvode i robu za zajedničko poslovanje
+892 - Obaveze za robu uzetu u komision i konsignaciju
+893 - Obaveze za materijal i robu primljenu na obradu i doradu
+894 - Obaveze za data jemstva, garancije i druga prava
+895 - Obaveze za hartije od vrednosti koje su van prometa
+899 - Obaveze za ostalu imovinu drugih subjekata
+Klasa 9: OBRAČUN TROŠKOVA I UČINAKA
+90 - RAČUNI ODNOSA S FINANSIJSKIM KNJIGOVODSTVOM
+900 - Račun za preuzimanje zaliha
+901 - Račun za preuzimanje nabavke materijala i robe
+902 - Račun za preuzimanje troškova
+903 - Račun za preuzimanje vrednosti zaliha poljoprivrednih proizvoda koji se odmeravaju po fer vrednosti
+904 - Račun za preuzimanje prihoda
+91 - MATERIJAL I ROBA
+910 - Materijal
+911 - Roba
+912 - Proizvodi i roba u prodavnicama proizvođača
+92 - RAČUNI MESTA TROŠKOVA NABAVKE, TEHNIČKE UPRAVE I POMOĆNIH DELATNOSTI
+93 - RAČUNI GLAVNIH PROIZVODNIH MESTA TROŠKOVA
+94 - RAČUNI MESTA TROŠKOVA UPRAVE, PRODAJE I SLIČNIH AKTIVNOSTI
+95 - NOSIOCI TROŠKOVA
+950 do 956 - Nosioci troškova
+957 - Nedovršeni poljoprivredni proizvodi koji se odmeravaju po fer vrednosti
+958 - Poluproizvodi sopstvene proizvodnje
+959 - Odstupanja u troškovima nosioca troškova
+96 - GOTOVI PROIZVODI
+960 do 967 - Gotovi proizvodi
+968 - Gotovi poljoprivredni proizvodi koji se odmeravaju po fer vrednosti
+969 - Odstupanja u troškovima gotovih proizvoda
+97 - SLOBODNA GRUPA
+98 - RASHODI I PRIHODI
+980 - Troškovi prodatih proizvoda i usluga
+981 - Nabavna vrednost prodate robe
+982 - Troškovi perioda
+983 - Otpisi, manjkovi i viškovi zaliha učinaka
+984 - Realizovani poljoprivredni proizvodi koji se odmeravaju po fer vrednosti
+985 - Slobodan račun
+986 - Prihodi po osnovu proizvoda i usluga
+987 - Prihodi po osnovu robe
+988 - Slobodan račun
+989 - Drugi prihodi
+99 - RAČUNI DOBITKA, GUBITKA I ZAKLJUČKA
+990 - Poslovni dobitak i gubitak
+991 - Gubitak i dobitak po osnovu prodaje materijala
+992 - Manjkovi materijala i robe
+993 - Otpisi materijala i robe
+994 - Viškovi materijala i robe
+999 - Zaključak obračuna troškova i učinaka
+UPOREDNI PREGLED ZA PREKNJIŽAVANJE SA RAČUNA PRETHODNOG KONTNOG OKVIRA NA RAČUNE NOVOG KONTNOG OKVIRA
+- sadrži samo nove i delimično izmenjene račune -
+Red.
+broj
+Preknjižavanje na račun/račune
+Sa prethodnih računa
+1.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 01
+019 - Ispravka vrednosti nematerijalne imovine
+2.
+015 - Nematerijalna imovina uzeta u lizing
+Deo računa grupe 01
+3.
+016 - Nematerijalna imovina u pripremi
+015 - Nematerijalna imovina u pripremi
+4.
+017 - Avansi za nematerijalnu imovinu
+016 - Avansi za nematerijalnu imovinu
+5.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 02
+029 - Ispravka vrednosti nekretnina, postrojenja i opreme
+6.
+025 - Nekretnine, postrojenja i oprema uzeti u lizing sa pravom korišćenja preko godinu dana
+Deo računa grupe 02
+7.
+026 - Ostale nekretnine, postrojenja i oprema
+025 - Ostale nekretnine, postrojenja i oprema
+8.
+027 - Nekretnine, postrojenja i oprema u pripremi
+026 - Nekretnine, postrojenja i oprema u pripremi
+9.
+028 - Ulaganja na tuđim nekretninama, postrojenjima i opremi
+027 - Ulaganja na tuđim nekretninama, postrojenjima i opremi
+10.
+029 - Avansi za nekretnine, postrojenja i opremu
+028 - Avansi za nekretnine, postrojenja i opremu
+11.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 03
+039 - Ispravka vrednosti bioloških sredstava
+12.
+031 - Plodonosni višegodišnji zasadi
+Deo računa 031 - Višegodišnji zasadi
+13.
+032 - Ostali višegodišnji zasadi
+Deo računa 031 - Višegodišnji zasadi
+14.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 04
+049 - Ispravka vrednosti dugoročnih finansijskih plasmana
+15.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 05
+059 - Ispravka vrednosti dugoročnih potraživanja
+16.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 10
+109 - Ispravka vrednosti materijala, rezervnih delova, alata i inventara
+17.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 13
+139 - Ispravka vrednosti robe
+18.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 14
+149- Ispravka vrednosti stalnih sredstava i sredstava obustavljenog poslovanja namenjenih prodaji
+19.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 15
+159- Ispravka vrednosti plaćenih avansa
+20.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 20
+209 - Ispravka vrednosti potraživanja od prodaje
+21.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 21
+219 - Ispravka vrednosti potraživanja iz specifičnih poslova
+22.
+227 - Potraživanja za prihode po posebnim propisima
+Deo računa 228 - Ostala kratkoročna potraživanja
+23.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 22
+229 - Ispravka vrednosti drugih potraživanja
+24.
+238 - Potraživanja po osnovu finansijskih derivata
+Deo računa 236 - Finansijska sredstva koja se vrednuju po fer vrednosti kroz Bilans uspeha
+25.
+239 - Ostali kratkoročni finansijski plasmani
+238 - Ostali kratkoročni finansijski plasmani
+26.
+Računi ispravki vrednosti otvoreni u okviru računa grupe 23
+239 - Ispravka vrednosti kratkoročnih finansijskih plasmana
+27.
+307 - Ulozi - sopstveni izvori drugih pravnih lica - ulozi osnivača i drugih lica
+Deo računa 309 - Ostali osnovni kapital
+28.
+323 - Dodatne uplate kojima se ne povećava kapital
+Deo računa grupe 32
+29.
+428 - Obaveze po osnovu finansijskih derivata
+Deo računa 429 - Ostale kratkoročne finansijske obaveze
+30.
+528 - Troškovi angažovanja zaposlenih preko agencija i zadruga
+Deo račun 539 - Troškovi ostalih usluga
+31.
+572 - Gubici po osnovu rashodovanja i prodaje učešća u kapitalu i hartija od vrednosti
+572 - Gubici po osnovu prodaje učešća u kapitalu i hartija od vrednosti
+32.
+586
+- Rashodi od usklađivanja vrednosti finansijskih derivata i
+finansijskih sredstava koja se iskazuju po fer vrednosti kroz Bilans
+uspeha
+Deo računa 569 - Ostali finansijski rashodi
+33.
+642 - Prihodi od donacija, dotacija, subvencija i sl. iz republičkog budžeta
+Deo računa grupe 64
+34.
+643 - Prihodi od donacija, dotacija, subvencija i sl. iz budžeta autonomne pokrajine ili lokalne samouprave
+Deo računa grupe 64
+35.
+644 - Prihodi od donacija, dotacija i sl. od inostranih vlada i međunarodnih organizacija
+Deo računa grupe 64
+36.
+645 - Prihodi od donacija, dotacija i sl. od domaćih privrednih društava, preduzetnika i drugih pravnih lica
+Deo računa grupe 64
+37.
+646 - Prihodi od donacija, dotacija i sl. od fizičkih lica iz zemlje i inostranstva
+Deo računa grupe 64
+38.
+649 - Ostali prihodi od donacija, dotacija, subvencija i sl.
+Deo računa iz grupe 64
+39.
+653 - Prihodi od članskih doprinosa
+Deo računa 659 - Ostali poslovni prihodi
+40.
+654 - Prihodi po posebnim propisima iz budžeta
+Deo računa 659 - Ostali poslovni prihodi
+41.
+655 - Prihodi po posebnim propisima iz ostalih izvora
+Deo računa 659 - Ostali poslovni prihodi
+42.
+686
+- Prihodi od usklađivanja vrednosti finansijskih derivata i
+finansijskih sredstava koja se iskazuju po fer vrednosti kroz Bilans
+uspeha
+Deo računa 669 - Ostali finansijski prihodi
+43.
+904 - Račun za preuzimanje prihoda
+903 - Račun za preuzimanje prihoda
+44.
+950 do 956 - Nosioci troškova
+950 do 957 - Nosioci troškova
+45.
+960 do 967 - Gotovi proizvodi
+960 do 968 - Gotovi proizvodi

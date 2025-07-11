@@ -1,0 +1,3097 @@
+Title: PRAVILNIKO SAOBRAĆAJNOJ SIGNALIZACIJI
+URL: https://www.paragraf.rs/propisi/pravilnik-o-saobracajnoj-signalizaciji.html
+Extracted: 2025-07-06T23:13:56.808332
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O SAOBRAĆAJNOJ SIGNALIZACIJI
+("Sl. glasnik RS", br. 85/2017,  14/2021 i 21/2024)
+I OSNOVNE ODREDBE
+Član 1
+Ovim pravilnikom propisuju se vrsta, značenje, oblik, boja,
+  mere, materijali za izradu saobraćajne signalizacije i pravila postavljanja
+  saobraćajne signalizacije na putevima; vrsta, izgled, tehničke karakteristike
+  i način postavljanja i mesta na kojima se moraju postaviti branici ili polubranici,
+  uređaji za davanje svetlosnih, zvučnih znakova i način njihove upotrebe; privremena
+  saobraćajna signalizacija, izgled, tehničke karakteristike, način postavljanja
+  i upotreba branika i drugih sredstava za obezbeđenje mesta na kome se izvode
+  radovi.
+Osnovni pojmovi i izrazi
+Član 2
+Izrazi upotrebljeni u ovom pravilniku imaju sledeće značenje:
+1)
+aplikativne trake
+su specijalni višeslojni materijali
+  za izradu oznaka na kolovozu na bazi gume, odnosno plastike, različitih debljina
+  i tekstura;
+2)
+bankina
+je deo javnog puta na kojem se postavlja
+  saobraćajna signalizacija;
+3)
+bojila
+su materijali za izradu oznaka na putu u tečnom,
+  odnosno žitkom stanju i sastoje od pigmenata, vezivnih sredstava, punila, razređivača
+  i svetloodbojnih perli;
+4)
+branici i polubranici
+su uređaji koji se sastoje
+  od mehanizma za pokretanje i barijera sa svetlosnim, odnosno retroreflektujućim
+  oznakama i služe za povremeno obustavljanje saobraćaja;
+5)
+zapreka (barijera)
+je privremena saobraćajna signalizacija
+  koja se koristi za usmeravanje saobraćaja, odnosno označavanje dela puta na
+  kojem je privremeno obustavljen saobraćaj;
+6)
+zaprečna traka
+je privremena saobraćajna signalizacija
+  za označavanje prepreka na putu i mesta na kome se izvode radovi na putu (u
+  daljem tekstu: zona radova);
+7)
+zaštitna ograda
+je oprema puta čija je osnovna namena
+  sprečavanje skretanja vozila sa puta;
+8)
+indikator vrha površine razdvajanja tokova
+je oprema
+  puta koja služi za označavanje mesta razdvajanja saobraćajnih tokova;
+9)
+katadiopter
+je svetlosna oznaka izrađena od retroreflektujućeg
+  materijala, postavlja se na zaštitnim ogradama i bočnim smetnjama u profilu
+  puta, koja služi za označavanje pravca pružanja puta i ivice kolovoza;
+10)
+klasa materijala
+je karakteristika materijala za
+  izradu lica saobraćajnog znaka, koja služi za klasifikaciju materijala prema
+  koeficijentu retrorefleksije;
+11)
+linearni katadiopter
+je oprema puta namenjena za
+  podužno obeležavanje ograda, zidova i barijera;
+12)
+marker
+je oprema puta koja omogućava uočljivost
+  saobraćajnih površina i oznaka na putu;
+13)
+montažni ivičnjak
+je oprema puta namenjena za usmeravanje
+  saobraćaja i vođenje saobraćajnih tokova;
+14)
+nosač saobraćajne signalizacije
+(stub, portal, konzola,
+  i sl.) je konstrukcija na koju se postavlja saobraćajna signalizacija;
+15)
+oprema protiv zaslepljivanja vozača
+je oprema puta
+  koja služi za sprečavanje zaslepljivanja vozača od svetla vozila iz suprotnog
+  smera;
+16)
+plastični materijali
+su materijali za izradu oznaka
+  na kolovozu u tečnom, odnosno žitkom stanju na bazi plastike;
+17)
+retroreflektujući materijali
+za izradu lica saobraćajnog
+  znaka (folije) su plastični materijali sa ugrađenim elementima za retrorefleksiju,
+  lepkom za pričvršćivanje na podlogu i zaštitnim površinskim slojem za odbranu
+  od spoljnih uticaja;
+18)
+saobraćajni čunj
+je privremena saobraćajna signalizacija
+  konusnog oblika kojom se vozači upozoravaju na prepreke, odnosno zonu radova
+  na putu;
+19)
+saobraćajno ogledalo
+je oprema puta, namenjena poboljšanju
+  preglednosti na putu;
+20)
+signalna tabla
+je privremena saobraćajna signalizacija
+  namenjena označavanju zone radova na putu, sa trepćućim svetlima, saobraćajnim
+  znakovima, odnosno znakovima sa izmenjivim sadržajem poruka i može se postaviti
+  na zadnji deo vozila, odnosno prikolici koji se koriste u zoni radova;
+21)
+smerokaz
+je svetlosna oznaka sa retroreflektujućim
+  površinama koja služi za označavanje pravca pružanja puta i ivica kolovoza;
+22)
+stubić
+je oprema puta kojom se sprečava pristup
+  na površine koje nisu namenjene određenim učesnicima u saobraćaju;
+23)
+tabla za označavanje vrha ostrva
+je saobraćajni
+  znak koji upozorava vozače da nailaze na ostrvo, ili je stub sa unutrašnjim
+  osvetljenjem žute boje i postavlja se na vrh ostrva;
+24)
+ublaživač udara
+(absorber) je oprema puta i služi
+  za ublažavanje udara vozila u objekat na putu i postavlja se na mestima gde
+  postoji izražena opasnost od naletanja vozila;
+25)
+štap za označavanje puta
+u zimskim uslovima je svetlosna
+  oznaka sa naizmeničnim poljima crvene i žute boje i služi za označavanje pravca
+  pružanja puta i ivica kolovoza u zimskim uslovima.
+II SAOBRAĆAJNA SIGNALIZACIJA
+Član 3
+Pod saobraćajnom signalizacijom, u smislu ovog pravilnika se
+  podrazumevaju:
+1) saobraćajni znakovi;
+2) oznake na putu;
+3) semafori;
+4) branici, odnosno polubranici na prelazu puta preko železničke
+  pruge;
+5) privremena saobraćajna signalizacija;
+6) svetlosne oznake na putu;
+7) druge oznake na putu (u daljem tekstu: oprema puta).
+Član 4
+Izgled i način postavljanja saobraćajne signalizacije na putu
+  je propisan ovim pravilnikom.
+Tehničke karakteristike saobraćajne signalizacije izvode se
+  u skladu sa važećim srpskim standardima.
+Ako za saobraćajnu signalizaciju ne postoji odgovarajući srpski
+  standard, primeniće se odgovarajući evropski standard.
+Temelji, postolja i nosači saobraćajne signalizacije su definisani
+  standardom.
+Saobraćajni projekat
+Član 5
+Saobraćajna signalizacija se postavlja i obeležava na putu
+  na osnovu saobraćajnog projekta u skladu sa odredbama ovog pravilnika i propisima
+  kojima se uređuje oblast saobraćaja.
+Saobraćajni projekat je projekat saobraćaja i saobraćajne signalizacije,
+  u skladu sa propisima kojima se uređuje tehnička dokumentacija.
+Tehničku dokumentaciju čine: saobraćajni projekat, tehnička
+  kontrola i prateća dokumentacija (mišljenja, saglasnosti, dokumentacija na
+  osnovu koje se izvode radovi koji uzrokuju izmenu režima saobraćaja na putu, ovlašćenja, punomoćja i dr.).
+Saobraćajni projekat sadrži:
+1) naslovnu stranu;
+2) sadržaj projektne dokumentacije;
+3) opštu dokumentaciju u skladu sa propisima;
+4) projektni zadatak potpisan od investitora;
+5) tehnički izveštaj;
+6) predmer i predračun saobraćajne signalizacije;
+7) tehničke uslove za izradu i postavljanje saobraćajne signalizacije,
+  za odgovarajući nivo izrade iste, u skladu sa propisima kojima se bliže uređuje
+  tehnička dokumentacija;
+8) prilog o merama zaštite na radu i zaštiti životne sredine
+  koje se odnose na projekat, za odgovarajući nivo izrade iste, u skladu sa propisima
+  kojima se uređuje tehnička dokumentacija;
+9) grafički deo projekta;
+10) detalje saobraćajne signalizacije.
+Saobraćajni projekat dat je u Prilogu 1. koji je odštampan
+  uz ovaj pravilnik i čini njegov sastavni deo.
+1. Saobraćajni znakovi
+Član 6
+Saobraćajni znakovi su: znakovi opasnosti, znakovi izričitih
+  naredbi i znakovi obaveštenja.
+Uz saobraćajni znak je dozvoljeno postavljanje dopunske table
+  koja je sastavni deo saobraćajnog znaka i bliže određuje njegovo značenje.
+Dopunska tabla se postavlja ispod donje ivice saobraćajnog
+  znaka na koji se odnosi.
+Član 7
+Saobraćajni znak se postavlja na nosač saobraćajnog znaka pored
+  kolovoza.
+Dozvoljeno je da se saobraćajni znak postavi na:
+1) konzolni nosač;
+2) portalni nosač;
+3) zapreku;
+4) signalnu tablu;
+5) nosač semafora i to:
+(1) jedan znak iznad semafora;
+(2) dva znaka sa desne strane u nivou semafora, na posebnom
+    nosaču i to znakovi: II-1, II-2, II-4, II-43, II-43.1, II-43.2, II-43.3, II-43.4,
+    II-44, II-44.1, II-44.2, III-2, III-2.1, III-3, III-3.1 i III-62;
+Šematski prikaz postavljanja saobraćajnih znakova na nosač
+  semafora je dat na slici br. 1.
+Slika
+    br. 1.
+Izuzetno od stava 1. ovog člana, uz obrazloženje u saobraćajnom
+  projektu, dozvoljeno je da se saobraćajni znak postavi na elemente komunalne
+  infrastrukture uz saglasnost nadležnog vlasnika, odnosno korisnika komunalne
+  infrastrukture.
+Poleđina saobraćajnih znakova II-1, II-2 i III-3 ne sme biti
+  zaklonjena.
+Član 8
+Na zajedničkom nosaču za saobraćajni znak pored kolovoza, ne
+  sme se postaviti više od dve dopunske table uz jedan saobraćajni znak.
+Na zajedničkom nosaču za saobraćajni znak pored kolovoza, ne
+  sme se postaviti više od dva saobraćajna znaka i dve dopunske table.
+Na zajedničkom nosaču za saobraćajni znak pored kolovoza ne
+  sme se postaviti više od dva saobraćajna znaka koji se odnose na jedan smer
+  kretanja.
+Izuzetno od stava 1, 2, i 3. ovog člana, na raskrsnici bez
+  semafora u naselju, dozvoljeno je na zajedničkom nosaču saobraćajnog znaka
+  pored kolovoza postaviti tri saobraćajna znaka bez dopunskih tabli, kada je
+  prvi u nizu od tih znakova znak II-1 ili II-2, drugi u nizu jedan od znakova:
+  II-43, II-43.1, II-43.2, II-43.3, II-43.4, II-44, II-44.1, II-44.2, II-45.2,
+  II-26, II-26.1 a treći u nizu jedan od znakova: III-5, III-6, III-7.
+Na zajedničkom nosaču saobraćajnog znaka pored kolovoza dozvoljeno
+  je postaviti tri saobraćajna znaka bez dopunskih tabli i to znakove: III-205,
+  III-63 i III-64.
+Saobraćajni znakovi koji se postavljaju na zajedničkom nosaču
+  moraju biti iste grupe dimenzije znakova i klase materijala.
+Tabela grupa dimenzija znakova na zajedničkom nosaču data je
+  u Prilogu 2 koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.
+Saobraćajni znakovi na zajedničkom nosaču pored kolovoza se
+  postavljaju od najvišeg ka najnižem, sledećim redom: znakovi opasnosti, znakovi
+  izričitih naredbi pa znakovi obaveštenja.
+Izuzetno od stava 8. znakovi III-3 i III-3.1 se postavljaju
+  na najvišu poziciju.
+Član 9
+Saobraćajni znakovi van naselja postavljaju se na visini od
+  1,2 m do 1,4 m.
+Saobraćajni znakovi u naselju postavljaju se na visini od 2,2
+  m do 2,4 m, a izuzetno van pešačkih površina dozvoljeno je postavljanje na
+  visini od 1,4 m do 1,8 m.
+Izuzetno od stava 1. ovog člana:
+1) na visini od 0,8 m postavljaju se znakovi: I-35, III-59,
+  III-82, III-82.1, III-83, III-95, III-96, III-97, III-98 i III-99;
+2) na visini od 1,5 m do 1,7 m postavljaju se znakovi: II-45,
+  II-45.1, II-45.2, II-45.3, ako se postavljaju zajedno sa znakovima III-84 i
+  III-84.1;
+3) na visini od 0,5 m postavljaju se znakovi: III-84 i III-84.1;
+4) visina znakova III-82 i III-82.1 koji se postavljaju na
+  indikator vrha površine razdvajanja tokova je u zavisnosti od visine indikatora
+  vrha površine razdvajanja tokova;
+5) visina znakova koji se postavljaju na zapreke u zoni radova
+  je u zavisnosti je od visina zapreka.
+Saobraćajni znakovi iznad kolovoza postavljaju se na visini
+  od 4,5 m do 5,5 m.
+Visina je rastojanje od horizontalne ravni koja prolazi kroz
+  ivicu puta bližu saobraćajnom znaku do horizontalne ravni koja prolazi kroz
+  donju ivicu saobraćajnog znaka, odnosno dopunske table (najniža ivica saobraćajnog
+  znaka, odnosno dopunske table).
+Način postavljanja saobraćajnog znaka i dopunske table, koji
+  se vertikalno postavljaju na zajednički nosač za saobraćajni znak, dat je na
+  slici br. 2.
+Rastojanje između ivice kolovoza i najniže ivice saobraćajnog
+  znaka, koja je najbliža kolovozu, van pešačkih površina, iznosi od 0,75 m do
+  1,5 m.
+Izuzetno, od stava 8. ovog člana, rastojanje iznosi do 0,5
+  m, kada saobraćajni profil sadrži zaustavne trake, odnosno kada je postavljena
+  zaštitna ograda.
+Rastojanje između ivice kolovoza i najniže ivice saobraćajnog
+  znaka, koja je najbliža kolovozu, na pešačkim povinama iznosi od 0,30 m do
+  1,5 m.
+Slika
+    br. 2
+Član 10
+Saobraćajni znakovi se postavljaju na način da budu uočljivi,
+  da ne ometaju kretanje učesnika u saobraćaju i ne zaklanjaju druge saobraćajne
+  znakove.
+Saobraćajni znakovi se postavljaju sa desne strane puta pored
+  kolovoza, u smeru kretanja vozila.
+Ukoliko na mestu na kome se postavlja saobraćajni znak sa desne
+  strane puta postoji potreba za boljom uočljivošću znaka, odnosno dodatnim upozorenjem
+  učesnika u saobraćaju iz razloga bezbednosti, znak se postavlja i na levoj
+  strani puta.
+Član 11
+Nazivi mesta i drugi geografski nazivi na saobraćajnim znakovima
+  na državnim putevima I reda ispisuju se ćiriličnim i latiničnim pismom na način
+  da se prvo ispisuje natpis ćirilicom, a zatim latinicom na istom znaku.
+Izuzetno od stava 1. ovog člana na saobraćajnim znakovima koji
+  se postavljaju pored puta, natpisi ćiriličnim i latiničnim pismom mogu se ispisati
+  na dva saobraćajna znaka na način da se na putu prvo nailazi na znak sa ćiriličnim
+  pismom.
+Nazivi mesta i drugi geografski nazivi ispisuju se ćiriličnim
+  pismom na saobraćajnim znakovima na državnim putevima II reda, opštinskim putevima
+  i ulicama.
+Na turističkoj signalizaciji natpisi se ispisuju ćiriličnim
+  pismom. Ispod ćiriličnog pisma je dozvoljen natpis na engleskom jeziku.
+Na mestima gde se dozvoljava primena pisma ili jezika nacionalne
+  manjine, ovaj natpis se ispisuje ispod natpisa koji su definisani st. 1, 3.
+  i 4. ovoga člana.
+Na saobraćajni znak je dozvoljeno upisati odredište u drugoj
+  državi na engleskom jeziku i nacionalnu oznaku te države.
+Član 12
+Znakovi sa izmenljivim sadržajem imaju isto značenje kao i
+  saobraćajni znakovi propisani ovim pravilnikom.
+Znakovi sa izmenljivim sadržajem proizvode se prema standardu
+  SRPS EN 12966.
+Ukoliko zbog tehnologije izvođenja nije moguće izvesti propisanu
+  boju upotrebljava se:
+1) crna boja bez refleksije, umesto bele i plave boje osnove
+  znaka;
+2) bela, odnosno žuta boja za simbole umesto crne i bele boje
+  za simbole;
+3) bela, odnosno žuta boja okvira umesto crne boje okvira.
+Dozvoljeno je da se informacija koja se prikazuje na znakovima
+  sa izmenljivim sadržajem sastoji od teksta, odnosno simbola.
+Znakovi sa izmenljivim sadržajem se postavljaju na:
+1) portalnim nosačima iznad kolovoza;
+2) nosaču za saobraćajni znak pored puta;
+3) signalnim tablama;
+4) vozilima, odnosno prikolicama koji se koriste u zoni radova
+  na putu.
+Član 13
+Ivica saobraćajnog znaka izrađuje se u boji osnove znaka.
+Saobraćajni znak sa aluminijumskim profilom na ivici ne mora
+  da ima ivicu iz stava 1. ovog člana.
+Saobraćajni znak čine lice i poleđina znaka.
+Lice saobraćajnog znaka se izrađuje od materijala sa retroreflektujućim
+  svojstvima.
+U slučaju da je znak izrađen sa unutrašnjim izvorom svetlosti,
+  lice znaka se izrađuje na translucentnoj podlozi sa retroreflektujućim svojstvom.
+Boja lica saobraćajnog znaka je u skladu sa standardom.
+Poleđina saobraćajnog znaka je sive boje, bez refleksije, u
+  skladu sa standardom.
+Materijali za izradu saobraćajnih znakova
+Član 14
+Upotreba retroreflektujućih materijala za izradu lica saobraćajnog
+  znaka zavisi od kategorije puta, i to na:
+1) autoputu: znakovi koji se postavljaju pored kolovoza izrađuju
+  se od materijala najmanje klase 2 ako ne postoji javna rasveta, od materijala
+  klase 3 izrađuju su znakovi obaveštenja za vođenje saobraćaja ako javna rasveta
+  postoji, a znakovi koji se postavljaju na portalima izrađuju se od materijala
+  klase 3;
+2) motoputu: znakovi koji se postavljaju pored kolovoza izrađuju
+  se od materijala najmanje klase 2, a na portalima od materijala klase 3;
+3) ostalim državnim i opštinskim putevima: znakovi se izrađuju
+  od materijala klase 2;
+4) ulicama: znakovi se izrađuju od materijala klase 1.
+Izuzetno od stava 1. ovog člana:
+1) na autoputu i motoputu, od materijala klase 2 se izrađuju
+  znakovi uz objekte na putu: III-58, III-59, III-60, III-61, III-90, III-90.1;
+2) na ostalim putevima, osim na ulicama, od materijala klase
+  3 izrađuju se znakovi: I-32, I-33, I-34, I-34.1, I-35, II-1, II-2, III-5, III-6,
+  III-7;
+3) na ulicama od materijala klase 2 izrađuju se znakovi: I-32,
+  I-33, I-34, I-34.1, I-35, II-1, II-2, III-5, III-6, III-7;
+4) od materijala klase 3. se izrađuju znakovi: III-11, III-28,
+  III-85, III-86, III-89, III-89.1, III-89.2;
+5) od materijala klase 1. se izrađuju znakovi: II-40, II-41,
+  II-41.1, II-41.2, II-42, III-19 III-20, III-21, III-22, III-98 i III-99.
+Izuzetno od stava 1. ovog člana, znakovi koji se postavljaju
+  pored kolovoza izrađuju se od materijala klase 1, ukoliko se radovi u zoni
+  radova završe u toku jednog dana za vreme dnevne vidljivosti.
+Znakovi turističke signalizacije izrađuju se od materijala
+  klase 2 na autoputu i motoputu, a od materijala klase 1 na ostalim putevima.
+Radi bolje uočljivosti dozvoljeno je da saobraćajni znakovi
+  budu izrađeni na fluoroscentnoj podlozi od retroreflektujućeg materijala klase
+  3:
+1) žute boje u zoni radova na putu;
+2) žuto-zelene boje za znakove na mestima gde je potrebno da
+  se istakne značaj informacije na znaku, odnosno kada je potrebno pojačati uočljivost
+  takvih znakova.
+Član 15
+Saobraćajni znakovi izrađeni sa licem znaka od retroreflektujućih
+  materijala postavljaju se na putu pod uglom od 3o-5o u odnosu na uzdužnu osu
+  puta - horizontalna ravan, odnosno postavljaju se iznad puta pod uglom od 3º
+  u odnosu na uzdužnu osu puta - vertikalna ravan, da bi se izbegao efekat zaslepljivanja.
+Način postavljanja retroreflektujućih saobraćajnih znakova
+  u odnosu na uzdužnu osu puta dat je u Prilogu 3 koji je odštampan uz ovaj pravilnik
+  i čini njegov sastavni deo.
+Član 16
+Saobraćajni znak prema standardu SRPS EN 12899 ispunjava najmanje:
+1) faktor sigurnosti za opterećenje klase (PAF1);
+2) pritisak vetra klase (W5);
+3) dinamički pritisak snega klase (DSL1);
+4) najveću privremenu defleksiju klase (TDB4).
+1.1. Znakovi opasnosti
+Član 17
+Znakovi opasnosti služe da se učesnici u saobraćaju upozore
+  na opasnost koja im preti na određenom mestu, odnosno delu puta i da se obaveste
+  o prirodi te opasnosti.
+Član 18
+Znakovi opasnosti su:
+1) znak "krivina nalevo" (I-1) i znak "krivina
+  nadesno" (I-1.1), označavaju približavanje (nailazak) opasnoj krivini
+  nalevo, odnosno nadesno;
+2) znak "dvostruka krivina ili više od dve uzastopne krivine
+  od kojih je prva nalevo" (I-2) i znak "dvostruka krivina ili više
+  od dve uzastopne krivine od kojih je prva nadesno" (I-2.1) označava približavanje
+  delu puta sa više uzastopnih krivina, od kojih je prva nalevo, odnosno nadesno;
+3) znak "opasan uspon" (I-3) i znak "opasna
+  nizbrdica" (I-4), označavaju približavanje opasnom usponu, odnosno opasnoj
+  nizbrdici;
+Procenat na znaku odgovara procentu uspona, odnosno procentu
+  nizbrdice na putu.
+4) znak "suženje puta" (I-5), znak "suženje
+  puta sa desne strane" (I-5.1) i znak "suženje puta sa leve strane" (I-5.2),
+  označavaju približavanje delu puta na kome suženje kolovoza može da predstavlja
+  opasnost;
+5) znak "pokretni most" (I-6), označava blizinu mesta
+  na kome se na putu nalazi pokretni most;
+6) znak "blizina obale" (I-7), označava nailazak
+  na deo puta koji vodi do obale, odnosno pruža se u blizini obale;
+7) znak "neravan kolovoz" označava nailazak na deo
+  puta na kome je kolovoz neravan zbog postojanja opasnih izbočina i ulegnuća
+  (I-8), zbog opasnog ulegnuća (I-9) ili zbog opasne izbočine na kolovozu (I-10);
+8) znak "klizav kolovoz" (I-11), označava nailazak
+  na deo puta na kome je moguća pojava klizavog kolovoza;
+9) znak "kamenje pršti" (I-12), označava nailazak
+  na deo puta na kome je moguća pojava prštanja kamenja;
+10) znak "odron kamenja" označava nailazak na deo
+  puta na kojem postoji opasnost od odrona kamenja i prisustva kamenja sa desne
+  strane puta (I-13), odnosno sa leve strane puta (I-13.1);
+11) znak "nailazak na pešački prelaz" (I-14), označava
+  nailazak na mesto na putu na kome je obeležen pešački prelaz;
+12) znak "deca na putu" (I-15), označava nailazak
+  na deo puta na kome se često kreću deca (blizina škole, obdaništa, igrališta
+  i sl.);
+13) znak "biciklisti na putu" (I-16), označava nailazak
+  na deo puta na kome se biciklisti često kreću, odnosno prelaze put;
+14) znak "životinje na putu" (I-17), označava nailazak
+  na deo puta na kome domaće životinje pod nadzorom prelaze preko puta, odnosno
+  se kreću duž puta;
+15) znak "divljač na putu" (I-18), označava nailazak
+  na deo puta na kome postoji opasnost zbog prelaska divljači;
+16) znak "radovi na putu" (I-19), označava nailazak
+  na deo puta na kome se izvode radovi na putu;
+17) znak "nailazak na semafor" (I-20) i (I-20.1),
+  označava nailazak na mesto na putu na kome je saobraćaj regulisan semaforima;
+18) znak "avionska pista" (I-21), označava nailazak
+  na deo puta u blizini avionske piste preko koga avioni preleću, u niskom letu,
+  prilikom sletanja, odnosno poletanja;
+19) znak "bočni vetar" (I-22), označava nailazak
+  na deo puta na kome je učestala pojava jakog bočnog vetra;
+Simbol na navedenom znaku odgovara smeru vetra.
+20) znak "dvosmeran saobraćaj" (I-23), označava mesto
+  na putu od koga počinje dvosmeran saobraćaj;
+21) znak "tunel" (I-24), označava nailazak na tunel;
+22) znak "opasnost na putu" (I-25), označava nailazak
+  na deo puta ili mesto na putu na kome učesnicima u saobraćaju preti opasnost
+  za koju ovim pravilnikom nije predviđen poseban znak;
+23) znak "ukrštanje puteva iste važnosti" (I-26),
+  označava blizinu raskrsnice puteva od kojih nijedan put nije put sa prvenstvom
+  prolaza;
+24) znak "ukrštanje sa sporednim putem pod pravim uglom" (I-27),
+  znak "spajanje sporednog puta pod pravim uglom sa leve strane" (I-28),
+  znak "spajanje sporednog puta pod pravim uglom sa desne strane" (I-28.1),
+  znak "spajanje sporednog puta pod oštrim uglom sa leve strane" (I-29),
+  znak "spajanje sporednog puta pod oštrim uglom sa desne strane" (I-29.1),
+  znak "spajanje sporednog puta pod tupim uglom sa leve strane" (I-29.2)
+  i znak "spajanje sporednog puta pod tupim uglom sa desne strane" (I-29.3)
+  označavaju nailazak na raskrsnicu na kojoj se put sa prvenstvom prolaza ukršta,
+  odnosno spaja sa sporednim putem;
+Simboli na navedenim znakovima iz ove tačke odgovaraju situacijama
+  na putu.
+25) znak "raskrsnica sa kružnim tokom saobraćaja" (I-30),
+označava nailazak na raskrsnicu na kojoj se saobraćaj odvija u kružnom toku;
+26) znak "ukrštanje puta i tramvajske pruge" (I-31),
+  označava nailazak na mesto na kome se put ukršta sa tramvajskom prugom u nivou;
+27) znak "ukrštanje puta sa železničkom prugom sa branicima
+  ili polubranicima" (I-32), označava nailazak na mesto ukrštanja puta sa
+  železničkom prugom u nivou, obezbeđeno branicima ili polubranicima;
+28) znak "ukrštanje puta sa železničkom prugom bez branika
+  ili polubranika" (I-33), označava nailazak na mesto ukrštanja puta sa
+  železničkom prugom u nivou, koji nije obezbeđen branicima ili polubranicima;
+29) znak "Andrejin krst", označava nailazak na ukrštanje
+  puta i železničke pruge u nivou sa jednim kolosekom (I-34), odnosno sa dva
+  ili više koloseka (I-34.1);
+30) znak "približavanje mestu ukrštanja puta i železničke
+  pruge" (I-35), označava udaljenost do mesta ukrštaja puta i železničke
+  pruge u nivou;
+31) znak "pešaci na putu" (I-36), označava nailazak
+  na deo puta kojim se pešaci često kreću;
+32) znak "opasna bankina" (I-37), označava nailazak
+  na deo puta na kome je uz kolovoz opasna bankina;
+Simbol na znaku odgovara odgovarajućoj strani puta.
+33) znak "zastoj saobraćaja" (I-38), označava nailazak
+  na deo puta na kome postoji opasnost od stvaranja kolone vozila;
+Znakovi opasnosti - opšte karakteristike
+Član 19
+Znakovi opasnosti imaju oblik jednakostraničnog trougla čija
+  se donja strana nalazi u horizontalnom položaju sa vrhom okrenutim naviše.
+Izuzetno od stava 1. ovog člana odstupaju znakovi I-34, I-34.1
+  i I-35 koji imaju pravougaoni oblik.
+Član 20
+Osnova znakova opasnosti je bele boje, a okvir trougla je crvene
+  boje. Simboli na znakovima opasnosti su crne boje.
+Izuzetno od stava 1. ovog člana:
+1) znak I-19 ima žutu osnovu;
+2) znak I-20 i I-20.1, ima na simbolima iscrtano po vertikalnoj
+  osi crveno svetlo gore, žuto u sredini, zeleno dole, a po horizontalnoj osi
+  crveno svetlo levo, žuto u sredini i zeleno desno;
+3) znak I-34 i I-34.1, ima okvir simbola crvene boje;
+4) znak I-35, ima kose crte crvene boje;
+5) znak I-38, ima na simbolima vozila iscrtana svetla crvene
+  boje.
+Član 21
+Dužina strane jednakostraničnog trougla znaka opasnosti iznosi:
+1) 120 cm, na autoputu i motoputu;
+2) 90 cm, na ostalim državnim putevima, opštinskim putevima
+  i saobraćajnicama u naselju;
+3) 60 cm, na ostalim saobraćajnicama u naselju gde postoje
+  prostorna ograničenja;
+4) 40 cm, ako se upotrebljavaju kao umetnuti znakovi, osim
+  60 cm kada se umeću na znakove koji se postavljaju na autoputu i motoputu.
+Na putevima iz stava 1. tačka 2) ovog člana mogu se, po potrebi
+  postavljati i znakovi opasnosti čija strana trougla iznosi 120 cm, a na putevima
+  iz stava 1. tačka 3) ovog člana i znakovi opasnosti čija je dužina strane trougla
+  90 cm.
+Dimenzija znaka I-34 je: 120 cm x 60 cm, a dimenzija znaka
+  I-34.1 je: 120 cm x 90 cm.
+Dimenzija znaka I-35 je: 30 cm x 100 cm, sa kosim trakama širine
+  i međusobnog rastojanja od 8 cm koje su pod uglom od 30° u odnosu na užu stranu
+  znaka.
+Postavljanje znakova opasnosti
+Član 22
+Znakovi opasnosti se postavljaju, na udaljenosti od 150 m do
+  250 m ispred opasnog mesta na putu.
+Izuzetno od stava 1. ovog člana na putu van naselja, dozvoljeno
+  je da se znakovi opasnosti postavljaju na udaljenosti manjoj od 150 m, odnosno
+  većoj od 250 m, sa dopunskom tablom kojom se označava udaljenost do opasnog
+  mesta, uz obrazloženje u saobraćajnom projektu.
+Izuzetno od stava 1. ovog člana na putu u naselju, dozvoljeno
+  je da se znakovi opasnosti postave i na udaljenosti manjoj od 150 m, uz obrazloženje
+  u saobraćajnom projektu.
+Član 23
+Izuzetno od člana 22. stav 1. ovog pravilnika:
+1) znak I-19 postavlja se na mestu odakle počinje zona radova
+  na putu i dozvoljeno je da se ponovi u zoni radova;
+2) znak I-23 postavlja se na mestu na putu odakle počinje dvosmeran
+  saobraćaj;
+3) znak I-26 postavlja se na putevima van naselja na mestu
+  ukrštanja puteva iste važnosti;
+4) znakovi I-27, I-28, I-28.1, I-29, I-29.1, I-29.2 i I-29.3
+  postavljaju se samo ako je na sporednom putu koji se ukršta sa putem s prvenstvom
+  prolaza, postavljen znak II-1, odnosno znak II-2;
+5) znakovi I-34, I-34.1 postavljaju se na ukrštajima puta i
+  železničke pruge, na odstojanju od 5 m od najbliže železničke šine, a ako okolnosti
+  to zahtevaju ne manjem od 3 m, odnosno ne većem od 10 m;
+6) znakovi I-34, I-34.1 postavljaju se na zajedničkom nosaču
+  iznad semafora ako je prelaz puta preko železničke pruge u nivou opremljen
+  istim;
+7) znak I-35 postavlja se sa tri kose trake na 240 m ispred
+  mesta ukrštanja puta i železničke pruge u nivou, zatim sa dve kose trake na
+  160 m, a poslednji sa jednom kosom trakom na 80 m ispred mesta ukrštanja puta
+  i železničke pruge u nivou. Niža strana kosih traka je bliže kolovozu. Znak
+  I-32 ili I-33 se postavlja iznad znaka sa tri kose trake.
+1.2. Znakovi izričitih naredbi
+Član 24
+Znakovi izričitih naredbi služe da učesnicima u saobraćaju
+  na putu stave do znanja zabrane, ograničenja i obaveze.
+Znakovi izričitih naredbi su: znakovi kojima je propisano prvenstvo
+  prolaza, znakovi zabrane i ograničenja i znakovi kojima su propisane obaveze.
+Član 25
+Znakovi izričitih naredbi kojima je propisano prvenstvo prolaza
+  su:
+1) znak "ustupanje prvenstva prolaza" (II-1), označava
+  naredbu vozaču da mora da ustupi prvenstvo prolaza vozilima koja se kreću putem
+  na koji nailazi odnosno označava naredbu vozaču da mora da ustupi prvenstvo prolaza šinskom vozilu koje se kreće po pruzi na koju nailazi;
+2) znak "obavezno zaustavljanje" (II-2), označava
+  naredbu vozaču da mora da zaustavi vozilo i ustupi prvenstvo prolaza vozilima
+  koja se kreću putem na koji nailazi odnosno označava naredbu vozaču da mora da zaustavi vozilo ispred prelaza puta preko pruge i da ustupi prvenstvo prolaza šinskom vozilu koje se kreće po pruzi na koju nailazi;
+Znakovi izričitih naredbi kojima su propisane zabrane i ograničenja
+  su:
+3) znak "zabrana saobraćaja za vozila u oba smera" (II-3),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za sva vozila;
+4) znak "zabrana saobraćaja za vozila u jednom smeru" (II-4),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj vozilima iz smera
+  prema kome je okrenuto lice znaka;
+5) znak "zabrana saobraćaja za motorna vozila" (II-5),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za sva motorna
+  vozila, osim za mopede, motocikle bez prikolice i motocikle bez bočnog sedišta;
+6) znak "zabrana saobraćaja za autobuse" (II-6),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj autobusima;
+7) znak "zabrana saobraćaja za teretna vozila" (II-7),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za teretna vozila;
+Ako se uz ovaj znak doda dopunska tabla na kojoj je označena
+  najveća dozvoljena masa vozila, zabrana važi za teretna vozila čija najveća
+  dozvoljena masa prelazi označenu masu.
+8) znak "zabrana saobraćaja za vozila koja prevoze materije
+  koje mogu da izazovu zagađivanje vode" (II-8), označava put, odnosno deo
+  puta na kome je zabranjen saobraćaj vozilima koja prevoze određenu količinu
+  materije koja može da izazove zagađivanje vode;
+9) znak "zabrana saobraćaja vozilima koja prevoze eksploziv,
+  odnosno lako zapaljive materije" (II-9), označava put ili deo puta na
+  kome je zabranjen saobraćaj vozilima koja prevoze eksploziv ili lako zapaljive
+  materije i znak "zabrana saobraćaja vozilima koja prevoze opasne terete" (II-9.1),
+  označava put ili deo puta na kome je zabranjen saobraćaj vozilima koja prevoze
+  opasne terete;
+10) znak "zabrana saobraćaja za motorna vozila koja vuku
+  priključno vozilo osim poluprikolice ili prikolice sa jednom osovinom" (II-10),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za motorna vozila
+  koja vuku priključno vozilo osim poluprikolice ili prikolice sa jednom osovinom
+  i znak "zabrana saobraćaja za motorna vozila koja vuku priključno vozilo" (II-10.1),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za motorna vozila
+  koja vuku priključno vozilo;
+11) znak "zabrana saobraćaja za traktore" (II-11),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za traktore;
+12) znak "zabrana saobraćaja za motocikle" (II-12),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za motocikle,
+  teške tricikle i teške četvorocikle;
+13) znak "zabrana saobraćaja za mopede" (II-13),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za mopede, lake
+  tricikle i lake četvorocikle;
+14) znak "zabrana saobraćaja za bicikle" (II-14),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za bicikle;
+15) znak "zabrana saobraćaja za zaprežna vozila" (II-15),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za zaprežna vozila;
+16) znak "zabrana saobraćaja za ručna kolica" (II-16),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za lica koja
+  koriste ručna kolica;
+17) znak "zabrana saobraćaja za pešake" (II-17),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za pešake;
+18) znak "zabrana saobraćaja za sva motorna vozila" (II-18),
+  označava put, odnosno deo puta na kome je zabranjen saobraćaj za sva motorna
+  vozila;
+19) znak "zabrana saobraćaja za sva motorna vozila i zaprežna
+  vozila" (II-19), označava put, odnosno deo puta na kome je zabranjen saobraćaj
+  za sva motorna vozila i zaprežna vozila;
+20) znak "zabrana saobraćaja za vozila čija širina prelazi
+  određenu širinu" (II-20), označava put, odnosno deo puta na kome je zabranjen
+  saobraćaj za vozila čija širina prelazi širinu označenu na znaku;
+21) znak "zabrana saobraćaja za vozila čija ukupna visina
+  prelazi određenu visinu" (II-21), označava put, odnosno deo puta na kome
+  je zabranjen saobraćaj za vozila čija ukupna visina prelazi visinu označenu
+  na znaku;
+22) znak "zabrana saobraćaja za vozila čija ukupna masa
+  prelazi određenu masu" (II-22), označava put, odnosno deo puta na kome
+  je zabranjen saobraćaj za vozila, odnosno skupove vozila, čija ukupna masa
+  prelazi masu označenu na znaku;
+23) znak "zabrana saobraćaja za vozila koja prekoračuju
+  određeno osovinsko opterećenje" (II-23), označava put, odnosno deo puta
+  na kome je zabranjen saobraćaj za vozila sa osovinskim opterećenjem većim od
+  opterećenja označenog na znaku;
+24) znak "zabrana saobraćaja za vozila koja prekoračuju
+  određenu dužinu" (II-24), označava put, odnosno deo puta na kome je zabranjen
+  saobraćaj za vozila, odnosno skupovima vozila, čija ukupna dužina prelazi dužinu
+  označenu na znaku;
+25) znak "najmanje odstojanje između vozila" (II-25),
+  označava najmanje odstojanje između vozila u kretanju;
+26) znak "zabrana skretanja levo" (II-26), označava
+  mesto na putu na kome je skretanje levo zabranjeno i znak "zabrana skretanja
+  desno" (II-26.1), označava mesto na putu na kome je skretanje desno zabranjeno;
+27) znak "zabrana polukružnog okretanja" (II-27),
+  označava mesto na putu na kome je zabranjeno polukružno okretanje;
+28) znak "zabrana preticanja za motorna vozila" (II-28),
+  označava put, odnosno deo puta na kome je zabranjeno da motorna vozila pretiču
+  druga motorna vozila, osim motocikla sa dva točka bez prikolice i mopeda;
+29) znak "zabrana preticanja za teretna vozila" (II-29),
+  označava put, odnosno deo puta na kome je zabranjeno da teretna vozila čija
+  najveća dozvoljena masa prelazi 3,5 t, pretiču druga motorna vozila;
+30) znak "ograničenje brzine" (II-30), koji označava
+  put odnosno deo puta na kome je zabranjeno kretanje brzinom (km/h) većom od
+  označene na znaku;
+31) znak "zabrana upotrebe zvučnih uređaja za upozoravanje" (II-31),
+  označava put, odnosno deo puta na kome se uređajem ne smeju davati zvučni znakovi
+  upozorenja, osim u slučaju neposredne opasnosti;
+32) znak "zabrana prolaska bez zaustavljanja" (II-32),
+  (II-32.1) i (II-32.2) označava naredbu vozaču da zaustavi vozilo iz razloga
+  označenog na znaku (carinarnica, policija, odnosno naplatno mesto za putarinu);
+33) znak "prvenstvo prolaza za vozila iz suprotnog smera" (II-33),
+  označava zabranu stupanja na suženi deo puta pre nego što tim delom puta prođu
+  vozila iz suprotnog smera;
+34) znak "zabrana zaustavljanja i parkiranja" (II-34),
+  označava stranu puta na kojoj je zabranjeno zaustavljanje i parkiranje vozila;
+35) znak "zabrana parkiranja" (II-35), označava stranu
+  puta na kojoj je zabranjeno parkiranje vozila;
+36) znak "naizmenično parkiranje" (II-36), označava
+  stranu puta na kojoj je zabranjeno parkiranje neparnim danima;
+37) znak "naizmenično parkiranje" (II-37), označava
+  stranu puta na kojoj je zabranjeno parkiranje parnim danima.
+Član 26
+Znakovi izričitih naredbi kojima su propisane obaveze su:
+38) znak "najmanja dozvoljena brzina" (II-38), označava
+  put, odnosno deo puta na kome je obavezno kretanje brzinom (km/h) ne manjom
+  od označene na znaku;
+39) znak "lanci za sneg" (II-39), označava deo puta
+  na kome motorna vozila, osim motocikala, mopeda, lakih tricikla, teških tricikla,
+  lakih četvorocikla, teških četvorocikla, radnih mašina, traktora i motokultivatora,
+  moraju na pogonskim točkovima imati lance za sneg, ako je na kolovozu sneg;
+40) znak "biciklistička staza" (II-40), označava
+  posebno izgrađenu stazu, za vožnju bicikla, po kojoj je zabranjeno kretanje
+  drugim učesnicima u saobraćaju;
+41) znak "pešačka staza" (II-41), označava posebno izgrađenu stazu za kretanje pešaka, po kojoj je zabranjeno kretanje drugim učesnicima u saobraćaju, znak "staza rezervisana za bicikliste i pešake" (II-41.1) označava put po kome se odvojeno kreću biciklisti i pešaci, svako u svojoj stazi i znak "pešačko-biciklistička staza" (II-41.2), koji označava put namenjen za kretanje pešaka i biciklista;
+Raspored simbola na znaku II-41.1 odgovara situaciji na putu.
+42) znak "staza za jahače" (II-42), označava stazu
+  za jahanje po kojoj je zabranjeno kretanje drugim učesnicima u saobraćaju,
+  osim vodiča koji vode životinje za jahanje;
+43) znakovi "obavezan smer kretanja" (II-43), (II-43.1),
+  (II-43.2), (II-43.3) i (II-43.4), označavaju smer kojim se vozila moraju kretati;
+44) znakovi "dozvoljeni smerovi kretanja" (II-44),
+  (II-44.1) i (II-44.2), označavaju smerove u kojima se vozila smeju kretati;
+45) znakovi "obavezno obilaženje sa desne strane" (II-45), "obavezno
+  obilaženje sa leve strane" (II-45.1) i "kružni tok saobraćaja" (II-45.2),
+  označavaju kolovoz, odnosno deo kolovoza kojim se vozila moraju kretati prilikom
+  obilaženja pešačkih ostrva, ostrva za usmeravanje saobraćaja, odnosno drugih
+  objekata na kolovozu, i znak "obilaženje sa obe strane" (II-45.3)
+  koji označava kolovoz, odnosno deo kolovoza kojim se vozila mogu kretati prilikom
+  obilaženja pešačkih ostrva, ostrva za usmeravanje saobraćaja, odnosno drugih
+  objekata na kolovozu;
+46) znak "obavezno polukružno okretanje" (II-46),
+  označava mesto na putu, odnosno delu puta na kome se vozila moraju polukružno
+  okrenuti;
+47) znak "obavezan smer kretanja vozila koja prevoze opasne
+  terete" (II-47), označava obavezan smer kretanja za vozila za vreme prevoza
+  opasnog tereta.
+Izbor znaka (obavezan smer kretanja) na znaku II-47, odgovara
+  situaciji na putu.
+Član 27
+Simboli na znakovima izričitih naredbi II-20, II-21, II-22,
+  II-23, II-24, II-25, II-30 i II-38 upisuju prema situaciji na putu i potrebama
+  bezbednosti saobraćaja.
+Znakovi izričitih naredbi - opšte karakteristike
+Član 28
+Znakovi izričitih naredbi imaju oblik kruga.
+Izuzetno od stava 1. ovog člana:
+1) znak II-1 ima oblik jednakostraničnog trougla čija je jedna
+  strana postavljena horizontalno sa suprotnim vrhom okrenutim naniže;
+2) znak II-2 ima oblik pravilnog osmougaonika;
+3) znak II-47 ima oblik pravougaonika.
+Član 29
+Osnova znakova izričitih naredbi koji određuju zabrane, odnosno
+  ograničenja je bele boje, a znakova izričitih naredbi koji određuju obaveze
+  je plave boje. Simboli i natpisi na znakovima sa belom osnovom su crne boje,
+  a na znakovima plave osnove su bele boje.
+Okvir kruga znakova izričitih naredbi koji određuju zabrane,
+  odnosno ograničenja je crvene boje. Pojedini znakovi izričitih naredbi koji
+  određuju zabrane, odnosno ograničenja imaju i kose trake crvene boje.
+Izuzetno od odredbe stava 1. ovog člana:
+1) znak II-2 ima osnovu crvene boje, a okvir i simbol "STOP" bele
+  boje;
+2) znak II-8 ima simbol crvene boje, osovina sa točkovima je
+  crne boje i dve linije plave boje;
+3) znak II-9 ima simbol crne boje sa označenim crvenim svetlom
+  na vrhu, a znak II-9.1 ima simbol crvene boje, a osovina sa točkovima i konture
+  vozila su crne boje;
+4) znakovi II-28 i II-29 imaju i simbol crvene boje;
+5) znak II-33 ima simbol crvene boje kojim se označava zabranjen
+  smer kretanja;
+6) znakovi II-34 i II-35 imaju osnovu plave boje;
+7) znakovi II-36 i II-37 imaju osnovu plave boje, a simbol
+  bele boje;
+8) znak II-47 ima osnovu bele boje i okvir crne boje. U gornjem
+  delu se nalazi simbol crvene boje (osovina sa točkovima i konture vozila su
+  crne boje), a u donjem delu odgovarajući znak (obavezan smer kretanja).
+Član 30
+Kose trake na znakovima izričitih naredbi su pod uglom od 45°
+  u odnosu na horizontalnu ravan.
+Član 31
+Prečnik kruga znakova izričitih naredbi iznosi:
+1) 90 cm, na autoputu i motoputu;
+2) 60 cm, na ostalim državnim putevima, opštinskim putevima
+  i saobraćajnicama u naselju;
+3) 40 cm, na ostalim saobraćajnicama u naselju gde postoje
+  prostorna ograničenja;
+4) 40 cm, ako se upotrebljavaju kao umetnuti znakovi na autoputu
+  i motoputu;
+5) 30 cm, ako se upotrebljavaju kao umetnuti znakovi na ostalim
+  putevima.
+Izuzetno od stava 1. tačka 2) ovog člana mogu se, po potrebi,
+  postavljati na putevima i znakovi izričitih naredbi čiji prečnik kruga iznosi
+  90 cm.
+Izuzetno od stava 1. tačka 3) ovog člana mogu se, po potrebi,
+  postavljati na putevima i znakovi izričitih naredbi čiji je prečnik kruga 60
+  cm.
+Dužina stranice jednakostraničnog trougla znaka II-1 iznosi:
+1) 120 cm, na autoputu i motoputu;
+2) 90 cm, na ostalim državnim putevima, opštinskim putevima
+  i saobraćajnicama u naselju;
+3) 60 cm, na ostalim saobraćajnicama u naselju gde postoje
+  prostorna ograničenja.
+Dužina prečnika upisanog kruga za znak II-2, iznosi:
+1) 90 cm, na autoputu i motoputu;
+2) 60 cm, na ostalim putevima.
+Dimenzija znaka II-47 je 90 cm x 150 cm, ukoliko se u donji
+  deo znaka upisuje krug prečnika 60 cm, odnosno 135 cm x 225 cm, ukoliko se
+u donji deo znaka upisuje krug prečnika 90 cm.
+Postavljanje znakova izričitih naredbi
+Član 32
+Znak izričite naredbe postavlja se neposredno ispred mesta
+  odakle nastaje obaveza pridržavanja naredbe izražene saobraćajnim znakom, a
+  na kraju deonice puta gde prestaje važnost znaka postavlja se znak obaveštenja
+  o prestanku važenja znaka izričite naredbe.
+Ako je potrebno da učesnici u saobraćaju budu unapred obavešteni
+  o izričitoj naredbi, dozvoljeno je da se znak izričite naredbe postavi i pre
+  mesta odakle naredba važi uz dopunsku tablu sa oznakom udaljenosti do mesta
+  odakle naredba važi.
+Ako izričita naredba važi na deonici puta uz saobraćajni znak
+  se postavlja dopunska tabla sa oznakom dužine na kojoj znak izričite naredbe
+  važi.
+Znakovi izričitih naredbi moraju se ponovo postaviti posle
+  svake raskrsnice sa drugim putem, na putu na kome je takav znak postavljen,
+  ako izričita naredba važi i posle navedene raskrsnice.
+Član 33
+Izuzetno od člana 32. ovog pravilnika:
+1) znak II-1 postavlja se u neposrednoj blizini raskrsnice, odnosno prelaza puta preko pruge, po mogućstvu na mestu preglednosti, na kome vozilo ustupa prolaz drugim vozilima koja se kreću putem, odnosno šinskim vozilima koja se kreću prugom, na koje nailazi;
+2) znak II-2 postavlja se u neposrednoj blizini raskrsnice, odnosno prelaza puta preko pruge, po mogućstvu na mestu preglednosti, na kome se vozilo obavezno zaustavlja da bi ustupilo prolaz drugim vozilima koja se kreću putem, odnosno šinskim vozilima koja se kreću prugom, na koje nailazi;
+3) znak II-33 postavlja se na mestu na putu sa koga se može
+  videti deo puta na koji se zabrana odnosi;
+4) znakovi II-43, II-43.1, II-43.2, II-43.3, II-43.4, II-44,
+  II-44.1, II-44.2 i II-45.2 postavljaju se na raskrsnici;
+5) znakovi II-45, II-45.1 i II-45.2 mogu se postaviti iznad
+  znaka III-84, na signalne table, odnosno zapreke u zoni radova;
+6) znak II-45.3 može se postaviti iznad znaka III-84.1, na
+  signalnu tablu, odnosno zapreku u zoni radova.
+1.3. Znakovi obaveštenja
+Član 34
+Znakovi obaveštenja pružaju učesnicima u saobraćaju obaveštenja
+  o putu kojim se kreću, nazivima mesta kroz koja put prolazi i udaljenosti do
+  tih mesta, prestanku važenja znakova izričitih naredbi i druga obaveštenja.
+Znakovi obaveštenja su: opšti znakovi obaveštenja, znakovi
+  za vođenje saobraćaja, znakovi turističke signalizacije i znakovi za obeležavanje
+  prepreka na putu i mesta na kome se izvode radovi.
+1.3.1. Opšti znakovi obaveštenja
+Član 35
+Opšti znakovi obaveštenja su:
+1) znak "prvenstvo prolaza u odnosu na vozila iz suprotnog
+  smera" (III-1), obaveštava vozača da na suženom delu puta ima prvenstvo
+  prolaza u odnosu na vozila iz suprotnog smera;
+2) znak "put sa jednosmernim saobraćajem" (III-2)
+  i (III-2.1), obaveštava učesnike u saobraćaju o jednosmernom putu;
+Položaj simbola na znaku III-2.1 odgovara situaciji na putu.
+3) znak "put sa prvenstvom prolaza" (III-3), označava
+  put ili deo puta na kome vozila imaju prvenstvo prolaza u odnosu na vozila
+  koja se kreću putevima koji se ukrštaju s tim putem, odnosno delom puta;
+4) znak "završetak puta sa prvenstvom prolaza" (III-3.1),
+  označava mesto na kome se završava put ili deo puta sa prvenstvom prolaza;
+5) znak "prepreka za usporavanje saobraćaja" (III-4),
+  označava nailazak na mesto na putu gde su postavljena tehnička sredstva za
+  usporavanje saobraćaja;
+6) znak "prelaz biciklističke staze preko kolovoza" (III-5),
+  označava mesto na kome se nalazi prelaz biciklističke staze;
+7) znak "pešački prelaz" (III-6), označava mesto
+  na kome se nalazi pešački prelaz;
+8) znak "pešački prelaz i prelaz biciklističke staze preko
+  kolovoza" (III-7), označava mesto na kome se nalazi pešački prelaz i prelaz
+  biciklističke staze;
+Raspored simbola na znaku III-7 odgovara situaciji na putu.
+9) znak "podzemni ili nadzemni pešački prolaz" (III-8),
+  označava mesto na kome se nalazi podzemni, odnosno nadzemni pešački prolaz;
+10) znak "slepi put" (III-9), označava blizinu i
+  položaj puta koji nema izlaz (slepi put);
+Položaj simbola na znaku III-9 odgovara situaciji na putu.
+11) znak "način kretanja vozila koje namerava da skrene
+  ulevo na raskrsnici na kojoj je skretanje ulevo zabranjeno" (III-10),
+  označava put kojim je dozvoljeno kretanje, kada vozač namerava da skrene ulevo,
+  na raskrsnici na kojoj je skretanje ulevo zabranjeno;
+Izgled znaka odgovara situaciji na putu.
+12) znak "blizina škole" (III-11), označava mesto
+  u čijoj se blizini nalazi škola i gde se može nalaziti pešački prelaz koji
+  deca često koriste;
+13) znak "prestanak zabrane preticanja za motorna vozila" (III-12),
+  označava mesto odakle prestaje zabrana preticanja za motorna vozila;
+14) znak "prestanak zabrane preticanja za teretna vozila" (III-13),
+  označava mesto odakle prestaje zabrana preticanja za teretna vozila čija najveća
+  dozvoljena masa prelazi 3,5 t;
+15) znak "prestanak ograničenja brzine" (III-14),
+  označava mesto odakle prestaje ograničenje brzine (km/h) i znak "prestanak
+  najmanje dozvoljene brzine" (III-15), koji označava mesto odakle prestaje
+  obaveza kretanja najmanje propisanom brzinom (km/h);
+16) znak "prestanak zabrane upotrebe zvučnih uređaja za
+  upozoravanje" (III-16), označava mesto odakle prestaje zabrana davanja
+  zvučnih znakova upozorenja;
+17) znak "prestanak svih zabrana" (III-17), označava
+  mesto na putu odakle prestaju da važe prethodno postavljeni saobraćajni znakovi
+  zabrana, ograničenja i obaveza;
+18) znakovi "prestanak obaveze nošenja lanaca za sneg" (III-18),
+  znak "završetak biciklističke staze" (III-19), znak "završetak
+  pešačke staze" (III-20), znak "završetak biciklističke i pešačke
+  staze" (III-21), znak "završetak pešačko-biciklističke staze" (III-21.1) i znak "završetak staze za jahače" (III-22),
+  označavaju mesta na putu odakle prestaju da važe odgovarajuće obaveze;
+19) znak "naziv naseljenog mesta" (III-23), označava
+  granicu teritorije od koje počinje naseljeno mesto kroz koje prolazi put, čiji
+  naziv je naveden na saobraćajnom znaku;
+20) znak "završetak naseljenog mesta" (III-23.1),
+  označava granicu teritorije od koje se završava naseljeno mesto, čiji naziv
+  je naveden na saobraćajnom znaku;
+21) znak "naselje" (III-24), označava mesto od koga
+  počinje naselje;
+22) znak "završetak naselja" (III-24.1), označava
+  mesto na kome se završava naselje;
+23) znak "zona zabrane parkiranja" (III-25), označava
+  početak zone u kojoj je zabranjeno parkiranje;
+24) znak "završetak zone zabrane parkiranja" (III-25.1),
+  označava završetak zone zabrane parkiranja;
+25) znak "pešačka zona" (III-26), označava početak
+  zone namenjene za kretanje pešaka;
+26) znak "završetak pešačke zone" (III-26.1), označava
+  završetak zone namenjene kretanju pešaka;
+27) znak "zona 30" (III-27), označava zonu u kojoj
+  je brzina vozila ograničena do 30 km/h;
+28) znak "završetak zone 30" (III-27.1), označava
+  završetak zone u kojoj je ograničena brzina vozila do 30 km/h;
+29) znak "zona škole" (III-28), označava mesto od
+  kojeg počinje zona škole;
+30) znak "završetak zone škole" (III-28.1), označava
+  završetak zone škole;
+31) znak "zona usporenog saobraćaja" (III-29), označava
+  mesto od kojeg počinje zona usporenog saobraćaja;
+32) znak "završetak zone usporenog saobraćaja" (III-29.1),
+  označava mesto gde se završava zona usporenog saobraćaja;
+33) znak "parkiralište" (III-30), označava parkiralište;
+Na znaku, odnosno na dopunskoj tabli dozvoljeno je da se odgovarajućim
+  simbolima, odnosno natpisima označi: način parkiranja, smer u kome se nalazi
+  parkiralište, udaljenost parkirališta, kategorije vozila kojima je parkiralište
+  namenjeno i vremensko ograničenje parkiranja.
+34) znak "parking garaža" (III-31), označava garažu
+  sa parking mestima;
+35) znak "vremenski ograničeno parkiranje" (III-32),
+  označava parkiralište na kome je parkiranje vozila vremenski ograničeno;
+36) znak "parkiraj i vozi se" (III-33), označava
+  parkiralište gde vozilo može da se parkira i da se putovanje nastavi nekim
+  drugim transportnim sredstvom, koje se prikazuje simbolom;
+37) znak "bolnica" (III-34), označava blizinu bolnice
+  i daje obaveštenje vozaču da svojim vozilom ne stvara buku;
+Ukoliko udaljenost do objekta nije ispisana na znaku, mora
+  se postaviti odgovarajuća dopunska tabla.
+38) znak "stanica za prvu pomoć" (III-35), označava
+  blizinu mesta, odnosno mesto na kome se nalazi stanica za prvu pomoć;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima ili
+  natpisima označiti smer u kome se nalazi mesto, prostor ili služba i udaljenost
+  u metrima. Ukoliko udaljenost do objekta nije ispisana na znaku, postavlja
+  se odgovarajuća dopunska tabla.
+39) znak "radionica za opravku vozila" (III-36),
+  označava blizinu radionice za opravku vozila;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je da se simbolima,
+  odnosno natpisima označi smer u kome se nalazi mesto, prostor ili služba, kao
+  i udaljenost u metrima.
+40) znak "telefon" (III-37), označava blizinu telefonske
+  govornice;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je da se simbolima,
+  odnosno natpisima označi smer u kome se nalazi mesto, prostor ili služba i
+  udaljenost u metrima. Ukoliko udaljenost do objekta nije ispisana na znaku,
+  mora se postaviti odgovarajuća dopunska tabla.
+41) znak "benzinska stanica" (III-38), označava blizinu
+  benzinske stanice;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je da se simbolima,
+  odnosno natpisima označi smer u kome se nalazi mesto, prostor, udaljenost u
+  metrima i obaveštenje o vrsti goriva koje se može naći na stanici.
+42) znak "hotel ili motel" (III-39), označava blizinu
+  hotela, odnosno motela;
+Na delu znaka ispod belog polja dozvoljeno je upisati tekst "hotel",
+  odnosno "motel", u zavisnosti od vrste objekta koji se označava.
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima ili
+  natpisima označi smer u kome se nalazi mesto, prostor i udaljenost u metrima.
+43) znak "restoran" (III-40), označava blizinu restorana;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označi smer u kome se nalazi mesto, prostor i udaljenost
+  u metrima.
+44) znak "kafana" (III-41), označava blizinu mesta
+  ili mesto na kome se nalazi kafana;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označiti smer u kome se nalazi mesto, prostor i udaljenost
+  u metrima.
+45) znak "teren uređen za izletnike" (III-42), označava
+  blizinu terena koji je uređen za izletnike;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označiti smer u kome se nalazi mesto, prostor i udaljenost
+  u metrima.
+46) znak "teren za kampovanje pod šatorima" (III-43),
+  označava blizinu terena ili teren uređen za kampovanje pod šatorima;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označiti smer u kome se nalazi mesto, prostor i udaljenost
+  u metrima.
+47) znak "teren za kampovanje u prikolicama" (III-44),
+  označava blizinu terena za boravak u prikolicama;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označiti smer u kome se nalazi mesto, prostor i udaljenost
+  u metrima.
+48) znak "teren za kampovanje pod šatorima i u prikolicama" (III-45),
+  označava blizinu terena za kampovanje pod šatorima i u prikolicama;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označiti smer u kome se nalazi mesto, prostor i udaljenost
+  u metrima.
+49) znak "planinarski dom" (III-46), označava blizinu
+  planinarskog doma;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označiti smer u kome se nalazi mesto, prostor na koje se
+  znak odnosi i udaljenost u metrima.
+50) znak "vozilo za pomoć na putu" (III-47), označava
+  blizinu službe za pružanje pomoći u slučaju kvara na vozilu;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označiti smer u kome se nalazi mesto, prostor ili služba
+  na koje se znak odnosi i udaljenost u metrima.
+51) znak "vatrogasna služba" (III-48), označava blizinu
+  službe za gašenje požara;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označiti smer u kome se nalazi mesto, prostor ili služba
+  na koje se znak odnosi i udaljenost u metrima.
+52) znak "autobusko stajalište" (III-49), označava
+  mesto autobuskog stajališta;
+53) znak "taksi stajalište" (III-49.1), označava
+  mesto taksi stajališta;
+54) znak "tramvajska stanica" (III-50), označava
+  mesto tramvajske stanice;
+55) znak "aerodrom" (III-51), označava blizinu aerodroma,
+  odnosno mesto aerodroma;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označi smer u kome se nalazi mesto, prostor ili služba na
+  koje se znak odnosi i udaljenost u metrima.
+56) znak "luka ili pristanište" (III-52), označava
+  blizinu luke, pristaništa, trajekta ili mesto u kome se nalazi luka, pristanište
+  ili trajekt;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označi smer u kome se nalazi mesto, prostor ili služba na
+  koje se znak odnosi i udaljenost u metrima.
+57) znak "informacija" (III-53), označava blizinu
+  mesta ili mesto u kome se mogu dobiti turističke informacije;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označiti smer u kome se nalazi mesto, prostor ili služba
+  na koje se znak odnosi i udaljenost u metrima.
+58) znak "toalet" (III-54), označava blizinu mesta
+  gde se nalazi toalet;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je simbolima,
+  odnosno natpisima označiti smer u kome se nalazi mesto na koje se znak odnosi
+  i udaljenost u metrima.
+59) znak "radio stanica" (III-55), označava frekvenciju
+  radio stanice na kojoj se mogu čuti informacije o stanju na putevima i turističke
+  informacije;
+Na znaku se upisuje naziv radio stanice i njena frekvencija.
+60) znak "oblast vodozahvata" (III-56), označava
+  deonicu puta koja je u oblasti sanitarne zaštite vodozahvata;
+61) znak "prohodnost puta" (III-57), označava da
+  je put, odnosno prelaz preko planinskog vrha otvoren ili zatvoren;
+Ako je prolaz otvoren polje 1 je zelene boje i ima natpis "otvoren",
+  odnosno ako je prolaz zatvoren polje 1 je crvene boje i ima natpis "zatvoren".
+Polja 2 i 3 imaju osnovu bele boje sa natpisima i simbolima
+  crne boje. Natpisi na polju 1 su bele boje i mogu se izvoditi i na stranim
+  jezicima. Polja 1, 2 i 3 su izmenljivog karaktera u skladu sa situacijom na
+  putu.
+Ako je deonica puta otvorena, polje 3 je prazno, a polje 2,
+  u skladu sa stanjem na putu, je prazno ili sadrži simbol lanci za sneg.
+Ako je deonica puta zatvorena, na polju 3 se ispisuje naziv
+  mesta do kojeg je put otvoren, a polje 2, u skladu sa stanjem puta sadrži natpis "otvoren
+  do" ili simbol lanci za sneg.
+62) znak "planinski prevoj" (III-58), označava planinski
+  prevoj sa nadmorskom visinom;
+63) znak "broj serpentine" (III-59), označava broj
+  serpentine sa nadmorskom visinom;
+64) znak "putni objekat" (III-60), označava naziv
+  putnog objekta (tunel, most, vijadukt i sl.);
+Izbor simbola na znaku zavisi od putnog objekta koji se obeležava.
+65) znak "reka" (III-61), označava naziv reke preko
+  koje put prelazi;
+66) znak "tabla za označavanje naziva ulica" (III-62),
+  označava naziv ulice;
+Na znaku je dozvoljeno upisati kućne brojeve i brojeve blokova.
+67) znak "tabla za usmeravanje" (III-63), (III-63.1),
+  (III-64) i (III-64.1), označava mesto gde se nailazi na oštru krivinu;
+68) znak "stanica policije" (III-65), označava blizinu
+  mesta ili mesto na kome se nalazi stanica policije;
+Na znaku, odnosno dopunskoj tabli dozvoljeno je da se označi
+  smer kretanja kojim se upućuje na mesto na koje se znak odnosi.
+69) znak "kontrola brzine" (III-66), označava početak
+  deonice na kojoj se često vrši radarska kontrola brzine vozila;
+70) znak "preporučena brzina" (III-67), označava
+  put, odnosno deo puta na kome se daje preporuka brzine vozila (km/h) koja je
+  označena na znaku;
+71) znak "prestanak preporučene brzine" (III-67.1),
+  označava put, odnosno deo puta na kome prestaje preporuka brzine vozila (km/h)
+  koja je označena na znaku;
+72) znak "autoput" (III-68), označava mesto odakle
+  počinje autoput;
+73) znak "završetak autoputa" (III-68.1), označava
+  mesto na kome se završava autoput;
+74) znak "motoput" (III-69), označava mesto odakle
+  počinje motoput;
+75) znak "završetak motoputa" (III-69.1), označava
+  mesto na kome se završava motoput;
+76) znak "naizmenično uključivanje vozila" (III-70),
+  označava mesto gde se, zbog završavanja saobraćajne trake, suženja kolovoza,
+  odnosno smanjenja broja saobraćajnih traka, vozila naizmenično uključuju u
+  jednu saobraćajnu traku;
+77) znak "saobraćajna traka za vozila javnog prevoza putnika" (III-71),
+  označava saobraćajnu traku koja je namenjena za kretanje vozila javnog prevoza
+  putnika. Ako je saobraćajna traka namenjena za kretanje vozila javnog prevoza
+  putnika u određenom periodu u toku dana, period je dozvoljeno ispisati na znaku,
+  odnosno uz saobraćajni znak se postavlja dopunska tabla IV-4;
+78) znak "završetak saobraćajne trake za vozila javnog
+  prevoza putnika" (III-71.1), označava mesto na kome se završava saobraćajna
+  traka namenjena samo za kretanje vozila javnog prevoza putnika;
+79) znak "saobraćajna traka za spora vozila" (III-72),
+  označava početak saobraćajne trake kojom se moraju kretati vozila koja se kreću
+  brzinom (km/h) manjom od brzine (km/h) označene na znaku;
+80) znak "završetak saobraćajne trake za spora vozila" (III-72.1),
+  koji označava mesto na kome se završava traka kojom se moraju kretati vozila
+  koja se kreću brzinom (km/h) manjom od brzine (km/h) označene na znaku;
+81) znak "mesto za zaustavljanje vozila u hitnom slučaju" (III-73),
+  označava deo puta koji vozači koriste za zaustavljanje, odnosno parkiranje
+  u hitnom slučaju, odnosno u slučaju opasnosti i može biti opremljeno telefonom
+  za hitne pozive, odnosno aparatom za gašenje požara;
+Uz znak se može postaviti dopunska tabla IV-19.
+82) znak "način korišćenja saobraćajne trake" (III-74),
+  označava da određena saobraćajna traka nije namenjena za kretanje pojedinih
+  vrsta vozila čiji je simbol prikazan na znaku;
+Broj saobraćajnih traka na znaku odgovara situaciji na putu.
+83) znak "predznak za otvaranje saobraćajne trake na autoputu" (III-75),
+  označava približavanje mestu na autoputu gde se otvara saobraćajna traka;
+84) znak "otvaranje saobraćajne trake na autoputu" (III-75.1),
+  označava mesto na autoputu gde se otvara saobraćajna traka;
+85) znak "predznak za zatvaranje saobraćajne trake na
+  autoputu" (III-76), označava približavanje mestu na autoputu gde se zatvara
+  saobraćajna traka;
+86) znak "zatvaranje saobraćajne trake na autoputu" (III-76.1),
+  označava mesto na autoputu gde se zatvara saobraćajna traka;
+87) znak "predznak za zatvaranje zaustavne trake na autoputu" (III-77),
+  označava približavanje mestu na autoputu gde se zatvara zaustavna traka;
+88) znak "zatvaranje zaustavne trake na autoputu" (III-77.1),
+  označava mesto na autoputu gde se zatvara zaustavna traka na autoputu;
+89) znak "predznak za spajanje dva autoputa" (III-78),
+  označava približavanje mestu na kome se autoput spaja sa drugim autoputem;
+Broj i položaj strelica na znaku odgovara situaciji na putu.
+90) znak "spajanje dva autoputa" (III-78.1), označava
+  mesto na kome se autoput spaja sa drugim autoputem;
+Broj i položaj strelica na znaku odgovara situaciji na putu.
+91) znak "predznak za zatvaranje saobraćajne trake" (III-79),
+  označava udaljenost do mesta na kome se zatvara saobraćajna traka;
+Broj i položaj strelica na znaku odgovara situaciji na putu.
+92) znak "zatvaranje saobraćajne trake" (III-79.1),
+  označava mesto gde počinje zatvaranje saobraćajne trake;
+Broj i položaj strelica na znaku odgovara situaciji na putu.
+93) znak "predznak za preusmeravanje saobraćaja na putu
+  sa fizički razdvojenim kolovozima" (III-80), označava blizinu mesta gde
+  se dvosmerni saobraćaj sa fizički razdvojenim kolovoznim trakama preusmerava
+  na deo puta na kome su kolovozne trake odvojene oznakama na kolovozu;
+Broj i položaj strelica na znaku odgovara situaciji na putu.
+94) znak "znak za preusmeravanje saobraćaja na putu sa
+  fizički razdvojenim kolovozima" (III-80.1), označava mesto gde se dvosmerni
+  saobraćaj sa fizički razdvojenim kolovoznim trakama preusmerava na deo puta
+  na kome su kolovozne trake odvojene oznakama na kolovozu;
+Broj i položaj strelica na znaku odgovara situaciji na putu.
+95) znak "predznak za otvaranje saobraćajne trake" (III-81),
+  označava udaljenost do mesta na kome se otvara saobraćajna traka;
+Broj i položaj strelica na znaku odgovara situaciji na putu.
+96) znak "otvaranje saobraćajne trake" (III-81.1),
+  označava mesto gde počinje otvaranje saobraćajne trake namenjene za kretanje
+  vozila u istom smeru;
+Broj i položaj strelica na znaku odgovara situaciji na putu.
+97) znak "tabla za označavanje izlaza sa brojem petlje" (III-82),
+  označava mesto izlaska sa autoputa i broj izlazne petlje i znak "tabla
+  za označavanje izlaza" (III-82.1), koji označava mesto izlaska sa autoputa;
+98) znak "izlaz sa autoputa" (III-83), označava udaljenost
+  do početka saobraćajne trake za izlaz sa autoputa;
+99) znakovi "tabla za označavanje vrha razdelnog ostrva" (III-84)
+  i (III-84.1), postavljaju se na vrhu razdelnog ostrva i upozoravaju vozače
+  da nailaze na razdelno ostrvo;
+Tabla ima naizmenično crna i žuta polja. Na zajedničkom nosaču
+  iznad table (III-84) dozvoljeno je da se postavi jedan od znakova II-45, odnosno
+  II-45.1, a iznad table (III-84.1) je dozvoljeno da se postavi znak II-45.3.
+100) znak "opasna deonica puta" (III-85) i (III-85.1),
+  označava nailazak na posebno opasnu deonicu puta;
+Znak sadrži tekst "OPASNOST", odnosno tekst "PAZI
+  DECA" i najviše dva saobraćajna znaka iz grupe znakova opasnosti, kojim
+  se određuje priroda opasnosti.
+101) znak "pogrešan smer" (III-86), označava poslednje
+  upozorenje vozaču da je na delu puta koji je namenjen kretanju vozila u suprotnom
+  smeru;
+102) znak "udaljenost izlaza u slučaju opasnosti" (III-87)
+  i (III-87.1), označava smer u kome se nalazi izlaz za slučaj opasnosti i udaljenost
+  do njega;
+103) znak "izlaz u slučaju opasnosti" (III-88) i
+  (III-88.1), označava izlaz za pešake u slučaju opasnosti;
+104) znak "magla na putu" (III-89), (III-89.1), (III-89.2),
+  označava početak deonice puta sa pojavom magle i daje preporuke vozaču da vozi
+  bezbednom brzinom u datim uslovima;
+Postavljanje ovog znaka na putu, prati oznaka na putu V-18.
+105) znak "odmorište" (III-90), označava nailazak
+  na odmorište na putu čiji se sadržaj označava piktogramima;
+106) znak "izlazak na odmorište" (III-90.1), označava
+  mesto izlaska sa puta do odmorišta. Ukoliko je potrebno, dozvoljeno je da se
+  upiše udaljenost do sledećeg takvog objekta;
+107) znak "naplata putarine" (III-91) i (III-91.1),
+  označava nailazak na objekat za naplatu putarine;
+Na znaku je dozvoljeno da se upiše tekst "putarina",
+  najviše na tri strana jezika, ako se postavlja pored puta.
+108) znak "elektronska naplata putarine" (III-92),
+  označava saobraćajnu traku namenjenu za kretanje vozila u kojoj se naplata
+  putarine vrši elektronskim putem;
+109) znak "nailazak na mesto naplate putarine" (III-93),
+  označava blizinu mesta gde se naplata putarine vrši i elektronskim putem i
+  ručno;
+110) znak "ograničenje najveće dozvoljene brzine na putevima u Republici Srbiji" (III-94), označava opšte ograničenje najveće dozvoljene brzine kretanja vozila prema kategoriji puta i obavezi upotrebe svetla na teritoriji Republike Srbije;
+111) znak "broj međunarodnog puta" (III-95), označava
+  broj međunarodnog puta, znak "broj autoputa" (III-96), označava broj
+  državnog puta IA reda, odnosno znak "broj puta" (III-97), označava
+  broj ostalih državnih puteva;
+112) znak "kilometraža puta" (III-98), označava stacionažu
+  puta, odnosno znak "broj puta, broj deonice puta i kilometraža" (III-99),
+  označava broj puta i deonice puta i stacionažu puta;
+113) znak "snimanje saobraćaja" (III-100), označava
+  mesto na deonici puta od kojeg počinje snimanje saobraćaja fiksnim tehničkim
+  uređajima;
+114) znak "završetak snimanja saobraćaja" (III-100.1),
+  označava mesto na putu od kojeg prestaje snimanje saobraćaja fiksnim tehničkim
+  uređajima;
+115) znak "saobraćajna traka za bicikliste" (III-101),
+  označava saobraćajnu traku koja je namenjena za kretanje biciklista;
+116) znak "završetak saobraćajne trake za bicikliste" (III-101.1),
+  označava završetak saobraćajne trake koja je namenjena za kretanje biciklista;
+1.3.2. Znakovi obaveštenja za vođenje saobraćaja
+Član 36
+Znakovi obaveštenja za vođenje saobraćaja su:
+117) znak "raskrsnica", označava međusobni položaj,
+  pravce puteva i nazive mesta do kojih vode putevi koji se ukrštaju (III-201),
+  odnosno označava međusobni položaj, pravce puteva i nazive mesta na raskrsnici
+  sa kružnim tokom saobraćaja (III-202);
+Na znakovima je dozvoljeno upisati ispod dolazeće strelice
+  udaljenost do raskrsnice na koju se znak odnosi.
+118) znak "prestrojavanje vozila", označava prethodno
+  obaveštenje radi prestrojavanja na raskrsnici na putevima sa više saobraćajnih
+  traka (III-203), odnosno označava prethodno obaveštenje radi prestrojavanja
+  na raskrsnici sa kružnim tokom saobraćaja (III-203.1);
+Broj saobraćajnih traka odgovara situaciji na putu.
+119) znak "prestrojavanje vozila sa nazivima naseljenih mesta" (III-204), označava prethodno obaveštenje radi prestrojavanja na raskrsnici na putevima sa više saobraćajnih traka;
+Simboli na znaku III-204 odgovaraju broju saobraćajnih traka na putu i načinu prestrojavanja. Na znaku se ispisuju nazivi naseljenih mesta.
+120) znak "strelasti putokaz", označava pravac puta
+  do naseljenog mesta (III-205), odnosno označava pravac
+  puta do određenog karakterističnog objekta (III-205.1);
+Natpis na znaku III-205.1 je dozvoljeno ispisati ćiriličnim,
+  latiničnim pismom i na stranom jeziku, u zavisnosti od naziva karakterističnog
+  objekta.
+121) znak "putokazna tabla" (III-206), označava pravac
+  puta do naseljenog mesta ispisanog na znaku;
+122) znak "naziv petlje" (III-207) i (III-207.1),
+  obaveštava o nazivu petlje na koju se nailazi;
+Znak III-207 postavlja se na ukrštanju autoputa sa putem niže
+  kategorije, a znak III-207.1 postavlja se na ukrštanju dva autoputa.
+123) znak "pretputokazna tabla za izlaz" (III-208),
+  na autoputu i raskrsnicama u više nivoa označava udaljenost i putne pravce
+  do naseljenih mesta;
+124) znak "pretputokazna tabla za razdvajanje dva autoputa" (III-209),
+  na raskrsnicama u više nivoa na autoputu označava udaljenost do raskrsnice i pravce autoputeva do naseljenih mesta;
+125) znak "pretputokaz za izlaz" (III-210), na autoputu
+  i putu sa raskrsnicama u više nivoa označava udaljenost i pravac kretanja do
+  naseljenih mesta;
+126) znak "pretputokaz za razdvajanje dva autoputa" (III-211),
+  na raskrsnicama u više nivoa na autoputu označava pravce autoputeva;
+127) znak "putokaz za izlaz" (III-212), (III-213)
+  i (III-214), na autoputu i putu sa raskrsnicama u više nivoa označava pravac
+  kretanja do naseljenih mesta;
+Znakovi III-212 i III-213 postavljaju se iznad kolovoza, a
+  znak III-214 na bankini.
+128) znak "putokaz za prestrojavanje za kretanje do naseljenog
+  mesta" (III-215), (III-216) i (III-217), obaveštava vozače o načinu korišćenja
+saobraćajne trake za kretanje do naseljenog mesta;
+129) znak "potvrda pravca" (III-218), označava potvrdu
+  pravca kretanja posle prolaska raskrsnice;
+130) znak "režim rada graničnog prelaza", označava
+  obaveštenje vozaču o režimu rada graničnog prelaza na kojem postoje ograničenja
+  koja se odnose na radno vreme graničnog prelaza i zabranu saobraćaja za određenu
+  kategoriju vozila.
+Član 37
+Znakovima obaveštenja za vođenje saobraćaja učesnici u saobraćaju
+  se obaveštavaju o smerovima kretanja, odnosno smerovima kretanja po saobraćajnim
+  trakama, do određenih mesta.
+Način postavljanja saobraćajnog znaka obaveštenja za vođenje
+  saobraćaja pored puta, dat je u Prilogu 4 koji je odštampan uz ovaj pravilnik
+  i čini njegov sastavni deo.
+Član 38
+Znakovima obaveštenja za vođenje saobraćaja učesnicima u saobraćaju
+  daju se:
+1) prethodna obaveštenja o smeru kretanja (prvi stepen obaveštenja);
+2) obaveštenja o prestrojavanju (drugi stepen obaveštenja);
+3) obaveštenja o skretanju (treći stepen obaveštenja);
+4) obaveštenja o potvrdi smera kretanja (četvrti stepen obaveštenja).
+Broj i način obaveštenja koji se daju učesnicima u saobraćaju
+  zavisi od kategorije puta.
+Član 39
+Na autoputevima, učesnicima u saobraćaju daju se svi stepeni
+  obaveštenja iz člana 38. ovog pravilnika.
+Na putevima van naselja, učesnicima u saobraćaju daju se najmanje
+  prvi i treći stepen obaveštenja iz člana 38. ovog pravilnika.
+Na putevima u naselju, učesnicima u saobraćaju daju se najmanje
+  treći stepen obaveštenja iz člana 38. ovog pravilnika.
+Član 40
+Na znakovima obaveštenja za vođenje saobraćaja koriste se odredišta
+  koje se nalaze na teritoriji Republike Srbije, kao i odredišta susednih država
+  do kojih put vodi.
+Član 41
+Na znakovima obaveštenja za vođenje saobraćaja dozvoljeno je
+  da se upiše broj puta, broj autoputa, odnosno broj međunarodnog puta.
+Ako nije moguće da broj puta bude upisan na znaku obaveštenja
+  za vođenje saobraćaja, dozvoljeno je da se znakovi III-95, III-96 i III-97
+  dodaju izvan znaka obaveštenja za vođenje saobraćaja, kao samostalni znakovi,
+  u zavisnosti od kategorije puta i to: iznad znaka za odredište u smeru pravo,
+  odnosno sa one strane znaka u visini natpisa za odredište na koje upućuju.
+Član 42
+Znakovi obaveštenja za vođenje saobraćaja na autoputu i motoputu,
+  mogu sadržati simbole za: aerodrom, železničku, odnosno autobusku stanicu i
+  robni terminal.
+Znakovi obaveštenja za vođenje saobraćaja na autoputu i motoputu
+  ne sadrže udaljenost do odredišta.
+Izuzetno od stava 2. ovog člana, dozvoljeno je da znak III-218
+  sadrži udaljenost do odredišta.
+Član 43
+Boja osnove znakova za vođenje saobraćaja je:
+1) zelene boje za znakove na autoputu;
+2) plave boje za znakove na motoputu;
+3) žute boje za znakove na ostalim putevima;
+4) bele boje za znakove čije je odredište određeni objekat,
+  sadržaj ili deo naselja.
+1.3.3. Znakovi obaveštenja za obeležavanje
+  prepreka na putu i mesta na kome se izvode radovi na putu
+Član 44
+Znakovi obaveštenja za obeležavanje prepreka na putu i mesta
+  na kome se izvode radovi na putu su:
+131) znak "predznak za obilazak" (III-301), označava
+  smer i tok preusmerenog saobraćaja kada je put zatvoren. Kod dužeg preusmeravanja
+  donji deo znaka može da sadrži tekst "OBILAZAK" i dužinu izraženu
+  u kilometrima;
+132) znakovi "obilazak" za kretanje pravo (III-302)
+  i za kretanje levo, odnosno desno (III-302.1), služe za usmeravanje vozila
+  na obilazni put;
+Na znaku je u slučaju preusmeravanja međunarodnih saobraćajnih
+  tokova, dozvoljeno ispod ćiriličnog natpisa ispisati i natpis "BYPASS".
+133) znak "predznak za neposredno regulisanje saobraćaja
+  na mestu na kome se izvode radovi" (III-303), obaveštava o blizini mesta
+  na kome zbog radova na putu, privremenih prepreka, odnosno oštećenja kolovoza,
+  kretanje vozila regulišu ovlašćena lica;
+134) znak "blizina mesta skretanja saobraćaja iz jedne
+  saobraćajne trake u drugu" (III-304), označava blizinu mesta gde se vrši
+  skretanje saobraćajnih traka, pri čemu broj saobraćajnih traka ostaje isti;
+Položaj i broj strelica na znaku odgovara stanju na putu.
+135) znak "mesto skretanja saobraćaja iz jedne saobraćajne
+  trake u drugu" (III-304.1), označava mesto gde se vrši skretanje saobraćajnih
+  traka, pri čemu broj saobraćajnih traka ostaje isti;
+Položaj i broj strelica na znaku odgovara stanju na putu.
+136) znak "predznak devijacija na putu" (III-305),
+  označava približavanje mestu na kome postoji devijacija puta;
+Položaj i broj strelica na znaku odgovara stanju na putu.
+137) znak "devijacija na putu" (III-305.1), označava
+  mesto devijacija na putu;
+Položaj i broj strelica na znaku odgovara stanju na putu.
+Član 45
+Za obeležavanje zona radova na putu koriste se znakovi opasnosti
+  i znakovi izričitih naredbi sa osnovom znaka žute boje.
+Izuzetno, odredba iz stava 1. ovoga člana u pogledu boje, ne
+  odnosi se na saobraćajne znakove izričitih naredbi: II-2, II-4, II-34, II-35,
+  II-36, II-37, II-43, II-43.1, II-43.2, II-43.3, II-43.4, II-44, II-44.1, II-44.2,
+  II-45, II-45.1, II-45.2, II-45.3 i II-46.
+U zoni radova se koriste sledeći znakovi obaveštenja: III-1,
+  III-4, III-5, III-6, III-7, III-10 i III-30.
+U zoni radova sa osnovom znaka žute boje i simbolima crne boje
+  su znakovi obaveštenja: III-17, III-74, III-79, III-79.1, III-80, III-80.1,
+  III-81 i III-81.1.
+1.3.4. Znakovi obaveštenja koji se odnose
+  na turističku signalizaciju
+Član 46
+Turistička signalizacija se koristi za obaveštavanje i upućivanje
+  korisnika do kulturnih, istorijskih, prirodnih i drugih turističkih odredišta.
+Simboli na znakovima turističke signalizacije su crne boje
+  na beloj osnovi i nije dozvoljeno da budu u obliku fotografije.
+Član 47
+Znakovi obaveštenja koji se odnose na turističku signalizaciju
+  su:
+1) znak "turistička informaciona tabla" (III-401),
+  obaveštava o kulturnim, istorijskim, prirodnim i drugim turističkim odredištima;
+2) znak "turistički strelasti putokaz" (III-402)
+  i "turistička putokazna tabla" (III-402.1), koriste se za usmeravanje
+  prema kulturnim, istorijskim, prirodnim i turističkim odredištima;
+3) znak "turistička tabla za označavanje turističkog odredišta" (III-403),
+  označava kulturno, istorijsko, prirodno i drugo turističko odredište;
+4) znak "turistička tabla za izraz dobrodošlice" (III-404),
+  označava teritoriju države, pokrajine, okruga, grada, odnosno opštine;
+Na znaku je dozvoljeno ispisivanje teksta doviđenja, kada se
+  znak postavlja na mestu sa koga se napušta teritorija države, pokrajine, okruga,
+  grada, odnosno opštine.
+5) znak "putokaz za javne objekte" (III-405), koristi
+  se za usmeravanje prema značajnim javnim objektima, sportsko-rekreacionim centrima
+  i sličnim turističkim odredištima u naseljenim mestima;
+6) znak "pešački putokaz za javne objekte" (III-406),
+  koristi se za usmeravanje pešaka prema javnim objektima od lokalnog značaja;
+7) znak "biciklistički putokaz" (III-407), koristi
+  se za vođenje biciklista po međunarodnim, odnosno biciklističkim rutama.
+Izgled znaka odgovara vrsti biciklističke rute.
+Član 48
+Turistička signalizacija se ne postavlja na autoputevima i
+  motoputevima.
+Izuzetno od stava 1. ovog člana, dozvoljeno je obeležavanje
+  kulturnih, istorijskih, prirodnih, odnosno drugih turističkih odredišta od
+  izuzetnog značaja za razvoj turizma u Republici Srbiji.
+Znakovi obaveštenja - opšte karakteristike
+Član 49
+Znakovi obaveštenja imaju oblik kvadrata, pravougaonika i kruga.
+Izuzetno od stava 1. ovog člana odstupaju znakovi: III-205,
+  III-302 i III-402.
+Član 50
+Osnova znakova obaveštenja je:
+1) plave ili zelene boje sa simbolima i natpisima bele ili
+  crne boje;
+2) žute boje sa simbolima i natpisima crne boje;
+3) bele boje sa simbolima i natpisima crne boje;
+4) braon boje sa natpisima bele boje i simbolima crne boje
+  na beloj osnovi, za znakove turističke signalizacije za turistička odredišta.
+Izuzetno od stava 1. ovog člana:
+1) znakovi: III-23, III-23.1, III-201, III-202, III-204, III-208,
+  III-215, III-216, III-217 i III-218 imaju boju osnove znaka prema kategoriji
+  puta na kojem se postavljaju;
+2) znakovi: III-95, III-96, III-97, III-205, III-206, III-210,
+  III-212, III-213 i III-214 imaju boju osnove znaka prema kategoriji puta na
+  kojem se odredište nalazi;
+3) znakovi: III-25, III-26, III-27 i III-28 imaju odgovarajući
+  umetnut znak;
+4) znakovi: III-25.1, III-26.1, III-27.1 i III-28.1 imaju odgovarajući
+  umetnut znak crno-bele boje i kose crte crne boje;
+5) znakovi: III-15, III-18, III-19, III-20; III-21, III-22,
+  III-23.1, III-24.1, III-29.1, III-67.1, III-68.1, III-69.1 i III-71.1 imaju
+  kosu traku crvene boje;
+6) znakovi: III-3.1, III-12, III-13, III-14, III-16, III-17,
+  III-25.1, III-26.1, III-27.1 i III-28.1 imaju kose crte crne boje;
+7) znak III-1 ima simbol dve strelice, kraća strelica je bele
+  boje, a duža je crvene boje;
+8) znakovi: III-3 i III-3.1 imaju unutrašnji kvadrat žute boje,
+  a pojas između unutrašnjeg kvadrata i spoljne ivice znaka bele boje;
+9) znak III-9 ima pravougaonik crvene boje na kraju kraka koji
+  prikazuje slepi put;
+10) znak III-11 ima osnovu znaka žuto-zelene boje sa fluoroscentnim
+  svojstvom, a simbol i okvir znaka su crne boje;
+11) znak III-35 ima simbol crvene boje;
+12) znak III-56 ima simbol cisterne crvene boje, osovina sa
+  točkovima je crne boje, a dve linije su plave boje;
+13) znakovi: III-71 i III-71.1 imaju isprekidanu uzdužnu liniju
+  žute boje uz saobraćajnu traku kojom saobraćaju vozila javnog prevoza putnika;
+14) znak III-74 ima osnovu znaka zelene boje kada se postavlja
+  na autoputu i plave boje kada se postavlja na svim ostalim putevima i sadrži
+  i umetnut znak;
+15) znakovi: III-75 i III-75.1 mogu imati umetnut simbol za
+  posebnu namenu saobraćajne trake;
+16) znakovi III-79, III-79.1, III-80, III-80.1, III-81, III-81.1
+  III-82, III-82.1 i III-83 imaju osnovu znaka plave boje;
+17) znak III-85 ima osnovu znaka fluoroscentne žuto zelene
+  boje sa natpisom crne boje i upisanim znakovima opasnosti;
+18) znak III-86 ima osnovu znaka fluoroscentne žuto zelene
+  boje sa natpisom i simbolom crne boje i upisanim znakom II-4;
+19) znakovi: III-89, III-89.1 i III-89.2 imaju osnovu znaka
+  sive boje sa simbolima bele boje i umetnutim fluoroscentnim poljem žute boje;
+20) znakovi: III-90 i znak III-90.1 imaju osnovu plave boje
+  sa natpisima bele boje i simbolima crne boje na beloj umetnutoj osnovi;
+21) znak III-92 ima osnovu znaka bele boje i simbol čija je
+  osnova žute boje a natpis "ENP" plave boje;
+22) znak III-93 ima osnovu znaka bele boje, umetnuta polja
+  u obliku pravougaonika koja su žute boje, na kojima su prikazani simboli "ENP" plave
+  boje i simbol čoveka crne boje, natpisi su crne boje;
+23) znak III-94 ima umetnute odgovarajuće znakove na osnovi
+  plave boje i umetnutim poljima bele boje;
+24) znak III-99 ima osnovu bele boje, natpise crne boje i umetnut
+  jedan od znakova III-95, III-96 ili III-97 u odgovarajućoj boji;
+25) znakovi: III-201 i III-202 na liniji koja predstavlja pravac
+  kretanja mogu imati umetnute saobraćajne znakove;
+26) znakovi: III-74 i III-301 mogu imati umetnute saobraćajne
+  znakove;
+27) znak III-219 ima osnovu bele boje, natpise crne boje i
+  umetnute znakove.
+Postavljanje znakova obaveštenja
+Član 51
+Znakovi obaveštenja postavljaju se tako da učesnicima u saobraćaju
+  pruže prethodna obaveštenja, obaveštenja o prestrojavanju, obaveštenja o skretanju,
+  potvrdno obaveštenje o pravcu kretanja i da označe objekat, teren, ulicu, odnosno
+  delove puta na koje se odnose.
+Član 52
+Izuzetno od člana 51. ovog pravilnika:
+1) znak III-1 postavlja se ispred suženog dela puta sa koga
+  se može videti deo puta na koji se zabrana odnosi, a na suprotnoj strani suženog
+  dela puta postavlja se znak II-33;
+2) znakovi: III-2 i III-2.1 postavljaju se na putu sa jednosmernim
+  saobraćajem, na mestima na kojima je potrebno da se da obaveštenje o jednosmernom
+  saobraćaju vozaču koji se tim putem kreće;
+3) uz znakove III-2 i III-2.1 obavezno se postavljaju odgovarajući
+  znakovi zabrane i obaveze na mestima na kojima vozila sa drugih puteva ulaze,
+  odnosno nailaze, na put sa jednosmernim saobraćajem;
+4) znak III-2 postavlja se tako da je strelica uspravna na
+  uzdužnu osu puta, a znak III-2.1 postavlja se tako da je strelica horizontalna;
+5) znak III-3 postavlja se na početku puta i dozvoljeno je
+  da se ponovi posle svake raskrsnice, a svi putevi koji se ukrštaju ili spajaju
+  sa putem koji je označen znakom III-3, moraju biti označeni znakom II-1 ili
+  znakom II-2;
+6) znak III-3.1 se postavlja na mestu na putu gde se završava
+  put sa prvenstvom prolaza;
+7) znak III-4 postavlja se neposredno ispred tehničkog sredstva
+  za usporavanje saobraćaja. Ukoliko je na deonici puta postavljeno više tehničkih
+  sredstava za usporavanje saobraćaja u nizu, postavlja se neposredno ispred
+  prvog mesta elementa tehničkog sredstva za usporavanje saobraćaja u smeru kretanja
+  vozila i odnosi se na sva ostala, pri čemu se uz znak postavlja dopunska tabla
+  IV-2;
+8) znakovi: III-5, III-6, III-7 i III-8 postavljaju se neposredno
+  ispred, odnosno iznad mesta koje obeležavaju;
+9) znakovi: III-12, III-13, III-14, III-15, III-16, III-17,
+  III-18, III-19, III-20, III-21 i III-22, postavljaju se na mestima na putu
+  odakle prestaju da važe odgovarajuće zabrane određene saobraćajnim znakovima
+  na tom putu;
+10) znak III-23 postavlja se na mestu ulaza na teritoriju naseljenog
+  mesta;
+11) znak III-23.1 postavlja se na mestu izlaza sa teritorije
+  naseljenog mesta;
+12) znak III-24 postavlja se na mestu od koga počinje naselje;
+13) znak III-24.1 postavlja se na mestu gde se završava naselje;
+14) znak III-62 se postavlja na raskrsnici;
+15) znakovi: III-63, III-63.1, III-64 i III-64.1 se postavljaju
+  na putu odakle počinje oštra krivina, kao i u krivini i to kod postavljanja
+  znakova: III-63 ili III-64, dozvoljeno je na početku krivine prvo da se postavi
+  jedan znak III-63 ili III-64 na nosaču, zatim dva znaka III-63 ili III-64 na
+  zajedničkom nosaču i konačno najviše tri znaka III-63 ili III-64 na zajedničkom
+  nosaču u krivini, a znakovi III-63.1 i III-64.1 se postavljaju na dva nosača;
+16) znak III-72 se postavlja na početku saobraćajne trake za
+  spora vozila a na kraju iste se postavlja se znak III-72.1;
+17) znak III-73 se postavlja po potrebi sa dopunskom tablom
+  IV-19;
+18) znak III-82 i III-82.1 se postavlja na vrhu razdelnog ostrva
+  i na mestu izlaska sa autoputa, odnosno motoputa;
+19) znak III-85 i III-85.1 se postavlja sa obe strane puta
+  u smeru kretanja;
+20) znak III-89, III-89.1, III-89.2 se postavlja na autoputu
+  i motoputu i to redom: prvo znak III-89, zatim III-89.1 i III-89.2, uz onake
+  na putu V-18;
+21) znak III-91 se postavlja na portalu, a znak III-91.1 se
+  postavlja na bankini puta;
+22) znakovi: III-95, III-96, III-97, III-98 i III-99 kada se
+  postavljaju kao posebni znakovi, mogu biti postavljeni ispod, odnosno iznad
+  drugih saobraćajnih znakova, znak III-95 postavlja se na međunarodnim putevima,
+  znak III-96 na autoputevima, znak III-97 na ostalim putevima;
+23) znak III-98 postavlja se na putu van naselja pored kolovoza
+  državnih puteva IB reda i IIA reda sa desne strane u smeru rasta stacionaže
+  na svakom "punom" kilometru, a na državnim putevima IA reda postavlja
+  se na putu van naselja, sa desne strane svake kolovozne trake gledano u smeru
+  kretanja na svakom "punom" kilometru;
+24) znak III-99 postavlja se van naselja, pored kolovoza državnih
+  puteva IB reda i IIA reda sa desne strane u smeru rasta stacionaže na svakom "punom
+  petom" kilometru, a pored državnih puteva IA reda izrađuje se kao jednostrani
+  i postavlja se na putu van naselja sa desne strane svake kolovozne trake gledano
+  u smeru kretanja, na mestu gde se postavlja znak III-99 ne postavlja se znak
+  III-98;
+25) znak III-201 postavlja se van naseljenog mesta na udaljenosti
+  od najmanje 150 m ispred raskrsnice koju označava, znak je dozvoljeno postaviti
+  u izuzetnim slučajevima i u naseljenom mestu;
+26) znak III-203 i III-203.1 postavlja se na početku razdvajanja
+  saobraćajnih traka;
+27) znakovi: III-205 i III-206 postavljaju se u zoni raskrsnice
+  na kojoj se vrši upućivanje na put koji vodi ka odredištu na koji se znak odnosi;
+28) znak III-205.1 se postavlja na čvoru, odnosno raskrsnici
+  sa koje put vodi do karakterističnog objekta i ne postavlja se na autoputu;
+29) na znaku III-207 se mogu po potrebi ispisati više naziva
+  petlji;
+30) znak III-210 postavlja se na 500 m od tačke gde počinje
+  traka za izlivanje vozila, izuzetno je dozvoljeno da se postavi i na kraćem
+  rastojanju, ali ne kraćem od 250 m;
+31) znakovi: III-212 i III-213 postavljaju se na mestima gde
+  počinje traka za isključivanje, odnosno uključivanje vozila;
+32) znakovi: III-215, III-216 i III-217 postavljaju se iznad
+  svake saobraćajne trake;
+33) znak III-218 se postavlja na rastojanju od 500 m od poslednjeg
+  priključka;
+34) znak III-219 se postavlja na rastojanju do 500 m ispred
+  poslednjeg čvora, odnosno raskrsnice sa koje vodi put do graničnog prelaza;
+35) znakovi: III-401.1 i III-402 se postavljaju na čvoru, odnosno
+  raskrsnici sa koje put vodi do odredišta prikazanog znakom;
+36) znak III-405 postavlja se na način da odgovarajućom strelicom
+  dozvoljava odgovarajuće smerove kretanja redom: pravo, levo i desno;
+37) znak III-406 postavlja se samo u pešačkim zonama, na način
+  da se od višeg ka nižem znaku prvo postavljaju znakovi sa smerom pravo, zatim
+  smerom levo i na kraju znakovi sa smerom desno.
+Član 53
+Prečnik kruga znakova obaveštenja iznosi:
+1) 90 cm na autoputu i motoputu;
+2) 60 cm na ostalim državnim putevima I i II reda, opštinskim
+  putevima i u naselju;
+3) 40 cm na ostalim u naselju gde postoje prostorna ograničenja;
+4) 30 cm ako se upotrebljavaju kao umetnuti znakovi, a 40 cm
+  kao umetnuti znakovi na autoputu i motoputu.
+Stranica kvadrata znakova obaveštenja iznosi:
+1) 90 cm na autoputevima i motoputevima;
+2) 60 cm na ostalim državnim putevima I i II reda, opštinskim
+  putevima i u naselju;
+3) 40 cm na ostalim u naselju gde postoje prostorna ograničenja;
+4) 30 cm ako se upotrebljavaju kao umetnuti znakovi, a 40 cm
+  kao umetnuti znakovi na autoputu i motoputu.
+Dimenzija pravougaonika znakova obaveštenja iznosi:
+1) 90 cm x 135 cm na autoputu i motoputu;
+2) 60 cm x 90 cm na ostalim državnim putevima I i II reda,
+  opštinskim putevima i u naselju;
+3) 40 cm x 60 cm na ostalim u naselju gde postoje prostorna
+  ograničenja;
+4) 40 cm x 60 cm ako se upotrebljavaju kao umetnuti znakovi.
+Izuzetno od stava 2. ovoga člana odstupaju dimenzije znaka
+  i iznose:
+1) III-3 i III-3.1: 60 cm;
+2) III-5, III-6 i III-7: 60 cm;
+3) III-11: 90 cm;
+4) III-63, III-64: 50 cm (75 cm);
+5) III-82.1: 120 cm;
+6) III-92: 250 cm x 250 cm.
+Izuzetno od stava 3. ovog člana odstupaju dimenzije znaka koje
+  su:
+1) III-2.1: 100 cm x 35 cm;
+2) III-63.1, III-64.1: 150 cm x 50 cm (225 cm x 75 cm);
+3) III-71 i III-71.1: 120 cm x 90 cm;
+4) III-72 i III-73: 90 cm x 135 cm van naselja, odnosno 60
+  cm x 90 cm u naselju;
+5) III-75, III-76, III-77: 250 cm x 290 cm;
+6) III-75.1, III-76.1, III-77.1: 250 cm x 230 cm;
+7) III-78: 160 cm x 230 cm;
+8) III-78.1: 160 cm x 190 cm;
+9) III-79, III-80, III-81: za autoput i motoput 120 cm x 180
+  cm, na ostalim državnim putevima I i II reda, opštinskim putevima i u naselju
+  90 cm x 135 cm;
+10) III-79.1, III-80.1, III-81.1: za autoput i motoput 120
+  cm x 150 cm, na ostalim državnim putevima I i II reda, opštinskim putevima
+  i u naselju 80 cm x 100 cm;
+11) III-82: 120 cm x 180 cm;
+12) III-83: 65 cm x 150 cm;
+13) III-84: 30 cm x 100 cm;
+14) III-84.1: 60 cm x 120 cm;
+15) III-85: sa jednim znakom 120 cm x 140 cm, sa jednim znakom
+  i poljem za upisivanje dužine deonice puta 120 cm x 180 cm i sa dva znaka 120
+  cm x 230 cm;
+16) III-86: 150 cm x 250 cm;
+17) III-87 i III-87.1: 80 cm x 30 cm;
+18) III-88, III-88.1: 50 cm x 50 cm;
+19) III-89: 250 cm x 350 cm;
+20) III-89.1, III-89.2: 200 cm x 350 cm;
+21) III-91: za čeone naplatne stanice 430 cm x 240 cm, a za
+  bočne naplatne stanice 330 cm x 210 cm;
+22) znak III-91.1: za čeone naplatne stanice 450 cm x 420 cm
+  i 220 cm x 200 cm za bočne naplatne stanice;
+23) III-92: 250 cm x 250 cm
+24) III-93: za čeone naplatne stanice 500 cm x 200 cm i za
+  bočne naplatne stanice 400 cm x 150 cm;
+25) III-94: 200 cm x 280 cm;
+26) III-95: 60 cm x 25 cm;
+27) III-97: 35 cm x 25 cm, odnosno 50 cm x 25 cm na putevima
+  koji imaju brojeve sa trocifrenom oznakom puta;
+28) III-98: 35 cm x 30 cm, odnosno 45 cm x 40 cm;
+29) III-99: 45 cm x 35 cm;
+30) III-100 i III-100.1: 60 cm x 60 cm;
+31) III-101 i III-101.1: 120 cm x 60 cm, odnosno 90 cm x 60
+  cm na ostalim u naselju gde postoje prostorna ograničenja;
+32) III-303, III-304, III-305: za autoput i motoput 120 cm
+  x 180 cm, na ostalim državnim putevima I i II reda, opštinskim putevima i u
+  naselju 90 cm x 135 cm;
+33) III-304.1 i III-305.1: za autoput i motoput 120 cm x 150
+  cm, na ostalim državnim putevima I i II reda, opštinskim putevima i u naselju
+  80 cm x 100 cm.
+1.4. Dopunske table
+Član 54
+Uz znakove opasnosti, znakove izričitih naredbi i znakove obaveštenja
+  dozvoljeno je postavljanje dopunske table.
+Član 55
+Dopunske table su:
+1) dopunska tabla (IV-1), označava udaljenost između znaka
+  ispod koga je postavljena i početka dela puta, odnosno mesta na koje se znak
+  odnosi;
+2) dopunska tabla (IV-2), označava dužinu dela puta na kojoj
+  važi odredba znaka ispod koga je postavljena;
+3) dopunska tabla (IV-3), označava udaljenost između znaka
+  ispod koga je postavljena i objekta, terena ili dela puta na koji se znak odnosi;
+4) dopunska tabla (IV-4), označava ograničeno vreme trajanja
+  važenja znaka ispod koga je postavljena, ako ne važi neprekidno;
+5) dopunska tabla (IV-5), tekstom bliže određuje značenje znaka,
+  odnosno daje dodatna obaveštenja o vrsti i načinu korišćenja znaka;
+Natpis na dopunskoj tabli je primer.
+6) dopunska tabla (IV-6), simbolom označava vrstu vozila na
+  koju se znak odnosi. Ukoliko se na dopunskoj tabli nalazi simbol teretnog vozila,
+  na tabli je dozvoljeno upisati i najveću dozvoljenu masu koja se odnosi na
+  teretno vozilo;
+7) dopunska tabla (IV-7) i (IV-7.1), simbolom označava da je
+  kolovoz klizav usled vremenskih uslova u kojima važi znak uz koji je postavljena,
+  zbog pojave snega, leda i poledice na kolovozu;
+Dopunska tala IV-7 se ne postavlja uz znakove izričitih naredbi.
+8) dopunske table (IV-8), (IV-8.1), (IV-8.2), (IV-8.3), (IV-8.4)
+  i (IV-8.5), označavaju primenu zabrane parkiranja, odnosno zaustavljanja vozila
+  na deonici puta i to: (IV-8) i (IV-8.3) na mestu na kojem počinje zabrana,
+  (IV-8.1) i (lV-8.4) na mestu ponavljanja zabrane (između početka i kraja zabrane),
+  (lV-8.2) i (IV-8.5) na mestu prestanka zabrane;
+Table (IV-8), (IV-8.1) i (IV-8.2) se postavljaju paralelno
+  sa osom puta kao i znak uz koji se postavljaju, a table (IV-8.3), (IV-8.4)
+  i (IV-8.5) se postavljaju upravno sa osom puta kao i znak uz koji se postavljaju.
+9) dopunska tabla (IV-9), označava udaljenost mesta parkirališta,
+  garaže i objekta na putu, odgovarajućim simbolom i strelicom;
+Simboli i udaljenost u metrima na dopunskoj tabli odgovaraju
+  situaciji na putu.
+10) dopunske table (IV-10), (IV-11), (IV-12), označavaju način
+  parkiranja na trotoaru koje se reguliše znakom III-30, i to: (IV-10) parkiranje
+  na trotoaru pod uglom u odnosu na podužnu osu kolovoza, (IV-11) parkiranje
+  na trotoaru paralelno sa podužnom osom kolovoza i (IV-12) parkiranje na trotoaru
+  upravno na podužnu osu kolovoza;
+11) dopunske table (IV-13), (IV-14) i (IV-15), označavaju način
+  parkiranja delom na trotoaru a delom na kolovozu, koje se reguliše znakom III-30,
+  i to: IV-13 parkiranje na trotoaru i kolovozu pod uglom u odnosu na podužnu
+  osu kolovoza, IV-14 parkiranje na trotoaru i kolovozu paralelno sa podužnom
+  osom kolovoza i IV-15 parkiranje na trotoaru i kolovozu upravno na podužnu
+  osu kolovoza;
+12) dopunske table (IV-16), (IV-17), (IV-18), označavaju način
+  parkiranja na kolovozu koji se reguliše znakom III-30 i to: (IV-16) parkiranje
+  na kolovozu pod uglom, u odnosu na podužnu osu kolovoza, (IV-17) parkiranje
+  na kolovozu paralelno sa podužnom osom kolovoza i (IV-18) parkiranje na kolovozu
+  upravno na podužnu osu kolovoza;
+13) dopunska tabla (IV-19), označava mesto na putu opremljeno
+  telefonom za hitne pozive, odnosno aparatom za gašenje požara;
+Izbor simbola odgovara situaciji na putu.
+14) dopunska tabla (IV-20), simbolom označava da je kolovoz
+  klizav usled vremenskog uslova (kiše) u kojem važi znak uz koji je postavljena,
+  zbog pojave vode na kolovozu;
+15) dopunska tabla (IV-21), označava da je parkiralište, odnosno
+  parking mesto rezervisano za vozila lica sa invaliditetom i postavlja se uz
+  znakove III-30 i III-31;
+16) dopunska tabla (IV-22), označava vrstu oštećenja na kolovozu
+  i dužinu puta na koju se odnosi;
+17) dopunska tabla (IV-23), označava pružanje puta sa prvenstvom
+  prolaza;
+Položaj simbola na tabli (IV-23) odgovara položaju puta sa
+  prvenstvom prolaza u odnosu na sporedni put i postavlja se uz znakove: II-1,
+  II-2 i III-3.
+18) dopunska tabla (IV-24), označava izvođenje oznaka na kolovozu;
+19) dopunska tabla (IV-25) i (IV-25.1), označava dozvoljene
+  smerove kretanja na biciklističkoj stazi;
+20) dopunska tabla (IV-26), označava deo puta na kome se slepa
+  i slabovida lica često kreću;
+21) dopunska tabla (IV-27), označava deo puta na kome se stara
+  lica često kreću;
+Dopunske table - opšte karakteristike
+Član 56
+Dopunska tabla ima ista svojstva u pogledu boje osnove i retrorefleksije
+  kao i znak ispod kojeg se dopunska tabla postavlja, a boja natpisa i simbola
+  na dopunskoj tabli odgovara boji natpisa i simbola na znaku ispod kojeg se
+  dopunska tabla postavlja.
+Izuzetno od stava 1. ovoga člana dozvoljeno je da dopunske
+  table IV-5 i IV-23 ne budu iste boje kao znak uz koji se postavlja.
+Član 57
+Širina dopunske table postavljene uz znak ne sme biti veća
+  od širine znaka uz koji se dopunska tabla postavlja. Širina dopunske table
+  postavljene uz znak oblika kruga ne sme biti veća od prečnika kruga.
+Visina dopunske table ne sme da iznosi više od polovine njene
+  dužine, osim u slučaju dopunskih tabli: IV-5, IV-6, IV-8.3, IV-8.4, IV-8.5
+  i IV-23.
+2. Oznake na putu
+Član 58
+Oznake na putu su:
+1) uzdužne oznake;
+2) poprečne oznake;
+3) ostale oznake na putu.
+Član 59
+Oznake na putu su bele boje.
+Izuzetno od stava 1. ovog člana, žute boje su:
+1) oznake u zoni radova na putu;
+2) oznake za regulisanje kretanja vozila javnog prevoza putnika;
+3) oznake za obeležavanje saobraćajne trake za elektronsku
+  naplatu putarine;
+4) oznake na kolovozu za obeležavanje saobraćajnih površina
+  za posebne namene;
+5) oznake za obeležavanje parking mesta za osobe sa invaliditetom.
+Dozvoljeno je da se delovi oznaka parking mesta za osobe sa
+  invaliditetom mogu obeležavati i plavom bojom.
+Član 60
+Oznake se obeležavaju na putu sa savremenim kolovoznim zastorom.
+Propisane vrednosti parametara za oznake na putu u zavisnosti
+  od kategorije puta, date su u Prilogu 5, koji je odštampan uz ovaj pravilnik
+  i čini njegov sastavni deo.
+Oznake za obeležavanje mesta za parkiranje, oznake na parkiralištima
+  i u garažama dozvoljeno je da se obeležavaju materijalima koji nemaju retroreflektujuća
+  svojstva.
+Oznake na putu izvode se bojilima, toplom i hladnom plastikom,
+  aplikativnim trakama, klinovima i markerima.
+Oznake na putu se uklanjaju na način da se ne oštećuje put.
+Član 61
+Svaka oznaka na putu u periodu korišćenja mora imati najmanje
+  85% svoje površine i propisanu vrednost parametara u zavisnosti od ranga puta
+  (Prilog 5).
+2.1. Uzdužne oznake na putu
+Član 62
+Uzdužne oznake na putu su:
+1) "razdelne linije";
+2) "ivične linije".
+2.1.1. Razdelne linije
+Član 63
+Razdelna linija razdvaja kolovoz na kolovozne trake, odnosno
+  na saobraćajne trake.
+Razdelna linija može biti: neisprekidana, isprekidana ili kombinovana.
+Razdelna neisprekidana i isprekidana linija može biti udvojena.
+Razdelna neisprekidana linija označava zabranu prelaska preko
+  te linije i zabranu kretanja po toj liniji.
+Razdelna udvojena neisprekidana linija izvodi se na kolovozima
+  sa dvosmernim saobraćajem:
+1) sa dve i više saobraćajnih traka po smeru;
+2) sa neparnim brojem saobraćajnih traka ako je u oba smera
+  zabranjeno preticanje tako da se prilikom preticanja koristi saobraćajna traka
+  namenjena za kretanje iz suprotnog smera;
+3) u tunelima i na prilazima tunelima u dužini od 150 m do
+  250 m;
+4) ako to zahtevaju uslovi bezbednosti saobraćaja na putu.
+Razdelna isprekidana linija izvodi se kao: obična isprekidana,
+  kratka isprekidana i kao linija upozorenja.
+Razdelna obična isprekidana linija koristi se za razdvajanje
+  saobraćajnih traka.
+Razdelna kratka isprekidana linija koristi se:
+1) na prilaznim kracima raskrsnica i za obeležavanje posebnih
+  saobraćajnih traka;
+2) za vođenje vozila kroz raskrsnicu kao linija vodilja;
+3) na dvosmernim biciklističkim stazama.
+Razdelna udvojena isprekidana linija koristi se za obeležavanje
+  saobraćajnih traka sa izmenljivim smerom kretanja na kojima je saobraćaj regulisan
+  uređajima za davanje svetlosnih saobraćajnih znakova.
+Razdelna kombinovana linija koristi se za razdvajanje kolovoznih
+  traka na mestima gde uslovi preglednosti dopuštaju preticanje samo u jednom
+  smeru.
+Razdelna kombinovana linija označava zabranu prelaska preko
+  te linije, odnosno kretanja po liniji, za vozila koja se kreću kolovoznom trakom
+  u kojoj je neisprekidana linija bliža desnoj ivici kolovoza od isprekidane.
+Razdelna linija upozorenja koristi se za najavljivanje blizine
+  neisprekidane linije.
+2.1.2. Ivične linije
+Član 64
+Ivična linija se koristi za označavanje ivice površine kolovoza.
+Ivična linija može da bude neisprekidana i isprekidana.
+Ivična linija može da bude obična i široka.
+Ivična isprekidana široka linija koristi se za izdvajanje niše
+  ili drugih površina izvan kolovoza.
+Ivična isprekidana široka linija koristi se kod ulivanja, odnosno
+  izlivanja saobraćajnih tokova na autoputu i motoputu.
+Ukoliko se ivična linija koristi u naselju, obeležava se kao
+  isprekidana linija.
+2.2. Poprečne oznake na putu
+Član 65
+Poprečne oznake na putu obeležavaju se neisprekidanim, odnosno
+  isprekidanim linijama i mogu biti obeležene tako da zahvataju jednu ili više
+  saobraćajnih traka.
+Član 66
+Poprečne oznake na putu su:
+1) linija zaustavljanja;
+2) kosnik;
+3) graničnik;
+4) pešački prelaz;
+5) prelaz biciklističke staze preko kolovoza;
+6) prelaz biciklističke staze preko kolovoza i pešački prelaz.
+Upravljač puta uslovima, odnosno projektnim zadatkom utvrđuje
+  lokacije i daje uslove za obeležavanje pešačkog prelaza, prelaza biciklističke
+  staze preko kolovoza i prelaza biciklističke staze preko kolovoza i pešačkog
+  prelaza.
+2.2.1. Linija zaustavljanja
+Linija zaustavljanja se obeležava na putu kao "neisprekidana
+  linija zaustavljanja" (V-1) i "isprekidana linija zaustavljanja" (V-1.1),
+  (V-1.2).
+Neisprekidana linija zaustavljanja V-1, označava mesto na kolovozu
+  ispred koga vozač mora da zaustavi vozilo.
+Ispred neisprekidane linije zaustavljanja V-1 na kolovozu dozvoljeno
+  je da se obeleži natpis "STOP".
+Neisprekidana linija zaustavljanja V-1, obeležena ispred svetlosnog
+  saobraćajnog znaka, označava mesto na kolovozu ispred koga vozač mora da zaustavi
+  vozilo samo ako mu je svetlosnim saobraćajnim znakom zabranjen prolaz.
+Neisprekidana linija zaustavljanja V-1, obeležena ispred znakova
+  II-32, II-32.1, II-32.2, označava mesto na kolovozu ispred koga vozač mora
+  da zaustavi vozilo.
+Isprekidana linija zaustavljanja V-1.1 i V-1.2, označava mesto
+  na kolovozu na kojem je vozač dužan da ustupi prvenstvo prolaza vozilima.
+Neposredno ispred linije zaustavljanja V-1.1, odnosno V-1.2
+  na kolovozu dozvoljeno je da se obeleži oznaka V-15.4, vrhom okrenutim prema
+  vozilu.
+Na prilazu raskrsnici, odnosno prelaza puta preko pruge, ako nisu postavljeni saobraćajni znakovi
+  II-1 ili II-2, linije V-1, V-1.1 i V-1.2 imaju značenje znakova.
+2.2.2. Kosnik
+Kosnik se obeležava na putu oznakom: "kosnik za zatvaranje
+  trake" (V-2), označava mesto zatvaranja saobraćajne trake, odnosno oznakom "kosnik
+  za otvaranje trake" (V-2.1), označava mesto otvaranja saobraćajne trake.
+2.2.3. Graničnik
+Graničnik se obeležava na putu oznakom: "graničnik" (V-3),
+  označava deo kolovoza na kome je zabranjen saobraćaj zbog ulivanja saobraćaja
+  sa prilaznog puta.
+2.2.4. Pešački prelaz
+Pešački prelaz se obeležava na putu oznakom: "pešački
+  prelaz" (V-4), je označeni deo površine kolovoza namenjen za prelazak
+  pešaka;
+Na kolovozu ispred pešačkog prelaza koji se nalazi u blizini
+  škole dozvoljeno je obeležiti natpis "ŠKOLA".
+2.2.5. Prelaz biciklističke staze preko kolovoza
+Prelaz biciklističke staze preko kolovoza se obeležava na putu
+  oznakom: "prelaz biciklističke staze preko kolovoza" (V-5), je deo
+  površine kolovoza namenjen za prelaz biciklista.
+2.2.6. Prelaz biciklističke staze preko kolovoza
+  i pešački prelaz
+Prelaz biciklističke staze preko kolovoza i pešački prelaz
+  se obeležava na putu oznakom: "prelaz biciklističke staze preko kolovoza
+  i pešački prelaz" (V-6), je deo površine kolovoza namenjen za prelaz biciklista
+  i pešaka.
+2.3. Ostale oznake na putu
+Član 67
+Ostale oznake na putu su:
+1) strelice;
+2) polja za usmeravanje saobraćaja;
+3) linije usmeravanja;
+4) natpisi na kolovozu;
+5) oznake na kolovozu koje daju učesnicima u saobraćaju dodatna
+  obaveštenja;
+6) oznake na kolovozu za obeležavanje saobraćajnih površina
+  za posebne namene;
+7) oznake na kolovozu za obeležavanje drugih saobraćajnih površina;
+8) oznake za obeležavanje parking mesta;
+9) oznake za obeležavanje parking mesta za osobe sa invaliditetom;
+10) tačke na kolovozu.
+2.3.1. Strelice
+Strelica na kolovozu služi za obeležavanje smera kretanja vozila
+  i obaveštavanje vozača o nameni saobraćajnih traka.
+Strelicama se može označiti: jedan smer (V-7), dva smera (V-8),
+  prestrojavanje na dve raskrsnice gde prestrojavanje mora da se izvede pre prve
+  raskrsnice (V-9), smer kretanja na biciklističkim stazama, odnosno smer kretanja
+  u garažama i prostorima za parkiranje (V-10), skretanje saobraćaja (V-11),
+  skretanje saobraćaja - uska strelica koja se može se primeniti umesto linije
+  upozorenja (V-12) i smer kretanja na raskrsnici sa kružnim tokom saobraćaja
+  (V-12.1).
+2.3.2. Polja za usmeravanje saobraćaja
+Polja za usmeravanje saobraćaja, označavaju površine na kojima
+  je zabranjen saobraćaj i na kojima nije dozvoljeno zaustavljanje i parkiranje.
+Polja za usmeravanje saobraćaja obeležavaju se: između dve
+  trake sa suprotnim smerovima (V-13), između dve trake sa istim smerovima (V-13.1),
+  na mestu otvaranja posebne trake za skretanje (V-13.2), ispred ostrva za razdvajanje
+  saobraćajnih tokova (V-13.3 i V-13.4), na ulivnim kracima na autoputu (V-13.5)
+  i na izlivnom kraku sa autoputa (V-13.6).
+2.3.3. Linije usmeravanja
+Linija usmeravanja, označava mesto promene slobodne površine
+  kolovoza ispred ostrva za prestrojavanje vozila javnog prevoza putnika (V-14),
+  služi za oblikovanje prepreke na ivici puta (V-14.1) i za označavanje promene
+  korisne površine kolovoza (V-14.2).
+2.3.4. Natpisi na kolovozu
+Natpisi na kolovozu kojima se daju učesnicima u saobraćaju
+  dodatna obaveštenja su: "STOP" (V-15), "ŠKOLA" (V-15.1), "BUS" (V-15.2), "TAXI" (V-15.3);
+Natpis "BUS" (V-15.2), označava saobraćajnu traku
+  za vozila javnog prevoza putnika. Postavlja se na početku saobraćajne trake
+  za vozila javnog prevoza putnika i ponavlja se nakon svake raskrsnice.
+2.3.5. Oznake na kolovozu koje daju učesnicima
+  u saobraćaju dodatna obaveštenja
+Oznake na kolovozu koje daju učesnicima u saobraćaju dodatna obaveštenja su: "saobraćajni znakovi" (V-15.4), "simbol bicikla" (V-15.5), "simbol kolica za osobe sa invaliditetom" (V-15.6), "simbol pešaka (V-15.7)", nacionalna oznaka države (V-15.8) i nazivi mesta i brojevi puteva;
+Oznake "saobraćajni znakovi" (V-15.4), postavljaju
+  se na kolovozu, na mestima gde je oznakom potrebno dodatno upozoriti vozača,
+  odnosno ograničenje koje je propisano saobraćajnim znakom.
+Oznaka "simbol bicikla" (V-15.5), označava biciklističku
+  stazu, odnosno traku i postavlja se na početku saobraćajne trake, odnosno staze
+  i posle svake raskrsnice.
+Oznaka "simbol kolica za osobe sa invaliditetom" (V-15.6),
+  označava da je parking mesto na kome je obeležen namenjen isključivo za parkiranje
+  vozila osoba sa invaliditetom.
+Oznaka "simbol pešaka" (V-15.7), označava pešačku
+stazu i postavlja se na početku staze i posle svake raskrsnice.
+"Nacionalna oznaka države" (V-15.8) označava se u skladu sa nacionalnom oznakom na registarskim tablicama vozila iz te države.
+2.3.6. Oznake na kolovozu za obeležavanje
+  saobraćajnih površina za posebne namene
+Oznake na kolovozu za obeležavanje saobraćajnih površina za
+  posebne namene, služe za: obeležavanje mesta gde je zabranjeno zaustavljanje,
+  odnosno parkiranje na trotoaru na mestu na kojem se nalazi kolski ulaz (V-16),
+  obeležavanje mesta gde je zabranjeno zaustavljanje, odnosno parkiranje na kolovozu
+  (V-16.1), obeležavanje mesta za autobusko stajalište (V-16.2), obeležavanje
+  mesta za taksi vozilo (V-16.3);
+2.3.7. Oznake na kolovozu za obeležavanje
+  drugih saobraćajnih površina
+Oznake na kolovozu za obeležavanje drugih saobraćajnih površina,
+  služe za: obeležavanje pešačkog prelaza u zoni škole (V-16.4), obeležavanje
+  ukrštanja pešačke i dvosmerne biciklističke staze (V-16.5), obeležavanje ukrštanja
+  pešačke i jednosmerne biciklističke staze (V-16.6), obeležavanje dvosmerne
+  biciklističke staze (V-16.7) i za obeležavanje jednosmerne biciklističke staze
+  (V-16.8).
+2.3.8. Oznake za obeležavanje parking mesta
+Oznake za obeležavanje parking mesta su: "parking mesto" (V-17),
+  (V-17.1) i (V-17.2) i oznake koje označavaju mesto i način parkiranja vozila
+  kao: podužno (V-17), koso (V-17.1) i upravno (V-17.2).
+2.3.9. Oznake za obeležavanje parking mesta
+  za osobe sa invaliditetom
+Oznake za obeležavanje parking mesta za osobe sa invaliditetom
+  su: "parking mesto za osobe sa invaliditetom" (V-17.3) i (V-17.3.1)
+  i označavaju mesto za parkiranje vozila za osobe sa invaliditetom;
+2.3.10. Tačke na kolovozu
+Oznaka "tačke na kolovozu" (V-18), označava deonicu
+  autoputa i motoputa na kojoj postoji opasnost od pojave magle.
+2.4. Obeležavanje oznaka na putu
+Član 68
+Oznaka V-1, obeležava se na način da vozač zaustavljenog vozila
+  ima preglednost na raskrsnici, u skladu geometrijom raskrsnice i režimom saobraćaja.
+Neposredno ispred oznaka V-1.1 i V-1.2 u smeru kretanja dozvoljeno
+  je da se obeleži oznaka V-15.4, koja se odnosi na saobraćajni znak II-1.
+Oznaka V-18 se izvodi sa spoljne strane ivične linije sa desne
+  strane u smeru kretanja, na rastojanju od 0,2 m od ivične linije. Ukoliko nema
+  mogućnosti da se tačke izvedu sa spoljašnje strane ivične linije, dozvoljeno
+  je da se tačke izvode sa unutrašnje strane. Tačke se izvode u kontinuitetu
+  na deonici, osim u zoni petlji. Međusobno rastojanje između središta tačaka
+  je 35 m. Postavlja se uz znakove III-89, III-89.1 i III-89.2. Oznaka V-18 se
+  izvodi kao tip 2, prema Prilogu 5 koji je odštampan uz ovaj pravilnik i čini
+  njegov sastavni deo.
+2.4.1. Obeležavanje razdelnih linija za bezbedno
+  preticanje i određivanje preticajne preglednosti horizontalne krivine
+Član 69
+Analitički postupak proračuna dužina razdelnih linija za bezbedno
+  preticanje u funkciji brzina, nalazi se u Prilogu 6. ovog pravilnika koji je
+  odštampan uz ovaj pravilnik i čini njegov sastavni deo.
+Tabela data u Prilogu 6 ovog pravilnika koji je odštampan uz
+  ovaj pravilnik i čini njegov sastavni deo je data kao primer, kada putničko
+  vozilo pretiče putničko vozilo.
+Član 70
+Šematski prikaz određivanja preticajne preglednosti kod horizontalnih
+  krivina i vertikalnih krivina, dat je u Prilogu 7. ovog pravilnika koji je
+  odštampan uz ovaj pravilnik i čini njegov sastavni deo.
+3. Semafori
+Član 71
+Semafori se koriste za regulisanje saobraćaja i označavanje
+  radova i prepreka na putu.
+Semafori se koriste za regulisanje:
+1. kretanja vozila;
+2. kretanja pešaka;
+3. kretanja tramvaja;
+4. kretanja bicikala;
+5. prelaza puta preko železničke pruge u nivou;
+6. pristupa vozila.
+Semaforima se emituju svetlosni saobraćajni znakovi odnosno
+  svetla crvene, žute, zelene odnosno, bele boje.
+Semafori mogu biti i sa grafičkim simbolom, koji dodatno objašnjava
+  njegovo značenje, odnosno definiše na koju se kategoriju korisnika odnosi pojam.
+Član 72
+Prilikom postavljanja i modifikacije rada semafora, saobraćajni
+  projekat iz člana 5. pravilnika sadrži:
+1. merodavne saobraćajne slike;
+2. matricu zaštitnih vremena (proračun i grafički prikaz);
+Zaštitno vreme između dva konfliktna toka je vremenski interval
+  od početka signalnog pojma koji znači zabranu prolaza za jedan tok, do početka
+  signalnog pojma koji znači dozvoljen prolaz, za drugi tok. Na osnovu proračuna
+  zaštitno vreme za vozila prikazuje se kao međuzeleno vreme sa uračunatim žutim
+  vremenom (tz1) ili bez žutog vremena (tz2).
+3. plan stanja odnosno faza sa redosledom prelazaka;
+4. proračun dužine ciklusa i preraspodele zelenih vremena za
+  fiksni rad semafora;
+5. algoritam detektorskog upravljanja (opis logičkih uslova,
+  korišćenih parametara, konstanti, izraza, promenljivih) za detektorski rad
+  semafora;
+6. prostor - vreme dijagram (P-V dijagram) za koordinaciju;
+7. signalne programe (fiksni rad), odnosno prelazne sekvence
+  (detektorski rad);
+8. situacioni plan saobraćajne signalizacije;
+9. raspored elemenata svetlosne signalizacije i opreme, detektora
+  i kablovske instalacije.
+U saobraćajnom projektu za postavljanje semafora i izmenljive
+  saobraćajne signalizacije, prilažu se uslovi i saglasnosti.
+3.1. Semafori za regulisanje kretanja vozila
+Član 73
+Kretanje vozila reguliše se semaforima sa tri boje svetla u
+  obliku kruga (VI-1).
+Na semaforima sa tri boje svetla, koja se postavljaju po vertikalnoj
+  osi, jedno ispod drugog i to: crveno gore, žuto u sredini, a zeleno dole. Ako
+  je semafor postavljen iznad saobraćajne trake, svetla mogu biti postavljena
+  po horizontalnoj osi, jedno pored drugog i to: crveno levo, žuto u sredini,
+  a zeleno desno.
+Prečnik kruga svetla je 210 (200) mm ili 300 mm.
+Svetla na semaforu su istih dimenzija. Izuzetno, crveno svetlo
+  može biti dimenzije 300 mm, ako su žuto i zeleno svetlo dimenzija 210 (200)
+  mm.
+Semafori koji se postavljaju iznad saobraćajnih traka mogu
+  imati svetla dimenzija 300 mm.
+Semaforu iz stava 1. ovog člana može se dodati uređaj za odbrojavanje
+  preostalog vremena trajanja svetla i grafička i/ili tekstualna poruka koja
+  se prenosi vozačima. Uređaj za odbrojavanje preostalog vremena trajanja postavlja
+  se iznad, odnosno pored semafora, sa udaljenije strane semafora od kolovoza.
+Na semaforu sa tri boje svetla, promena boja svetla se obavlja
+  sledećim redom: zeleno, žuto, crveno, žuto istovremeno sa crvenim, zeleno.
+Trajanje žutog svetla za brzine do 60 km/h je 3 sekunde. Za
+  brzine preko 60 km/h, žuto svetlo traje 4 sekunde. Žuto svetlo u zonama radova
+  na putu traje 4 sekunde. Žuto svetlo istovremeno sa crvenim svetlom traje 2
+  sekunde.
+U slučaju ako se na kraju zelenog svetlosnog pojma koristi
+  trepćuće svetlo ono mora trajati 4 sekunde, tako da naizmenični intervali uključeno-isključeno
+  traju po 0,5 sekundi (slika br. 3).
+Slika
+    br. 3
+Član 74
+Semaforima sa tri boje svetla sa simbolom jedne, odnosno dve
+  strelice (direkcioni svetlosni saobraćajni znak) reguliše se kretanje vozila
+  po smerovima na raskrsnici (VI-2.1, VI-2.2, VI-2.3, VI-2.4, VI-2.5, VI-2.6,
+  VI-2.7), čiji je izgled dat u tabeli br. 1.
+Direkcioni svetlosni saobraćajni znak se primenjuje, ako se
+  kretanje vozila u smeru određenom strelicom obavlja bez konflikta.
+Direkcioni svetlosni saobraćajni znak ima crveno i žuto svetlo
+  u obliku kruga sa simbolima crne boje u obliku jedne ili više strelica, dok
+  je zeleno svetlo u obliku jedne ili više strelica u krugu crne boje.
+tabela
+    br. 1
+Član 75
+Za regulisanje kretanja vozila po saobraćajnim trakama, dozvoljeno
+  je koristiti svetlosne saobraćajne znakove sa simbolima crvene, zelene i žute
+  boje na tamnoj površini (VI-3.1, VI-3.2, VI-3.3.1, VI-3.3.2).
+Ukoliko se za regulisanje kretanja vozila koriste svetlosni
+  saobraćajni znakovi iz stava 1. ovog člana, postavljaju se iznad svih saobraćajnih
+  traka, na način da se odgovarajući simbol nalazi iznad saobraćajne trake na
+  koju se odnosi.
+Crveno svetlo u obliku ukrštenih linija (VI-3.1) označava zabranu
+  kretanja vozilima prema kome je okrenuto lice znaka.
+Zeleno svetlo u obliku strelice nadole (VI-3.2) označava dozvoljen
+  prolaz vozilima prema kome je okrenuto lice znaka.
+Žuta trepćuća strelica usmerena koso nadole (VI-3.3.1 i VI-3.3.2),
+  označava da vozila moraju napustiti saobraćajnu traku u smeru koji je određen
+  strelicom.
+Svetlosni saobraćajni znakovi iz stava 1. su dimenzija:
+- 400 x 400 mm na putu u naselju;
+- 600 x 600 mm na putu van naselja.
+Član 76
+Dozvoljeno je da semafor sa tri boje svetla ima dodatni svetlosni
+  saobraćajni znak (VI-4.1, VI-4.2, VI-4.3, VI-4.4 i VI-4.5) u obliku zelene
+  strelice (uslovni znak). Grafički simbol strelice koji označava smer kretanja
+  je zeleni na tamnoj površini.
+Dodatni svetlosni saobraćajni znak postavlja se sa odgovarajuće
+  strane semafora, u visini na kojoj se nalazi zeleno svetlo.
+Član 77
+Semafor za regulisanje brzine vozila (VI-5) preporučuje brzinu
+  kojom vozilo treba da se kreće da bi na narednom semaforu imalo slobodan prolaz.
+Brojčana oznaka je bele boje na tamnoj površini. Svetlosni
+  saobraćajni znakovi za regulisanje kretanja vozila određenom brzinom mogu biti
+  sa najviše tri svetla.
+3.2. Semafori za regulisanje kretanja pešaka
+Član 78
+Za regulisanje kretanja pešaka upotrebljavaju se semafori sa
+  svetlima crvene i zelene boje (VI-6). Svetla moraju biti postavljena po vertikalnoj
+  osi, jedno ispod drugog, i to: crveno svetlo gore, a zeleno svetlo dole, odnosno
+  po horizontalnoj osi, jedno pored drugog: crveno svetlo levo, a zeleno svetlo
+  desno.
+Na semaforu iz stava 1. ovoga člana može biti pridodat uređaj
+  za davanje zvučnih signala i/ili uređaj za odbrojavanje preostalog vremena
+  za kretanje pešaka.
+Svetla iz stava 1. ovog člana sastoje se od svetleće površine
+  crvene, odnosno zelene boje na kojoj se nalazi tamna silueta pešaka ili od
+  tamne površine na kojoj se nalazi svetleća silueta pešaka crvene, odnosno zelene
+  boje.
+Svetla ne smeju biti uključena istovremeno. Zeleno svetlo može
+  biti trepćuće, pre pojave crvenog svetla.
+Trepćuće zeleno svetlo mora trajati 4 sekunde, tako da naizmenični
+  intervali uključeno-isključeno traju po 0,5 sekundi (slika br. 4).
+slika
+    br. 4
+Za regulisanje kretanja pešaka i biciklista može se upotrebiti
+  semafor (VI-6.1), za davanje svetlosnih saobraćajnih znakova crvenim i zelenim
+  svetlima.
+Na semaforu iz stava 6. ovoga člana može biti dodat uređaj
+  za davanje zvučnih signala, odnosno uređaj za odbrojavanje preostalog vremena
+  za kretanje pešaka i biciklista. Zvučni signal za zeleno svetlo traje vremenski
+  koliko i zeleno svetlo.
+Uređaj za odbrojavanje pešačkog i biciklističkog vremena, daje
+  prikaz trajanja zelenog, odnosno crvenog vremena. Prikaz ovih vremena je u
+  skladu sa bojama signala koji se prikazuje. Dozvoljeno je da se deo crvenog
+  vremena koji sadrži zaštitno vreme prikaže žutom bojom.
+3.3. Semafori za regulisanje kretanja tramvaja
+Član 79
+Za regulisanje kretanja tramvaja upotrebljavaju se semafori
+  za davanje svetla bele boje (VI-7). Svetla su u oblike položene, uspravne,
+  odnosno kose crte na tamnoj površini.
+Svetlo sa položenom crtom ne sme biti uključeno istovremeno
+  sa svetlom, odnosno svetlima sa uspravnom, odnosno kosom crtom.
+Ako vozila javnog prevoza putnika se kreću saobraćajnom trakom
+  kojom se kreću i tramvaji svetlosni saobraćajni znakovi iz stava 1. ovog člana
+  odnose se na ta vozila.
+Semafori za regulisanje kretanja tramvaja moraju da imaju najmanje
+  dva (zabrana saobraćaja i slobodan prolaz u odgovarajućem smeru), ili najviše
+  četiri svetla.
+Svetla moraju biti postavljena po vertikalnoj osi, jedno ispod
+  drugog, svetlo sa položenom crtom, svetlo sa kosom crtom na levo, svetlo sa
+  uspravnom crtom i svetlo sa kosom crtom na desno.
+3.4. Semafori za regulisanje kretanja bicikala
+Član 80
+Kretanje bicikala i mopeda po biciklističkim trakama, odnosno
+  stazama, dozvoljeno je regulisati upotrebom semafora kojima se daju svetlosni
+  saobraćajni znakovi sa tri boje svetla (VI-8), koja se postavljaju po vertikalnoj
+  osi jedno ispod drugog, i to crveno gore, žuto u sredini i zeleno dole.
+Grafički simbol bicikla izvodi se kao crni simbol u crvenom
+  i žutom svetlu, odnosno kao zeleni simbol na tamnoj površini.
+Semafori za regulisanje kretanja bicikala koriste se ako je
+  biciklistička staza izvan lokacije obeleženog pešačkog prelaza ili bicikli
+  imaju drugačije elemente vođenja na raskrsnici u odnosu na pešake.
+Dozvoljeno je da svetlosni saobraćajni znakovi za regulisanje
+  kretanja bicikala budu i dimenzije 100 mm.
+Promena svetla na semaforu se obavlja sledećim redom: zeleno,
+  žuto, crveno, ili crveno, žuto istovremeno sa crvenim, zeleno.
+Trajanje žutog svetla je 2 sekunde. Žuto istovremeno sa crvenim
+  svetlom traje 1 sekundu.
+3.5. Semafori za regulisanje prelaza puta preko
+  železničke pruge u istom nivou
+Član 81
+Semafori kojima se reguliše prelaz puta preko železničke pruge
+  u istom nivou (VI-9), služe za najavu približavanja voza i najavu spuštanja
+  branika, odnosno polubranika.
+Postavlja na prelazima puta preko železničke pruge u nivou,
+  sa ili bez branika, odnosno polubranika.
+Za regulisanje prelaza puta preko železničke pruge u istom nivou upotrebljavaju se semafori sa svetlima crvene i žute boje.
+Svetla iz stava 3. ovog člana postavljaju se po vertikalnoj osi (VI-9), jedno ispod drugog i to: crveno svetlo gore, a žuto svetlo dole, odnosno po horizontalnoj osi (VI-9.1), jedno pored drugog: crveno svetlo levo, a žuto svetlo desno.
+3.6. Semafori za regulisanje pristupa vozila
+Član 82
+Za regulisanje pristupa vozila upotrebljavaju se semafori sa
+  dve boje svetla.
+Svetla moraju biti postavljena po vertikalnoj osi (VI-10),
+  jedno ispod drugog, i to: crveno svetlo gore, a zeleno svetlo dole, odnosno
+  po horizontalnoj osi (VI-10.1), jedno pored drugog: crveno svetlo levo, a zeleno
+  svetlo desno.
+Semafori za regulisanje pristupa vozila koriste se za označavanje
+  određenog prilaza, koji može biti otvoren, odnosno zatvoren.
+3.7. Postavljanje semafora
+Član 83
+Na delu puta na kome se postavljaju semafori najveća dozvoljena
+  brzina je 70 km/h.
+Semafori se postavljaju pored i iznad kolovoza.
+Semafori koji se postavljaju pored kolovoza, postavljaju se
+  na visini od 2,2 m do 2,5 m, tj. rastojanju od horizontalne ravni koja prolazi
+  kroz ivicu puta do horizontalne ravni koja prolazi kroz donju ivicu semafora.
+Semafori koji se postavljaju iznad kolovoza postavljaju se
+  na visini od 4,5 m do 6 m, tj. rastojanju od horizontalne ravni koja prolazi
+  kroz ivicu puta do horizontalne ravni koja prolazi kroz donju ivicu semafora.
+Semafori iznad kolovoza mogu da imaju kontrastnu ploču za poboljšavanje
+  uočljivosti.
+Rastojanje semafora za regulisanje kretanja vozila, od linije
+  zaustavljanja iznosi najmanje 3 m i ne odnosi na biciklističke staze i trake.
+Semafori se postavljaju na nosače, koji mogu biti: ravni (može
+  biti redukovan nastavkom nosača saobraćajnih znakova), konzolni i portalni.
+Osnovni semafor za regulisanje kretanje vozila se postavlja
+  na prilazu raskrsnici, pored kolovoza, na nosač sa desne strane u smeru kretanja
+  vozila, na visini iz stava 3. ovoga člana.
+Ako postoji veća visina saobraćajnog profila, koja onemogućava
+  primenu konzolnog stuba ili portala, semafori se mogu pomoću posebne konzole
+  postaviti i na stub javne rasvete, odnosno stub kontaktne mreže, ili se mogu
+  postaviti na čeličnu užad na prilazu, odnosno samoj zoni raskrsnice.
+Dozvoljeno je da se semafori postave na stubove komunalne infrastrukture
+  i na objekte pored kolovoza, ukoliko na raskrsnici zbog prostornog ograničenja
+  nije moguće postaviti semafor, uz saglasnost vlasnika, odnosno korisnika i
+  obrazloženje u saobraćajnom projektu.
+Na prilazima raskrsnici sa više saobraćajnih traka po smeru,
+  obavezno je postaviti semafor koji prikazuje iste signalne pojmove (semafor
+  ponavljač), iznad saobraćajnih traka, odnosno na levoj strani pored kolovoza.
+Na nosač semafora može se postaviti semafor ponavljač dimenzija
+  prečnika kruga svetla 100 mm, na visini od 1,2 m do 1,4 m, tj. rastojanju od
+  horizontalne ravni koja prolazi kroz ivicu puta do horizontalne ravni koja
+  prolazi kroz donju ivicu semafora ponavljača.
+Najmanje rastojanje semafora od ivice kolovoza je 0,5 m, a
+  najveće do 1,2 m, u zavisnosti od brzine, u skladu sa slikom br. 5.
+Najmanje rastojanje osovine nosača semafora od ivice kolovoza
+  je 0,75 m.
+Taster za najavu, odnosno taster zvučnog uređaja, postavlja
+  se na visini od 0,85 m do 1,05 m od površine trotoara, u skladu sa slikom br.
+  5.
+Šematski prikaz rasporeda semafora je dat na slici br. 6.
+slika
+    br. 5.
+slika
+    br. 6.
+4. Branici ili polubranici na
+  prelazu puta preko železničke pruge
+Član 84
+Branici kojima se na prelazima puta preko železničke pruge
+  u nivou obustavlja saobraćaj čitavom širinom puta moraju biti označeni sa najmanje
+  tri crvene retroreflektujuće, odnosno svetlosne oznake, od kojih je jedna smeštena
+  na sredini branika, a druge dve na krajevima branika.
+Polubranici kojima se na prelazu puta preko železničke pruge
+  u nivou obustavlja saobraćaj samo do polovine širine puta, moraju biti označeni
+  sa najmanje tri crvene retroreflektujuće, odnosno svetlosne oznake, postavljene
+  na odgovarajućim razmacima po čitavoj dužini polubranika, od kojih je jedna
+  smeštena na kraju polubranika.
+Osnovna boja branika, odnosno polubranika je retroreflektujuća
+  crvena i žuta boja sa fluoroscentnim svojstvom materijala klase 3.
+Branici i polubranici se obeležavaju crvenim retroreflektujućim,
+  odnosno svetlosnim oznakama (stalna, odnosna trepćuća crvena svetla).
+Refleksna stakla iz st. 1. i 2. ovog člana moraju imati površinu
+  od najmanje 40 cm² i postavljaju se na način da su vidljiva iz smera na kome
+  se obustavlja saobraćaj.
+5. Privremena saobraćajna signalizacija
+Član 85
+Privremena saobraćajna signalizacija se koristi za obeležavanje
+  zone radova, prepreka, oštećenja koja su nastala na putu, odnosno za obeležavanje privremenih ograničenja na putu.
+Član 86
+Oprema koja se koristi u zoni radova se izrađuje od retroreflektujućeg
+  materijala najmanje klase 2.
+Oprema u zoni radova je:
+1) "čeona zapreka" (VII-1) i (VII-1.1) je branik
+  na kojoj su naizmenična polja bele i crvene boje, zakošena pod uglom od 45º;
+2) "horizontalna zapreka" (VII-2) i (VII-2.1) je
+  tabla postavljena na sopstveni nosač sa naizmeničnim kvadratnim poljima bele
+  i crvene boje i može da bude jednostruka (VII-2) i dvostruka (VII-2.1);
+3) "vertikalna zapreka" (VII-3), (VII-3.1), (VII-3.2),
+  (VII-3.3) i (VII-3.4) je tabla postavljena na sopstveni nosač, vertikalno u
+  odnosu na kolovoz, sa naizmeničnim poljima bele i crvene boje pod uglom od
+  45° u odnosu na površinu kolovoza i može da bude jednostrana ili dvostrana;
+4) "zaprečna traka" (VII-4) je traka sa naizmeničnim
+  poljima bele i crvene boje;
+5) "saobraćajni čunj" (VII-5) je kupa sa naizmeničnim
+  poljima crvene i bele boje koja je retroreflektujuća, dozvoljeno je da se izrađuju
+  i od gume;
+6) "razdvajajuća ograda" (VII-6) koristi se za razdvajanje
+  suprotnih smerova kretanja, za skretanje saobraćaja i za razdvajanje površine
+  kolovoza na kojoj je dozvoljeno kretanje od površine na kojoj kretanje vozila
+  nije dozvoljeno. Nije dozvoljeno korišćenje razdvajajuće ograde koja nije napunjena
+  predviđenim materijalom za tu namenu;
+7) "rastegljiva ograda" (VII-7) je ograda izrađena
+  od lakih materijala obojenih naizmenično belom i crvenom bojom;
+8) "signalna tabla" (VII-8) i (VII-8.1) je tabla
+  za označavanje radova na putu;
+Izgled signalne table je primer.
+9) "trepćuća svetla";
+10) "trake za poništavanje važnosti saobraćajnih znakova";
+11) "aplikativne trake za obeležavanje privremenih oznaka
+  na putu";
+12) "zastavice za ručno regulisanje saobraćaja" su
+  crvene i zelene boje dimenzija najmanje 40 cm x 40 cm.
+6. Svetlosne oznake na putu
+Član 87
+Svetlosne oznake na putu služe za obeležavanje ivice kolovoza
+  i putnih objekata.
+Oznake iz stava 1. svojim oblikom, merama i načinom izrade
+  moraju biti uočljivi u svim vremenskim uslovima, a posebno u slučaju smanjene
+  vidljivosti (noć, magla, sneg i sl.).
+Svetlosne oznake na putu za obeležavanje ivice kolovoza su:
+1) "smerokazi" (VIII-1) moraju imati retroreflektujuća
+  tela (folije ili druga retroreflektujuća tela) klase 3, i to: crvene boje sa
+  desne strane, a bele boje sa leve strane u smeru kretanja vozila, osim na autoputu
+  gde se sa obe strane u smeru kretanja postavljaju smerokazi crvene boje;
+2) "katadiopter" (VIII-2) se postavlja na zaštitne
+  ograde, stubove, odnosno bočne smetnje u profilu puta. Na bočnim zidovima tunela
+  katadiopteri se postavljaju linearno na visini 0,7 - 0,8 m;
+3) "štap za označavanje puta u zimskim uslovima" (VIII-3)
+  je štap obojen naizmenično poljima visine 30 cm, crvene i žute boje;
+Svetlosne oznake na putu za obeležavanje putnih objekata su:
+1) "indikator za označavanje putnog objekta i zona izdignutih
+  ivičnjaka" (VIII-4) se postavlja na početku putnog objekta i zona izdignutih
+  ivičnjaka sa graničnikom okrenutim na dole i na kraju objekta sa graničnikom
+  okrenutim na gore. Vrh graničnika je označen materijalom sa retroreflektujućim
+  svojstvima;
+2) "table za označavanje stalnih prepreka unutar gabarita
+  slobodnog profila puta" (VIII-5), (VIII-5.1);
+Ove table su izrađene u crvenoj i žutoj retroreflektujućoj
+  boji sa fluoroscentnim svojstvom materijala klase 3.
+7. Oprema puta
+Član 88
+Opremu puta čine: oprema za označavanje saobraćajnih površina,
+  zaštitne ograde, ublaživači udara, zaštitne žičane ograde, pešačke ograde i
+  signalizacija za slepa i slabovida lica.
+7.1. Oprema za označavanje saobraćajnih površina
+Član 89
+Opremu za označavanje saobraćajnih površina čine:
+1) "marker" (IX-1) je element sa retroreflektujućim
+  površinama, odnosno sopstvenim izvorom svetlosti;
+Markere je dozvoljeno postaviti na kolovozu sa dvosmernim saobraćajem,
+  na način da u smeru kretanja sa desne strane kolovoza reflektuju, odnosno emituju
+  crvenu boju, a sa leve strane kolovoza belu boju.
+Markere je dozvoljeno postaviti na kolovozu sa jednosmernim
+  saobraćajem, na način da posmatrano u smeru kretanja sa obe strane kolovoza
+  reflektuju, odnosno emituju crvenu boju.
+2) "linearni katadiopter" (IX-2) se postavlja bočno
+  sa obe strane kolovoza na visinu od 0,6 m do 0,7 m od kolovoza i izrađuje se
+  u fluoroscentnoj retroreflektujućoj boji;
+3) "montažni ivičnjak" (IX-3) koristi se za označavanje
+  površine kolovoza koja je namenjena za vođenje saobraćajnih tokova. Na montažni
+  ivičnjak mogu da se postave retroreflektujuće oznake radi bolje vidljivosti
+  i/ili delineatori;
+4) "delineator" (IX-4) se koristi za razdvajanje
+  smerova kretanja ili vođenje tokova u slučajevima skretanja saobraćaja i može
+  se postaviti na montažni ivičnjak;
+5) "indikator vrha površine razdvajanja tokova" (IX-5)
+  se može postaviti na mestu gde dolazi do razdvajanja saobraćajnih tokova;
+6) "saobraćajno ogledalo" (IX-6) se može postaviti
+  na nepreglednim mestima na putu;
+Spoljna ivica saobraćajnog ogledala je obojena naizmeničnim
+  poljima crvene i bele boje, kružnog, odnosno pravougaonog oblika.
+7) "stubić" (IX-7) ima retroreflektujuća polja bele
+  boje i može biti izrađen od plastike, metala ili gume, "stubić" (IX-7.1)
+  ima naizmenična polja različitih boja koja mogu biti i retroreflektujuća;
+8) "oprema protiv zaslepljivanja vozača" (IX-8);
+9) "svetla upozorenja" (IX-9) za obeležavanje naplatnih
+  stanica i sl.
+10) "postolje za saobraćajnu signalizaciju" (IX-10).
+7.2. Zaštitne ograde
+Član 90
+Zaštitna ograda je tehnička konstrukcija čija je osnovna namena
+  sprečavanje skretanja vozila sa puta. Zaštitna ograda se izrađuje od čelika,
+  betona, drveta, odnosno kombinovano.
+Zaštitna ograda se postavlja:
+1) na mestu razdvajanja kolovoza, odnosno saobraćajnih traka,
+  u zavisnosti od saobraćajnog opterećenja i kategorije puta;
+2) na putnom objektu;
+3) na bankini, u slučaju kada je put na nasipu višem od 3.0
+  m;
+4) ispred, duž i iza bočne smetnje (opasnog mesta).
+Klasa zadržavanja zaštitne ograde određuje se na osnovu definisanog
+  stepena opasnosti na putu, prema standardu SRPS EN 1317.
+Zaštitna ograda se oprema markerima, crvene boje na desnoj
+  strani puta u smeru vožnje, a bele boje na levoj strani puta. Na kolovozu sa
+  jednosmernim saobraćajem retroreflektujuća oznaka se u smeru vožnje izvodi
+  kao crveno-bela sa desne strane, a obostrano crvena sa leve strane.
+7.3. Ublaživači udara
+Član 91
+Ublaživači udara mogu biti: stacionarni i pokretni.
+Ublaživači udara moraju biti u skladu sa standardom SRPS EN
+  1317.
+Stacionarni ublaživači udara se postavljaju na posebno opasnim
+  mestima na putu, na kojima postoji opasnost udara vozila na objekat (razdelno
+  ostrvo, zid putnog objekta, konzolni ili betonski stub, i sl.).
+Pokretni ublaživači udara se postavljaju na vozilu u zoni radova
+  na putu.
+7.4. Zaštitne žičane ograde
+Član 92
+Zaštitna žičana ograda je tehnička konstrukcija čija je osnovna
+  namena zaštita saobraćaja na putu od divljači i drugih životinja.
+Zaštitna žičana ograda se postavlja na autoputu i motoputu,
+  a na ostalim putevima po potrebi.
+7.5. Pešačke ograde
+Član 93
+Pešačka ograda je tehnička konstrukcija čija je osnovna namena
+  zaštita pešaka na površini koju smeju da koriste za kretanje.
+Pešačke ograde se mogu koristiti i za vođenje pešaka u zoni
+  raskrsnica, pasarela, prolaza za pešake, i sl.
+Pešačke ograde su crne i žute boje koja može biti retroreflektujuća.
+7.6. Signalizacija za slepa i slabovida lica
+Član 94
+Signalizaciju za slepa i slabovida lica čini oprema za: obeležavanje
+  prostora na saobraćajnim i pešačkim površinama, prilaz do objekta, kretanje
+  po objektima za javno korišćenje, ugradnju posebnih signalnih uređaja kojima
+  se obezbeđuje orijentisano kretanje slepih i slabovidih lica.
+Opremu koja se koristi za obeležavanje puteva za kretanje slepih
+  i slabovidih lica čine:
+1) taktilne trake sa jasno naznačenim krajevima putanja;
+2) taktilni pešački tasteri na nosačima semafora;
+3) zvučni signali navođenja;
+4) zvučni signali prelaženja;
+5) ostala tehnička sredstva slične namene;
+6) rukodržači, vođice i slično, koja omogućavaju bolje i lakše
+  kretanje na javnim površinama ili u javnim objektima.
+III PRELAZNE I ZAVRŠNE ODREDBE
+Član 95
+Saobraćajna signalizacija na putu koja nije u skladu sa ovim
+  pravilnikom, a nalazi se na putu na dan njegovog stupanja na snagu, mora se
+  uskladiti (zameniti, odnosno ukloniti) sa ovim pravilnikom do 1. januara 2020.
+  godine.
+Saobraćajni znakovi: I-24, I-33, II-10, II-10.1, II-29, II-33,
+  II-39, III-1, III-60, III-80, III-80.1 i dopunska tabla IV-22 koji se nalaze
+  na putu moraju biti promenjeni u skladu sa ovim pravilnikom najkasnije pet
+  godina nakon stupanja na snagu Pravilnika.
+Član 96
+Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik
+  o saobraćajnoj signalizaciji ("Službeni glasnik RS", broj 134/14).
+Član 97
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja
+  u "Službenom glasniku Republike Srbije".
+Samostalni članovi Pravilnika o izmenama i dopunama
+Pravilnika o saobraćajnoj signalizaciji
+("Sl. glasnik RS", br. 21/2024)
+Član 3
+Semafori na prelazima puta preko železničke pruge (VI-9) postavljeni po propisima donetim pre stupanja na snagu ovog pravilnika, imaju isto značenje do zamene semaforima propisanim u članu 1. ovog pravilnika.
+Član 4
+Semafori na prelazima puta preko železničke pruge iz člana 1. ovog pravilnika biće postavljeni u skladu sa zakonom koji uređuje bezbednost saobraćaja na putevima.
+Član 5
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Prilog 1.
+SAOBRAĆAJNI PROJEKAT
+Naslovna strana saobraćajnog projekta sadrži: naziv projekta, naziv i adresu investitora u skladu sa izvodom iz odgovarajućeg registra, naziv objekta sa lokacijom, brojem katastarske parcele i katastarskom opštinom, vrstu tehničke dokumentacije, naziv i oznaku dela projekta, nivo građenja i izvođenja radova, naziv preduzetnika, odnosno pravnog lica koje je izradilo projekat (naziv i adresa izrađivača projekta u skladu sa izvodom iz odgovarajućeg registra), potpis odgovornog projektanta, broj dela projekta (identifikaciona oznaka iz evidencije preduzetnika, odnosno pravnog lica), mesto i datum izrade projekta i potvrda tehničke kontrole projekta (zavodni broj, datum i potpis odgovornog lica vršioca tehničke kontrole).
+1)
+opšta dokumentacija:
+- opšta dokumentacija se izrađuje u skladu sa propisima kojima
+  se uređuje tehnička dokumentacija;
+2)
+projektni zadatak sadrži:
+- ciljeve i svrhu izrade projekta;
+- obrazloženje razloga u funkciji bezbednosti saobraćaja;
+- podatke o uslovima iz odgovarajuće prostorno planske i urbanističke
+  dokumentacije, granice obuhvata i ostalo iz planske i urbanističke dokumentacije
+  (ne treba za projekte privremene saobraćajne signalizacije), opšte podatke
+  o objektu (lokacija, namena, zahtevi prema projektantu, posebni, odnosno opravdani
+  zahtevi dati od investitora, ministarstava, organa jedinice lokalne samouprave,
+  inspekcije i sl., način izrade, opis izrade po fazama, veze sa okruženjem i
+  sl.;
+- podatke o tehničkim karakteristikama saobraćajne signalizacije
+  u skladu sa važećim propisima;
+- potpis i overa investitora;
+3)
+tehnički izveštaj:
+- tehnički izveštaj overava odgovorni projektant;
+- detaljan opis svrhe izrade projekta sa ograničenjima i opis
+  predloženog rešenja;
+- opis deonice puta (dužina, širina kolovoza, režim saobraćaja,
+  priključci, raskrsnice, objekti puta);
+- ukoliko je predmet projektnog zadatka i analiza saobraćajnih
+  tokova na deonici (prosečan godišnji dnevni saobraćaj, struktura, neravnomernost
+  protoka i sl.);
+- očekivani efekti;
+- obrazloženje o stanju postojeće saobraćajne signalizacije
+  na putu koja se zadržava, zamenjuje ili uklanja u celosti;
+- detaljan opis vrste radova i izbor načina regulisanja saobraćaja
+  (u slučaju izvođenja radova na putu), ukoliko se radi fazno, opisati svaku
+  fazu posebno;
+- spisak svih standarda koji se koriste u projektu;
+- spisak zakonske regulative u skladu sa projektom,
+- saobraćajno tehnički proračun (proračun rada svetlosnih signala);
+- ako se saobraćaj preusmerava definisati način vođenja saobraćaja
+  na alternativne pravce;
+4)
+predmer i predračun saobraćajne signalizacije:
+- predmer i predračun saobraćajne signalizacije overava odgovorni
+  projektant;
+- predmer radova: navesti saobraćajnu signalizaciju koja se
+  projektuje, zamenjuje, uklanja, odnosno izmešta;
+- tabelarni pregled saobraćajne signalizacije (na zahtev investitora);
+- predračun radova: navesti količine iz predmera sa jediničnim
+  cenama i ukupnom vrednosti radova;
+5)
+tehničke uslove za izradu i postavljanje saobraćajne
+    signalizacije:
+- tehnički uslovi za izvođenje saobraćajnih znakova;
+- tehnički uslovi za ugradnju i izvođenje oznaka na kolovozu;
+- tehnički uslovi za izvođenje svetlosne saobraćajne signalizacije;
+- tehnički uslovi za izvođenje opreme na putu;
+6)
+prilog o merama zaštite na radu i zaštite životne sredine
+    koje se odnose na projekat
+7)
+grafički deo projekta:
+- grafički deo projekta overava odgovorni projektant;
+- situacioni plan postojećeg stanja je u razmeri R=1:1000 ili
+  R=1:500 (na situacionom planu naznačiti koja saobraćajna signalizacija se uklanja,
+  delimično, odnosno u celosti zamenjuje novom, odnosno zadržava i sl.);
+- pregledna karta je u odgovarajućoj razmeri, sa ucrtanim i
+  upisanim brojevima situacionih planova novoprojektovanog stanja ako ih ima
+  više;
+- situacioni plan (planovi) novoprojektovanog stanja u razmeri
+  R=1:1000 ili R=1:500, spisak crteža (po mogućstvu, crteže obeležiti legendom
+  u donjem levom uglu i zaglavljem u donjem desnom uglu, obeležiti stranu sveta
+  (pravac) "Sever";
+- situacioni plan se izrađuje na geodetskim ili georeferenciranim
+  podlogama, osim u slučaju izrade projekta privremene saobraćajne signalizacije
+  za vođenje saobraćaja u slučaju preusmeravanja saobraćaja, kada se može izraditi
+  i na verodostojnoj podlozi u razmeri
+- legenda na crtežu treba da se odnosi na svaki crtež posebno;
+- svaki saobraćajni znak ili opremu na crtežu obeležiti šifrom
+  znaka, tako da se razlikuje postojeće i novoprojektno stanje;
+- situacioni plan raskrsnice u razmeri R=1:500 ili R=1:250;
+- saobraćajni deo za semaforsku signalizaciju;
+8) -
+detalji saobraćajne signalizacije:
+- detalj postavljanja saobraćajne signalizacije se prikazuje
+  u odgovarajućoj razmeri (R=1:25, R=1:50, R=1:100 i sl.).
+Prilog 2.
+TABELA GRUPA DIMENZIJA ZNAKOVA NA ZAJEDNIČKOM NOSAČU
+Grupa dimenzija znakova
+trougao
+(osnova)
+kvadrat /pravougaonik
+(osnova)
+krug
+(prečnik)
+dopunska tabla
+(osnova)
+Veličina 1
+120 cm
+90 cm
+90 cm
+120 cm/90 cm
+Veličina 2
+90 cm
+60 cm
+60 cm
+90 cm/60 cm
+Veličina 3
+60 cm
+40 cm
+40 cm
+60 cm/40 cm
+Prilog 3.
+POSTAVLJANJE RETROREFLEKTUJUĆIH SAOBRAĆAJNIH ZNAKOVA
+  U ODNOSU NA UZDUŽNU OSU PUTA
+Postavljanje retroreflektujućih saobraćajnih znakova
+  u odnosu na uzdužnu osu puta-horizontalna ravan
+Postavljanje retroreflektujućih saobraćajnih znakova
+  u odnosu na uzdužnu osu puta-vertikalna ravan
+ravan put
+uspon
+nizbrdica
+Prilog 4.
+NAČIN POSTAVLJANJA SAOBRAĆAJNOG ZNAKA OBAVEŠTENJA ZA
+  VOĐENJE SAOBRAĆAJA PORED PUTA
+Prilog 5.
+PROPISANE VREDNOSTI PARAMETARA ZA OZNAKE NA PUTU U
+  ZAVISNOSTI OD KATEGORIJE PUTA
+Vrsta saobraćajnice
+R
+L
+Bela
+R
+L
+Žuta
+R
+W
+(ako se primenjuju oznake**)
+Q
+d
+Bela
+S***
+(SRT jedinice)
+Autoput
+*Nove oznake
+≥300
+-
+≥100
+≥160
+≥50
+Najmanja dozvoljena vrednost
+    tokom upotrebe
+≥150
+-
+≥50
+≥130
+≥45
+Ostali državni
+    putevi I reda
+*Nove oznake
+≥300
+≥200
+≥75
+≥160
+≥50
+Najmanja dozvoljena vrednost
+    tokom upotrebe
+≥150
+≥100
+≥35
+≥130
+≥45
+Državni put II
+    reda
+*Nove oznake
+≥200
+≥150
+≥50
+≥130
+≥50
+Najmanja dozvoljena vrednost
+    tokom upotrebe
+≥100
+≥80
+≥35
+≥100
+≥45
+Opštinski putevi
+*Nove oznake
+≥200
+≥150
+≥50
+≥130
+≥50
+Najmanja dozvoljena vrednost
+    tokom upotrebe
+≥100
+≥80
+≥35
+≥100
+≥45
+Primarne saobraćajnice
+    u naseljenom mestu
+*Nove oznake
+≥200
+≥150
+≥75
+≥130
+≥50
+Najmanja dozvoljena vrednost
+    tokom upotrebe
+≥100
+≥80
+≥35
+≥100
+≥45
+Sekundarne saobraćajnice
+    u naseljenom mestu
+*Nove oznake
+≥150
+≥100
+-
+≥130
+≥50
+Najmanja dozvoljena vrednost
+    tokom upotrebe
+-
+-
+-
+≥100
+≥45
+R
+L
+-
+        koeficijent retrorefleksije (mcd x m-2 x lux-1);
+R
+W
+- koeficijent retrorefleksije
+        u vlažnim uslovima (mcd x m-2 x lux-1);
+Q
+d
+- koeficijent osvetljenosti
+        pri difuznom osvetljenju (mcd x m-2 x lux-1);
+S - vrednost otpora na klizanje (SRT)
+* Pod novom oznakom na putu se smatra oznaka do 30 dana od
+  dana izvođenja
+** Oznake Tip 2 su oznake koje obezbeđuju retrorefleksiju u uslovima vlažnog
+  kolovoza
+*** Ne meri se na profilisanim oznakama
+PROPISANE VREDNOSTI PARAMETARA ZA PRIVREMENE OZNAKE
+  NA PUTU U ZAVISNOSTI OD RANGA PUTA
+Vrsta saobraćajnice
+R
+L
+Žuta
+R
+W
+(ako se primenjuju oznake **)
+Q
+d
+Žuta
+S***
+(SRT jedinice)
+Državni put I
+    reda
+*Nove oznake
+≥300
+≥75
+≥130
+≥50
+Najmanja dozvoljena vrednost
+    tokom upotrebe
+≥150
+≥35
+≥100
+≥45
+Državni put II
+    reda i opštinski putevi
+*Nove oznake
+≥300
+≥50
+≥100
+≥50
+Najmanja dozvoljena vrednost
+    tokom upotrebe
+≥150
+≥35
+≥100
+≥45
+Primarne saobraćajnice
+    u naseljenom mestu
+*Nove oznake
+≥300
+≥75
+≥100
+≥50
+Najmanja dozvoljena vrednost
+    tokom upotrebe
+≥150
+≥35
+≥100
+≥45
+Sekundarne saobraćajnice
+    u naseljenom mestu
+*Nove oznake
+≥150
+-
+≥100
+≥50
+Najmanja dozvoljena vrednost
+    tokom upotrebe
+-
+-
+≥100
+≥45
+R
+L
+-
+        koeficijent retrorefleksije (mcd x m-2 x lux-1);
+R
+W
+- koeficijent retrorefleksije
+        u vlažnim uslovima (mcd x m-2 x lux-1);
+Q
+d
+- koeficijent osvetljenosti
+        pri difuznom osvetljenju (mcd x m-2 x lux-1);
+S - vrednost otpora na klizanje (SRT)
+* Pod novom oznakom na putu se smatra oznaka do 30 dana od
+  dana izvođenja
+** Oznake Tip 2 su oznake koje obezbeđuju retrorefleksiju u uslovima vlažnog
+  kolovoza
+*** Ne meri se na profilisanim oznakama
+Prilog 6.
+ANALITIČKI POSTUPAK PRORAČUNA DUŽINA RAZDELNIH LINIJA
+  ZA BEZBEDNO PRETICANJE U FUNKCIJI BRZINA
+E
+- dužina linije upozorenja (m)
+(Početak linije E je poslednja tačka od koje je moguće
+  započeti preticanje da bi se bezbedno završilo na kraju linije E)
+E'
+- Dužina neisprekidane linije (m)
+I
+- položaj pre preticanja
+II
+- položaj posle preticanja
+V1
+- brzina pretičućeg vozila (km/h)
+V2
+- brzina preticanog vozila (km/h)
+V3
+- brzina dolazećeg vozila (km/h)
+d
+- razmak između preticanog i pretičućeg vozila (m)
+d1
+- razmak između preticanog i pretičućeg vozila pre preticanja (m)
+d2
+- razmak između preticanog i pretičućeg vozila posle preticanja
+    (m)
+Lp
+- Potrebna dužina preglednosti za bezbedno preticanje
+  (m)
+Lv
+- dužina vozila (m)
+Lv1
+- dužina pretičućeg vozila (m)
+Lv2
+- dužina preticanog vozila (m)
+V1-V2=20 (km/h)
+V1/V2
+E
+(m)
+E' (m)
+V3 (km/h)
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+100/80
+246
+246
+234
+221
+209
+197
+185
+172
+160
+148
+135
+123
+95/75
+224
+236
+224
+212
+201
+189
+177
+165
+153
+142
+130
+118
+90/70
+203
+226
+215
+203
+192
+181
+170
+158
+147
+136
+124
+113
+85/65
+184
+216
+205
+194
+184
+173
+162
+151
+140
+130
+119
+108
+80/60
+165
+206
+196
+185
+175
+165
+155
+144
+134
+124
+113
+103
+75/55
+147
+196
+186
+176
+167
+157
+147
+137
+127
+118
+108
+98
+70/50
+130
+186
+177
+167
+158
+149
+140
+130
+121
+112
+102
+93
+65/45
+114
+176
+167
+158
+150
+141
+132
+123
+114
+106
+97
+88
+60/40
+100
+166
+158
+149
+141
+133
+125
+116
+108
+100
+91
+83
+55/35
+86
+156
+148
+140
+133
+125
+117
+109
+101
+94
+86
+78
+50/30
+73
+146
+139
+131
+124
+117
+110
+102
+95
+88
+80
+73
+45/25
+61
+136
+129
+122
+116
+109
+102
+95
+88
+82
+75
+68
+40/20
+50
+126
+120
+113
+107
+101
+95
+88
+82
+76
+69
+63
+E
+=
+2
+×
+d
+×
+V
+1
+V
+1
+V
+2
+L
+v
+=
+    4.3 (m)
+E' =
+2
+×
+d
+×
+V
+3
+V
+1
+-
+        V
+2
+L
+p
+= E + E' =
+2
+×
+d
+(V
+1
++
+        V
+3
+)
+V
+-
+-
+    V
+2
+L
+v
+= L
+v1
+=
+  L
+v2
+d = d
+1
+= d
+2
+d = 0.2
+×
+V
+2
++
+  2
+×
+L
+v
+Prilog 7.
+ŠEMATSKI PRIKAZ ODREĐIVANJA PRETICAJNE PREGLEDNOSTI
+  KOD HORIZONTALNIH KRIVINA
+Način obeležavanja A
+Način obeležavanja B
+(koristi se kada je berma pregledna)
+Način obeležavanja C
+ŠEMATSKI PRIKAZ ODREĐIVANJA PRETICAJNE PREGLEDNOSTI
+  KOD VERTIKALNIH KRIVINA
+Način obeležavanja A
+Način obeležavanja B
+Način obeležavanja C

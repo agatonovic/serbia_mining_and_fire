@@ -1,0 +1,337 @@
+Title: PRAVILNIKO REGISTRU PRUŽALACA USLUGA ELEKTRONSKE IDENTIFIKACIJE I ŠEMA
+ELEKTRONSKE IDENTIFIKACIJE
+URL: https://www.paragraf.rs/propisi/pravilnik-registar-pruzalaca-usluga-elektronske-identifikacije-i-sema.html
+Extracted: 2025-07-06T23:13:27.923469
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O REGISTRU PRUŽALACA USLUGA ELEKTRONSKE IDENTIFIKACIJE I ŠEMA
+ELEKTRONSKE IDENTIFIKACIJE
+("Sl. glasnik RS", br. 67/2018)
+Predmet Pravilnika
+Član 1
+Ovim pravilnikom propisuje se sadržaj i način vođenja Registra pružalaca
+usluga elektronske identifikacije i šema elektronske identifikacije, način podnošenja zahteva
+za upis u Registar, potrebna dokumentacija uz zahtev, obrazac zahteva i način objavljivanja
+podataka iz Registra.
+Registar pružalaca usluga elektronske identifikacije i šema elektronske
+identifikacije (u daljem tekstu: Registar) vodi ministarstvo nadležno za poslove informacionog
+društva (u daljem tekstu: Ministarstvo).
+Sadržaj Registra
+Član 2
+Registar sadrži sledeće podatke:
+1) redni broj upisa u Registar;
+2) poslovno ime pružaoca usluge elektronske identifikacije i šema elektronske
+identifikacije (u daljem tekstu: pružalac usluga);
+3) broj rešenja o upisu u Registar;
+4) datum upisa u Registar;
+5) matični broj;
+6) poresko-identifikacioni broj (PIB);
+7) sedište (ulica i broj, mesto, poštanski broj i država);
+8) adresu internet strane pružaoca usluge;
+9) broj telefona pružaoca usluge;
+10) podaci o upisu pružaoca usluga u registar privrednih subjekata ili
+drugi odgovarajući registar koji se vodi u skladu sa zakonom i to:
+(1) naziv registra,
+(2) broj rešenja o upisu u registar,
+(3) datum upisa,
+(4) oblik organizovanja,
+(5) šifra delatnosti,
+(6) opis delatnosti;
+11) podaci o odgovornom licu koje zastupa pružaoca usluga i obimu njegovih
+ovlašćenja i to:
+(1) ime, prezime,
+(2) naziv funkcije,
+(3) obim ovlašćenja,
+(4) službeni broj telefona,
+(5) službena elektronska adresa;
+12) podaci o službi pružaoca usluga za odnose sa strankama i to:
+(1) naziv službe,
+(2) adresa,
+(3) telefon,
+(4) elektronska adresa;
+13) podaci o vrsti i nivou šema elektronske identifikacije koju pružalac
+usluga obavlja;
+14) podaci u upisu promena u Registar i to:
+(1) broj rešenja o upisu promena u Registar,
+(2) datum upisa promena u Registar.
+15) podaci o brisanju iz Registra i to:
+(1) broj rešenja o brisanju iz Registara,
+(2) datum brisanja iz Registara.
+U Registar se upisuju sve promene podataka iz stava 1. ovog člana.
+Način vođenja Registra i način objavljivanja podataka iz
+Registra
+Član 3
+Registar se vodi u papirnom i elektronskom obliku.
+Registar u elektronskom obliku javno je dostupan na internet strani Ministarstva.
+Registar u elektronskom obliku potpisuje se naprednim elektronskim pečatom
+Ministarstva.
+Način podnošenja zahteva za upis u Registar
+Član 4
+Zahtev za upis u Registar (u daljem tekstu: zahtev) se podnosi Ministarstvu,
+elektronskim putem, na Obrascu 1, koji je odštampan uz ovaj pravilnik i čini njegov sastavni
+deo i koji se objavljuje na internet strani Ministarstva.
+Zahtev iz stava 1. ovog člana i dokumentacija koja se prilaže uz zahtev
+dostavljaju se u formi elektronskog dokumenta u originalu ili u formi overenog digitalizovanog
+akta, u skladu sa Zakonom o elektronskom dokumentu, elektronskoj identifikaciji i uslugama
+od poverenja u elektronskom poslovanju (u daljem tekstu: Zakon), na elektronsku adresu Ministarstva.
+Zahtev se može podneti i pisanim putem, neposredno ili poštom, na Obrascu
+1, a dokumentacija koja se prilaže uz zahtev podnosi se u originalu ili se prilaže kopija
+overena od strane nadležnog organa.
+Potrebna dokumentacija uz zahtev
+Član 5
+Podnosilac uz zahtev prilaže:
+1) izvod ili rešenje nadležnog organa o upisu u registar iz člana 2. stav
+1. tačka 10) ovog pravilnika, pod uslovom da se podatak o registraciji ne vodi u okviru službene
+evidencije;
+2) opšte uslove za pružanje usluge;
+3) politiku pružanja usluge;
+4) praktična pravila za pružanje usluga;
+5) politiku zaštite privatnosti;
+6) dokument o organizacionoj strukturi podnosioca zahteva;
+7) dokaz, odnosno izjavu o ispunjenosti uslova iz člana 13. stav 2. tač.
+6)-12) Uredbe o bližem uređenju uslova koje moraju da ispune šeme elektronske identifikacije
+za određene nivoe pouzdanosti ("Službeni glasnik RSˮ, broj 60/18);
+8) potvrdu o uplaćenoj administrativnoj taksi, u skladu sa Zakonom o administrativnim
+taksama ("Službeni glasnik RSˮ, br. 43/03, 51/03 - ispravka, 53/04, 42/05, 61/05, 101/05
+- dr. zakon, 42/06, 47/07, 54/08, 5/09, 54/09, 35/10, 50/11, 70/11, 55/12, 93/12, 47/13,
+65/13 - dr. zakon, 57/14, 45/15, 83/15, 112/15, 50/16, 61/17, 113/17, 3/18 - ispravka i 50/18).
+Izjava o ispunjenosti uslova iz stava 1. tačke 7. ovog člana popunjava
+se na Obrascu 3, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo i koji se
+objavljuje na internet strani Ministarstva.
+Promena podataka upisanih u Registar
+Član 6
+Zahtev za promenu podataka upisanih u Registar podnosi se, u roku od osam
+dana od dana nastanka promene, na Obrascu 2, koji je odštampan uz ovaj pravilnik i čini njegov
+sastavni deo i koji se objavljuje na internet strani Ministarstva, na način iz člana 4. ovog
+pravilnika.
+Datum upisa u Registar
+Član 7
+Upis pružaoca usluga u Registar Ministarstvo vrši na dan donošenja rešenja
+o upisu u Registar.
+Završna odredba
+Član 8
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije".
+Obrazac 1
+Ministarstvo trgovine, turizma i telekomunikacija
+Nemanjina 22-26
+11 000 Beograd
+ZAHTEV
+ZA UPIS U REGISTAR PRUŽALACA USLUGE ELEKTRONSKE IDENTIFIKACIJE I ŠEMA ELEKTRONSKE IDENTIFIKACIJE
+Podaci
+o podnosiocu zahteva
+Naziv podnosioca zahteva
+Matični broj
+Poresko-identifikacioni broj (PIB)
+Sedište
+Ulica i broj
+Mesto
+Poštanski broj
+Država
+Adresa Internet strane
+Broj telefona
+Podaci
+o upisu podnosioca zahteva u registar privrednih subjekata ili drugi odgovarajući registar
+koji se vodi u skladu sa zakonom
+Naziv registra
+Broj rešenja o upisu u registar
+Datum upisa
+Oblik organizovanja
+Šifra delatnosti
+Opis delatnosti
+Odgovorna
+lica podnosioca zahteva
+Ime i prezime
+Naziv funkcije
+Obim ovlašćenja
+Broj telefona
+Službena elektronska adresa odgovornog lica
+(e-mail)
+Ime i prezime
+Naziv funkcije
+Obim ovlašćenja
+Broj telefona
+Službena elektronska adresa odgovornog lica
+(e-mail)
+Služba
+podnosioca zahteva za odnose sa strankama
+Naziv
+Adresa
+Broj telefona
+Elektronska adresa (e-mail)
+Šeme
+elektronske identifikacije
+Vrsta šeme elektronske identifikacije
+Nivo šeme elektronske identifikacije
+Osnovni
+☐
+Srednji
+☐
+Visoki
+☐
+Osnovni
+☐
+Srednji
+☐
+Visoki
+☐
+Osnovni
+☐
+Srednji
+☐
+Visoki
+☐
+Dokumentacija
+uz zahtev
+1) izvod ili rešenje nadležnog
+organa o upisu u registar, pod uslovom da se podatak o registraciji ne vodi u okviru službene
+evidencije
+☐
+2) Opšti uslovi za pružanje usluge
+☐
+3) Politika pružanja usluge
+☐
+4) Praktična pravila za pružanje
+usluga
+☐
+5) Politika zaštite privatnosti
+☐
+6) dokument o organizacionoj strukturi
+podnosioca zahteva
+☐
+7) dokaz, odnosno izjava o ispunjenosti
+uslova iz člana 13. stav 2. tač. 6)-12) Uredbe o bližem uređenju uslova koje moraju da ispune
+šeme elektronske identifikacije za određene nivoe pouzdanosti
+☐
+8) potvrda o uplaćenoj administrativnoj
+taksi, u skladu sa zakonom o administrativnim taksama
+☐
+9) ostalo
+_____________________________________________________________________________
+☐
+Podnosilac zahteva
+U Beogradu, datum: _____________
+_______________________
+Obrazac 2
+Ministarstvo trgovine, turizma i telekomunikacija
+Nemanjina 22-26
+11 000 Beograd
+ZAHTEV
+ZA PROMENU PODATAKA O UPISU U REGISTAR PRUŽALACA USLUGA ELEKTRONSKE IDENTIFIKACIJE I ŠEMA
+ELEKTRONSKE IDENTIFIKACIJE
+Podaci
+o pružaocu usluge elektronske identifikacije i šema elektronske identifikacije
+Podaci
+Novi
+podaci
+Naziv pružaoca usluge elektronske identifikacije i šema
+elektronske identifikacije
+Matični broj
+Poresko-identifikacioni broj (PIB)
+Sedište:
+Adresa Internet strane
+Broj telefona
+Podaci
+o upisu pružaoca usluge elektronske identifikacije i šema elektronske identifikacije u registar
+privrednih društava ili drugi odgovarajući registar koji se vodi u skladu sa zakonom
+Podaci
+Novi
+podaci
+Naziv registra
+Broj rešenja o upisu u registar
+Datum upisa
+Oblik organizovanja
+Šifra delatnosti
+Opis delatnosti
+Odgovorna
+lica koja zastupaju pružaoca usluge elektronske identifikacije i šema elektronske identifikacije
+Podaci
+Podaci u registru
+Novi podaci
+Ime i prezime
+Naziv funkcije
+Obim ovlašćenja
+Broj telefona
+Službena elektronska adresa odgovornog lica
+(e-mail)
+Ime i prezime
+Naziv funkcije
+Obim ovlašćenja
+Broj telefona
+Službena elektronska adresa odgovornog lica
+(e-mail)
+Služba
+pružaoca usluge elektronske identifikacije i šema elektronske identifikacije za odnose sa
+strankama
+Naziv
+Adresa
+Broj telefona
+Elektronska adresa
+Šeme
+elektronske identifikacije
+Vrsta šeme elektronske identifikacije
+Nivo šeme elektronske identifikacije
+Osnovni
+☐
+Srednji
+☐
+Visoki
+☐
+Osnovni
+☐
+Srednji
+☐
+Visoki
+☐
+Osnovni
+☐
+Srednji
+☐
+Visoki
+☐
+Podnosilac zahteva
+U Beogradu, datum: _____________
+_______________________
+Obrazac 3
+Ministarstvo trgovine, turizma i telekomunikacija
+Nemanjina 22-26
+11 000 Beograd
+IZJAVA
+O ISPUNJENOSTI USLOVA IZ ČLANA 13. STAV 2. TAČ. 6)-12) UREDBE O BLIŽEM UREĐENJU USLOVA KOJE MORAJU DA ISPUNE ŠEME ELEKTRONSKE IDENTIFIKACIJE ZA ODREĐENE NIVOE POUZDANOSTI ("SL. GLASNIK RS", BR. 60/2018)
+Pod punom krivičnom i materijalnom
+odgovornošću izjavljujem da
+_________________________________
+ispunjava sledeće uslove:
+(Naziv podnosioca zahteva)
+1) vodi evidenciju i čuva informacije o značajnim događajima vezanim za
+operativni rad pružaoca i bezbednosne pretpostavke registrovane šeme elektronske identifikacije;
+2) vodi evidenciju o korišćenju sredstava elektronske identifikacije i
+čuva podatke iz evidencije ukoliko je to neophodno za potrebe revizije, istrage u slučaju
+kršenja bezbednosti informacija i za potrebe zadržavanja podataka, u skladu sa zakonom;
+3) obezbeđuje izvor tačnog vremena koji je sinhronizovan sa izvorom referentnog
+vremena koji odredi ministarstvo nadležno za poslove informacionog društva i pouzdano ugrađuje
+informaciju o tačnom vremenu u evidenciju podataka o izdavanju sredstava elektronske identifikacije,
+evidenciju o značajnim događajima vezanim za operativni rad pružaoca i bezbednosne pretpostavke
+registrovane šeme elektronske identifikacije i u evidenciju o korišćenju sredstava elektronske
+identifikacije;
+4) obezbeđuje da su njegovi zaposleni i podizvođači obučeni i kvalifikovani
+za poslove koji se odnose na uslugu elektronske identifikacije;
+5) obezbeđuje adekvatan broj zaposlenih i podizvođača za primereno obavljanje
+usluge;
+6) obezbeđuje neposredan nadzor i zaštitu objekata koji se upotrebljavaju
+za pružanje usluga, od štete uzrokovane vremenskim uslovima, neovlašćenim pristupom i drugim
+uzrocima koji mogu uticati na bezbednost usluge;
+7) obezbeđuje da u objektima koji se koriste za pružanje usluge pristup
+područjima u kojima se nalaze ili se obrađuju lični, kriptografski ili drugi poverljivi podaci
+mogu imati samo ovlašćena zaposlena lica ili podizvođači;
+U __________, dana ____________. godine
+Potpis odgovornog lica
+_________________________

@@ -1,0 +1,49 @@
+Title: PRAVILNIKO OBRASCU I NAČINU VOĐENJA EVIDENCIJE LICA ZA ZAŠTITU PODATAKA
+O LIČNOSTI
+URL: https://www.paragraf.rs/propisi/pravilnik-o-vodjenju-evidencije-lica-za-zastitu-podataka-o-licnosti.html
+Extracted: 2025-07-06T23:11:54.454329
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O OBRASCU I NAČINU VOĐENJA EVIDENCIJE LICA ZA ZAŠTITU PODATAKA
+O LIČNOSTI
+("Sl. glasnik RS", br. 40/2019)
+Član 1
+Ovim pravilnikom utvrđuje se obrazac i način vođenja evidencije lica za
+zaštitu podataka o ličnosti.
+Član 2
+Evidenciju lica za zaštitu podataka o ličnosti (u daljem tekstu: evidencija)
+vodi Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti (u daljem tekstu:
+Poverenik).
+Evidencija sadrži podatke o rukovaocu, odnosno obrađivaču (ime, prezime
+i adresu, odnosno naziv i sedište) i podatke o licu za zaštitu podataka o ličnosti (ime,
+prezime, adresu, imejl i broj telefona).
+Član 3
+Evidencija je jedinstvena i vodi se u elektronskom obliku na obrascu koji
+je odštampan u prilogu ovog pravilnika i čini njegov sastavni deo.
+Član 4
+Podatke iz člana 2. stav 2. ovog pravilnika Povereniku dostavlja rukovalac,
+odnosno obrađivač u pisanom obliku, neposredno, putem pošte ili na imejl adresu: licezazastitu@poverenik.rs.
+Član 5
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije", a primenjuje se od dana primene Zakona o zaštiti podataka
+o ličnosti ("Službeni glasnik RS", broj 87/18).
+Obrazac
+EVIDENCIJA LICA ZA ZAŠTITU PODATAKA
+Redni broj
+Ime i prezime/naziv
+rukovaoca odnosno obrađivača
+Adresa/sedište rukovaoca
+odnosno obrađivača
+Ime i prezime lica
+za zaštitu podataka
+Adresa lica za zaštitu podataka
+Imejl lica za zaštitu podataka
+Broj telefona lica za zaštitu podataka

@@ -1,0 +1,2208 @@
+Title: PRAVILNIKO OTVORENIM INVESTICIONIM FONDOVIMA SA JAVNOM PONUDOM
+URL: https://www.paragraf.rs/propisi/pravilnik-o-otvorenim-investicionim-fondovima-sa-javnom-ponudom.html
+Extracted: 2025-07-06T23:12:19.555204
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O OTVORENIM INVESTICIONIM FONDOVIMA SA JAVNOM PONUDOM
+("Sl. glasnik RS", br. 61/2020,  63/2020 - ispr. i 63/2024)
+I UVODNE ODREDBE
+Član 1
+Ovim pravilnikom uređuju se:
+1) sadržina zahteva, postupak i uslovi za izdavanje dozvole za organizovanje
+i upravljanje otvorenim investicionim fondovima sa javnom ponudom (u daljem tekstu: UCITS
+fond);
+2) sadržina i način vođenja Registra UCITS fondova;
+3) vrste UCITS fondova, svrstavanje po vrsti UCITS fonda, kao i mogućnost
+promene vrste fonda;
+4) bliža sadržina i standardizovani format prospekta UCITS fonda (u daljem
+tekstu: prospekt) i ključnih informacija za investitore (u daljem tekstu: ključne informacije),
+kao i sadržinu pravila UCITS fonda;
+5) značajne promene usled kojih podaci u prospektu i ključnim informacijama
+ne odgovaraju stvarnom stanju i uslovi za promenu prospekta i ključnih informacija;
+6) kupovina i otkup investicionih jedinica UCITS fonda (u daljem tekstu:
+investiciona jedinica);
+7) marketing UCITS fonda i standardizovani tekst prilikom oglašavanja;
+8) dozvoljena ulaganja UCITS fonda, tržišta koja se smatraju regulisanim,
+institucije koje se smatraju drugom ugovornom stranom u transakcijama sa OTC izvedenim instrumentima;
+9) ograničenja ulaganja imovine UCITS fonda;
+10) način utvrđivanja vrednosti imovine UCITS fonda i cene investicione
+jedinice;
+11) način obračunavanja prinosa UCITS fonda, uključujući i načela zaokruživanja
+vrednosti;
+12) način usaglašavanja razlika obračunatih neto vrednosti imovine i prinosa
+UCITS fonda od strane društva za upravljanje otvorenim investicionim fondom sa javnom ponudom
+(u daljem tekstu: društvo za upravljanje);
+13) uslovi i postupak za obustavu izdavanja i otkupa investicionih jedinica;
+14) način spajanja i pripajanja UCITS fondova;
+15) postupak raspuštanja UCITS fonda;
+16) glavni i prateći UCITS fond.
+Izrazi upotrebljeni u ovom aktu u gramatičkom muškom rodu podrazumevaju prirodni muški i ženski rod lica na koje se odnose.
+Član 2
+UCITS fond je otvoreni investicioni fond koji ima za isključivi cilj kolektivno
+ulaganje imovine, prikupljene javnom ponudom investicionih jedinica u fondu, u prenosive
+hartije od vrednosti ili u drugu likvidnu finansijsku imovinu u skladu sa zakonom kojim se
+regulišu otvoreni investicioni fondovi sa javnom ponudom (u daljem tekstu: Zakon), koji posluje
+u skladu sa načelom diversifikacije rizika ulaganja, a čije se investicione jedinice, na
+zahtev imalaca jedinica, otkupljuju, posredno ili neposredno, iz imovine otvorenog investicionog
+fonda.
+Član 3
+Zahtevi koji se podnose Komisiji za hartije od vrednosti (u daljem tekstu:
+Komisija) u skladu sa ovim pravilnikom, podnose se na odgovarajućim obrascima koji su dostupni
+na internet stranici Komisije.
+Uz zahtev se prilažu dokumenti u originalu, overenom prepisu ili overenoj
+fotokopiji, ako drugačije nije propisano, a uz dokumente na stranom jeziku prilaže se i prevod
+ovlašćenog sudskog tumača, kao i dokaz o uplati propisane naknade Komisiji.
+Kada se Komisiji dostavlja izvod iz nadležnog stranog registra, on mora
+da sadrži poslovno ime, adresu sedišta, broj pod kojim se to pravno lice vodi u matičnom
+registru i naziv države u kojoj je to lice registrovano.
+Strane javne isprave moraju da sadrže apostil, kada je strana javna isprava
+izdata u stranoj državi koja je ratifikovala Hašku konvenciju o ukidanju potrebe legalizacije
+stranih javnih isprava, osim ukoliko između strane države i Republike Srbije (u daljem tekstu:
+Republika) postoji uzajamnost od oslobođenja od legalizacije stranih javnih isprava.
+U slučaju da konkretna strana država nije ratifikovala Hašku konvenciju
+o ukidanju potrebe legalizacije stranih javnih isprava ili nema uzajamnosti od oslobođenja
+od legalizacije stranih javnih isprava strane javne isprave se legalizuju u skladu sa zakonom
+koji uređuje legalizaciju isprava u međunarodnom prometu.
+II IZDAVANJE DOZVOLE ZA ORGANIZOVANJE I UPRAVLJANJE UCITS
+FONDOM
+Zahtev za izdavanje dozvole za organizovanje i upravljanje
+UCITS fondom
+Član 4
+Zahtev za izdavanje dozvole za organizovanje i upravljanje UCITS fondom
+Komisiji podnosi društvo za upravljanje koje će njim upravljati.
+Zahtev iz stava 1. ovog člana podnosi se na obrascu "
+UCITS fond
+Organizovanje
+" i pored dokumentacije i podataka navedenih u članu 38. stav 2. Zakona
+sadrži:
+1. dokaz o kapitalu društva za upravljanje u skladu sa članom 8. Zakona;
+2. rešenje o upisu društva za upravljanje u registar privrednih subjekata
+i upisu svih promena;
+3. naziv i sedište depozitara;
+4. nacrt javnog poziva za upis i uplatu investicionih jedinica, odnosno
+početne ponude investicionih jedinica na obrascu "
+UCITS fond - Javni poziv
+";
+5. dokaz o uplaćenoj naknadi Komisije;
+6. drugu dokumentaciju na zahtev Komisije.
+Dozvola za organizovanje i upravljanje UCITS fondom
+Član 5
+Komisija donosi rešenje o izdavanju dozvole za organizovanje i upravljanje
+UCITS fondom (u daljem tekstu: dozvola za organizovanje) u roku od 30 dana od dana prijema
+uredne dokumentacije propisane Zakonom i ovim pravilnikom.
+Rešenjem iz stava 1. ovog člana Komisija istovremeno odobrava pravila UCITS
+fonda, prospekt, ključne informacije i daje saglasnost nacrt javnog poziva za upis i uplatu
+investicionih jedinica.
+Komisija donosi rešenje sa pisanim obrazloženjem kojim odbija zahtev za
+davanje dozvole za organizovanje, ako utvrdi da nisu ispunjeni uslovi propisani Zakonom i
+ovim pravilnikom.
+III REGISTAR UCITS FONDOVA
+Član 6
+Komisija vodi elektronski Registar UCITS fondova kojima upravljaju društva
+za upravljanje kojima je izdala dozvolu za rad.
+Upis i promena podataka u registru iz stava 1. ovog člana vrši se na osnovu
+dostavljenih podataka i obaveštenja društava za upravljanje, kao i po službenoj dužnosti.
+U registar iz stava 1. ovog člana upisuju se sledeći podaci o UCITS fondu:
+1) naziv UCITS fonda;
+2) naziv društva za upravljanje koje njim upravlja;
+3) datum izdavanja dozvole za organizovanje;
+4) podaci o depozitaru UCITS fonda (naziv, sedište, matični broj);
+5) revizor UCITS fonda (naziv, sedište, matični broj, telefon, e-mail);
+6) država u kojoj je UCITS fond organizovan, ukoliko je organizovan izvan
+Republike;
+7) ukoliko je UCITS fond u postupku raspuštanja, podaci o licu koje sprovodi
+postupak raspuštanja UCITS fonda (ime i prezime, datum stupanja na dužnost, telefon, e-mail);
+8) podaci o statusnim promenama UCITS fonda;
+9) datum oduzimanja dozvole za upravljanje UCITS fondom;
+10) datum prestanka poslovanja UCITS fonda i brisanja UCITS fonda iz Registra.
+Podaci iz stava 3. tač. 1), 2) i 10) ovog člana javno se objavljuju na internet stranici Komisije.
+Komisija u registar iz stava 1. ovog člana po službenoj dužnosti upisuje podatke o licu iz stava 3. tačka 7) ovog člana ukoliko ga imenuje i podatke iz stava 3. tač. 9) i 10) ovog člana.
+Društvo za upravljanje u roku od 30 dana od dana izdavanja dozvole za organizovanje
+dostavlja Komisiji podatke iz ovog člana koje Komisija ne upisuje po službenoj dužnosti na
+obrascu "
+Registar UCITS fondova - Podaci
+", koji potpisuju lica ovlašćena
+za zastupanje društva za upravljanje.
+Ukoliko društvo za upravljanje upravlja sa više UCITS fondova, u registar
+iz stava 1. ovog člana se upisuju i objavljuju svi UCITS fondovi kojima upravlja to društvo.
+Promena podataka
+Član 7
+Podaci koji se upisuju u registar iz člana 6. stav 1. ovog pravilnika moraju
+biti tačni i ažurirani.
+Ukoliko dođe do promene podataka iz člana 6. stav 3. ovog pravilnika, koje
+Komisija ne upisuje po službenoj dužnosti, društvo za upravljanje o tome bez odlaganja obaveštava
+Komisiju i dostavlja joj dokumentaciju koja dokazuje navedenu promenu.
+Društvo za upravljanje bez odlaganja obaveštava Komisiju o uočenom netačnom
+podatku koji je objavljen u registru iz člana 6. stav 1. ovog pravilnika i dostavlja tačan
+podatak za upis u registar sa dokumentacijom koja dokazuje navedenu promenu.
+IV VRSTE UCITS FONDOVA
+Član 8
+U skladu sa odabranim investicionim ciljem, odnosno investicionom politikom,
+UCITS fondovi se dele na:
+1) UCITS fond rasta vrednosti imovine;
+2) Prihodni UCITS fond;
+3) UCITS fond očuvanja vrednosti imovine;
+4) Balansirani UCITS fond;
+5) UCITS fond opšte prirode.
+UCITS fond opšte prirode iz stava 1. tačka 5) ovog člana može ulagati imovinu
+u skladu sa ograničenjima propisanim Zakonom i ovim pravilnikom.
+UCITS fond rasta vrednosti imovine
+Član 9
+UCITS fond rasta vrednosti imovine ulaže najmanje 75% imovine u vlasničke
+hartije od vrednosti:
+1) koje su listirane ili se njima trguje na regulisanom tržištu iz člana
+43. ovog pravilnika, odnosno multilateralnoj trgovačkoj platformi (u daljem tekstu: MTP)
+u Republici i/ili državi članici Evropske unije (u daljem tekstu: država članica);
+2) koji su listirani na službenom listingu berze u trećoj državi koja nije
+država članica (u daljem tekstu: treća država) ili kojima se trguje na drugom regulisanom
+tržištu u trećoj državi koje redovno posluje, priznato je i otvoreno za javnost, pod uslovom
+da je takvo ulaganje predviđeno prospektom UCITS fonda; i
+3) investicione jedinice i akcije UCITS fondova ili drugih investicionih
+fondova koji ispunjavaju uslove iz člana 45. stav 1. tačka 3) ovog pravilnika, kojima se
+trguje na regulisanom tržištu i koji svoju imovinu pretežno ulažu u vlasničke hartije od
+vrednosti iz tač. 1) i 2) ovog stava.
+U uslovima poremećaja na finansijskom tržištu, najmanje 60% imovine UCITS
+fonda rasta vrednosti imovine mora biti uloženo u finansijske instrumente iz stava 1. ovog
+člana.
+Prihodni UCITS fond
+Član 10
+Prihodni UCITS fond ulaže najmanje 75% imovine u:
+1) instrumente tržišta novca kojima se ne trguje na regulisanim tržištima
+iz člana 43. ovog pravilnika, a čije je izdavanje ili izdavalac regulisan u smislu zaštite
+investitora i štednih uloga, na način da:
+(1) izdala ih je ili za njih garantuje Republika, Narodna banka
+Srbije, autonomna pokrajina, jedinica lokalne samouprave Republike, država članica ili jedinica
+lokalne i regionalne samouprave ili centralna banka druge države članice, Evropska centralna
+banka, Evropska unija ili Evropska investiciona banka, treća država ili, u slučaju federalne
+države, jedna od članica koje čine federaciju, ili javno međunarodno telo kojem pripadaju
+jedna ili više država članica, u skladu sa propisima,
+(2) izdalo ih je društvo čijim se hartijama od vrednosti trguje
+na regulisanim tržištima iz člana 43. ovog pravilnika, ili
+(3) izdao ih je ili za njih garantuje subjekt koji podleže prudencijalnom
+nadzoru ili subjekt koji podleže pravilima nadzora koja su barem jednako stroga kao ona propisana
+Zakonom;
+2) dužničke hartije od vrednosti:
+(1) koje su listirane ili se njima trguje na regulisanom tržištu
+iz člana 43. ovog pravilnika, odnosno MTP u Republici i/ili državi članici, i
+(2) koji su listirani na službenom listingu berze u trećoj državi
+ili kojima se trguje na drugom regulisanom tržištu u trećoj državi koje redovno posluje,
+priznato je i otvoreno za javnost, pod uslovom da je takvo ulaganje predviđeno prospektom
+UCITS fonda;
+3) investicione jedinice i akcije UCITS fondova ili drugih investicionih
+fondova koji ispunjavaju uslove iz člana 45. stav 1. tačka 3) ovog pravilnika, kojima se
+trguje na regulisanom tržištu i koji svoju imovinu pretežno ulažu u instrumente tržišta novca
+i dužničke hartije od vrednosti iz tač. 1) i 2) ovog stava.
+U uslovima poremećaja na finansijskom tržištu, najmanje 60% imovine prihodnog
+UCITS fonda mora biti uloženo u finansijske instrumente iz stava 1. ovog člana.
+UCITS fond očuvanja vrednosti imovine
+Član 11
+UCITS fond očuvanja vrednosti imovine ulaže najmanje 75% imovine u:
+1) instrumente tržišta novca kojima se ne trguje na regulisanim tržištima
+iz člana 43. ovog pravilnika, a čije je izdavanje ili izdavalac regulisan u smislu zaštite
+investitora i štednih uloga, na način da:
+(1) izdala ih je ili za njih garantuje Republika, Narodna banka
+Srbije, autonomna pokrajina, jedinica lokalne samouprave Republike, država članica ili jedinica
+lokalne i regionalne samouprave ili centralna banka druge države članice, Evropska centralna
+banka, Evropska unija ili Evropska investiciona banka, treća država ili, u slučaju federalne
+države, jedna od članica koje čine federaciju, ili javno međunarodno telo kojem pripadaju
+jedna ili više država članica, u skladu sa propisima,
+(2) izdalo ih je društvo čijim se hartijama od vrednosti trguje
+na regulisanim tržištima iz člana 43. ovog pravilnika, ili
+(3) izdao ih je ili za njih garantuje subjekt koji podleže prudencijalnom
+nadzoru ili subjekt koji podleže pravilima nadzora koja su barem jednako stroga kao ona propisana
+Zakonom;
+2) depozite kod kreditnih institucija koji su raspoloživi na prvi zahtev
+i koji dospevaju za najviše 12 meseci, pod uslovom da kreditna institucija ima registrovano
+sedište u Republici ili državi članici ili, ako kreditna institucija ima registrovano sedište
+u trećoj državi, pod uslovom da podleže nadzoru za koji Komisija smatra da je jednak onome
+propisanom Zakonom;
+3) investicione jedinice i akcije UCITS fondova ili drugih investicionih
+fondova koji ispunjavaju uslove iz člana 45. stav 1. tačka 3) ovog pravilnika, kojima se
+trguje na regulisanom tržištu i koji svoju imovinu pretežno ulažu u instrumente tržišta novca
+i depozite iz tač. 1) i 2) ovog stava.
+Balansirani UCITS fond
+Član 12
+Balansirani UCITS fond ulaže najmanje 85% imovine u finansijske instrumente
+u koje mogu ulagati UCITS fond rasta vrednosti imovine i prihodni UCITS fond u skladu sa
+čl. 9. i 10. ovog pravilnika.
+Ulaganja u dužničke hartije od vrednosti iz člana 10. stav 1. tačka 2)
+ovog pravilnika i investicione jedinice i akcije UCITS fondova ili drugih investicionih fondova
+iz člana 10. stav 1. tačka 3) i člana 11. stav 1. tačka 3) ovog pravilnika, kao i u depozite
+iz člana 11. stav 1. tačka 2) ovog pravilnika ne mogu biti manja od 35% niti više od 65%
+vrednosti imovine balansiranog UCITS fonda.
+U uslovima poremećaja na finansijskom tržištu, najmanje 70% imovine balansiranog
+UCITS fonda mora biti uloženo u finansijske instrumente u koje mogu ulagati UCITS fond rasta
+vrednosti imovine i prihodni UCITS fond u skladu sa čl. 9. i 10. ovog pravilnika, s tim da
+ulaganje u dužničke hartije od vrednosti iz člana 10. stav 1. tačka 2) ovog pravilnika i
+investicione jedinice i akcije UCITS fondova ili drugih investicionih fondova iz člana 10.
+stav 1. tačka 3) i člana 11. stav 1. tačka 3) ovog pravilnika, kao i u i depozite iz člana
+11. stav 1. tačka 2) ovog pravilnika ne može biti manje od 35% niti veće od 75% imovine balansiranog
+UCITS fonda.
+V PRAVILA UCITS FONDA, PROSPEKT I KLJUČNE INFORMACIJE
+Član 13
+UCITS fond ima pravila, prospekt i ključne informacije, koje društvo za
+upravljanje sastavlja posebno za svaki UCITS fond kojim upravlja.
+Dokumentacija iz stava 1. ovog člana Komisiji se podnosi na odobrenje uz
+zahtev iz člana 4. ovog pravilnika na propisanim obrascima "
+UCITS fond - Pravila
+", "
+UCITS
+fond - Prospekt
+" i "
+UCITS fond - Ključne informacije
+", kao i prilikom
+njihovih izmena.
+Pravila UCITS fonda
+Član 14
+Pravilima UCITS fonda uređuju se odnosi između društva za upravljanje,
+UCITS fonda, depozitara i članova fonda.
+Pravila UCITS fonda prilažu se prospektu i čine njegov sastavni deo.
+Izuzetno od stava 2. ovog člana, pravila UCITS fonda ne moraju biti priložena
+prospektu u slučaju da prospekt predviđa da će pravila UCITS fonda biti dostavljena članu
+fonda na njegov zahtev, odnosno da predviđa mesto, gde će pravila UCITS fonda biti dostupna
+na uvid.
+Pravila UCITS fonda sadrže podatke navedene u članu 64. stav 2. Zakona,
+a naročito podatke o:
+1) poslovima koje obavlja društvo za upravljanje, uslovima i načinu njihovog
+obavljanja;
+2) poslovima koje je društvo za upravljanje delegiralo na treće lice, uključujući
+i specifikaciju poslova koji mogu biti delegirani na treća lica, kriterijume koji će se koristiti
+prilikom njihovog odabira i kontrolne procedure kojima će društvo za upravljanje vršiti kontinuirani
+nadzor nad delegiranim poslovima;
+3) međusobnim odnosima društva za upravljanje, UCITS fonda, depozitara
+i članova fonda;
+4) načinu i uslovima pod kojima članovi uprave i zaposleni u društvu za
+upravljanje mogu ulagati svoja sredstva u UCITS fond;
+5) administrativnim i računovodstvenim procedurama;
+6) kontrolnim i sigurnosnim merama za obradu podataka i njihovo čuvanje;
+7) sistemu interne kontrole;
+8) procedurama za sprečavanje konflikta interesa i merama kojima se sprečava
+da društvo za upravljanje koristi imovinu UCITS fond za sopstveni račun;
+9) procedurama za sprečavanje zloupotrebe insajderskih informacija i merama
+u slučaju zloupotrebe;
+10) načinu na koji se obezbeđuje da zaposleni i članovi uprave društva
+za upravljanje i sa njima blisko povezana lica postupaju u skladu sa odredbama o načelima
+sigurnog i dobrog poslovanja u smislu zakona kojim se uređuje tržište kapitala, a naročito
+o:
+(1) načinu na koji su dužni da postupaju kada kupuju i prodaju investicione
+jedinice UCITS fonda kojim društvo za upravljanje upravlja,
+(2) načinu na koji su dužni da postupaju kada kupuju i prodaju hartije
+od vrednosti i drugu imovinu u koju se ulaže i imovina UCITS fonda kojom društvo za upravljanje
+upravlja;
+11) drugim pitanjima od značaja za poslovanje društva za upravljanje.
+Podaci iz stava 4. ovog člana moraju biti napisani jasnim, jednostavnim
+i investitorima lako razumljivim jezikom.
+Izmene pravila UCITS fonda
+Član 15
+Uz zahtev za izdavanje saglasnosti na izmene pravila UCITS fonda iz člana
+64. Zakona, društvo za upravljanje je dužno da priloži i odluku uprave o usvajanju izmena
+pravila, u kojoj će se naznačiti u kojim delovima se pravila menjaju i na koji način, uz
+izjavu da u preostalim delovima ostaju ista.
+Prospekt i ključne informacije
+Član 16
+Prospekt je osnovni dokument UCITS fonda koji potencijalnim investitorima
+pruža potpune i jasne informacije za donošenje odluke o ulaganju.
+Ključne informacije predstavljaju kratak dokument koji sadrži informacije
+o najvažnijim karakteristikama UCITS fonda, kao što su vrste ulaganja i mogući rizici, a
+koje su jasno naznačene kao ključne i omogućavaju prosečnom investitoru da razume vrste i
+značaj rizika, uz ocenu posledica sticanja investicionih jedinica.
+Informacije navedene u ključnim informacijama moraju odgovarati po svojoj
+sadržini informacijama navedenim u prospektu.
+Prospekt i ključne informacije se objavljuju na srpskom jeziku, a mogu
+biti objavljeni i na stranom jeziku, nakon što ih odobri Komisija.
+Sadržina prospekta
+Član 17
+Prospekt, pored podataka propisanih članom 61. Zakona, sadrži sledeće podatke:
+1) naziv i vrsta UCITS fonda;
+2) datum organizovanja UCITS fonda i vreme trajanja UCITS, kao i rok na
+koji se organizuje ukoliko se organizuje na određeno vreme, kao i eventualni način promene
+tog roka;
+3) investicioni cilj i investicionu politiku UCITS fonda;
+4) glavne rizike ulaganja;
+5) način ulaganja imovine UCITS fonda koji obuhvata kriterijume za diversifikaciju
+portfolija UCITS fonda uz navođenje procentualno najvećeg i najmanjeg dela sredstava UCITS
+fonda koji će se ulagati u pojedine vrste hartije od vrednosti ili u novčane depozite;
+6) strukturu imovine UCITS fonda na dan 31. decembar prethodne godine,
+odnosno 30. juni tekuće godine;
+7) neto prinos UCITS fonda;
+8) visinu naknada i troškova koji se naplaćuju od članova i iz imovine
+UCITS fonda i način obračuna istih;
+9) način obaveštavanja članova UCITS fonda o promeni opštih akata društva
+za upravljanje;
+10) način obaveštavanja članova UCITS fonda o promeni investicione politike;
+11) vreme, mesto i postupak kupovine i otkupa investicionih jedinica;
+12) valuta UCITS fonda, odnosno informacija o tome da li je UCITS fond
+dinarski ili devizni, te ukoliko je devizni koja valuta je u pitanju, odnosno u kojoj valuti
+će investitori vršiti uplate u UCITS fond, odnosno u kojoj valuti će se investitorima novac
+isplaćivati prilikom otkupa investicionih jedinica;
+13) vrsta poslova i podaci o licima kojima se poveravaju administrativni
+i marketinški poslovi;
+14) okolnosti pod kojima može doći do obustave kupovine i otkupa investicionih
+jedinica tog fonda;
+15) vreme i način raspodele prihoda, odnosno dobiti ukoliko se raspodeljuje;
+16) poreski tretman imovine fonda i članova fonda;
+17) postupak raspuštanja tog fonda u slučaju isteka vremena na koji je
+fond organizovan.
+Prospektom može biti predviđena mogućnost da društvo za upravljanje u određenom
+periodu može preuzeti deo ili celokupan iznos pojedinih troškova UCITS fonda ili da određenim
+kategorijama investitora može ukinuti ili smanjiti naknadu za kupovinu ili otkup investicionih
+jedinica i druge naknade koje naplaćuje od članova tog fonda.
+Prospekt mora biti pregledan, jasan, nedvosmislen i jednostavan za razumevanje.
+Nijedan podatak ili deo prospekta ne sme biti upadljiviji od ostalih, ukoliko
+nije drukčije propisano ovim pravilnikom.
+Promena prospekta i ključnih informacija
+Značajne promene
+Član 18
+Društvo za upravljanje dužno je da dostavi Komisiji zahtev radi davanja
+odobrenja na izmenjeni prospekt i ključne informacije kada nastupe značajne promene usled
+kojih podaci u prospektu i ključnim informacijama ne odgovaraju stvarnom stanju skladu sa
+članom 63. Zakona.
+Značajnim promenama iz stava 1. ovog člana smatraju se izmene i dopune
+prospekta koje se predlažu s namerom:
+1) promene ulaznih naknada, godišnjih naknada za upravljanje ili izlaznih
+naknada, koje mogu rezultirati većim troškovima za investitore;
+2) promene elemenata vezanih uz ulaganja UCITS fonda:
+(1) investicionih ciljeva UCITS fonda, uključujući njegove finansijske
+ciljeve (npr. ostvarivanje kapitalne dobiti ili prihoda), kao i načina ostvarenja ciljeva
+UCITS fonda,
+(2) ciljane strukture portolija,
+(3) strategije investiranja,
+(4) bilo kakvih ograničenja strategije investiranja,
+(5) uslova vezanih za zaduživanje,
+(6) rizika povezanih sa ulaganjem i sa strukturom UCITS fonda, uz
+tabelarni prikaz tih rizika i njihov maksimalno prihvatljiv nivo koji je UCITS fond spreman
+da prihvati i načina upravljanja navedenim rizicima, i
+(7) rizika povezanih sa društvom za upravljanje i načina upravljanja
+tim rizicima,
+(8) vrste UCITS fonda u smislu kategorizacije propisane ovim pravilnikom;
+3) promene profila rizičnosti UCITS fonda, sklonosti prema riziku i sposobnosti
+nosivosti rizika;
+4) promene politike isplate prihoda ili dobiti UCITS fonda imaocima investicionih
+jedinica; i/ili
+5) produženje trajanja ili skraćivanja trajanja UCITS fonda, kada je on
+osnovan na određeno vreme.
+Društvo za upravljanje je dužno uz zahtev iz stava 1. ovog člana da priloži
+odluku uprave društva za upravljanje o usvajanju promena prospekta, u kojoj će se naznačiti
+u kojim delovima se prospekt menja i na koji način, uz izjavu da u preostalim delovima ostaje
+isti.
+Član 19
+Komisija donosi rešenje u roku od 15 dana od dana prijema urednog zahteva
+o odobrenju prospekta i ključnih informacija kada su za to ispunjeni svi uslovi u skladu
+sa članom 63. Zakona.
+Društvo za upravljanje je dužno da narednog dana od dana prijema rešenja
+iz stava 1. ovog člana objavi vest o izmenama, kao i tekst izmenjenog prospekta i ključnih
+informacija na svojoj internet stranici.
+Društvo za upravljanje je dužno da u roku od osam dana od dana prijema
+rešenja iz stava 1. ovog člana članovima fonda pošalje obaveštenje o značajnim promenama
+prospekta.
+Društvo za upravljanje je dužno da u vesti i obaveštenju iz st. 2. i 3.
+ovog člana jasno naznači koje su značajne promene, kao i dan kada promene prospekta stupaju
+na snagu.
+U roku od 40 dana od dana objavljivanja promena akata iz stava 2. ovog
+člana svi članovi fonda imaju pravo da traže otkup investicionih jedinica bez plaćanja izlazne
+naknade.
+O ispunjavanju svojih obaveza prema članovi fonda iz st. 2. i 3. ovog člana
+društvo za upravljanje bez odlaganja obaveštava Komisiju.
+Značajne promene prospekta stupaju na snagu istekom roka od 40 dana od
+dana objavljivanja akata iz stava 2. ovog člana.
+Član 20
+Društvo za upravljanje dužno je da kontinuirano ažurira prospekt u delu
+koji se odnosi na promene prospekta koje nisu značajne i da na svojoj internet stranici bez
+odlaganja objavi ažurirani prospekt.
+Društvo za upravljanje dužno je da najkasnije do 15. februara svake godine
+dostavi Komisiji poslednji ažurirani prospekt.
+VI INVESTICIONE JEDINICE
+Početna ponuda investicionih jedinica
+Član 21
+Početna ponuda investicionih jedinica može započeti tek po objavljivanju
+prospekta u skladu sa članom 62. stav 4. Zakona.
+Početna ponuda investicionih jedinica se javno objavljuje na jedan od sledećih
+načina:
+1) na internet stranici društva za upravljanje;
+2) u jednim ili više dnevnih novina koje se prodaju na celom području Republike,
+odnosno države u kojoj će investicione jedinice biti nuđene;
+3) u štampanom obliku koji je besplatno dostupan u službenim prostorijama
+društva za upravljanje i u prostorijama pravnih lica sa kojima je društvo za upravljanje
+sklopilo ugovor o poslovnoj saradnji za obavljanje poslova nuđenja investicionih jedinica.
+Početna ponuda iz stava 1. ovog člana dostavlja se na obrascu "
+UCITS
+fond - Javni poziv
+" i sadrži naročito:
+1) osnovne podatke o društvu za upravljanje;
+2) osnov i svrhu izdavanja investicionih jedinica;
+3) prava člana fonda;
+4) cenu investicione jedinice u valuti koju je društvo za upravljanje odredilo
+i navelo u prospektu;
+5) valutu u kojoj se vrši otkup investicione jedinice;
+6) trajanje početne ponude, odnosno javnog poziva (datum početka i završetka
+roka za upis i uplatu investicionih jedinica, odnosno tačan broj dana roka za upis i uplatu);
+7) postupak i ograničenja upisa i uplate investicionih jedinica;
+8) organizovanje UCITS fonda ili povraćaj sredstava u slučaju da okončanjem
+perioda za početnu ponudu nisu prikupljena sredstva u skladu sa pravilima ili prospektom;
+9) osnovne podatke o depozitaru;
+10) kontakt telefone na kojima se mogu dobiti ostale informacije.
+Kupovina i otkup investicionih jedinica
+Član 22
+Kupovina investicionih jedinica vrši se uplatom u dinarima ili devizama,
+na način propisan Zakonom, prospektom i ključnim informacijama.
+Društvo za upravljanje u prospektu opredeljuje valutu u kojoj se vrši uplata
+cene prilikom kupovine investicione jedinice, odnosno valutu u kojoj se vrši otkup investicionih
+jedinica.
+Društvo za upravljanje prospektom može odrediti da se otkup vrši u valuti
+drugačijoj od one u kojoj je izvršena uplata cene prilikom kupovine investicione jedinice.
+Konverzija dinarskih i deviznih uplata za kupovinu investicione jedinice
+vrši se narednog radnog dana u odnosu na dan priliva sredstava na račun UCITS fonda, prema
+vrednosti investicione jedinice na dan priliva (dan T), a broj kupljenih investicionih jedinica
+na individualnom računu člana fonda se evidentira na dan konverzije (dan T+1).
+Obračun deviznih uplata u dinarsku protivvrednost vrši se prema zvaničnom
+srednjem kursu dinara prema toj valuti koji utvrđuje Narodna banka Srbije na dan priliva
+na račun UCITS fonda.
+Broj kupljenih investicionih jedinica se izračunava prema sledećoj formuli:
+N =
+U · (1-F) - Ff
+A
+pri čemu je:
+N - broj kupljenih investicionih jedinica
+U - novčana sredstva koja su uplaćena na dinarski račun UCITS fonda, odnosno
+dinarska protivvrednost deviznih sredstava obračunata prema zvaničnom srednjem kursu dinara
+prema toj valuti koji utvrđuje Narodna banka Srbije na dan priliva na devizni račun UCITS
+fonda
+F - procentualna naknada za kupovinu investicionih jedinica, ukoliko je
+društvo za upravljanje naplaćuje
+A - vrednost investicione jedinice na dan uplate
+Ff - jednokratna fiksna naknada koja se naplaćuje prilikom inicijalne kupovine
+investicionih jedinica (administrativna naknada za pristupanje fondu), ukoliko je društvo
+naplaćuje
+Ukoliko uplata nije dovoljna za kupovinu cele investicione jedinice, na
+individualnom računu klijenta se evidentira deo investicione jedinice.
+Neidentifikovane uplate
+Član 23
+U slučaju uplata na račun UCITS fonda čijeg uplatioca društvo za upravljanje
+ne može da identifikuje (uplate bez poziva na broj pristupnice, odnosno uplate pre prve dostave
+popunjene pristupnice društvu za upravljanje i sl.), uplaćena sredstva tretiraju kao neraspoređena
+sredstva i ne ulaze u obračun vrednosti neto imovine UCITS fonda.
+U slučaju da se u roku od pet radnih dana od dana priliva identifikuje
+uplatilac, dodela investicionih jedinica vrši se na dan identifikacije tog člana fonda.
+Društvo za upravljanje je dužno da da nalog depozitaru da sredstva iz stava
+1. ovog člana vrati uplatnoj banci narednog radnog dana nakon isteka roka iz stava 2. ovog
+člana.
+Otkup investicionih jedinica
+Član 24
+Društvo za upravljanje je dužno da u roku od pet radnih dana od dana podnošenja
+zahteva člana fonda za otkup investicionih jedinica izvrši otkup investicionih jedinica prenosom
+sredstava na dinarski račun, odnosno prenosom sredstava na devizni račun člana fonda u valuti
+opredeljenoj prospektom, a obračunatoj prema zvaničnom srednjem kursu dinara prema toj valuti
+koji utvrđuje Narodna banka Srbije na dan prijema zahteva za otkup investicionih jedinica.
+Otkup investicione jedinice se vrši po vrednosti koja se dobija na sledeći
+način:
+U = (A · N) · (1 - F)
+pri čemu je:
+U - iznos uplaćenih sredstava na novčani račun člana fonda
+A - vrednost investicione jedinice na dan prijema zahteva za otkup investicionih
+jedinica
+N - broj investicionih jedinica za čiji otkup je član fonda podneo zahtev,
+F - procentualna naknada za otkup investicionih jedinica (ukoliko je društvo
+za upravljanje naplaćuje)
+Potvrda o sticanju ili otuđenju investicionih jedinica
+Član 25
+Potvrda o sticanju ili otuđenju investicionih jedinica izdaje se članu
+fonda narednog radnog dana od dana upisa u registar investicionih jedinica iz člana 48. stav
+4. Zakona.
+Potvrda o sticanju ili otuđenju investicionih jedinica mora da sadrži:
+1) datum sticanja ili otuđenja investicione jedinice;
+2) naziv UCITS fonda, kao i poslovno ime i sedište društva za upravljanje;
+3) broj investicionih jedinica u imovini UCITS fonda na koje glasi potvrda;
+4) ime i prezime/poslovno ime i JMBG/MB imaoca investicione jedinice;
+5) mesto i datum izdavanja potvrde; i
+6) potpis ovlašćenog lica društva za upravljanje.
+Do promene imaoca investicione jedinice može doći dobrovoljnim raspolaganjem,
+na osnovu odluke suda ili drugog nadležnog organa, ili na osnovu zakona.
+Ako sticalac stekne investicionu jedinicu na osnovu odluke suda ili drugog
+nadležnog organa, odnosno na osnovu zakona, a ne ispunjava uslove da postane investitor u
+UCITS fondu u skladu sa Zakonom ili prospektom, društvo za upravljanje od njega otkupljuje
+investicionu jedinicu.
+Privremeno obustavljanje izdavanja i otkupa investicionih
+jedinica
+Član 26
+Neto vrednost imovine UCITS fonda, neto vrednost investicione jedinice
+i prinos UCITS fonda koji nisu usaglašeni između depozitara i društva za upravljanje, odnosno
+koje depozitar ne može potvrditi, ne mogu se objavljivati.
+Ukoliko do kraja dana T+1, depozitar i društvo za upravljanje ne razreše
+razlike u obračunu neto vrednosti imovine UCITS fonda i vrednosti investicione jedinice,
+društvo za upravljanje je dužno da obustavi izdavanje i otkup investicionih jedinica na način
+predviđen ovim pravilnikom.
+Član 27
+Prospekt sadrži uslove pod kojima može doći do obustave izdavanja i otkupa
+investicionih jedinica.
+Izdavanje i otkup investicionih jedinica obustavljaju se istovremeno.
+Izdavanje i otkup investicionih jedinica se obustavlja:
+1) kada nije moguće izračunati neto vrednost imovine UCITS fonda i vrednosti
+investicione jedinice usled toga što:
+(1) do kraja dana T+1 - nisu razrešene utvrđene razlike u obračunu,
+odnosno otklonjene uočene greške,
+(2) su nastupili vanredni događaji izazvani višom silom (pad informacionog
+sistema društva za upravljanje, odnosno depozitara, i tehničke i tehnološke poteškoće usled
+kojih je nemoguće utvrđivanje neto vrednost imovine UCITS fonda i vrednosti investicione
+jedinice ili individualnih uloga članova fonda i sl.);
+2) po nalogu Komisije radi zaštite interesa investitora.
+Izdavanje i otkup investicionih jedinica se može obustaviti i kada se u
+jednom danu ispostave zahtevi za otkup investicionih jedinica u iznosu većem od 10% vrednosti
+imovine UCITS fonda, a fond nije u mogućnosti da u Zakonom propisanom roku realizuje takve
+zahteve.
+Obaveštenje o obustavi
+Član 28
+Depozitar obustavlja izdavanje i otkup investicionih jedinica kada primi
+nalog od društva za upravljanje u skladu sa članom 56. st. 1. i 2. Zakona, te obaveštava
+o tome Komisiju.
+Obaveštenje iz stava 1. ovog člana sadrži razloge obustave i plan za otklanjanje
+tih razloga u slučaju da je obustava posledica nastupanja vanrednih događaja usled više sile.
+Komisija može da zahteva od društva za upravljanje da dostavi dodatnu dokumentaciju
+i informacije neophodne za procenu opravdanosti odluke o obustavljanju.
+Način prijema zahteva za izdavanje ili otkup
+Član 29
+Za vreme trajanja obustave, društvo za upravljanje je dužno da zahteve
+za otkup primljene pre dana T isplati u rokovima i na način propisanim Zakonom i prospektom.
+Društvo za upravljanje dužno je da odbije da zaključi ugovor o ulaganju
+za zahteve za izdavanje investicionih jedinica ukoliko su primljeni za vreme obustave izdavanja
+i otkupa, a sve eventualne primljene uplate bez odlaganja da vrati investitorima UCITS fonda.
+Zahteve za otkup investicionih jedinica za vreme obustave izdavanja i otkupa
+društvo za upravljanje dužno je da evidentira prema redosledu prijema, pri čemu se nijedan
+imalac investicione jedinice ne sme staviti u povlašćeni položaj.
+Prava imalaca investicionih jedinica, propisana članom 48. stav 1. Zakona,
+kao i prava i tereti na investicionim jedinicama, kao i prava trećih lica u skladu sa članom
+54. stav 1. Zakona, za vreme obustave izdavanja i otkupa miruju do datuma prestanka obustave
+izdavanja i otkupa investicionih jedinica.
+Uslovi utvrđivanja cene investicione jedinice, rokovi isplate
+i nastavak poslovanja
+Član 30
+Zahteve za otkup investicione jedinice primljene za vreme obustave izdavanja
+i otkupa, društvo za upravljanje će izvršiti po ceni investicione jedinice utvrđenoj za dan
+prestanka obustave izdavanja i otkupa investicionih jedinica.
+Rok iz člana 53. stav 6. Zakona izuzetno se može produžiti za dodatnih
+7 dana, za isplatu zahteva za otkup investicionih jedinica koji su primljeni za vreme obustave
+izdavanja i otkupa investicionih jedinica, ako je to u interesu ostalih imalaca investicionih
+jedinica i predviđeno je prospektom i/ili pravilima UCITS fonda.
+Nakon nastupanja privremene obustave izdavanja i otkupa investicionih jedinica
+društvo za upravljanje dužno je da bez odlaganja na svojoj internet stranici objavi da investitori
+koji za vreme obustave izdavanja i otkupa podnesu zahtev za otkup imaju za vreme obustave
+mogućnost da povuku zahtev ili da ga izvrše po ceni iz stava 1. ovog člana.
+Trajanje i prestanak obustave
+Član 31
+Obustava izdavanja i otkupa investicionih jedinica mora prestati čim društvo
+za upravljanje, depozitar i Komisija ustanove da su prošli razlozi za obustavu.
+Komisija može naložiti nastavak izdavanja i otkupa investicionih jedinica
+u slučajevima kada oceni da je moguće na fer način vršiti vrednovanje imovine fonda, odnosno
+da je to u interesu članova fonda.
+U slučaju iz stava 1. ovog člana, društvo za upravljanje na početku narednog
+radnog dana nastavlja izdavanje i otkup investicionih jedinica i o tome istog dana pisanim
+putem obaveštava posrednike, depozitara i Komisiju i objavljuje obaveštenje na svojoj internet
+stranici.
+Distribucija
+Član 32
+Ukoliko prodaju investicionih jedinica obavljaju lica iz člana 69. stav
+3. Zakona, društvo za upravljanje sa njima potpisuje ugovor o distribuciji čiji je predmet
+prodaja investicionih jedinica.
+Pre potpisivanja ugovora iz stava 1. ovog člana društvo za upravljanje
+je dužno da sa dužnom pažnjom:
+1) utvrdi da pravno lice iz stava 1. ovog člana ima dozvolu za pružanje
+investicionih usluga prema odredbama zakona kojim se uređuje tržište kapitala ili da ima dozvolu za rad prema odredbama zakona kojim se uređuju banke odnosno kreditne institucije;
+2) obezbedi da je ugovor iz stava 1. ovog člana u skladu sa odredbama zakona
+kojim se uređuje tržište kapitala;
+3) obezbedi da fizička lica koja su zaposlena ili na drugi način angažovana
+od strane distributera ili društva za upravljanje, a obavljaju poslove prodaje investicionih
+jedinica, ispunjavaju uslove propisane članom 33. ovog pravilnika.
+Pravno lice iz stava 1. ovog člana koje je s društvom za upravljanje zaključilo
+ugovor o distribuciji ne sme navedene poslove delegirati na treće lice.
+Novčana sredstva u svrhu kupovine investicionih jedinica u UCITS fondu
+ne uplaćuju se distributerima, već se uplaćuju na za to predviđeni račun UCITS fonda.
+Lica zaposlena ili na drugi način angažovana kod distributera ili društva
+za upravljanje koja obavljaju poslove prodaje investicionih jedinica dužna su da svakom potencijalnom
+investitoru daju na uvid:
+1) prospekt, ključne informacije i pravila poslovanja UCITS fonda;
+2) kada je to primenjivo, marketinški materijal UCITS fonda.
+Društvo za upravljanje i distributer su dužni da vode i redovno ažuriraju
+evidencije o stanju i transakcijama investicionih jedinica obavljenim posredstvom tog distributera,
+u skladu sa odredbama o čuvanju poslovne dokumentacije iz Zakona i zakona kojim se uređuje
+tržište kapitala, kao i da ih na zahtev dostave Komisiji.
+Društvo za upravljanje je dužno da obezbedi da pravno lice iz stava 1.
+ovog člana koje je s društvom za upravljanje zaključilo ugovor o distribuciji o investitorima
+kojima nudi investicione jedinice prikupi sve potrebne podatke i dokumentaciju koji su propisani
+Zakonom i ovim pravilnikom.
+Društvo za upravljanje je dužno da obezbedi da distributer prikupljenu
+dokumentaciju čuva u skladu sa odredbama Zakona i zakona kojim se uređuje tržište kapitala.
+U slučaju zaključenja ugovora o distribuciji, odgovornost društva za upravljanje
+za obavljanje prodajnih usluga prema investitorima ne prestaje.
+Uslovi koje moraju da ispunjavaju fizička lica koja obavljaju
+poslove prodaje investicionih jedinica
+Član 33
+Fizička lica koja su zaposlena ili na drugi način angažovana od strane
+distributera ili društva za upravljanje za obavljanje poslova prodaje investicionih jedinica
+moraju ispunjavati sledeće uslove:
+1) moraju da imaju završenu srednju školu u četvorogodišnjem trajanju;
+2) stručno su osposobljena za poslove prodaje investicionih jedinica na
+osnovu obuke koju organizuje društvo za upravljanje, a koja mora obuhvatati opšta znanja
+o kompleksnim finansijskim instrumentima i znanja o bitnim karakteristikama UCITS fonda čije
+investicione jedinice prodaju i značaju svih rizika povezanih sa konkretnim ulaganjem.
+Popis distributera
+Član 34
+Društvo za upravljanje je dužno da jednom godišnje, do kraja januara tekuće
+godine, Komisiji dostavi popis distributera sa kojima je imalo potpisan ugovor u skladu sa
+članom 69. Zakona, sa stanjem na dan 31. decembra prethodne godine.
+Popis iz stava 1. ovog člana mora da sadrži naziv i sedište distributera,
+datum zaključenja ugovora i naznaku jednog ili više UCITS fonda čije će se investicione jedinice
+prodavati na osnovu predmetnog ugovora.
+Distributer iz člana 32. stav 1. ovog pravilnika dužan je da vodi i redovno
+ažurira evidenciju zaposlenih, odnosno angažovanih lica koji obavljaju poslove prodaje investicionih
+jedinica, koju na zahtev dostavlja društvu za upravljanje, a društvo za upravljanje je istu
+dužno da na zahtev dostavi Komisiji.
+VII MARKETING UCITS FONDA
+Član 35
+Pod marketingom, odnosno oglašavanjem, u smislu ovog pravilnika, podrazumevaju
+se svi oblici javne komunikacije društva za upravljanje, kojima se opisuju karakteristike,
+usluge i prinosi društava za upravljanje, odnosno UCITS fondova kojima to društvo upravlja,
+a čiji je cilj da direktno ili indirektno privuku, odnosno zadrže investitore u UCITS fondu.
+Član 36
+Društvo za upravljanje je dužno da pravilima UCITS fonda propiše procedure
+i pravila oglašavanja i promocije društva za upravljanje i UCITS fondova kojima upravlja,
+koje garantuju da se marketinške aktivnosti vrše u skladu sa Zakonom, zakonom koji reguliše
+oglašavanje i ovim pravilnikom, a naročito da javna komunikacija društva za upravljanje:
+1) bude zasnovana na načelima fer poslovanja;
+2) obezbedi dovoljno informacija na osnovu kojih se mogu proceniti rizici
+ulaganja u fond;
+3) uravnoteženo predstavlja potencijalnu dobit i rizike.
+Procedure iz stava 1. ovog člana treba da obezbede da posrednici koje društvo
+za upravljanje angažuje za vršenje prodajnih usluga, kao i druga pravna lica koja su angažovana
+za obavljanje marketinških poslova poštuju zakon i interna pravila društva za upravljanje.
+Član 37
+Pod poslovima marketinga u smislu ovog pravilnika podrazumeva se:
+1) obaveštavanje zainteresovanih lica o osnovnim podacima o društvu za
+upravljanje, kao i delatnostima koje ono obavlja;
+2) obaveštavanje i edukacija zainteresovanih lica o radu UCITS fondova
+u Republici, karakteristikama ulaganja u UCITS fondove, rezultatima i zakonskoj regulativi;
+3) dodeljivanje primeraka prospekta, ključnih informacija i pravila poslovanja
+UCITS fondova kojima društvo za upravljanje upravlja, kao i zakonske i podzakonske regulative
+i drugih pismena edukativnog sadržaja kao i davanje pojašnjenja istih;
+4) obaveštavanje o mestu i vremenu kada zainteresovana lica mogu postati
+članovi fonda.
+Poslovi marketinga u smislu ovog pravilnika ne podrazumevaju:
+1) zastupanje društva za upravljanje u prodaji investicionih jedinica;
+2) zaključenje ugovora o pristupanju fondu kojim društvo za upravljanje
+upravlja;
+3) prijem sredstava ili uplata na ime kupovine investicionih jedinica.
+Tekst za oglašavanje
+Član 38
+Društvo za upravljanje vrši javno oglašavanje UCITS fondova objavljivanjem
+teksta, u pisanim i elektronskim medijima, putem bilborda ili u drugom obliku.
+Društvo je dužno da pripremi tekst za oglašavanje koji:
+1) je napisan na srpskom jeziku (s tim da može biti i na stranom jeziku,
+ukoliko je istovetne sadržine);
+2) sadrži pojmove usaglašene sa zakonskom regulativom;
+3) je lako razumljiv i jasan, odnosno sadrži precizne, ažurirane, relevantne,
+nedvosmislene i potpune informacije o društvu za upravljanje i/ili UCITS fondovima kojima
+upravlja;
+4) sadrži savet investitorima da treba da razmotre investicione ciljeve,
+rizike, naknade i troškove investicionog fonda pre nego što se odluče da investiraju;
+5) ukoliko sadrži statističke podatke, podatke do kojih se dolazi istraživanjem
+ili podatke iz dokumentacije, mora jasno sadržati njihov izvor, kao i periode na koje se
+odnose, da bi se mogli objektivno proveriti u smislu njihove relevantnosti;
+6) ukoliko sadrži poslovne rezultate finansijske grupe čije je društvo
+za upravljanje deo:
+(1) rezultati poslovne grupe ne smeju biti predstavljeni kao rezultati
+društva za upravljanje, odnosno ti podaci treba da budu jasno odvojeni od poslovnih rezultata
+tog društva,
+(2) samo lica koja direktno poseduju učešće u kapitalu društva za
+upravljanje mogu biti naznačena kao akcionari tog društva;
+7) svako oglašavanje upoređivanjem mora sadržati sve materijalne razlike
+između društava za upravljanje, odnosno UCITS fondova koja se porede.
+Tekst za oglašavanje ne sme da sadrži:
+1) neistinite podatke, kao ni podatke kojima se stvara lažni ili pogrešan
+utisak o društvu za upravljanje, UCITS fondovima kojim društvo upravlja ili o investicionim
+fondovima uopšte;
+2) podatke koji se ne mogu objektivno proveriti;
+3) izraze u superlativu;
+4) nejasne, dvosmislene ili preuveličane informacije na osnovu kojih član
+ili potencijalni član fonda može biti doveden u zabludu ili može doći do pogrešnog zaključka
+u vezi sa određenim društvom za upravljanje, konkretnim UCITS fondom ili investicionim fondovima
+uopšte;
+5) informacije u fusnotama ili legende, osim u slučajevima kada to neće
+umanjiti razumevanje teksta;
+6) vrednosni sud o UCITS fondu kojim upravlja drugo društvo za upravljanje
+niti sme sadržati podatke koji negativno, neistinito i pogrešno opisuju druge fondove ili
+druga društva za upravljanje;
+7) netačno prikazivanje niti jedne materijalne činjenice.
+Oglašavanje prinosa UCITS fonda
+Član 39
+Društvo za upravljanje je dužno da objavljuje prinos UCITS fonda na način
+i u rokovima propisanim ovim pravilnikom.
+Tekst za oglašavanje prinosa:
+1) mora da sadrži podatke o vrednosti neto imovine fonda, naknadama i troškovima
+koji se naplaćuju iz imovine UCITS fonda, i o stepenu i vrsti rizika ulaganja u UCITS fond;
+2) ne sme da prognozira buduće prinose, niti da predviđa da će se prinosi
+iz prethodnih perioda ponoviti.
+Tekst za oglašavanje prinosa može da sadrži i sledeće dodatne informacije
+o prinosima UCITS fonda:
+1) kumulativne prinose za određeni period, pri čemu se najkraćim periodom
+smatra period od poslednjih pet godina, a najdužim period od poslednjih 10 godina;
+2) prinose u poređenju sa izabranim "
+benchmark
+"-om iste
+vrste;
+3) prinose u poređenju sa drugim UCITS fondovima iste vrste i kategorije.
+Kada se u tekstu za oglašavanje UCITS fonda iznose podaci o prinosima drugog
+UCITS fonda iste vrste, odnosno vrši njihovo upoređivanje, obavezno se iznose i uporedni
+podaci o naknadama i troškovima.
+Odobrenje oglašavanja
+Član 40
+Društvo za upravljanje je dužno da Komisiji dostavi zahtev za davanje saglasnosti
+na oglašavanje na obrascu "
+UCITS fond - Oglašavanje
+" zajedno sa predlogom
+teksta za oglašavanje najmanje pet radnih dana pre objavljivanja.
+Ukoliko Komisija u roku od tri radna dana od prijema zahteva ne naloži
+izmene teksta iz stava 1. ovog člana, smatra se da je saglasnost za objavljivanje data.
+Ukoliko Komisija u roku iz stava 2. ovog člana, naloži izmene teksta za
+oglašavanje, društvo za upravljanje je dužno da unese naložene izmene pre objavljivanja.
+Obaveza iz stava 1. ovog člana se ne odnosi na tekst za oglašavanje koji
+su prethodno dostavljeni Komisiji i koji se koriste bez materijalno značajnih promena.
+Član 41
+Društvo za upravljanje vodi elektronsku evidenciju o materijalu za oglašavanje,
+kao i informacijama koje se odnose na medije u kojima su materijali korišćeni, periode u
+kojima su korišćeni i izvore statističkih podataka, grafikona ili bilo kojih drugih ilustracija.
+Društvo za upravljanje je dužno da čuva kopije svih materijala iz stava
+1. ovog člana najmanje tri godine od dana poslednjeg korišćenja.
+Oglašavanje naknada i troškova
+Član 42
+Društvo za upravljanje može da oglašava samo naknade i troškove koji su
+u skladu sa prospektom UCITS fonda kojim upravlja. Društvo za upravljanje može preuzeti deo
+ili celokupan iznos pojedinih troškova UCITS fonda u određenom periodu ili određenim kategorijama
+investitora može ukinuti ili smanjiti ulaznu ili izlaznu naknadu i druge naknade koje naplaćuje
+od članova fonda, ukoliko je ova mogućnost propisana prospektom tog fonda.
+Obaveštenje o preuzimanju troškova iz stava 2. ovog člana sadrži:
+1) vrstu, visinu (iznos) i period u kome društvo za upravljanje preuzima
+troškove;
+2) kategoriju investitora, vrstu, visinu (iznos) i period u kome društvo
+za upravljanje smanjuje ili ukida naknade.
+Obaveštenje iz stava 3. ovog člana društvo za upravljanje je dužno da dostavi
+Komisiji i objavi na svojoj internet stranici pre dana početka preuzimanja tih troškova.
+VIII DOZVOLJENA ULAGANJA I OGRANIČENJA ULAGANJA UCITS FONDA
+Regulisana tržišta
+Član 43
+Regulisano tržište u smislu Zakona je tržište koje ispunjava uslove za
+regulisano tržište u skladu sa zakonom koji uređuje tržište kapitala u Republici i/ili državi
+članici.
+Službeni listing berze u smislu Zakona je listing berze sa sedištem u trećoj
+državi koji najmanje ispunjava uslove za regulisano tržište propisane zakonom kojim se uređuje
+tržište kapitala u Republici i/ili drugoj državi članici.
+Druga regulisana tržišta u smislu Zakona su ona koja ispunjavaju sledeće
+uslove:
+1) u vezi s njima društvo za upravljanje ima propisane sve potrebne procedure
+i postupke koji obezbeđuju postupanje s pažnjom dobrog stručnjaka u skladu s pravilima ponašanja
+propisanim Zakonom i pravilnikom kojim se uređuje poslovanje društava za upravljanje;
+2) imaju dozvolu, regulisana su i predmet su nadzora od strane nadležnih
+organa u skladu sa nacionalnom zakonodavstvom država u kojima imaju sedište;
+3) centralni registar depo i kliring hartija od vrednosti je predmet nadzora
+od strane nadležnih organa u skladu sa nacionalnim zakonodavstvom država u kojima imaju sedište;
+4) namirenje transakcija izvršava se u prihvatljivom vremenskom roku;
+5) na njima je dozvoljeno ulagati u UCITS fondove iz države sedišta tog
+tržišta;
+6) redovno posluju, odnosno na njima se kontinuirano u propisanom vremenskom
+periodu odvija trgovanje;
+7) otvorena su za javnost.
+Član 44
+Društvu za upravljanje dozvoljeno je da zaključuje ugovore u transakcijama
+sa izvedenim finansijskim instrumentima kojima se trguje van regulisanog tržišta (u daljem
+tekstu: OTC izvedeni finansijski instrumenti) samo sa licima koje se smatraju kvalifikovanim
+investitorima u smislu zakona kojim se uređuje tržište kapitala.
+Izuzetno od stava 1. ovog člana društvo za upravljanje može za račun UCITS
+fonda trgovati OTC izvedenim finansijskim instrumentima sa licima koja se ne smatraju kvalifikovanim
+investitorima isključivo kada takvu transakciju nije bilo moguće sklopiti na regulisanom
+tržištu, pri čemu je dužno da internim aktima propiše situacije, uslove i okolnosti u kojima
+je dozvoljeno sklapanje takvih transakcija, kao i da obezbedi da se iste obavljaju po fer
+uslovima.
+Za svaku trgovinu OTC izvedenim finansijskim instrumentima iz stava 2.
+ovog člana društvo za upravljanje je dužno:
+1) da obrazloži i dokumentuje razloge zbog kojih se ista obavlja;
+2) da poseduje dokaze o sprovođenju iste u skladu sa stavom 2. ovog člana;
+3) da navedenu dokumentaciju čuva na način propisan Zakonom i ovim pravilnikom.
+Druge ugovorne strane u transakcijama sa OTC izvedenim instrumentima iz
+člana 42. stav 2. tačka 5) Zakona mogu biti samo lica koja se smatraju kvalifikovanim investitorima
+u smislu zakona kojim se uređuje tržište kapitala, a koji podležu obavezi odobrenja i nadzora
+nadležnog regulatornog tela.
+Dozvoljena ulaganja UCITS fonda
+Član 45
+Imovina UCITS fondova isključivo se može ulagati u:
+1) prenosive hartije od vrednosti ili instrumente tržišta novca:
+(1) koji su listirani ili se njima trguje na regulisanom tržištu,
+odnosno MTP u Republici i/ili državi članici, i
+(2) koji su listirani na službenom listingu berze u trećoj državi
+ili kojima se trguje na drugom regulisanom tržištu u trećoj državi koje redovno posluje,
+priznato je i otvoreno za javnost, pod uslovom da je takvo ulaganje predviđeno prospektom
+UCITS fonda;
+2) nedavno izdate prenosive hartije od vrednosti u Republici, pod sledećim
+uslovima:
+(1) uslovi izdavanja uključuju obavezu da će izdavalac podneti zahtev
+za listiranje u službeni listing berze ili na drugo regulisano tržište koje redovno posluje,
+priznato je i otvoreno za javnost,
+(2) takvo ulaganje predviđeno je prospektom, i
+(3) listiranje će se izvršiti u roku od jedne godine od dana izdavanja;
+3) investicione jedinice UCITS fondova ili drugih investicionih fondova
+koji se organizuju, odnosno osnivaju sa jedinim ciljem da se zajednička sredstva, koja su
+prikupljena javnom ponudom, ulažu u prenosive hartije od vrednosti ili u drugu likvidnu finansijsku
+imovinu, na osnovu pravila disperzije rizika, kao i principu otkupa investicionih jedinica,
+pod sledećim uslovima:
+(1) takvi investicioni fondovi dobili su dozvolu za rad od Komisije,
+odnosno nadležnog organa države članice ili nadležnog organa treće države sa kojima je osigurana
+saradnja sa Komisijom, a koji podležu jednakom nadzoru kakav je propisan ovim zakonom,
+(2) stepen zaštite članova drugih investicionih fondova je jednak
+stepenu zaštite koja je propisana za članove UCITS fonda, posebno u delu koji se odnosi na
+odvojenost imovine, zaduživanje, davanje zajmova i prodaju prenosivih hartija od vrednosti
+i instrumenata tržišta novca bez pokrića,
+(3) o poslovanju tih investicionih fondova izveštava se u polugodišnjim
+i godišnjim izveštajima, kako bi se omogućila procena imovine i obaveza, dobiti i poslovanja
+tokom izveštajnog perioda, i
+(4) prospektom, odnosno pravilima UCITS fonda ili drugog investicionog
+fonda čije se investicione jedinice ili akcije nameravaju sticati, predviđeno je da najviše
+10% njegove imovine može biti uloženo u investicione jedinice drugog UCITS fonda ili drugih
+investicionih fondova;
+4) depozite kod kreditnih institucija koji su raspoloživi na prvi zahtev
+i koji dospevaju za najviše 12 meseci, pod uslovom da kreditna institucija ima registrovano
+sedište u Republici ili drugoj državi članici ili, ako kreditna institucija ima registrovano
+sedište u trećoj državi, pod uslovom da podleže nadzoru za koji Komisija smatra da je jednak
+onome propisanom ovim zakonom;
+5) izvedene finansijske instrumente kojima se trguje na regulisanim tržištima
+iz tačke 1. ovog stava ili OTC izvedene finansijske instrumente pod sledećim uslovima:
+(1) izvedeni su ili se odnose na finansijske instrumente obuhvaćene
+tač. 1) do 4) ovog stava, finansijske indekse, kamatne stope, devizne kurseve ili valute,
+u koje UCITS fond može ulagati u skladu sa svojim investicionim ciljevima navedenim u prospektu
+UCITS fonda,
+(2) druge ugovorne strane u transakcijama sa OTC izvedenim instrumentima
+su institucije koje podležu prudencijalnom nadzoru i pripadaju kategorijama kojima dozvolu
+izdaje Komisija odnosno drugi nadležni organ u Republici, i
+(3) OTC izvedeni finansijski instrumenti podležu svakodnevnom pouzdanom
+i proverljivom vrednovanju i u svakom trenutku moguće ih je prodati, likvidirati ili zatvoriti
+transakcijom kliringa po njihovoj fer vrednosti na zahtev UCITS fonda;
+6) instrumente tržišta novca kojima se ne trguje na regulisanim tržištima
+iz tačke 1. ovog stava, a čije je izdavanje ili izdavalac regulisan u smislu zaštite investitora
+i štednih uloga, na način da:
+(1) izdala ih je ili za njih garantuje Republika, Narodna banka
+Srbije, autonomna pokrajina, jedinica lokalne samouprave Republike, druga država članica
+ili jedinica lokalne i regionalne samouprave ili centralna banka druge države članice, Evropska
+centralna banka, Evropska unija ili Evropska investiciona banka, treća država ili, u slučaju
+federalne države, jedna od članica koje čine federaciju, ili javno međunarodno telo kojem
+pripadaju jedna ili više država članica, u skladu sa propisima,
+(2) izdalo ih je društvo čijim se hartijama od vrednosti trguje
+na regulisanim tržištima iz tačke 1. ovog stava, ili
+(3) izdao ih je ili za njih garantuje subjekt koji podleže prudencijalnom
+nadzoru ili subjekt koji podleže pravilima nadzora koja su barem jednako stroga kao ona propisana
+ovim zakonom.
+UCITS fond može imati dodatna likvidna sredstva koja drži u novcu na računu
+u Republici.
+Najviše 10% vrednosti imovine UCITS fonda može se uložiti u prenosive hartije
+od vrednosti i instrumente tržišta novca koji nisu navedeni u stavu 1. ovog člana.
+Ograničenja ulaganja imovine UCITS fonda
+Član 46
+Na ulaganja imovine UCITS fonda se primenjuju sledeća ograničenja:
+1) u prenosive hartije od vrednosti, odnosno instrumente tržišta novca
+jednog izdavaoca se ne može ulagati više od 10% imovine UCITS fonda, s tim da zbir pojedinačnih
+ulaganja, koja su veća od 5% imovine UCITS fonda, ne sme biti veći od 40% vrednosti ukupne
+imovine UCITS fonda, pri čemu se navedeno ograničenje od 40% ne odnosi na depozite i transakcije
+sa OTC izvedenim instrumentima zaključene sa finansijskim institucijama koje podležu prudencijalnom
+nadzoru i pripadaju kategorijama kojima dozvolu izdaje Komisija odnosno drugi nadležni organ
+u Republici;
+2) u novčane depozite u jednoj banci, odnosno kreditnoj instituciji ne
+može se ulagati više od 20% imovine UCITS fonda, s tim da se ovo ograničenje se ne odnosi
+na novčane depozite kod depozitara;
+3) do 10% imovine UCITS fonda može se ulagati u izvedene finansijske instrumente
+kojima se trguje na OTC tržištu kada je druga strana u transakciji banka, odnosno kreditna
+institucija, odnosno do 5% imovine investicionog fonda kada je druga strana u transakciji
+drugo pravno lice;
+4) u jedan UCITS fond i drugi investicioni fond iz člana 42. stav 2. tačka
+3) Zakona može se ulagati do 20% imovine UCITS fonda;
+5) ukupna vrednost ulaganja u investicione fondove koji nisu UCITS fondovi
+iz člana 42. stav 2. tačka 3) Zakona ne sme biti veća od 30% imovine fonda;
+6) imovina UCITS fonda ne može se ulagati u hartije od vrednosti i druge
+finansijske instrumente koje izdaje društvo za upravljanje i sa njim povezana lica;
+7) imovinom UCITS fonda se ne mogu zauzimati kratke pozicije, odnosno ne
+može da obavlja prodaju bez pokrića;
+8) imovina UCITS fonda ne može se ulagati u plemenite metale ili depozitne
+potvrde koje se odnose na plemenite metale;
+9) u prenosive hartije od vrednosti, odnosno instrumente tržišta novca
+čiji su izdavaoci povezana društva u smislu člana 43. stav 7. Zakona ne može ulagati više
+od 20% imovine UCITS fonda.
+Izuzetno od stava 1. tačka 1) ovog člana do 35% imovine UCITS fonda može
+se ulagati u prenosive hartije od vrednosti ili instrumente tržišta novca koje izdaju ili
+za koje garantuju Narodna banka Srbije, Republika, autonomna pokrajina, jedinica lokalne
+samouprave, država članica ili jedinica lokalne i regionalne samouprave države članice, treća
+država ili javno međunarodno telo kojem pripadaju jedna ili više država članica.
+Izuzetno od ograničenja iz stava 1. tačka 1) ovog člana najviše 25% vrednosti
+imovine može biti uloženo u obveznice koje izdaju kreditne institucije, koje imaju registrovano
+sedište u Republici, odnosno državi članici, koje su predmet nadzora u skladu sa Zakonom,
+a u cilju zaštite investitora u te obveznice. Sredstva od izdavanja takvih obveznica moraju
+biti uložena u skladu sa zakonom u imovinu koja će do dospeća obveznica omogućiti ispunjenje
+obaveza koje proizlaze iz obveznica i koja bi se, u slučaju neispunjenja obaveza izdavaoca,
+prvenstveno iskoristila za isplatu glavnice i stečenih kamata po osnovu obveznica. Ako je
+više od 5% vrednosti imovine UCITS fonda uloženo u takve obveznice jednog izdavaoca, ukupna
+vrednost takvih ulaganja, koja čine više od 5% vrednosti imovine fonda, ne sme biti veća
+od 80% vrednosti imovine UCITS fonda.
+Ukupna izloženost UCITS fonda prema jednom licu može da iznosi najviše
+do 20% imovine UCITS fonda, osim za izdavaoce iz st. 2. i 3. ovog člana za koje izloženost
+ne može biti veća od 35%, odnosno 25% imovine UCITS fonda.
+Društvo za upravljanje prilikom sticanja akcija koje nose pravo glasa u
+vezi sa svim UCITS fondovima kojima upravlja ne sme steći značajnu kontrolu nad izdavaocem.
+Izuzetno od stava 2. ovog pravilnika, Komisija može da dozvoli da do 100%
+vrednosti imovine UCITS fonda bude uloženo u prenosive hartije od vrednosti i instrumente
+tržišta novca čiji je izdavalac ili za njih garantuje Republika, Narodna banka Srbije, autonomna
+pokrajina ili jedinica lokalne samouprave Republike, država članica EU, jedinica lokalne
+i regionalne samouprave države članice, treće države ili javno međunarodno telo kome pripadaju
+jedna ili više država članica, u skladu s propisima i pod uslovom da:
+1) je zaštita investitora UCITS fonda jednaka onoj zaštiti koju imaju investitori
+u UCITS fondu čija je imovina ulažena u skladu sa ograničenjima iz člana 43. Zakona;
+2) se imovina UCITS fonda sastoji od najmanje 6 različitih emisija hartija
+od vrednosti, ali učešće niti jedne pojedinačne emisije hartija od vrednosti ne prelazi 30%
+vrednosti imovine UCITS fonda;
+3) u pravilima UCITS fonda, prospektu i reklamnim materijalima UCITS fonda
+bude jasno istaknuta izjava da je UCITS fond dobio odobrenje za ulaganje u skladu sa Zakonom
+i ovim stavom, kao i da su jasno navedeni izdavaoci iz ovog stava u čije hartije od vrednosti
+se namerava ulagati ili je uloženo više od 35% vrednosti imovine UCITS fonda.
+Član 47
+U slučaju odstupanja od ograničenja ulaganja predviđenih Zakonom, ovim
+pravilnikom i prospektom, a usled nastupanja okolnosti koje društvo za upravljanje nije moglo
+predvideti, odnosno na koje nije moglo uticati, društvo za upravljanje je dužno da odmah
+obavesti Komisiju i da u roku od tri meseca od dana odstupanja, uskladi strukturu imovine
+UCITS fonda sa ograničenjima ulaganja.
+Komisija može na zahtev društva za upravljanje da produži rok iz stava
+1. ovog člana ukoliko utvrdi:
+1) da je do odstupanja strukture imovine UCITS fonda od ograničenja utvrđenih
+važećim propisima došlo zbog pada vrednosti imovine UCITS fonda ili poremećaja na tržištu;
+2) da usled pada vrednosti imovine UCITS fonda, akcije jednog izdavaoca
+čine više od 10% imovine UCITS fonda, odnosno instrumenti tržišta novca od vrednosti iz člana
+42. stav 2. tačka 6) podtačka 1) Zakona čine više od 35% imovine fonda;
+3) da je društvo za upravljanje dostavilo predlog za prevazilaženje navedenih
+prekoračenja u razumnom roku, a čija je dužina prvenstveno opredeljena zaštitom interesa
+članova fonda.
+U slučajevima odstupanja od ograničenja ulaganja van slučaja predviđenog
+odredbama ovog člana, Komisija, po saznanju takvih činjenica, odmah preduzima mere nadzora
+u skladu sa Zakonom.
+IX UTVRĐIVANJE VREDNOSTI IMOVINE, CENE INVESTICIONE JEDINICE
+I PRINOSA UCITS FONDA
+Način i učestalost obračunavanja neto imovine UCITS fonda
+Član 48
+Obračun hartija od vrednosti koje čine imovinu UCITS fonda zasniva se na
+njihovoj fer vrednosti za dan za koji se vrši obračun (u daljem tekstu: dan T).
+U trenutku kupovine osnovu za vrednovanje čini nabavna vrednost koja uključuje
+kupoprodajnu cenu uvećanu za troškove transakcije koji se mogu direktno pripisati sticanju
+hartija od vrednosti.
+Izuzetak od stava 2. ovog člana predstavljaju hartije od vrednosti koje
+su klasifikovane kao hartije od vrednosti kroz bilans uspeha i investicione jedinice, kada
+troškove transakcije ne treba uključiti u nabavnu vrednost.
+Fer vrednost se zaokružuje na dve decimale.
+Dani T-1, T+1, T+2 u smislu ovog pravilnika odnose se na radne dane koji
+prethode, odnosno slede nakon dana T.
+Član 49
+Fer vrednost akcija kojima se trguje na regulisanom tržištu u Republici
+se utvrđuje kao prosečna ponderisana cena za poslednjih pet dana kada je bilo trgovanja akcijom
+u poslednjih 180 dana (T-179).
+Ukoliko nije bilo najmanje pet dana trgovanja akcijom u periodu iz stava
+1. ovog člana, fer vrednost akcija se utvrđuje u iznosu koji je manji od sledeće dve vrednosti:
+1) knjigovodstvene vrednosti akcija (obračunska vrednost iz prospekta);
+ili
+2) cene na zatvaranju na dan kada je poslednji put bilo trgovanja tom akcijom
+na regulisanom tržištu, odnosno MTP.
+Član 50
+Fer vrednost akcija kojima se trguje na inostranim tržištima se utvrđuje
+na osnovu njihove cene na zatvaranju na dan T na tržištu koje je utvrđeno kao primarni izvor
+cene za tu hartiju i koja je službeno kotirana na finansijskom informativnom servisu.
+Ukoliko nije bilo trgovanja na dan T, fer vrednost akcija iz stava 1. ovog
+člana se utvrđuje kao cena na zatvaranju na dan kada je poslednji put bilo trgovanja tom
+hartijom u periodu koji prethodi danu T, a koji nije duži od 90 dana (T-89).
+Ukoliko nije bilo trgovanja periodu iz stava 2. ovog člana, fer vrednost
+akcija iz stava 1. ovog člana se utvrđuje u iznosu koji je manji od sledeće dve vrednosti:
+1) knjigovodstvene vrednosti akcija (obračunska vrednost iz prospekta);
+ili
+2) cene na zatvaranju na dan kada je poslednji put bilo trgovanja tom akcijom
+na tržištu iz stava 1. ovog člana.
+Član 51
+Fer vrednost depozitnih potvrda kojima se trguje na regulisanom tržištu
+u Republici se utvrđuje na način propisan članom 49. stav 1. ovog pravilnika, odnosno depozitnih
+potvrda kojima se trguje na inostranim tržištima na način propisan članom 50. st. 1. i 2.
+ovog pravilnika.
+Ukoliko nije bilo trgovanja periodu iz stava 1. ovog člana, fer vrednost
+depozitnih potvrda se utvrđuje u iznosu koji je manji od sledeće dve vrednosti:
+1) cene po kojoj se depozitne potvrde mogu zameniti za hartije od vrednosti
+čiji su ekvivalent; ili
+2) cene na zatvaranju na dan kada je poslednji put bilo trgovanja depozitnom
+potvrdom na tržištu iz stava 1. ovog člana.
+Član 52
+Fer vrednost dužničkih hartija od vrednosti koje izdaju Republika, Narodna
+banka Srbije ili pravna lica sa sedištem u Republici se utvrđuje:
+1) na osnovu njihove cene na zatvaranju na dan T na tržištu na kome se
+trguje tim hartijama od vrednosti;
+2) ukoliko nije bilo trgovanja na dan T, na osnovu cene na zatvaranju kada
+je poslednji put bilo trgovanja tom hartijom od vrednosti u periodu koji prethodi danu T,
+a koji nije duži od 30 dana (T-29);
+3) ukoliko nisu ispunjeni uslovi iz tač. 1. i 2. ovog stava diskontovanjem
+tokova gotovine, pri čemu se kao diskontna stopa koristi preovlađujuća tržišna kamatna stopa
+za te hartije, odnosno za dužničke hartije od vrednosti koje imaju isti ili približan rok
+dospeća i isti kreditni rejting.
+Uz prethodnu saglasnost Komisije, umesto korišćenja metoda iz stava 1.
+ovog člana, fer vrednost dužničkih hartija od vrednosti koje izdaju Republika, Narodna banka
+Srbije ili pravna lica sa sedištem u Republici društva za upravljanje mogu utvrđivati diskontovanjem
+tokova gotovine korišćenjem modela koji izrađuje Udruženje društava za upravljanje otvorenim
+investicionim fondovima sa javnom ponudom.
+Stav 1. ovog pravilnika shodno se primenjuje kada su izdavaoci dužničkih
+hartija od vrednosti međunarodne finansijske organizacije, države članice i druge države,
+odnosno centralne banke tih država, i, pravna lica sa sedištem u tim državama.
+Član 53
+Fer vrednost investicionih jedinica utvrđuje se kao njihova vrednost na
+dan T-1 koja je objavljena na internet stranici društva za upravljanje koje upravlja UCITS
+fondom za čije se investicione jedinice ona određuje.
+U slučaju obustave kupovine i otkupa investicionih jedinica iz stava 1.
+ovog člana, fer vrednost utvrđuje se kao poslednja vrednost objavljena na internet stranici
+društva za upravljanje.
+Član 54
+Fer vrednost novčanih depozita obračunava se u skladu sa stanjem na računu,
+uključujući i dospelu i nenaplaćenu kamatu.
+Obračun i pripis prihoda od kamate na oročene depozite (potraživanja UCITS
+fonda po osnovu kamata) i tekuće račune (potraživanja UCITS fonda po osnovu kamata) vrši
+se na dnevnom nivou.
+Metod obračuna kamate na depozite određuje se ugovorom između društva za
+upravljanje i poslovne banke.
+Isplata prihoda od kamate po tekućem računu vrši se jednom mesečno po dobijanju
+kamatnog lista od banke.
+U slučaju odstupanja obračunate kamate od uplaćenih sredstava po osnovu
+kamate, razlika se knjiži kao vanredni prihod, odnosno rashod.
+Član 55
+Vrednost imovine UCITS fonda koja je iskazana u stranoj valuti preračunava
+se u dinarsku protivvrednost, prema zvaničnom srednjem kursu dinara prema toj valuti koji
+utvrđuje Narodna banka Srbije na dan T.
+Priznavanje dividendi
+Član 56
+Dividenda koja se isplaćuje u novcu evidentira se pre uplate iste na račun
+UCITS fonda kao potraživanje i ulazi u obračun vrednosti imovine UCITS fonda danom prijema
+dokumenta izdavaoca, u kome je naveden pripadajući iznos dividende na osnovu odluke skupštine
+akcionara o isplati dividende u novcu.
+Novčano potraživanje iz stava 1. ovog člana vodi se kao potraživanje sve
+do dana uplate dividende na račun UCITS fonda.
+Dividenda koja se isplaćuje u akcijama, putem nove emisije, evidentira
+se kao potraživanje i ulazi u obračun vrednosti imovine UCITS fonda, danom prijema dokumenta
+izdavaoca, u kome je naveden pripadajući broj akcija na osnovu odluke skupštine akcionara
+o isplati dividende u akcijama.
+Potraživanje u akcijama vrednuje se po fer vrednosti do upisa novoizdatih
+akcija u Centralni registar depo i kliringa hartija od vrednosti (u daljem tekstu: Centralni
+registar).
+Evidentiranje potraživanja po osnovu upisanih akcija u postupku
+javne ponude
+Član 57
+Uplata akcija po osnovu prava prečeg upisa evidentira se kao novčano potraživanje
+do prijema odgovarajućeg dokumenta izdavaoca kojim se potvrđuje uspešnost emisije i da će
+UCITS fondu biti dodeljen broj akcija sa upisnice.
+Danom prijema dokumenta iz stava 1. ovog člana novčano potraživanje postaje
+potraživanje u akcijama, do upisa tih akcija u Centralni registar i vrednuje se po fer vrednosti.
+Uplata akcija po osnovu prospekta za javnu ponudu akcija (akcije dostupne
+svim zainteresovanim investitorima) evidentira se kao novčano potraživanje do prijema odgovarajućeg
+dokumenta izdavaoca kojim se potvrđuje uspešnost emisije i da će UCITS fondu biti dodeljen
+određen broj akcija.
+Danom prijema dokumenta iz stava 3. ovog člana odgovarajući deo novčanog
+potraživanja postaje potraživanje u akcijama, do upisa tih akcija u Centralni registar i
+vrednuje se po fer vrednosti i istovremeno iznos novčanog potraživanja se umanjuje za iznos
+potreban za plaćanje evidentiranog potraživanja u akcijama, a preostali iznos se vodi kao
+novčano potraživanje dok izdavalac ne izvrši povraćaj više uplaćenih sredstava na tekući
+račun UCITS fonda.
+Evidentiranje potraživanja po osnovu ponude za preuzimanje,
+odnosno ponude za sticanje sopstvenih akcija
+Član 58
+Deponovane akcija po osnovu ponude za preuzimanje, odnosno ponude za sticanje
+sopstvenih akcija evidentira se po fer vrednosti sve do zvaničnog obaveštenja o broju prodatih
+akcija i prodajnoj ceni.
+Danom prijema obaveštenja iz stava 1. ovog člana, potraživanje za prodate
+akcije postaje novčano potraživanje za vrednost po kojoj su akcije prodate u količini za
+koju je realizovana transakcija, a one koje nisu prodate vode se kao potraživanje u akcijama
+koje se vrednuje po fer vrednosti.
+Član 59
+Društvo za upravljanje je obavezno da čuva u papirnom i elektronskom obliku
+informacije o cenama i izvorima na osnovu kojih je izvršen obračun vrednosti imovine fonda
+najmanje pet godina.
+Ukupna vrednost imovine UCITS fonda
+Član 60
+Ukupna vrednost imovine UCITS fonda je zbir vrednosti finansijskih instrumenata
+iz portfolija UCITS fonda, depozita novčanih sredstava UCITS fonda kod kreditnih institucija
+i druge imovine.
+Troškovi UCITS fonda
+Član 61
+Troškovi koji se mogu plaćati iz imovine UCITS fonda su:
+1) zavisni troškovi transakcija koji uključuju:
+(1) troškove kupovine i prodaje hartija od vrednosti (provizije
+za usluge organizatora tržišta i investicionih društava, troškove kliringa i saldiranja),
+(2) troškove platnog prometa (domaći i međunarodni platni promet
+i prenos na novčanim računima u istoj banci i sl.),
+(3) poreze i druge fiskalne obaveze,
+2) kamate i naknade u vezi sa zaduživanjem UCITS fonda;
+3) trošak eksternog revizora;
+4) naknada društvu za upravljanje;
+5) naknada depozitaru.
+Ukoliko su naknade ugovorene sa deviznom klauzulom, svakodnevno se vrši
+preračun u dinarsku protivvrednost prema zvaničnom srednjem kursu dinara prema toj valuti
+koji utvrđuje Narodna banka Srbije.
+Trošak eksternog revizora iz stava 1. tačka 3) ovog člana obračunava se
+na dnevnom nivou, pri čemu depozitar ovaj podatak dobija od društva za upravljanje uz prilog
+odgovarajuće dokumentacije (ugovor, faktura i dr.), a izmirenje obaveze vrši se u skladu
+sa ugovorom zaključenim između društva za upravljanje i eksternog revizora.
+Naknade društvu za upravljanje i depozitaru iz stava 1. tač. 4) i 5) ovog
+člana se izražavaju u procentu na godišnjem nivou, naplaćuju se mesečno, a obračunavaju dnevno
+prema sledećoj formuli:
+F
+n
+=
+(BAV - L) · M
+n
+365,25
+pri čemu je:
+F
+n
+- iznos dnevne naknade društvu za upravljanje, odnosno depozitaru
+M
+n
+- naknada društvu za upravljanje, odnosno depozitaru
+BAV
+- ukupna vrednost imovine UCITS fonda
+L
+- sve poznate obaveze do dana T (naknada društvu za upravljanje
+je poznata obaveza prilikom obračuna naknade depozitaru)
+Neto vrednost imovine UCITS fonda i vrednost investicione
+jedinice
+Član 62
+Privremena neto vrednost imovine UCITS fonda (u daljem tekstu: NAV1) je
+razlika ukupne imovine i svih obaveza UCITS fonda.
+Uplate članova fonda, kao i neidentifikovane uplate izvršene na dan T ne
+utiču na NAV1, a prikazuju se kao sredstva na računu i kao obaveze za izdavanje investicionih
+jedinica i obaveze za neidentifikovane uplate.
+Konačna neto vrednost imovine UCITS fonda (u daljem tekstu: NAV) se dobija
+kada se na NAV1 dodaju uplate za kupovinu (umanjene za ulazne naknade) i oduzmu isplate po
+osnovu zahteva za otkup.
+Broj i vrednost investicione jedinice
+Član 63
+Vrednost investicione jedinice na dan T je količnik NAV1 i broja investicionih
+jedinica na T-1.
+Sve uplate za kupovinu, odnosno potraživanja u slučaju prelaska iz jednog
+u drugi UCITS fond i otkup investicionih jedinica konvertuju se po vrednosti investicione
+jedinice na dan T.
+Broj investicionih jedinica na dan T se dobija kada se od broja na T-1
+oduzme broj investicionih jedinica koje se otkupljuju i doda broj investicionih jedinica
+koje su kupljene.
+Ukupan broj investicionih jedinica UCITS fonda mora biti jednak zbiru investicionih
+jedinica na individualnim računima članova fonda.
+Član 64
+Neto imovina UCITS fonda, vrednost i ukupan broj investicionih jedinica
+se izračunava svakodnevno i to za dan T izračunava se na dan T+1.
+Vrednost investicione jedinice se utvrđuje na pet decimala, a objavljuje
+sa dve decimale.
+NAV i vrednost investicione jedinice potvrđuje depozitar i isti se objavljuju
+na internet stranici društva za upravljanje do 20 časova na dan T+1.
+Vrednost, odnosno cena investicione jedinice se u skladu sa članom 34.
+stav 1. tačka 9) i članom 49. stav 4) Zakona objavljuje na internet stranici društva za upravljanje
+u valuti koja je opredeljena prospektom i u dinarima.
+Utvrđivanje i objavljivanje prinosa UCITS fonda
+Član 65
+Društvo za upravljanje dužno je da stopu prinosa UCITS fonda obračunava
+posebno za svaki UCITS fond kojim upravlja i ne može da objavljuje prosečan prinos tih UCITS
+fondova.
+Član 66
+Stopa prinosa UCITS fonda izražava se u procentima, zaokruživanjem na pet
+decimala, osim pri oglašavanju UCITS fonda i objavljivanju na internet stranicama kada se
+objavljuje vrednost sa dve decimale.
+Član 67
+Stopa prinosa UCITS fonda za poslednjih 12 meseci obračunava se prema sledećoj
+formuli:
+R
+a
+= {A - B + D
+a
+} / B
+pri čemu je:
+R
+a
+- stopa prinosa UCITS fonda za poslednjih 12 meseci
+A - vrednost investicione jedinice poslednjeg dana perioda od 12 meseci
+za koji se obračunava prinos UCITS fonda
+B - vrednost investicione jedinice poslednjeg dana perioda od 12 meseci
+koji prethodi periodu koji se obračunava prinos UCITS fonda
+D
+a
+- iznos koji je UCITS fond isplatio investitorima po osnovu prihoda
+od kamata, dividendi i kapitalne dobiti od hartija od vrednosti u portfoliu fonda u toku
+poslednjih 12 meseci po investicionoj jedinici
+Član 68
+Stopa prinosa UCITS fonda za period od pet godina obračunava se prema sledećoj
+formuli:
+R
+5
+= {(A+ D
+5
+)/C}
+1/5
+- 1
+pri čemu je:
+R
+5
+- stopa prinosa UCITS fonda za period od pet godina
+A - vrednost investicione jedinice, poslednjeg dana perioda od pet godina
+za koji se obračunava prinos UCITS fonda
+D
+5
+- iznos koji je UCITS fond isplatio investitorima po osnovu prihoda
+od kamata, dividendi i kapitalne dobiti od hartija od vrednosti u portfoliu fonda u toku
+poslednjih pet godina po investicionoj jedinici
+C - vrednost investicione jedinice poslednjeg dana perioda koji prethodi
+periodu za koji se obračunava prinos UCITS fonda
+Član 69
+Stopa prinosa UCITS fonda od početka njegovog poslovanja obračunava se
+prema sledećoj formuli:
+R
+n
+= {(A + D
+n
+)/D}
+1/n
+- 1
+pri čemu je:
+R
+n
+- stopa prinosa UCITS fonda od početka njegovog poslovanja
+A - vrednost investicione jedinice poslednjeg dana perioda za koji se obračunava
+prinos UCITS fonda
+D
+n
+- iznos koji je UCITS fond isplatio investitorima po osnovu prihoda
+od kamata, dividendi i kapitalne dobiti od hartija od vrednosti u portfoliu fonda od svog
+osnivanja po investicionoj jedinici
+D - početna vrednost investicione jedinice
+n - količnik broja dana za koje se obračunava stopa prinosa UCITS fonda
+i broja 365,25 (kao broja dana u godini)
+Član 70
+Prinos UCITS fonda očuvanja vrednosti imovine iz člana 11. ovog pravilnika
+se može obračunavati (i objavljivati) za periode kraće od 12 meseci, odnosno za periode od
+30 i 90 dana.
+Prinos obračunat za periode kraće od 12 meseci se svodi na godišnji nivo
+upotrebom sledeće formule:
+Tekući prinos: Rt = (R
+n
+· 365.25/k) · 100
+Efektivni prinos: R
+e
+= [(R
+n
++ 1)365.25/k
+- 1] · 100
+pri čemu je:
+R
+n
+- stopa prinosa UCITS fonda ostvarenog u periodu kraćem od 12 meseci
+k - broj dana za koje je izračunat prinos u skladu sa stavom 1. ovog člana
+Tekući prinos predstavlja godišnji prinos koji investitor ostvari ulaganjem
+u UCITS fond, pod uslovom da UCITS fond ne reinvestira prihode od kamata tokom perioda za
+koji se prinos izračunava.
+Efektivni prinos predstavlja godišnji prinos pod uslovom da UCITS fond
+reinvestira sav prihod od kamate koji dobije tokom perioda za koji se prinos izračunava.
+Objavljivanje prinosa
+Član 71
+Društvo za upravljanje je dužno da obračunava stopu prinosa za svaki UCITS
+fond kojim upravlja dva puta godišnje, zaključno na dan 30. juna, odnosno 31. decembra tekuće
+godine.
+Izuzetno od stava 1. ovog člana, kod UCITS fondova očuvanja vrednosti iz
+člana 11. ovog pravilnika je dopušteno mesečno objavljivanje stope prinosa.
+Društvo je dužno da obračunatu stopu prinosa objavi na internet stranici
+društva za upravljanje narednog radnog dana od dana potvrđivanja od strane depozitara.
+Društvo za upravljanje koje upravlja sa više UCITS fondova ne može objavljivati
+prosečan prinos tih fondova.
+Član 72
+Podaci o prinosima UCITS fonda objavljuju se u sledećoj tabeli.
+Naziv UCITS fonda
+kvartal/god-
+kvartal/god.
+kvartal/god-
+kvartal/god.
+kvartal/god-
+kvartal/god.
+kvartal/god-
+kvartal/god.
+kvartal/god-
+kvartal/god.
+%
+%
+%
+%
+%
+Podaci se iskazuju za svaki od prethodnih dvanaestomesečnih perioda gde
+se poslednji završava u kvartalu koji neposredno prethodi datumu kada se oglašavanje vrši.
+Ako UCITS fond postoji manje od pet godina, u tabeli za godine koje nedostaju
+stavlja se znak "-".
+Prinosi UCITS fonda se ne objavljuju u prvoj godini poslovanja.
+Član 73
+Društvo za upravljanje je dužno da neposredno pored podataka o prinosu
+UCITS fonda navede sledeće napomene:
+PRETHODNO OSTVARENI PRINOSI NE PREDSTAVLJAJU GARANCIJU
+BUDUĆIH REZULTATA. BUDUĆI PRINOSI MOGU BITI VIŠI ILI NIŽI OD RANIJIH.
+INVESTICIJE U UCITS FOND NISU OSIGURANE KOD AGENCIJE ZA
+OSIGURANJE DEPOZITA ILI BILO KOJE DRUGE AGENCIJE. IAKO UCITS FOND TEŽI POVEĆANJU VREDNOSTI
+IMOVINE, GUBICI OD INVESTIRANJA ZBOG RIZIKA OPISNIH U PROSPEKTU SU IPAK MOGUĆI.
+PRINOS INVESTITORA OD ULAGANJA U UCITS FOND ZAVISI OD PRINOSA
+UCITS FONDA I VISINE NAKNADA KOJE INVESTITOR PLAĆA PRILIKOM STICANJA, ODNOSNO OTKUPA INVESTICIONIH
+JEDINICA.
+Kontrola i potvrđivanje neto vrednosti imovine i prinosa
+UCITS fonda od strane depozitara
+Član 74
+Društvo za upravljanje pisanim procedurama uređuje sa depozitarom kod kog
+se vodi račun UCITS fonda način dostavljanja podataka i usaglašavanja razlika u obračunu.
+Društvo za upravljanje obračunava i dostavlja depozitaru:
+1) neto vrednost imovine UCITS fonda i vrednost investicione jedinice svakog
+radnog dana; i
+2) prinos UCITS fonda najkasnije narednog radnog dana od isteka izveštajnog
+perioda.
+Obračun depozitara
+Član 75
+Depozitar je dužan da za svaki UCITS fond odvojeno vodi elektronski registar
+imovine tog fonda kome mogu pristupiti samo zaposleni kod depozitara koji su naznačeni internom
+odlukom.
+Depozitar radi kontrole obračuna, preko finansijsko-informativnih servisa
+obezbeđuje podatke o tržišnoj vrednosti hartija od vrednosti i drugoj imovini koje čine imovinu
+UCITS fonda.
+Depozitar može od društva za upravljanje zahtevati da mu dostavi i podatke
+koje on ne može pribaviti na način iz stava 2. ovog člana, kao i dokaze koji potvrđuju te
+podatke.
+Na osnovu podataka iz st. 2. i 3. ovog člana, depozitar obračunava vrednosti
+neto imovine, investicione jedinice i prinosa fonda.
+Usaglašavanje podataka
+Član 76
+Depozitar vrši upoređivanje svojih podataka sa podacima društva za upravljanje
+o neto vrednosti imovine, neto vrednosti i promeni broja (prodatih, odnosno otkupljenih u
+odnosu na prethodni izveštaj) investicionih jedinica, odnosno prinosu UCITS fonda na dan
+T+1.
+Usaglašene podatke o vrednostima iz stava 1. ovog člana, depozitar je dužan
+da dostavlja Komisiji, elektronskom poštom ili faksom najkasnije na dan T+2.
+Razlike u obračunu
+Član 77
+Ako utvrdi razlike u obračunu, depozitar je dužan da o tome odmah obavesti
+društvo za upravljanje, radi utvrđivanja razloga neusaglašenosti i provere da li su greške
+učinjene i u nekom od prethodnih obračuna.
+Društvo za upravljanje, odnosno depozitar dužni su da uočene greške isprave
+istog dana kada se utvrdi razlika u obračunu, odnosno razlog neusaglašenosti, a ako to nije
+moguće učiniti depozitar odmah obaveštava Komisiju o neusaglašenosti, odnosno usklađivanju
+obračuna vrednosti, razlozima neusaglašenosti i merama koje se preduzimaju radi usaglašavanja.
+U slučaju da se utvrdi da su greške učinjene i u nekom od prethodnih obračuna,
+društvo za upravljanje istog dana objavljuje na svojoj internet stranici obaveštenje o tim
+greškama i njihovom uticaju na obračun, kao i o merama koje se preduzimaju da se greške isprave.
+Korektivne mere
+Član 78
+Društvo za upravljanje je dužno da, najkasnije u roku od 30 dana od identifikacije
+razloga neslaganja obračuna koji potiču od društva za upravljanje:
+1) sprovede korektivne mere kojima će se razlog neslaganja otkloniti; i
+2) pisanim putem obavesti Komisiju o razlogu neslaganja i preduzetim korektivnim
+merama.
+Evidencija razlika u obračunu
+Član 79
+Društvo za upravljanje je dužno da vodi evidenciju o razlikama u obračunu
+vrednosti iz člana 77. ovog pravilnika.
+Evidencija iz stava 1. ovog člana sadrži:
+1) datum kada depozitar i društvo za upravljanje nisu mogli da usaglase
+obračune;
+2) detaljni opis razlika u obračunu;
+3) mere koje su preduzete radi otklanjanja razlika u obračunu;
+4) transakcije koje treba da budu ispravljene;
+5) korektivne mere koje su sprovedene kako bi se sprečilo ponovno pojavljivanje
+razlika u obračunu iz istog razloga.
+Društvo za upravljanje je dužno da trajno čuva svu pisanu i elektronsku
+dokumentaciju u vezi sa neusaglašenošću obračuna i procesom usaglašavanja.
+X STATUSNE PROMENE UCITS FONDA
+Spajanje i pripajanje
+Član 80
+Dva ili više UCITS fonda se mogu spojiti ili pripojiti, uz prethodnu saglasnost
+Komisije.
+Spajanjem UCITS fondova, dva ili više UCITS fondova (u daljem tekstu: fondovi
+prenosioci) prestaju da postoje bez raspuštanja prenoseći celokupnu svoju imovinu i obaveze
+na novoosnovani UCITS fond (u daljem tekstu: fond preuzimalac) u zamenu za izdavanje investicionih
+jedinica UCITS fonda preuzimaoca članovima fondova prenosioca.
+Pripajanjem UCITS fonda, jedan ili više UCITS fondova (u daljem tekstu:
+fondovi prenosioci) prestaju da postoje bez raspuštanja prenoseći celokupnu svoju imovinu
+i obaveze drugom, postojećem UCITS fondu (u daljem tekstu: fond preuzimalac) u zamenu za
+izdavanje investicionih jedinica fonda preuzimaoca članovima fondova prenosilaca preostalih
+pripajanjem.
+Društvo za upravljanje koje upravlja fondom preuzimaocem stupa, u svoje
+ime a za račun fonda preuzimaoca, u sve pravne odnose u kojima je bilo društvo za upravljanje
+fonda prenosioca u svoje ime, a za račun fonda prenosioca.
+Nakon sprovedene statusne promene, imalac investicione jedinice u fondu
+prenosiocu stiče investicione jedinice u fondu preuzimaocu, u skladu sa utvrđenom proporcijom
+zamene.
+Novčane isplate fonda preuzimaoca prilikom zamene investicionih
+jedinica
+Član 81
+Ako prilikom zamene investicionih jedinica u fondu prenosiocu za investicione
+jedinice u fondu preuzimaocu imaoci investicionih jedinica u fondu prenosiocu imaju pravo
+na novčane isplate, one ne smeju prelaziti 10% vrednosti njihovih investicionih jedinica
+u fondu prenosiocu.
+Dan obračuna proporcije zamene i dan sprovođenja statusne
+promene
+Član 82
+Proporcija zamene investicionih jedinica u fondu prenosiocu za investicione
+jedinice u fondu preuzimaocu obračunava se na dan sprovođenja statusne promene na osnovu
+neto vrednosti imovine UCITS fondova koji učestvuju u statusnoj promeni, obračunate na način
+predviđen odredbama člana 47. Zakona i ovog pravilnika.
+Dan sprovođenja statusne promene je dan određen u nacrtu ugovora o statusnoj
+promeni kao predviđeni datum sprovođenja statusne promene, na koji se sprovodi prenos imovine
+i obaveza fonda prenosioca na fond preuzimaoca, kao i zamena investicionih jedinica u fondu
+prenosiocu za investicione jedinice u fondu preuzimaocu.
+Rok za izdavanje investicionih jedinica fonda preuzimaoca je naredni radni
+dan od dana sprovođenja statusne promene.
+Pravila i uslovi sprovođenja statusnih promena
+Član 83
+Nakon sprovedene statusne promene, neto vrednost imovine fonda preuzimaoca
+mora biti najmanje jednaka iznosu neto vrednosti imovine fonda prenosioca pre sprovođenja
+statusne promene, uzimajući u obzir isplate u skladu sa članom 81. ovog pravilnika.
+Ukupna vrednost svih investicionih jedinica fonda preuzimaoca jednog lica
+nakon sprovedene statusne promene, mora biti najmanje jednaka ukupnoj vrednosti investicionih
+jedinica fonda prenosioca tog lica pre sprovođenja statusne promene.
+Statusna promena UCITS fonda dozvoljena je ako se nakon njenog sprovođenja
+ne oslabljuje ekonomski položaj imalaca investicionih jedinica u fondovima koji učestvuju
+u statusnoj promeni.
+Zahtev za davanje saglasnosti na pripajanje
+Član 84
+Društva za upravljanje koja nameravaju da izvrše pripajanje ili spajanje
+UCITS fondova dužni su da Komisiji dostave zahtev za davanje saglasnosti na spajanje, odnosno
+pripajanje.
+Uz zahtev, koji se podnosi na obrascu "
+UCITS fond - Spajanje/Pripajanje
+",
+društvo za upravljanje dostavlja:
+1) odluku o spajanju/pripajanju UCITS fondova;
+2) nacrt ugovora o spajanju/pripajanju UCITS fondova;
+3) prospekt fonda preuzimaoca;
+4) mišljenje depozitara o spajanju/pripajanju iz člana 86. ovog pravilnika;
+5) tekst obaveštenja imaocima investicionih jedinica o spajanju/pripajanju;
+6) dokumentaciju iz člana 4. ovog pravilnika za UCITS fond koji se organizuje,
+ukoliko se radi o spajanju;
+7) dokaz o uplati naknade Komisiji; i
+8) drugu dokumentaciju po zahtevu Komisije.
+Komisija u roku od 30 dana od dana prijema urednog zahteva, donosi rešenje
+o davanju saglasnosti na spajanje/pripajanje UCITS fondova, ukoliko je sprovođenje spajanja/pripajanja
+u interesu članova UVITS fondova.
+Komisija donosi rešenje kojim odbija zahtev za davanje dozvole na spajanje/pripajanje
+UCITS fondova ukoliko oceni da spajanje, odnosno pripajanje nije u najboljem interesu članova
+UCITS fondova koji se spajaju, odnosno pripajaju.
+Nacrt ugovora o pripajanju
+Član 85
+Društva za upravljanje koja upravljaju fondom prenosiocem i fondom preuzimaocem
+dužna su da izrade zajednički nacrt ugovora o pripajanju.
+Nacrt ugovora o pripajanju mora da sadrži:
+1) ime UCITS fondova koji učestvuju u postupku pripajanja, poslovno ime
+i sedišta društava za upravljanje koja upravljaju fondom prenosiocem i fondom preuzimaocem;
+2) kratak opis razloga za sprovođenje pripajanja i osnove pripajanja;
+3) opis predviđenih posledica pripajanja na članove fonda prenosioca i
+fonda preuzimaoca;
+4) opis načina vrednovanja imovine i obaveza fonda prenosioca i fonda preuzimaoca
+na datum obračuna proporcije zamene;
+5) opis metodologije koja će se primeniti za obračun proporcije zamene;
+6) utvrđivanje predviđenog datuma sprovođenja pripajanja;
+7) detaljan opis postupaka u vezi sa prenosom imovine fonda prenosioca
+na fond preuzimaoca i u vezi sa zamenom investicionih jedinica u fondu prenosiocu za investicione
+jedinice u fondu preuzimaocu.
+Osim informacija i dokumentacije iz stava 2. ovog člana u nacrt ugovora
+o pripajanju mogu se uneti i dodatne informacije u vezi sa postupkom pripajanja.
+Nacrt ugovora o pripajanju potpisuju svi članovi uprave društava za upravljanje
+koji upravljaju fondom prenosiocem i fondom preuzimaocem.
+Ako u postupku pripajanja učestvuje više fondova prenosilaca, izrađuje
+se jedan nacrt ugovora o pripajanju.
+Ako isto društvo za upravljanje upravlja i fondom prenosiocem i fondom
+preuzimaocem, sam izrađuje nacrt dokumenta o pripajanju.
+Mišljenje depozitara o pripajanju
+Član 86
+Depozitari UCITS fondova koji učestvuju u postupku pripajanja dužni su
+da, samostalno i nezavisno jedan od drugog, izrade mišljenje o pripajanju za svaki UCITS
+fond za koji obavljaju poslove depozitara, na osnovu nacrta ugovora o pripajanja iz člana
+85. ovog pravilnika.
+U svom mišljenju depozitar mora izričito navesti jesu li propisani elementi
+iz člana 85. stav 2. ovog pravilnika izrađeni u skladu sa odredbama Zakona, ovog pravilnika
+i prospektom.
+Troškovi povezani sa izradom mišljenja depozitara o pripajanju ne smeju
+biti plaćeni iz imovine UCITS fondova koji učestvuju u postupku pripajanja.
+Obaveštenje članova fondova o pripajanju
+Član 87
+Društvo za upravljanje koje upravlja fondom preuzimaocem dužno je da obavesti
+sve članove fonda preuzimaoca o svim radnjama i okolnostima pripajanja, kako bi članovi fonda
+mogli da procene posledice koje će pripajanje imati na njihove investicione jedinice u fondu
+preuzimaocu.
+Društvo za upravljanje koje upravlja fondom prenosiocem dužno je da obavesti
+sve članove fonda prenosioca o svim radnjama i okolnostima pripajanja, kako bi članovi fonda
+mogli da procene posledice koje će pripajanje imati na njihovu imovinu u fondu prenosiocu.
+Obaveštenje o pripajanju iz st. 1. i 2. ovog člana sadrži:
+1) kratak opis razloga za sprovođenje pripajanja i osnove pripajanja;
+2) opis predviđenih posledica pripajanja na članove fonda prenosioca i
+fonda preuzimaoca;
+3) opis i postupak ostvarivanja svih prava koja pripadaju članovima fonda
+prenosioca i fonda preuzimaoca na osnovu odredaba Zakona i ovog pravilnika;
+4) predviđeni dan sprovođenja pripajanja;
+5) način će se postupati sa ostvarenom dobiti u UCITS fondovima koji učestvuju
+u statusnoj promeni;
+6) informaciju o tome kako se može dobiti izveštaj nezavisnog revizora
+iz člana 89. ovog pravilnika i mišljenje depozitara iz člana 86. ovog pravilnika; i
+7) informacije o obustavi trgovanja investicionim jedinicama zbog sprovođenja
+pripajanja.
+Dodatna sadržina obaveštenja koja se dostavlja članovima fonda preuzimaoca
+uključuje i objašnjenje očekivanih značajnijih učinaka pripajanja na portfolio fonda preuzimaoca
+i informacije o nameri sprovođenja rebalansa portfolija, pre ili nakon sprovođenja pripajanja.
+Dodatna sadržina obaveštenja koje se dostavlja članovima fonda prenosioca
+obavezno sadrži:
+1) informacije o mogućim razlikama u pravima članova fonda prenosioca,
+pre i nakon sprovođenja pripajanja;
+2) poređenje razlika ključnih pokazatelja za članove fonda prenosioca i
+fonda preuzimaoca u delu u kom ukazuju na različite značajnije rizike;
+3) poređenje svih naknada i troškova fonda prenosioca i fonda preuzimaoca;
+4) ako fond prenosilac obračunava naknadu koja zavisi od prinosa, objašnjenje
+kako će se ona primenjivati do dana pripajanja;
+5) ako fond preuzimalac obračunava naknadu koja zavisi od prinosa, objašnjenje
+kako će se ona naknadno obračunavati, u cilju obezbeđivanja poštenog postupanja prema onim
+članovima koji su prethodno imali investicione jedinice u fondu prenosiocu;
+6) informacije o nameri sprovođenja rebalansa portfolija pre pripajanja
+od strane društva za upravljanje koje upravlja fondom prenosiocem;
+7) ako uslovi predloženog pripajanja uključuju odredbe o novčanoj isplati,
+u skladu sa članom 81. ovog pravilnika, obaveštenje koje se dostavlja članovima fonda prenosioca
+mora sadržati informacije o takvoj isplati, uključujući i informaciju o tome kako i kada
+će članovi fonda prenosioca primiti novčanu isplatu;
+8) rok do kog će članovi fonda prenosioca imati mogućnost da podnose zahteve
+za izdavanje i otkup investicionih jedinica fonda prenosioca; i
+9) rok do kog će imaoci investicionih jedinica u fondu prenosiocu, koji
+ne koriste svoja prava u skladu sa članom 91. ovog pravilnika, imati mogućnost da ostvare
+svoja prava kao imaoci investicionih jedinica fonda preuzimaoca.
+Društva za upravljanje koja upravljaju fondom prenosiocem i fondom preuzimaocem
+dostavljaju obaveštenje o pripajanju iz st. 1. i 2. ovog člana svojim članovima najmanje
+60 dana pre statusne promene.
+Obaveštenja iz st. 1. i 2. ovog člana dostavljaju se članovima UCITS fondova
+u skladu sa članom 88. ovog pravilnika.
+Između datuma kad se obaveštenja iz st. 1. i 2. ovog člana dostave članovima
+UCITS fondova i datuma pripajanja, obaveštenje o pripajanju mora se dostaviti svakom licu
+koje stiče investicione jedinice ili fonda prenosioca ili fonda preuzimaoca ili zatraži primerke
+prospekta bilo kog UCITS fonda koji učestvuje u pripajanju.
+Način dostavljanja odluke o pripajanju
+Član 88
+Obaveštenja iz člana 87. ovog pravilnika dostavljaju se članovima UCITS
+fondova u pisanom obliku ili na drugom odgovarajućem trajnom nosaču podataka.
+Kada se obaveštenja dostavljaju svim ili nekim članovima UCITS fonda putem
+elektronske pošte, moraju biti ispunjeni sledeći uslovi:
+1) član fonda je odabrao takav način prijema informacija;
+2) ako je društvu za upravljanje dostavio adresu za prijem elektronske
+pošte.
+Revizija pripajanja
+Član 89
+Pre dana obračuna proporcije zamene i dana sprovođenja statusne promene,
+pripajanje revidira revizor iz društva za reviziju koje je, uz saglasnost depozitara fonda
+prenosioca, imenovalo društvo za upravljanje koje upravlja fondom prenosiocem.
+Na osnovu revizije iz stava 1. ovog člana, revizor je dužan da izradi revizorski
+izveštaj o pripajanju koji sadrži nalaz revizora o:
+1) tome da li se predloženim pripajanjem poštuje načelo nepromenjivosti
+ekonomskog položaja imalaca investicionih jedinica iz člana 83. ovog pravilnika;
+2) kriterijumima prihvaćenim za vrednovanje iz člana 85. stav 2. tačka
+4) ovog pravilnika;
+3) ispravnosti obračuna mogućih novčanih isplata iz člana 81. ovog pravilnika;
+4) primerenosti metodologije obračuna procenta zamene iz člana 85. stav
+2. tačka 5) ovog pravilnika i tačnosti stvarne proporcije zamene utvrđene na dan obračuna
+te proporcije.
+Revizor svoj revizorski izveštaj o pripajanju podnosi upravama društava
+za upravljanje koja upravljaju fondom prenosiocem i fondom preuzimaocem, a zatim ga društvo
+za upravljanje koje upravlja fondom preuzimaocem u roku od tri radna dana dostavlja Komisiji.
+Ako u postupku pripajanja učestvuje više fondova prenosilaca, revizor sprovodi
+reviziju pripajanja svakog fond prenosioca.
+Društva za upravljanje koja upravljaju fondovima prenosiocima mogu, u dogovoru
+sa depozitarima tih UCITS fondova, odrediti da reviziju pripajanja sprovede isti revizor
+koji izrađuje jedinstveni izveštaj o pripajanju u kom se zasebno obrađuje svaki fond prenosilac.
+U slučaju iz stava 5. ovog člana se u izveštaju za svaki fond prenosilac
+navode elementi iz stava 2. ovog člana.
+Na odgovornost za štetu revizora koji izrađuje izveštaj iz stava 2. ovog
+člana shodno se primenjuju odredbe propisa kojim se uređuje revizija.
+Troškovi revizije ne mogu biti plaćeni iz imovine UCITS fondova koji učestvuju
+u postupku pripajanja.
+Pristup podacima o pripajanju
+Član 90
+Članovi fonda prenosioca i fonda preuzimaoca od društava za upravljanje
+koja upravljaju tim UCITS fondovima mogu zahtevati kopiju izveštaja revizora o pripajanju.
+Društvo za upravljanje je dužno da članu fonda besplatno učini dostupnom
+kopiju izveštaja revizora o pripajanju, najkasnije sledećeg radnog dana od dana prijema pisanog
+zahteva.
+Kopija izveštaja o pripajanju se članu fonda može dostaviti i u elektronskom
+obliku.
+Pravo na otkup investicionih jedinica
+Član 91
+Član fonda prenosioca može od društva za upravljanje da zahteva:
+1) da fond prenosilac otkupi njegove investicione jedinice, pri čemu nije
+dužan da plati izlaznu naknadu;
+2) da društvo za upravljanje koje upravlja fondom prenosiocem zameni njegove
+investicione jedinice u fondu prenosiocu za investicione jedinice drugog UCITS fonda slične
+strategije upravljanja rizicima kojim upravlja to društvo za upravljanje ili neko drugo društvo
+za upravljanje sa kojim je to društvo za upravljanje povezano zajedničkom upravom ili kontrolom
+ili direktnim ili indirektnim učešćem u kapitalu. U tom slučaju ne naplaćuju se izlazna i
+ulazna naknada.
+Član fonda preuzimaoca može od društva za upravljanje zahtevati:
+1) da fond preuzimalac otkupi njegove investicione jedinice, pri čemu imalac
+investicionih jedinica nije dužan da plati izlaznu naknadu;
+2) da društvo za upravljanje koje upravlja fondom preuzimaocem zameni njegove
+investicione jedinice u fondu preuzimaocu za investicione jedinice drugog UCITS fonda slične
+strategije upravljanja rizicima kojim upravlja to društvo za upravljanje ili neko drugo društvo
+za upravljanje sa kojim je to društvo za upravljanje povezano zajedničkom upravom ili kontrolom
+ili direktnim ili indirektnim učešćem u kapitalu. U tom slučaju ne naplaćuju se izlazna i
+ulazna naknada.
+Članovi UCITS fondova imaju pravo na otkup pod uslovima iz st. 1. i 2.
+ovog člana od dana prijema obaveštenja iz člana 87. st. 1. i 2. ovog pravilnika, a to pravo
+prestaje zabranom daljeg izdavanja ili otkupa investicionih jedinica u skladu sa članom 92.
+stav 1. ovog pravilnika.
+Sprovođenje pripajanja
+Član 92
+Pet radnih dana pre dana obračuna proporcije zamene zabranjeno je svako
+dalje izdavanje ili otkup investicionih jedinica u fondu prenosiocu i fondu preuzimaocu.
+Zabrana iz stava 1. ovog člana traje do dana sprovođenja pripajanja, uključujući
+i taj dan, ali ne duže od 15 dana.
+Društva za upravljanje koja upravljaju fondom prenosiocem i fondom preuzimaocem
+moraju, prema stanju na dan obračuna proporcije zamene i prema metodologiji opisanoj u nacrtu
+ugovora o pripajanju, odrediti proporciju zamene prema kojoj će se sprovesti zamena investicionih
+jedinica u fondu prenosiocu za investicione jedinice u fondu preuzimaocu, uz moguće novčane
+isplate.
+Društva za upravljanje koja upravljaju fondom prenosiocem i fondom preuzimaocem
+dužna su da na dan sprovođenja pripajanja sprovedu celokupni prenos imovine i obaveza u vezi
+sa svakim UCITS fondom koji učestvuje u postupku pripajanja predviđen nacrtom ugovora o pripajanju.
+Društva za upravljanje koja upravljaju fondom prenosiocem i fondom preuzimaocem
+dužna su da na dan sprovođenja pripajanja članovima fonda prenosioca zamene investicione
+jedinice u fondu prenosiocu za investicione jedinice u fondu preuzimaocu, u skladu sa proporcijom
+zamene iz stava 3. ovog člana.
+Društva za upravljanje koja upravljaju fondom prenosiocem i fondom preuzimaocem
+ne mogu sprovoditi prenos imovine i obaveza i zamenu investicionih jedinica u skladu sa odredbama
+ovog člana, ako revizor prethodno nije izdao pozitivno mišljenje o pripajanju.
+Kao posledica sprovođenja pripajanja, ograničenja ulaganja imovine fonda
+preuzimaoca koja su propisana Zakonom i prospektom fonda preuzimaoca, mogu biti prekoračena
+u prvih 60 dana od dana sprovođenja statusne promene.
+Obaveštavanje Komisije i depozitara
+Član 93
+Društvo za upravljanje koje upravlja fondom preuzimaocem dužno je da naredni
+radni dan nakon sprovođenja statusne promene o tome obavesti Komisiju i depozitara fonda
+preuzimaoca.
+Objavljivanje informacija o sprovođenju pripajanja
+Član 94
+Društvo za upravljanje koje upravlja fondom preuzimaocem dužno je da narednog
+radnog dana nakon sprovedenog pripajanja na svojoj internet stranici objavi informaciju o
+sprovedenom pripajanju.
+Troškovi pripajanja
+Član 95
+Sve troškove koji nastanu u vezi sa sprovođenjem pripajanja snose društva
+za upravljanje koja upravljaju fondom prenosiocem i fondom preuzimaocem.
+Odgovornost za štetu društva za upravljanje i članova njegove
+uprave
+Član 96
+Društva za upravljanje koja upravljaju fondom prenosiocem i fondom preuzimaocem
+i članovi njihove uprave odgovorni su za štetu koja zbog sprovođenja pripajanja nastane članovima
+tih UCITS fondova, osim ako dokažu da su u postupku pripajanja postupali sa pažnjom dobrog
+stručnjaka.
+Spajanje
+Član 97
+Na postupak spajanja UCITS fondova shodno se primenjuju odredbe ovog pravilnika
+koje uređuju postupak pripajanja UCITS fondova.
+Organizovanje fonda preuzimaoca spajanjem
+Član 98
+U postupku organizovanja fonda preuzimaoca spajanjem primenjuju se odredbe
+čl. 38-40. Zakona.
+XI RASPUŠTANJE UCITS FONDA
+Član 99
+U skladu sa članom 72. stav 2. Zakona raspuštanje UCITS fonda sprovodi
+se u slučajevima predviđenim Zakonom i prospektom.
+Raspuštanje UCITS fonda sprovode:
+1) društvo za upravljanje koje upravlja UCITS fondom koji se raspušta,
+osim ako se nad njim sprovodi stečajni postupak ili mu je Komisija oduzela dozvolu za rad;
+2) depozitar UCITS fonda, u slučaju kada društvo za upravljanje nije u
+mogućnosti da sprovede raspuštanje iz razloga navedenih u tački 1. ovog stava;
+3) lice koje je imenovala Komisija, kada lica navedena pod tač. 1. i 2.
+ovog stava zbog oduzimanja dozvola za rad, odnosno zbog toga što se nad njima sprovodi stečajni
+postupak, nisu u mogućnosti da sprovedu raspuštanje.
+Odmah nakon nastupanja razloga za raspuštanje UCITS fonda lice iz stava
+2. ovog člana (u daljem tekstu: likvidator) bez odlaganja donosi u pisanom obliku odluku
+o raspuštanju UCITS fonda, i o tome obaveštava Komisiju i depozitara najkasnije sledećeg
+radnog dana.
+Ukoliko UCITS fond nema imovinu i članove u periodu dužem od 30 dana, društvo
+za upravljanje je dužno da bez odlaganja donese odluku o raspuštanju UCITS fonda iz stava
+3. ovog člana, kojom se postupak raspuštanja istovremeno pokreće i završava.
+U slučaju iz stava 1. tačka 3) ovog člana Komisija može imenovati fizičko
+ili pravno lice, pri čemu fizičko lice mora da ispunjava uslove za obavljanje funkcije člana
+uprave društva za upravljanje propisane Zakonom i pravilnikom kojim se uređuje obavljanje
+delatnosti društava za upravljanje, a ukoliko je Komisija imenovala pravno lice ono mora
+imati na rukovodećoj poziciji lice koje ispunjava uslove za obavljanje funkcije člana uprave
+društva za upravljanje propisane Zakonom i pravilnikom kojim se uređuje obavljanje delatnosti
+društava za upravljanje.
+Obaveštavanje članova UCITS fonda i Komisije o raspuštanju
+Član 100
+Likvidator je dužan da u roku od tri radna dana od donošenja odluke o raspuštanju
+UCITS fonda, odnosno od dana imenovanja likvidatora iz člana 99. stav 2. tačka 3) ovog pravilnika
+svakom članu UCITS fonda dostavi obaveštenje o pokretanju postupka raspuštanja UCITS fonda
+i da isto objavi na svojoj internet stranici, osim ako raspuštanje sprovodi lice iz člana
+99. stav 2. tačka 3) ovog pravilnika i u tom slučaju se obaveštenje o pokretanju postupka
+raspuštanja UCITS fonda objavljuje na internet stranici Komisije i na internet stranici tog
+lica, ako je ima.
+Obaveštenje iz stava 1. ovog člana mora da sadrži:
+1) naziv i sedište, odnosno ime i prezime i adresu prebivališta likvidatora;
+2) naziv UCITS fonda;
+3) datum donošenja odluke o raspuštanju;
+4) razloge za sprovođenje postupka raspuštanja;
+5) kratko obrazloženje postupka raspuštanja, uključujući i predviđeni rok
+trajanja i uticaj na članove fonda;
+6) navođenje pravnih posledica raspuštanja iz člana 73. Zakona;
+7) mesto, vreme i način na koji se mogu pribaviti dodatne informacije o
+postupku raspuštanja.
+Izveštavanje Komisije o toku raspuštanja
+Član 101
+Likvidator je dužan da u roku od 30 dana od dana donošenja odluke o raspuštanju,
+odnosno od dana svog imenovanja od strane Komisije u skladu sa članom 99. stav 2. tačka 3)
+ovog pravilnika dostavi pisanim putem Komisiji i depozitaru plan raspuštanja i izveštaj o
+stanju imovine i obaveza UCITS fonda na dan koji je prethodio donošenju odluke o raspuštanju
+UCITS fonda.
+Likvidator je dužan da u roku od 60 dana od dana donošenja odluke o raspuštanju
+UCITS fonda, odnosno od dana njegovog imenovanja, Komisiji dostavi revidirane godišnje finansijske
+izveštaje i druge izveštaje koje je dužan da dostavlja Komisiji u skladu sa Zakonom, sa stanjem
+na dan koji prethodi danu donošenja odluke o raspuštanju UCITS fonda.
+Likvidator je dužan da na mesečnom nivou, a najkasnije do petog radnog
+dana u mesecu za prethodni mesec dostavi pisanim putem Komisiji izveštaj o toku postupka
+raspuštanja i sprovedenim radnjama u vezi sa postupkom raspuštanja, a u skladu sa planom
+raspuštanja.
+Likvidator je dužan da u roku od 15 dana od dana namirenja svih obaveza
+UCITS fonda i isplate preostale imovine članovima fonda sačini i dostavi Komisiji završni
+izveštaj i izveštaj o sprovedenom raspuštanju.
+Izuzetno, u slučaju sprovođenja postupka raspuštanja u skladu sa članom
+99. stav 4. ovog pravilnika, likvidator je dužan da u roku od 30 dana od dana donošenja odluke
+o raspuštanju sačini i dostavi Komisiji i depozitaru izveštaj o stanju imovine i obaveza
+na dan koji prethodi danu donošenja odluke o raspuštanju.
+Nakon okončanja postupka raspuštanja, likvidator je dužan da čuva svu poslovnu
+dokumentaciju u skladu sa računovodstvenim propisima.
+Rok za sprovođenje raspuštanja UCITS fonda
+Član 102
+Rok za sprovođenje postupka raspuštanja UCITS fonda je šest meseci od dana
+donošenja odluke o raspuštanju.
+Likvidator je dužan da u planu raspuštanja navede rok u kom će se okončati
+postupak raspuštanja.
+Rok iz stava 1. ovog člana može se produžiti najviše za 6 meseci, ako likvidator
+oceni da je produženje roka u interesu članova fonda, ili ukoliko iz objektivnih razloga
+nije moguće okončati postupak raspuštanja u tom roku.
+U slučaju iz stava 3. ovog člana, likvidator je dužan da obrazloži produženje
+roka za sprovođenje postupka raspuštanja, kao i da donese izmenjen i dopunjen plan raspuštanja
+koji Komisiji dostavlja pre isteka roka iz stava 1. ovog člana.
+Ukoliko ni produženi rok iz stava 3. ovog člana nije dovoljan da se zaštite
+interesi članova fonda, odnosno ukoliko iz objektivnih razloga ni u produženom roku nije
+moguće okončati postupak raspuštanja, likvidator može na način propisan st. 3. i 4. ovog
+člana produžiti rok za sprovođenje postupka raspuštanja za dodatnih šest meseci, odnosno
+dokle god postoje objektivni razlozi zbog kojih okončanje postupka raspuštanja nije moguće.
+Unovčavanje imovine UCITS fonda i isplata članovima fonda
+Član 103
+U postupku raspuštanja UCITS fonda likvidator unovčava imovinu UCITS fonda
+njenom prodajom.
+Likvidator je dužan da u postupku sprovođenja raspuštanja, postupa u najboljem
+interesu članova fonda i da vodi računa da se raspuštanje sprovede u razumnom roku, pri čemu
+se prvo imovina UCITS fonda unovčava prodajom imovine, nakon čega se izmiruju obaveze UCITS
+fonda dospele do dana donošenja odluke o raspuštanju, uključujući zahteve za otkup investicionih
+jedinica u UCITS fondu koji su podneti do dana donošenja odluke o raspuštanju, nakon čega
+se podmiruju sve druge obaveze UCITS fonda koje nisu dospele do dana donošenja odluke o raspuštanju,
+a proizlaze iz transakcija povezanih uz upravljanje imovinom.
+Izuzetno od stava 1. ovog člana, u postupku raspuštanja glavnog UCITS fonda
+ne mora se unovčiti celokupna imovina, već se deo imovine glavnog UCITS fonda može raspodeliti
+prenosom imovine pratećem UCITS fondu, kada društvo za upravljanje pratećim UCITS fondom
+tako odluči i kada je to predviđeno ugovorom između društva za upravljanje pratećim UCITS
+fondom i društva za upravljanje glavnim UCITS fondom, internim pravilima poslovanja ili odlukom
+o raspuštanju.
+Likvidator počinje sa unovčavanjem imovine UCITS fonda nakon što Komisiji
+dostavi plan raspuštanja i izveštaj o stanju imovine i obaveza UCITS fonda.
+Izuzetno od stava 1. ovog člana, likvidator može delove imovine UCITS fonda
+kao što su depoziti, finansijski instrumenti, kratkoročne i dugoročne hartije od vrednosti
+unovčiti i na drugi odgovarajući način koji ne uključuje prodaju (npr. dospeće), vodeći se
+pri tome prvenstveno interesima članova fonda i rokom predviđenim za raspuštanje.
+Likvidator može u ime i za račun UCITS fonda zaključivati samo one pravne
+poslove koji su potrebni za zaštitu imovine UCITS fonda, njeno unovčavanje i namirenje obaveza
+UCITS fonda.
+Likvidator može zastupati UCITS fond u pravnim poslovima u vezi sa imovinom
+UCITS fonda, ali samo u cilju zaštite imovine UCITS fonda, odnosno interesa članova fonda.
+Nakon što su namirene obaveze UCITS fonda iz stava 2. ovog člana, likvidator
+sastavlja predlog raspodele preostale neto vrednosti imovine UCITS fonda članovima fonda
+srazmerno njihovim investicionim jedinicama.
+Ukoliko je unovčen samo deo imovine UCITS fonda, a namirene su obaveze
+UCITS fonda u skladu sa stavom 2. ovog člana, likvidator može sastaviti predlog raspodele
+samo za deo unovčene imovine UCITS fonda članovima fonda, srazmerno njihovim investicionim
+jedinicama, ukoliko je to u njihovom interesu.
+Ukoliko se usled zastoja u postupku unovčenja imovine UCITS fonda vrše
+isplate članovima fonda srazmerno njihovim investicionim jedinicama u UCITS fondu u više
+navrata, likvidator je dužan da prilikom svake isplate članovima fonda obavesti članove o
+imovini čije se unovčenje čeka, kao i razlozima usled kojih unovčenje imovine nije izvršeno
+i ukoliko je moguće o roku u kom se očekuje unovčenje imovine.
+Obaveštenje iz stava 9. ovog člana dostavlja se članovima fonda u pisanoj
+formi, ili putem drugog odgovarajućeg trajnog nosača podataka.
+Ukoliko nije moguće sprovesti postupak raspuštanja, odnosno ukoliko nije
+moguće unovčiti imovinu UCITS fonda i isplatiti članovima fonda srazmerni deo neto vrednosti
+imovine UCITS fonda ni u produženom roku iz člana 102. st. 3. i 5. ovog pravilnika, likvidator
+može u cilju okončanja postupka raspuštanja preostalu imovinu UCITS fonda preneti na članove
+fonda, srazmerno njihovim investicionim jedinicama, ukoliko se nijedan član fonda tome ne
+protivi.
+Prospektom se može propisati i drugačiji način raspodele imovine UCITS
+fonda od načina predviđenog stavom 11. ovog člana, pod uslovom da se svi članovi fonda saglase
+sa takvom raspodelom.
+Prilikom svake isplate dela preostale neto vrednosti imovine UCITS fonda,
+članovima fonda moraju da budu stavljeni na raspolaganje izveštaji iz kojih se vidi stanje
+imovine i obaveza UCITS fonda u postupku raspuštanja.
+Član 104
+Nakon okončanja postupka raspuštanja UCITS fonda i izvršenja obaveza iz
+člana 101. st. 4. i 5. ovog pravilnika, okončanje postupka raspuštanja i brisanje UCITS fonda
+se upisuje u Registar društava za upravljanje i Registar UCITS fondova.
+Troškovi raspuštanja
+Član 105
+Od dana donošenja odluke o raspuštanju ne mogu se naplaćivati nikakve naknade
+niti troškovi od UCITS fonda, osim naknada depozitara i troškova vezanih za postupak raspuštanja.
+Troškovi vezani za postupak raspuštanja UCITS fonda uključuju troškove
+unovčenja imovine UCITS fonda, namirenje obaveza UCITS fonda i eventualne raspodele imovine
+članovima fonda, troškove obaveštavanja članova fonda iz člana 100. i člana 103. stav 9.
+ovog pravilnika, troškove revizije tokom postupka raspuštanja, naknadu likvidatora i sve
+druge neophodne troškove u postupku raspuštanja, odnosno troškove za koje likvidator proceni
+da su u interesu članova fonda.
+U slučaju iz člana 99. stav 2. tačka 3) ovog pravilnika, naknadu likvidatora
+određuje Komisija, dok u svim drugim slučajevima iznos primerene naknade određuje likvidator
+uz prethodnu saglasnost Komisije.
+Troškovi koji proisteknu ili su u vezi sa postupkom raspuštanja UCITS fonda
+i naknada likvidatora isplaćuju se iz imovine UCITS fonda nakon namirenja obaveza dospelih
+pre dana donošenja odluke o raspuštanju, a pre namirenja ostalih obaveza UCITS fonda i raspodele
+imovine članovima UCITS fonda.
+XII GLAVNI I PRATEĆI UCITS FOND
+Sadržaj ugovora o razmeni informacija između društava za
+upravljanje glavnog i pratećeg UCITS fonda
+Član 106
+Društva za upravljanje glavnim i pratećim UCITS fondom dužna su da zaključe
+ugovor o razmeni svih informacija i dokumentacije koja je potrebna da bi prateći UCITS fond
+i društvo koje njim upravlja ispunjavali zahteve i obaveze predviđene Zakonom i ovim pravilnikom.
+Ugovor iz stava 1. ovog člana obavezno sadrži:
+1) informacije o načinu i rokovima u kojima društvo za upravljanje glavnim
+UCITS fondom dostavlja društvu za upravljanje pratećim UCITS fondom svoja pravila, prospekt
+i ključne informacije, kao i sve njihove izmene i dopune;
+2) informacije o načinu i rokovima u kojima društvo za upravljanje glavnim
+UCITS fondom obaveštava društvo za upravljanje pratećim UCITS fondom o delegiranju poslova
+upravljanja imovinom ili upravljanja rizicima;
+3) kada je to primenjivo, informacije o načinu i rokovima u kojima društvo
+za upravljanje glavnim UCITS fondom dostavlja društvu za upravljanje pratećim UCITS fondom
+internu dokumentaciju kojom su opisani poslovni procesi kao što su sistem upravljanja rizicima
+i izveštaji o praćenju usklađenosti sa relevantnim propisima;
+4) informacije o načinu i rokovima u kojima društvo za upravljanje glavnim
+UCITS fondom obaveštava društvo za upravljanje pratećim UCITS fondom o kršenju zakona i/ili
+pravila glavnog UCITS fonda, kao i ugovora iz stava 1. ovog člana, od strane društva za upravljanje
+glavnim UCITS fondom;
+5) u slučaju da prateći UCITS fond koristi izvedene finansijske instrumente,
+informacije o načinu i rokovima u kojima društvo za upravljanje glavnim UCITS fondom obaveštava
+društvo za upravljanje pratećim UCITS fondom o svojoj stvarnoj izloženosti prema izvedenim
+finansijskim instrumentima, kako bi omogućio pratećem UCITS fondu da obračunava svoju ukupnu
+izloženost;
+6) obavezu društva za upravljanje glavnim UCITS fondom da obaveštava društvo
+za upravljanje pratećim UCITS fondom o svim ugovorima o razmeni informacija koje je zaključilo
+s trećim licima i, kada je to primenjivo, način i rokove u kojima navedene ugovore dostavlja
+društvu za upravljanje pratećim UCITS fondom;
+7) naknade i troškove koje će snositi prateći UCITS fond kao i podatke
+o mogućem snižavanju ili povraćaju naknada ili troškova od strane glavnog UCITS fonda;
+8) kada je to primenjivo, uslove u skladu sa kojim se može sprovesti početni
+ili naknadni prenos imovine pratećeg UCITS fonda na glavni UCITS fond;
+9) mere koje su društva za upravljanje koja upravljaju glavnim i pratećim
+UCITS fondovima dužna da preduzimaju radi usklađivanja vremena za obračun i objavljivanje
+neto vrednosti imovine i cene investicionih jedinica u glavnom i pratećem UCITS fondu, u
+cilju sprečavanja mogućih zloupotreba koje bi mogle nastati zbog vremenske neusklađenosti
+tog dana i vremena;
+10) pojedinosti oko izvršenja zahteva za izdavanje i otkup investicionih
+jedinica, uključujući, kada je to primenjivo, i uloge trećih lica;
+11) mere koje je potrebno preduzeti ako je jedan od UCITS fondova ili su
+oba UCITS fonda uvršteni ili se njihovim investicionim jedinicama trguje na sekundarnom tržištu;
+12) kada je to primenjivo, ostale mere koje je potrebno preduzeti za usklađivanje
+vremena za obračun i objavljivanje neto vrednosti imovine, kako bi se sprečile moguće zloupotrebe
+razlika u njihovim cenama investicionih jedinica;
+13) kada su investicione jedinice pratećeg i glavnog UCITS fonda denominovani
+u različitim valutama, kurs po kom će se računati zahtevi društva za upravljanje koje upravlja
+pratećim UCITS fondom za izdavanje i otkup investicionih jedinica;
+14) specifičnosti i rokove plaćanja pri izdavanju i otkupu investicionih
+jedinica glavnog UCITS fonda, kada je to dogovoreno između ugovornih strana, uslove po kojima
+glavni UCITS fond može izvršiti zahteve za isplatu prenosom imovine na prateći UCITS fond,
+posebno u slučajevima raspuštanja ili statusne promene glavnog UCITS fonda;
+15) postupke koji obezbeđuju da se sa zahtevima i primedbama članova fonda
+primereno postupa;
+16) kada pravila i/ili prospekt glavnog UCITS fonda daju određena prava
+ili ovlašćenja investitorima, a društvo za upravljanje glavnim UCITS fondom odluči da ograniči
+ili uskrati sva ili neka od tih prava i ovlašćenja pratećem UCITS fondu, način i uslove pod
+kojima se takva odluka donosi;
+17) informacije o načinu i rokovima obaveštavanja o privremenoj obustavi
+i nastavku otkupa ili izdavanja investicionih jedinica glavnog odnosno pratećeg UCITS fonda;
+18) mere koje će se preduzimaju sa ciljem obaveštavanja i otklanjanja uočenih
+nepravilnosti prilikom vrednovanja imovine glavnog UCITS fonda;
+19) kada prateći i glavni UCITS fond imaju iste poslovne godine, informacije
+o usklađenosti izrade njihovih periodičkih izveštaja;
+20) kad prateći i glavni UCITS fond imaju različite poslovne godine, uslove
+koji omogućuju društvu za upravljanje pratećim UCITS fondom da dobije sve potrebne informacije
+od društva za upravljanje glavnim UCITS fondom kako bi moglo blagovremeno da izradi svoje
+periodične izveštaje i koji obezbeđuju da revizor glavnog UCITS fonda izradi dodatni izveštaj
+sa istim datumom za koji se sastavlja revizorski izveštaj pratećeg UCITS fonda;
+21) informacije o načinu i rokovima u kojima društvo za upravljanje glavnim
+UCITS fondom obaveštava društvo za upravljanje pratećim UCITS fondom o predloženim i sprovedenim
+izmenama i/ili dopunama pravila UCITS fonda, prospekta i ključnih informacija, ako se te
+informacije razlikuju od dogovorenih uslova za obaveštavanje investitora koji su propisani
+pravilima ili prospektom glavnog UCITS fonda;
+22) informacije o načinu i rokovima u kojima društvo za upravljanje glavnim
+UCITS fondom obaveštava društvo za upravljanje pratećim UCITS fondom o planiranom ili predloženom
+raspuštanju ili statusnoj promeni glavnog UCITS fonda;
+23) informacije o načinu i rokovima u kojima društvo za upravljanje pratećim,
+odnosno društvo za upravljanje glavnim UCITS fondom, obaveštava drugo društvo da su prestali
+ili da će prestati da postoje uslovi prema kojima se fond smatra pratećim, odnosno glavnim
+UCITS fondom;
+24) informacije o načinu i rokovima u kojima društvo za upravljanje pratećim,
+odnosno društvo za upravljanje glavnim UCITS fondom, obaveštava drugo društvo da UCITS fond
+namerava da promeni društvo za upravljanje, depozitara, revizora ili bilo koje treće lice
+na koju su delegirani poslovi upravljanja imovinom i upravljanja rizicima;
+25) informacije o načinu i rokovima obaveštavanja o drugim promenama utvrđenih
+uslova poslovanja za koje se društvo za upravljanje glavnim UCITS fondom obavezalo da će
+ih dostaviti;
+26) izričitu odredbu, ukoliko su glavni i prateći UCITS fond organizovani
+u istoj državi, da je merodavno pravo za tumačenje i primenu ugovora iz stava 1. ovog člana
+pravo te države, kao i izričitu odredbu da su obe ugovorne strane saglasne sa isključivom
+nadležnošću sudova te države;
+27) izričitu odredbu, ukoliko su glavni i prateći UCITS fond organizovani
+u različitim državama, da je merodavno pravo za tumačenje i primenu ugovora iz stava 1. ovog
+člana pravo države u kojoj je organizovan glavni UCITS fond ili pravo države u kojoj je organizovan
+prateći UCITS fond kao i izričitu odredbu da su obe ugovorne strane saglasne sa isključivom
+nadležnošću sudova države čiju su materijalno pravnu nadležnost ugovorom utvrdili.
+Sadržaj internih pravila poslovanja društva za upravljanje
+glavnim i pratećim UCITS fondom
+Član 107
+Ukoliko isto društvo za upravljanje upravlja i glavnim i pratećim UCITS
+fondom, ugovor iz člana 106. ovog pravilnika zamenjuju interna pravila poslovanja koja moraju
+obezbediti usklađenost pratećeg i glavnog UCITS fonda sa zahtevima i obavezama određenim
+ovim pravilnikom.
+Interna pravila poslovanja iz stava 1. ovog člana obavezno sadrže:
+1) mere za sprečavanje potencijalnog sukoba interesa između pratećeg i
+glavnog UCITS fonda, kao i između pratećeg UCITS fonda i članova glavnog UCITS fonda;
+2) naknade i troškove koje će snositi prateći UCITS fond kao i informacije
+o mogućim snižavanjima ili povraćajima naknada ili troškova od glavnog UCITS fonda;
+3) kada je to primenjivo, uslove u skladu sa kojima se može sprovesti početni
+ili naknadni prenos imovine pratećeg UCITS fonda na glavni UCITS fond;
+4) mere koje je potrebno preduzeti za usklađivanje vremena za obračun i
+objavljivanje neto vrednosti imovine i cene investicione jedinice glavnog i pratećeg UCITS
+fonda, kako bi se sprečile moguće zloupotrebe koje bi mogle nastati zbog vremenske neusklađenosti;
+5) informacije o izvršenju zahteva za izdavanje i otkup investicionih jedinica,
+uključujući, kada je to primenjivo, i uloge trećih lica;
+6) mere koje je potrebno preduzeti ako je jedan od fondova ili su oba fonda
+uključena na trgovanje na regulisanom tržištu ili se njihovim investicionim jedinicama trguje
+na sekundarnom tržištu;
+7) kada su investicione jedinice pratećeg i glavnog UCITS fonda denominirani
+u različitim valutama, kurs po kom će se izvršavati zahtevi društva za upravljanje pratećeg
+UCITS fonda za izdavanje ili otkup investicione jedinice;
+8) informacije i rokove pri izdavanju i otkupu investicionih jedinica glavnog
+UCITS fonda, uključujući, kad je to dogovoreno između ugovornih strana, uslove po kojima
+glavni UCITS fond može izvršiti zahteve za isplatu prenosom imovine na prateći UCITS fond,
+posebno u slučajevima raspuštanja ili statusne promene glavnog UCITS fonda;
+9) kada pravila i/ili prospekt glavnog UCITS fonda daju određena prava
+ili ovlašćenja investitorima, a glavni UCITS fond odluči da ograniči ili se odrekne svih
+ili nekih od tih prava i ovlašćenja u odnosu na investitore pratećeg UCITS fonda, izjavu
+o uslovima pod kojim se takva odluka donosi;
+10) informacije o načinu i rokovima obaveštavanja o privremenoj obustavi
+i nastavku otkupa ili izdavanja investicionih jedinica glavnog, odnosno pratećeg UCITS fonda;
+11) mere koje će se preduzimati s ciljem obaveštavanja i otklanjanja uočenih
+nepravilnosti prilikom vrednovanja imovine glavnog UCITS fonda;
+12) kada prateći i glavni UCITS fond imaju iste poslovne godine, informacije
+o usklađenosti sastavljanja njihovih periodičnih izveštaja;
+13) kada prateći i glavni UCITS fond imaju različite poslovne godine, uslove
+koji omogućuju da je revizor glavnog UCITS fonda u mogućnosti da izradi dodatan izveštaj
+sa istim datumom za koji se sastavlja revizorski izveštaj pratećeg UCITS fonda pravovremenu
+izradu periodičnih izveštaja i koji omogućuju društvu koji upravlja pratećim UCITS fondom
+da dobije sve potrebne informacije od društva koje upravlja glavnim UCITS fondom kako bi
+mogao blagovremeno da sastavi svoje periodične izveštaje i koji obezbeđuju da je revizor
+glavnog UCITS fonda u mogućnosti da izradi dodatni izveštaj sa istim datumom za koji se sastavlja
+revizorski izveštaj pratećeg UCITS fonda u skladu sa članom 109. ovog pravilnika.
+Sadržaj ugovora o razmeni informacija između depozitara
+glavnog i pratećeg UCITS fonda
+Član 108
+Ako glavni i prateći UCITS fond imaju različite depozitare, njihovi depozitari
+su dužni da zaključe ugovor o razmeni svih informacija potrebnih da oba depozitara ispunjavaju
+zahteve i obaveze predviđene Zakonom i ovim pravilnikom.
+Ugovor iz stava 1. ovog člana obavezno sadrži:
+1) definisanje dokumentacije i informacija koje depozitari redovno međusobno
+razmenjuju i informacije o tome da li takve dokumente dostavlja jedan depozitar drugom ili
+su dostupni na zahtev;
+2) informacije o načinu i rokovima u kojima se takve informacije i dokumentacija
+razmenjuju između depozitara glavnog i pratećeg UCITS fonda;
+3) informacije vezane za usklađivanje poslovanja oba depozitara u operativnim
+pitanjima, sa posebnim osvrtom na:
+(1) postupak za obračun neto vrednosti imovine svakog UCITS fonda,
+uključujući sve primerene mere za sprečavanje zloupotrebe razlika u ceni investicionih jedinica,
+(2) obrađivanje naloga pratećeg UCITS fonda za izdavanje ili otkup
+investicionih jedinica u glavnom UCITS fondu kao i izvršenje takvih transakcija, uključujući
+sve dogovorene uslove za prenos imovine;
+4) usklađivanje postupaka pri zaključenju poslovne godine;
+5) informacije o kršenju Zakona i pravila poslovanja od strane glavnog
+UCITS fonda koje mora dostaviti depozitar glavnog UCITS fonda depozitaru pratećeg UCITS fonda
+kao i način i rokove njihove dostave;
+6) procedure postupanja sa
+ad hoc
+zahtevima za pomoć koje jedan
+depozitar zatraži od drugog;
+7) definisanje o kojim posebnim nepredvidivim događajima se depozitari
+moraju međusobno obaveštavati na
+ad hoc
+osnovi kao i način i rokove obaveštavanja
+(npr. u slučajevima više sile);
+8) definisanje merodavnog prava.
+Ugovor o razmeni informacija između revizora glavnog i pratećeg
+UCITS fonda
+Član 109
+Ako glavni i prateći UCITS fond imaju različite revizore, njihovi revizori
+su dužni da zaključe ugovor o razmeni svih informacija potrebnih da oba revizora ispunjavaju
+zahteve i obaveze predviđene Zakonom i ovim pravilnikom.
+Revizori pratećeg UCITS fonda u svom revizorskom izveštaju:
+1) uzimaju u obzir revizorski izveštaj glavnog UCITS fonda; i
+2) izveštavaju o mogućim nepravilnostima otkrivenim u revizorskom izveštaju
+glavnog UCITS fonda i njihovom uticaju na prateći UCITS fond.
+Ako glavni i prateći UCITS fond imaju različite poslovne godine, glavni
+UCITS fond je dužan da sastavi izveštaje na isti datum na koji izveštaje sastavlja i prateći
+UCITS fond i na osnovu istih računovodstvenih politika koje je pri sastavljanju izveštaja
+primenio prateći fond, a revizori glavnog UCITS fonda moraju da izrade dodatni izveštaj za
+glavni UCITS fond sa istim datumom za koji se sastavlja revizorski izveštaj pratećeg UCITS
+fonda.
+Dužnost dostavljanja informacija depozitaru i izveštavanje
+o nepravilnostima od strane depozitara glavnog UCITS fonda
+Član 110
+Društvo za upravljanje pratećim UCITS fondom, dužno je da depozitaru pratećeg
+UCITS fonda dostavi sve informacije u vezi sa glavnim UCITS fondom, koje su potrebne za ispunjavanje
+zahteva i obaveza depozitara predviđene Zakonom.
+Ako depozitar glavnog UCITS fonda pri obavljanju poslova depozitara za
+glavni UCITS fond utvrdi kršenje Zakona, pravila i prospekta glavnog UCITS fonda koje bi
+moglo da utiče negativno na položaj pratećeg UCITS fonda, o tome je dužan da bez odlaganja
+obavesti Komisiju, društvo za upravljanje i depozitara pratećeg UCITS fonda.
+Nepravilnosti i nezakonitosti iz stava 2. ovog člana koje mogu imati negativan
+uticaj na prateći UCITS fond, između ostalog uključuju:
+1) greške u obračunu neto vrednosti imovine glavnog UCITS fonda;
+2) greške u transakcijama ili izvršenju pri izdavanju ili otkupu investicionih
+jedinica u glavnom UCITS fondu od strane pratećeg UCITS fonda;
+3) greške u plaćanju ili kapitalizaciji dobiti iz glavnog UCITS fonda ili
+u obračunu mogućeg povezanog poreza po odbitku;
+4) povrede ciljeva, politika ili strategija ulaganja glavnog UCITS fonda
+navedenih u njegovim pravilima poslovanja ili prospektu;
+5) povrede ograničenja ulaganja i zaduživanja navedenih u ovom pravilniku
+i pravilima poslovanja ili prospektu glavnog UCITS fonda.
+Obaveštavanje i prava članova pratećeg UCITS fonda
+Član 111
+Društvo za upravljanje pratećim UCITS fondom je dužno da svojim članovima,
+na njihov zahtev besplatno dostavi:
+1) pravila i prospekt glavnog UCITS fonda;
+2) revidirane godišnje izveštaje glavnog UCITS fonda;
+3) polugodišnje izveštaje glavnog UCITS fonda; i
+4) ugovor između društava za upravljanje glavnog i pratećeg UCITS fonda
+iz člana 86. stav 2. Zakona, odnosno interna pravila poslovanja iz člana 86. stav 5. Zakona.
+Društvo za upravljanje je dužno da u svim marketinškim materijalima povezanim
+sa pratećim UCITS fondom kojim upravlja navede da se radi o pratećem UCITS fondu kao i da
+navede naziv jednog ili više glavnih UCITS fondova.
+Društvo za upravljanje UCITS fondom koje dobije odobrenje Komisije da ulaže
+u glavni UCITS fond, odnosno odobrenje da promeni glavni UCITS fond u koji ulaže, dužno je
+da članovima pratećeg UCITS fonda dostavi informacije u skladu sa članom 89. stav 1. Zakona.
+Informacije iz stava 1. ovog člana dostavljaju se u pisanom obliku na adresu
+imalaca investicionih jedinica pratećeg UCITS fonda koja je prijavljena u Registru investicionih
+jedinica, a dostavljanje se smatra izvršenim danom slanja preporučene pošiljke na tu adresu.
+Ukoliko je imalac investicione jedinice eksplicitno odobrio društvu za
+upravljanje da se dostava pismena vrši elektronskim putem na njegovu adresu za prijem elektronske
+pošte, informacija iz stava 1. ovog člana dostavlja se elektronskim putem na adresu elektronske
+pošte koju mu je član fonda dostavio, a dostavljanje se smatra izvršenim danom slanja elektronske
+pošte.
+Ukoliko je imalac investicione jedinice eksplicitno odabrao obaveštavanje
+preko internet stranice društva za upravljanje, društvo za upravljanje može da izvrši obaveštavanje
+na ovaj način pod uslovom da:
+1) je član fonda putem elektronske pošte obavešten o adresi internet stranice
+društva za upravljanje, i mestu na internet stranici gde se traženim podacima može pristupiti;
+2) su podaci neprekidno dostupni i da se redovno ažuriraju; i
+3) član fonda traženim podacima pristupa putem dodeljenog korisničkog imena
+i lozinke.
+Raspuštanje glavnog UCITS fonda
+Član 112
+Po donošenju odluke o raspuštanju glavnog UCITS fonda društvo za upravljanje
+koje upravlja pratećim UCITS fondom mora započeti raspuštanje pratećeg UCITS fonda, pri čemu
+je o nameravanom raspuštanju dužno da bez odlaganja obavesti članove pratećeg UCITS fonda.
+Stav 1. ovog člana ne primenjuje se ako Komisija društvu za upravljanje
+koje upravlja pratećim UCITS fondom da odobrenje za:
+1) ulaganje najmanje 85% imovine pratećeg UCITS fonda u investicione jedinice
+drugog glavnog UCITS fonda; ili
+2) izmenu prospekta UCITS fonda, kako bi se omogućilo pretvaranje pratećeg
+UCITS fonda u UCITS fond koji nije prateći UCITS fond.
+Društvo za upravljanje pratećim UCITS fondom dužno je obaveštenje o nameravanom
+raspuštanju pratećeg UCITS fonda, odnosno zahtev za davanje odobrenja iz stava 2. ovog člana
+dostavi Komisiji u roku od dva meseca od dana kada je primilo obaveštenje o nameravanom raspuštanju
+glavnog UCITS fonda.
+Ako je obaveštenje o raspuštanju glavnog UCITS fonda društvo za upravljanje
+pratećim UCITS fondom primilo više od pet meseci od početka raspuštanja glavnog UCITS fonda,
+društvo za upravljanje pratećim UCITS fondom dužno je da predmetni zahtev, odnosno obaveštenje
+Komisiji dostavi najkasnije tri meseca pre početka raspuštanja glavnog UCITS fonda.
+Član 113
+U slučaju iz člana 112. stav 2. tačka 1. ovog pravilnika društvo za upravljanje
+pratećim UCITS fondom, uz zahtev za davanje odobrenja za promenu glavnog UCITS fonda, Komisiji
+dostavlja dokumentaciju iz člana 85. st. 2. i 6. Zakona.
+Izdavanjem odobrenja za promenu glavnog UCITS fonda, smatra se da su odobrene
+bitne promene prospekta pratećeg UCITS fonda kao i promene obaveznog sadržaja pravila poslovanja
+pratećeg UCITS fonda.
+Član 114
+Komisija će o zahtevima iz člana 112. stav 2. ovog pravilnika odlučiti
+u roku od 15 dana od dana prijema urednog zahteva.
+Društvo za upravljanje pratećim UCITS fondom dužno je da bez odlaganja
+obavesti društvo za upravljanje glavnim UCITS fondom, kada primi odobrenje Komisije iz stava
+1. ovog člana.
+Nakon što Komisija da odobrenje u skladu sa članom 86. stav 8. tačka 1)
+Zakona društvo za upravljanje pratećim UCITS fondom mora bez odlaganja da preduzme odgovarajuće
+mere radi usklađivanja sa zahtevima iz člana 86. st. 2, 3, 5. i 6. i člana 89. stav 1. Zakona.
+Kad se raspodela sredstava glavnog UCITS fonda vrši pre početka ulaganja
+pratećeg UCITS fonda u drugi glavni UCITS fond, na osnovu člana 86. stav 8. tačka 1) Zakona,
+odnosno pre početka ulaganja u skladu s novim investicionim ciljevima i politikom na osnovu
+člana 86. stav 8. tačka 2) Zakona, Komisija odobrenje iz stava 1. ovog člana izdaje pod sledećim
+uslovima:
+1) sredstva se raspodeljuju pratećem UCITS fondu:
+(1) isplatom u novcu, ili
+(2) u obliku delimičnog ili potpunog prenosa imovine, kada tako
+društvo za upravljanje pratećim UCITS fondom izabere kao i kad je to predviđeno ugovorom
+između društva za upravljanje pratećim i glavnim UCITS fondom odnosno internim pravilima
+poslovanja i odlukom o raspuštanju. U ovom slučaju društvo za upravljanje pratećim UCITS
+fondom može u svakom trenutku unovčiti bilo koji deo imovine koja mu je preneta.
+2) novac koji prateći UCITS fond primi u skladu s ovim stavom može se ponovo
+uložiti i pre početka ulaganja pratećeg UCITS fonda u drugi glavni UCITS fond odnosno pre
+početka ulaganja u skladu s novim investicionim ciljevima i politikom, isključivo u svrhu
+efikasnog upravljanja novcem.
+Član 115
+Raspuštanje glavnog UCITS fonda ne sme se sprovesti pre isteka roka od
+tri meseca od dana kada je društvo za upravljanje glavnim UCITS fondom o nameravanom raspuštanju
+obavestilo članove glavnog UCITS fonda, Komisiju i nadležni organ države u kojoj je izdata
+dozvola za organizovanje, odnosno osnivanje UCITS fonda.
+Statusne promene glavnog UCITS fonda
+Član 116
+Po donošenju odluke o statusnoj promeni glavnog UCITS fonda društvo za
+upravljanje koje upravlja pratećim UCITS fondom mora započeti raspuštanje pratećeg UCITS
+fonda, pri čemu je o nameravanom raspuštanju dužno da bez odlaganja obavesti članove pratećeg
+UCITS fonda.
+Stav 1. ovog člana ne primenjuje se ako Komisija društvu za upravljanje
+koje upravlja pratećim UCITS fondom da odobrenje da:
+1) prateći UCITS fond nastavi da bude prateći UCITS fond glavnom UCITS
+fondu ili drugom UCITS fondu koji nastaje spajanjem ili pripajanjem glavnog UCITS fonda;
+2) uloži najmanje 85% imovine pratećeg UCITS fonda u investicione jedinice
+drugog glavnog UCITS fonda, koji nije nastao spajanjem ili pripajanjem glavnog UCITS fonda;
+ili
+3) izmeni prospekt pratećeg UCITS fonda kako bi pretvorio prateći UCITS
+fond u UCITS fond koji nije prateći UCITS fond.
+Glavni UCITS fond sprovodi statusnu promenu nakon isteka roka od 60 dana
+od dana kada je glavni UCITS fond obavestio članove i Komisiju o nameri sprovođenja statusne
+promene.
+Glavni UCITS fond otkupljuje u roku iz stava 3. ovog člana, na zahtev pratećeg
+UCITS fonda, sopstvene investicione jedinice u UCITS fondu bez naplaćivanja izlazne naknade
+pratećem UCITS fondu.
+Stav 4. ovog člana ne primenjuje se u slučajevima iz stava 2. tačka 1)
+ovog člana.
+XIII PRELAZNE I ZAVRŠNE ODREDBE
+Član 117
+Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o investicionim
+fondovima ("Službeni glasnik RS", broj 5/15).
+Član 118
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije".

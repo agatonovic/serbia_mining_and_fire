@@ -1,0 +1,1153 @@
+Title: ODLUKAO USLOVIMA I NAČINU OBAVLJANJA MENJAČKIH POSLOVA
+URL: https://www.paragraf.rs/propisi/odluka-o-uslovima-i-nacinu-obavljanja-menjackih-poslova.html
+Extracted: 2025-07-06T23:08:46.691087
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+ODLUKA
+O USLOVIMA I NAČINU OBAVLJANJA MENJAČKIH POSLOVA
+("Sl. glasnik RS", br. 84/2018, 86/2018, 53/2020,  32/2022,  67/2022,  39/2023,  21/2025 i 31/2025)
+Osnovne odredbe
+1. Ovom odlukom propisuju se bliži uslovi i način obavljanja poslova kupovine
+(otkupa) od fizičkih lica - rezidenata i nerezidenata i prodaje tim licima efektivnog stranog
+novca i čekova koji glase na stranu valutu (u daljem tekstu: menjački poslovi), uključujući
+i uslove i način davanja ovlašćenja za obavljanje menjačkih poslova.
+2. Pojedini pojmovi, u smislu ove odluke, imaju sledeće značenje:
+1)
+menjač
+je banka, javni poštanski operator i ovlašćeni
+menjač;
+2)
+banka
+je rezident - akcionarsko društvo sa sedištem u
+Republici Srbiji koje ima dozvolu za rad Narodne banke Srbije i obavlja depozitne i kreditne
+poslove, poslove platnog prometa i druge poslove u skladu sa zakonom;
+3)
+javni poštanski operator
+jeste rezident koji se bavi
+pružanjem poštanskih usluga i koji menjačke poslove obavlja na osnovu posebnog zakona kojim
+se uređuje njegova delatnost;
+4)
+ovlašćeni menjač
+je privredni subjekt koji ima ovlašćenje
+Narodne banke Srbije za obavljanje menjačkih poslova i zaključen ugovor o obavljanju tih
+poslova s bankom, odnosno s više banaka;
+5)
+privredni subjekt
+je rezident - pravno lice i preduzetnik
+koji su kao privredni subjekti registrovani kod nadležnog organa;
+6)
+ovlašćenje
+je pismeno ovlašćenje Narodne banke Srbije
+koje ona izdaje privrednom subjektu za obavljanje menjačkih poslova u formi rešenja;
+7)
+menjačko mesto
+je prostorna i organizaciona jedinica
+u kojoj se obavljaju menjački poslovi a koja može da sadrži jedno ili više blagajničkih mesta;
+8)
+blagajničko mesto
+je deo menjačkog mesta na kome se obavljaju
+menjački poslovi, a može biti organizovano i kao isplatno-uplatno blagajničko mesto;
+9)
+isplatno-uplatno blagajničko mesto
+jeste blagajničko mesto na kome se, pored menjačkih poslova, obavljaju i poslovi isplate, odnosno uplate gotovine u dinarima i efektivnom stranom novcu, i to radi punjenja/pražnjenja bankomata, odnosno snabdevanja posebnog blagajničkog mesta;
+10)
+bankomat (automatska menjačnica)
+jeste automatska mašina
+preko koje se obavljaju otkup i prodaja efektivnog stranog novca za dinare, koja je 
+blagajničko mesto odvojeno od isplatno-uplatnog blagajničkog mesta s kojim je povezano u
+pogledu snabdevanja gotovinom u dinarima i u efektivnom stranom novcu i povlačenja otkupljenog
+efektivnog stranog novca i/ili viška gotovine u dinarima, a oba su deo istog menjačkog mesta;
+10a)
+posebno blagajničko mesto
+je blagajničko mesto na kome se privremeno i/ili povremeno obavljaju menjački poslovi u unapred određenom periodu koji ne može biti duži od 30 dana, a koje se nalazi van menjačkog mesta kome pripada, na prostoru na kome ne postoji potreba za redovnim obavljanjem menjačkih poslova, uključujući i lokacije na kojima se održavaju privredne, turističke i slične manifestacije;
+11)
+softver
+je tehnološko-aplikativno rešenje Narodne banke
+Srbije, banke, odnosno javnog poštanskog operatora koje koristi menjač i koje omogućava obavljanje
+menjačkih poslova i dostavljanje izveštaja na propisan način;
+12)
+dnevnik
+blagajne
+je poslovna knjiga koja se vodi
+korišćenjem softvera po svakom menjačkom mestu menjača posebno za menjačke poslove, nezavisno
+od računovodstvenog sistema koji koristi menjač;
+13)
+radni dan
+je svaki dan osim nedelje i dana državnog
+i verskog praznika koji je proglašen neradnim danom u Republici Srbiji;
+14)
+radni dan menjača
+jeste svaki dan u nedelji tokom kog
+menjač obavlja menjačke poslove, odnosno koji je unutrašnjim aktom menjača određen kao radni
+dan;
+15)
+nedelja
+je period od ponedeljka u 0.00 časova do nedelje
+u 24.00 časa;
+16)
+privremeni prestanak obavljanja menjačkih poslova
+jeste
+prestanak obavljanja menjačkih poslova na period do šest meseci, a koji se u skladu sa ovom
+odlukom može produžiti, s tim da ukupno trajanje privremenog prestanka obavljanja menjačkih
+poslova ne može biti duže od godinu dana, i to na jednom menjačkom mestu, na više njih ili
+na svim menjačkim mestima, o čemu ovlašćeni menjač obaveštava Narodnu banku Srbije;
+17)
+trajni prestanak obavljanja menjačkih poslova
+jeste
+prestanak obavljanja menjačkih poslova na jednom menjačkom mestu, na više njih ili na svim
+menjačkim mestima, kad ovlašćeni menjač namerava da trajno prestane da obavlja menjačke poslove
+na tim menjačkim mestima, o čemu podnosi zahtev Narodnoj banci Srbije.
+Uslovi za početak poslovanja - dobijanje ovlašćenja
+3. Privredni subjekt podnosi Narodnoj banci Srbije zahtev za dobijanje
+ovlašćenja.
+Uz zahtev iz stava 1. ove tačke, privredni subjekt prilaže sledeću dokumentaciju,
+na osnovu koje Narodna banka Srbije ceni da li on ispunjava uslove za obavljanje menjačkih
+poslova:
+1) dokaz o upisu u registar kod nadležnog organa;
+2) pismeno zaključen ugovor s bankom u vezi sa obavljanjem menjačkih
+poslova, koji obavezno sadrži spisak s nazivima i važećim adresama menjačkih mesta, kao i
+odredbu da ugovor ne proizvodi pravno dejstvo ako privredni subjekt nema ovlašćenje;
+3) dokaz, ne stariji od šest meseci, da vlasnik, odnosno osnivač
+privrednog subjekta, odnosno direktor/član upravnog odbora i/ili drugo odgovorno lice privrednog
+subjekta, odnosno direktor/član upravnog odbora i/ili drugo odgovorno lice osnivača privrednog
+subjekta i radnik koji će neposredno obavljati menjačke poslove nisu pravnosnažno osuđeni
+za krivična dela protiv privrede, imovine, života i tela, javnog reda i mira, službene dužnosti
+i pravnog saobraćaja, za krivična dela pranja novca i finansiranja terorizma i/ili za drugo
+krivično delo i/ili privredni prestup koji ih čine nepodobnim u vezi sa obavljanjem menjačkih
+poslova;
+4) dokaz, ne stariji od šest meseci, da privredni subjekt - pravno
+lice koje podnosi zahtev i osnivač privrednog subjekta - pravno lice nisu osuđeni pravnosnažnom
+presudom za krivično delo, kao i da se protiv njih ne vodi krivični postupak, u smislu zakona
+kojim se uređuje odgovornost pravnih lica za krivična dela i/ili da nisu osuđeni pravnosnažnom
+presudom za privredni prestup koji ih čini nepodobnim u vezi sa obavljanjem menjačkih poslova,
+u smislu zakona kojim se uređuje privredni prestup;
+5) spisak saradnika vlasnika, odnosno osnivača i odgovornog lica
+privrednog subjekta, podnosioca zahteva iz stava 1. ove tačke, u smislu zakona kojim se uređuje
+devizno poslovanje;
+6) spisak radnika koji će neposredno obavljati menjačke
+poslove, s podacima o identifikacionim brojevima certifikata za obavljanje menjačkih poslova
+za ove radnike, koje je izdala Narodna banka Srbije, odnosno drugi nadležni organ pre 1.
+januara 2019. godine, uz kopije njihovih ličnih karata;
+7) dokaz o stečenoj najmanje srednjoj stručnoj spremi za radnike
+koji će neposredno obavljati menjačke poslove;
+8) potpise lica ovlašćenih za zastupanje ovlašćenog menjača koje
+je overio nadležni organ;
+9) dokaz o osnovu korišćenja poslovnog prostora za obavljanje
+menjačkog posla (dokaz o svojini nad poslovnim prostorom, odnosno ugovor o zakupu na najmanje
+godinu dana ili drugi dokaz da privredni subjekt osnovano koristi poslovni prostor za obavljanje
+menjačkih poslova), odnosno odluku nadležnog organa kojom dokazuje da je dobio dozvolu za
+korišćenje zemljišta kada kao poslovni prostor koristi montažni objekat;
+10) izjavu da poseduje sledeću opremu: metalnu kasu, brojačku mašinu,
+UV lampu i savremene uređaje za otkrivanje falsifikata (uređaje sa senzorima za markere i
+magnetnu detekciju koji otkrivaju većinu falsifikata SAD dolara i uređaje koji otkrivaju
+falsifikate evra);
+11) izjavu da poseduje opremu prema specifikaciji Narodne banke
+Srbije, odnosno banke za korišćenje softvera Narodne banke Srbije, odnosno banke;
+12) izjavu da poseduje video-opremu koja omogućava neprekidno video-snimanje blagajničkog mesta ovlašćenog menjača i čuvanje video-snimaka za najmanje 30 poslednjih dana u kojima je ovlašćeni menjač obavljao menjačke poslove;
+13) dokaz o plaćenim troškovima postupka za dobijanje ovlašćenja
+u skladu sa odlukom kojom se utvrđuje jedinstvena tarifa po kojoj Narodna banka Srbije naplaćuje
+naknadu za izvršene usluge;
+14) obaveštenje o radnom vremenu, kao i o vremenu korišćenja odmora
+u toku rada.
+Na dokaze iz stava 1. ove tačke o kojima se vodi službena evidencija primenjuju
+se odredbe zakona kojim se uređuje upravni postupak o izdavanju uverenja o činjenicama o
+kojima se vodi službena evidencija.
+Ako privredni subjekt namerava da menjačke poslove obavlja i na bankomatu
+koji je odvojen od isplatno-uplatnog blagajničkog mesta koje je odredio za bankomat, ugovor
+sadrži i adresu na kojoj se nalazi bankomat sa naznakom menjačkog mesta kome bankomat i isplatno-uplatno
+blagajničko mesto pripadaju, a uz dokaze iz stava 2. odredba pod 9) ove tačke prilaže se
+i dokument na osnovu koga privredni subjekt koristi lokaciju na kojoj se nalazi bankomat.
+Ako privredni subjekt namerava da menjačke poslove obavlja na menjačkom mestu i/ili na bankomatu koji se nalaze na međunarodnom aerodromu ili luci, u prostoru iza mesta gde se vrši granična provera lica u skladu sa zakonom kojim se uređuje granična kontrola, i/ili u uređenom prostoru za priređivanje posebnih igara na sreću u skladu sa zakonom kojim se uređuju igre na sreću - obavezan je da to navede u zahtevu iz stava 1. ove tačke, kao i da navede detaljne informacije koje se odnose na prostor u kome će se obavljati menjački poslovi (npr. opis tačne lokacije menjačkog mesta).
+Predloženi naziv menjačkog mesta privrednog subjekta naveden u zahtevu iz stava 1. ove tačke treba da ispunjava načelo primerenosti i prikladnosti sadržaja, pod kojim se podrazumeva da naziv menjačkog mesta ne može da sadrži reči koje se mogu smatrati uvredljivim, diskriminatorskim, povezanim s kriminalom ili suprotnim dobrim poslovnim običajima ili profesionalnoj etici.
+Zahtev iz stava 1. ove tačke ne može da podnese:
+1) privredni subjekt kome je u postupku kontrole menjačkih poslova rešenjem Narodne banke Srbije oduzeto ovlašćenje za obavljanje menjačkih poslova na svim menjačkim mestima;
+2) lice koje je na dan donošenja rešenja iz odredbe pod 1) ovog stava ili u periodu od šest meseci pre tog dana - bilo vlasnik ili osnivač privrednog subjekta iz te odredbe, odnosno direktor/član upravnog odbora i/ili drugo odgovorno lice kod ovog privrednog subjekta, odnosno direktor/član upravnog odbora i/ili drugo odgovorno lice osnivača tog privrednog subjekta;
+3) privredni subjekt sa kojim je bilo koje od lica iz odredaba pod 1) i 2) ovog stava povezano na način iz odredbe pod 2) tog stava;
+4) privredni subjekt kod kojeg je fizičko lice koje je sa njim povezano na način iz odredbe pod 2) ovog stava istovremeno i član zajedničkog domaćinstva sa fizičkim licem iz te odredbe.
+Zabrana iz stava 7. ove tačke traje u roku od pet godina od dana dostavljanja rešenja iz odredbe pod 1) tog stava.
+4. Narodna banka Srbije proverava da li je privredni subjekt koji je podneo
+zahtev iz tačke 3. stav 1. ove odluke ispunio uslove za obavljanje menjačkih poslova i o
+podnetom zahtevu odlučuje u roku od 30 dana od dana dostavljanja tog zahteva s kompletnom
+dokumentacijom.
+Ako podneti zahtev iz tačke 3. stav 1. ove odluke ne sadrži svu dokumentaciju
+iz st. 2. i 4. te tačke, Narodna banka Srbije pismeno će pozvati podnosioca ovog zahteva
+da u roku od osam dana dopuni taj zahtev.
+Ako podnosilac zahteva iz stava 2. ove tačke ne postupi u roku iz tog stava,
+odnosno ako ne dopuni zahtev u skladu s pozivom za dopunu - Narodna banka Srbije odbaciće
+taj zahtev rešenjem.
+Kad oceni da je privredni subjekt ispunio uslove za obavljanje menjačkih
+poslova - Narodna banka Srbije donosi rešenje o izdavanju ovlašćenja, i to posebno za svako
+menjačko mesto navedeno u ugovoru, i dostavlja ga tom privrednom subjektu, a banci s kojom
+je ovaj privredni subjekt zaključio ugovor dostavlja fotokopiju tog rešenja. Ovlašćeni menjač
+dužan je da original ovlašćenja istakne na menjačkom mestu.
+Ako privredni subjekt namerava da menjačke poslove obavlja i na bankomatu,
+rešenje iz stava 4. ove tačke sadrži i broj bankomata i adrese na kojima se nalaze bankomati
+koji pripadaju menjačkom mestu iz tog rešenja.
+Privredni subjekt kome je Narodna banka Srbije rešenjem izdala ovlašćenje
+dužan je da počne da obavlja menjačke poslove u roku od 30 dana od dana prijema tog rešenja.
+Ako oceni da privredni subjekt nije ispunio uslove za obavljanje menjačkih
+poslova - Narodna banka Srbije donosi rešenje o odbijanju zahteva za izdavanje ovlašćenja.
+Narodna banka Srbije može odbiti zahtev iz tačke 3. stav 1. ove odluke
+i ako utvrdi da su saradnici vlasnika, odnosno osnivača ili odgovornog lica privrednog subjekta
+podnosioca tog zahteva - lica koja su pravnosnažno osuđena za krivično delo iz tačke 3. stav
+2. odredba pod 3) ove odluke.
+Narodna banka Srbije odbija zahtev iz tačke 3. stav 1. ove odluke ako utvrdi da je taj zahtev podnet suprotno st. 7. i 8. te tačke.
+5. Ovlašćeni menjač dužan je da sve vreme obavljanja menjačkih poslova
+ispunjava uslove iz tačke 3. st. 2. i 4. ove odluke i Narodna banka Srbije može u svakom
+trenutku zahtevati od ovlašćenog menjača da joj dostavi dokumentaciju kojom se dokazuje ispunjenost
+ovih uslova.
+Menjačke poslove kod ovlašćenog menjača neposredno mogu obavljati samo
+lica koja ispunjavaju uslove iz tačke 3. stav 2. odredbe pod 3), 6) i 7) ove odluke.
+Ovlašćeni menjač dužan je da Narodnu banku Srbije obavesti o promeni podataka
+iz tačke 3. st. 2. i 4. ove odluke, uz dostavljanje odgovarajuće dokumentacije koja dokazuje
+tu promenu, i to istog, a najkasnije narednog radnog dana od dana njenog nastanka, s tim da je obaveštenje
+o promeni poslovnog prostora za obavljanje menjačkih poslova dužan da dostavi pre nastanka
+ove promene.
+Ovlašćeni menjač obaveštenje o promeni radnog vremena dostavlja Narodnoj banci Srbije u skladu sa uputstvom kojim se uređuju izrada i elektronsko dostavljanje podataka Narodnoj banci Srbije, koje se objavljuje na internet prezentaciji Narodne banke Srbije.
+Uz obaveštenje o promeni podataka iz tačke 3. st. 2. i 4. ove odluke
+koji se registruju kod nadležnog organa (promena naziva i/ili promena sedišta), kao i o promeni
+poslovnog prostora za obavljanje menjačkih poslova, uključujući promenu podataka o broju
+i/ili adresi/adresama bankomata, ovlašćeni menjač dužan je da Narodnoj banci Srbije podnese
+i zahtev za izdavanje ovlašćenja za obavljanje menjačkih poslova sa dokumentacijom kojom
+se dokazuje verodostojnost novih podataka.
+Na izdavanje ovlašćenja za obavljanje menjačkih poslova iz stava 5. ove tačke shodno se primenjuju odredbe tač. 3. i 4. ove odluke.
+Kad utvrdi da je ovlašćeni menjač prestao da ispunjava uslove za obavljanje
+menjačkih poslova u skladu sa ovom odlukom, kao i u drugim propisanim slučajevima - Narodna
+banka Srbije donosi rešenje o oduzimanju ovlašćenja u skladu sa zakonom kojim se uređuje
+devizno poslovanje i propisom kojim se uređuje kontrola menjačkog poslovanja.
+6. Kod menjača, pored radnika koji neposredno obavljaju menjačke poslove,
+na blagajničkom mestu mogu biti prisutni još samo radnici čije je prisustvo opravdano (radnici
+obezbeđenja, radnici zaduženi za transport i dr.), dok je drugim licima pristup zabranjen.
+Menjač je dužan da ovlašćenom licu Narodne banke Srbije koje vrši kontrolu,
+ministarstvu nadležnom za unutrašnje poslove, ili drugom kontrolnom organu omogući pristup
+menjačkom mestu i blagajničkom mestu, kao i drugim mestima koja su u vezi sa obavljanjem
+menjačkih poslova, odnosno drugim prostorijama menjača.
+7. Radnici koji rade na menjačkim poslovima mogu u prostoriji menjačkog
+mesta van blagajničkog mesta i van kase držati samo svoju gotovinu, i to najviše u iznosu
+dinarske protivvrednosti 100 evra (tzv. džeparac).
+Obaveza iz stava 1. ove tačke odnosi se i na lica iz tačke 6. stav 1. ove
+odluke kad su prisutna na blagajničkom mestu.
+Ugovor s bankom u vezi sa obavljanjem menjačkih poslova
+8. Javni poštanski operator i ovlašćeni menjač dužni su da s bankom zaključe
+ugovor kojim se uređuju njihovi međusobni odnosi u vezi sa obavljanjem menjačkih poslova
+(u daljem tekstu: ugovor), a ugovor mogu zaključiti i s više banaka.
+Ugovor naročito sadrži:
+1) poslovno ime i sedište ugovornih strana;
+2) vreme i mesto zaključenja ugovora;
+3) spisak s nazivima i važećim adresama menjačkih mesta javnog
+poštanskog operatora, odnosno ovlašćenog menjača;
+4) način predaje efektivnog stranog novca (u daljem tekstu: efektiva),
+gotovine u dinarima (u daljem tekstu: gotovina) i čekova koji glase na stranu valutu (u daljem
+tekstu: čekovi);
+5) obaveze u slučaju utvrđenih razlika - manjka, viška, falsifikata
+i sl.;
+6) obaveze u slučaju raskida ugovora.
+Ugovor obavezno sadrži i odredbu da ne proizvodi pravno dejstvo ako privredni
+subjekt nema ovlašćenje.
+U slučaju da javni poštanski operator, odnosno privredni subjekt namerava
+da menjačke poslove obavlja i na bankomatu koji je odvojen od isplatno-uplatnog blagajničkog
+mesta za bankomat, ugovor sadrži i adresu na kojoj se nalazi bankomat, sa naznakom menjačkog
+mesta i isplatno-uplatnog blagajničkog mesta kome bankomat i to isplatno-uplatno blagajničko
+mesto pripadaju.
+Javni poštanski operator i ovlašćeni menjač dužni su da ugovor dostave
+Narodnoj banci Srbije odmah po njegovom zaključenju, a najkasnije narednog radnog dana
+od dana tog zaključenja. Ako javni poštanski operator ima zaključen ugovor s više banaka,
+dužan je da Narodnoj banci Srbije uz ugovor dostavi i izjavu o tome kojoj će banci dostavljati
+izveštaj iz tačke 44. ove odluke.
+Javni poštanski operator i ovlašćeni menjač dužni su da o izmeni, raskidu
+ili prestanku važnosti ugovora odmah, a najkasnije narednog radnog dana od dana nastanka
+te promene obaveste Narodnu banku Srbije i dostave joj kopiju ugovora o izmeni ugovora, odnosno
+o raskidu ugovora.
+Banka je dužna da vodi evidenciju o zaključenim i izmenjenim, odnosno raskinutim
+ugovorima, kao i da jednom mesečno Narodnoj banci Srbije dostavlja izvod iz te evidencije.
+Uslovi i način obavljanja menjačkih poslova
+9. Otkup, odnosno prodaju efektive i čekova menjač obavlja u skladu s propisom
+kojim se utvrđuju vrste deviza i efektive koje se kupuju i prodaju na deviznom tržištu.
+10. Menjač jednom dnevno, na početku svog radnog dana,  utvrđuje
+svoju kursnu listu, koja važi do objavljivanja njegove naredne kursne liste.
+Javni poštanski operator i ovlašćeni menjač kursnu listu iz stava 1. ove
+tačke utvrđuju u skladu s kursnom listom za efektivu banke, odnosno banaka s kojima imaju
+zaključen ugovor.
+U kursnoj listi javnog poštanskog operatora i ovlašćenog menjača kupovni kurs po jedinici strane valute - evra ne može da bude niži od zvaničnog srednjeg kursa dinara prema evru koji važi na taj dan za više od 1,25%, odnosno prodajni kurs po jedinici strane valute - evra ne može da bude viši od zvaničnog srednjeg kursa dinara prema evru koji važi na taj dan za više od 1,25%.
+Javnom poštanskom operatoru i ovlašćenim menjačima s kojima je zaključila
+ugovor - banka svoju važeću kursnu listu za efektivu dostavlja u skladu sa ugovorom.
+11. Pri obavljanju menjačkih poslova, menjač primenjuje kupovni, odnosno
+prodajni kurs za efektivu i čekove u rasponu između kupovnog i prodajnog kursa iz svoje važeće
+kursne liste za efektivu.
+Pri otkupu i prodaji efektive u jednom radnom danu menjača - najniži prodajni
+kurs menjača po jedinici strane valute za određenu vrstu efektive ne može biti jednak njegovom
+najvišem kupovnom kursu za tu vrstu efektive, niti niži od tog kursa.
+12. Za obavljanje menjačkih poslova menjač može naplatiti proviziju koja
+se primenjuje na dinarsku protivvrednost efektive, odnosno čekova obračunatu po kupovnom,
+odnosno prodajnom kursu koji važi na dan otkupa, odnosno prodaje.
+Pri otkupu, odnosno prodaji efektive - novčanica koje su ispravne u smislu odredaba ove
+odluke, odnosno koje su u opticaju - javni poštanski operator i ovlašćeni menjač mogu od
+fizičkih lica naplatiti proviziju u iznosu najviše 1%.
+Fizička lica koja nameravaju da kupe efektivu u iznosu većem od 5.000 evra
+ili u odgovarajućoj protivvrednosti u drugoj stranoj valuti - dužna su da tu kupovinu najave
+prethodnog radnog dana menjača.
+13. Efektivu ostvarenu u smislu ove odluke javni poštanski operator i ovlašćeni
+menjač mogu položiti na poseban devizni račun kod banke otvoren u skladu s propisom kojim
+se uređuju uslovi otvaranja i način vođenja deviznih računa rezidenata i dinarskih i deviznih
+računa nerezidenata, kao i u skladu s propisom kojim se uređuju plaćanje, naplate, uplate
+i isplate u efektivi.
+Banka otkup efektive od javnog poštanskog operatora i ovlašćenog menjača,
+odnosno prodaju efektive javnom poštanskom operatoru i ovlašćenom menjaču vrši preko računa
+iz stava 1. ove tačke, u skladu sa ugovorom.
+14. Banka može, radi obezbeđenja valutne strukture, javnom poštanskom operatoru
+i ovlašćenom menjaču s kojima ima zaključen ugovor prodati efektivu isključivo za prodaju
+fizičkim licima, i to vrste efektive utvrđene propisom kojim se uređuju vrste deviza i efektive
+koje se kupuju i prodaju na deviznom tržištu i u skladu sa ugovorom.
+Javni poštanski operator i ovlašćeni menjač, radi kupovine efektive iz
+stava 1. ove tačke, sa svog dinarskog tekućeg računa prenose banci iznos dinarske protivvrednosti
+te efektive.
+15. Javni poštanski operator i ovlašćeni menjač dužni su da, u skladu sa
+ugovorom zaključenim s bankom koja im je prodala efektivu u smislu tačke 14. ove odluke,
+najkasnije u roku od sedam dana od dana ove prodaje - toj banci prodaju efektivu u istom
+iznosu i istoj valuti ili u protivvrednosti te efektive u drugoj valuti.
+Za efektivu prodatu u smislu stava 1. ove tačke, banka javnom poštanskom
+operatoru i ovlašćenom menjaču isplaćuje dinarsku protivvrednost te efektive obračunatu po
+kursu u rasponu kurseva iz kursne liste za efektivu banke koja važi na dan otkupa i u skladu
+sa ugovorom, i to uplatom sredstava na njihov tekući račun ili isplatom gotovine.
+16. Javni poštanski operator i ovlašćeni menjač dužni su da najmanje jednom
+nedeljno, a najkasnije drugog radnog dana posle isteka nedelje, do 12.00 časova, banci prodaju
+iznos u visini najmanje 80% ukupnog neto otkupa efektive ostvarenog u toj nedelji - bez obzira
+na strukturu te efektive po vrstama valuta - u vrstama efektive utvrđenim propisom iz tačke
+14. stav 1. ove odluke, u skladu sa ugovorom.
+Banke su dužne da otkupe efektivu iz stava 1. ove tačke.
+Ukupan neto otkup, u smislu stava 1. ove tačke, javni poštanski operator,
+odnosno ovlašćeni menjač izračunava kao razliku između otkupa i prodaje efektive fizičkim
+licima na svim svojim menjačkim mestima.
+Obavezu iz stava 1. ove tačke javni poštanski operator i ovlašćeni menjač
+izvršavaju prodajom banci sredstava s posebnog deviznog računa iz tačke 13. stav 1. ove odluke.
+17. Javnom poštanskom operatoru i ovlašćenom menjaču koji banci s kojom
+imaju zaključen ugovor prodaju efektivu u smislu tačke 16. ove odluke, ta banka za otkupljenu
+efektivu isplaćuje dinarsku protivvrednost te efektive, obračunatu po kursu u rasponu kurseva
+iz kursne liste za efektivu banke koja važi na dan otkupa i u skladu sa ugovorom.
+18.
+(brisana)
+19. Ako je na kraju poslednjeg radnog dana u prethodnoj nedelji imao višak dinara iznad trostrukog prosečnog
+iznosa dinara kojim je vršen otkup efektive u mesecu s najvišim otkupom u prethodnih dvanaest
+meseci, odnosno od početka obavljanja delatnosti ako radi kraće od dvanaest meseci - ovlašćeni
+menjač dužan je da taj višak uplati na račun kod banke najkasnije drugog radnog dana posle
+isteka nedelje, do 12.00 časova.
+Radi primene stava 1. ove tačke, stanje dinara na kraju radnog dana utvrđuje
+se na osnovu podataka sa svih menjačkih mesta ovlašćenog menjača.
+Ako ovlašćeni menjač radi kraće od mesec dana, prosečan trostruki iznos
+dinara utvrđuje se prema nedelji s najvećim otkupom.
+Ovlašćeni menjač koji je tek počeo da radi ima obavezu uplate viška dinara
+u smislu ove tačke nakon prve radne nedelje u kojoj je radio tokom svih radnih dana.
+Odredba stava 4. ove tačke odnosi se i na novo menjačko mesto ovlašćenog
+menjača koje je tek počelo da radi.
+U slučaju da ovlašćeni menjač smanji, odnosno poveća broj menjačkih mesta,
+višak dinara iz stava 1. ove tačke utvrđuje se na sledeće načine:
+- u odnosu na trostruki prosečan iznos dinara kojim je vršen otkup efektive
+u mesecu s najvišim otkupom u prethodnih dvanaest meseci, umanjen za doprinos menjačkog mesta
+koje je prestalo da radi u tom iznosu; ili
+- u odnosu na trostruki prosečan iznos dinara kojim je vršen otkup efektive
+u mesecu s najvišim otkupom u prethodnih dvanaest meseci, uvećan za trostruki prosečan iznos
+dinara kojim je vršen otkup efektive na novom menjačkom mestu u prethodnoj nedelji, odnosno
+u nedelji u kojoj je novo menjačko mesto ostvarilo najveći otkup efektive ako to menjačko
+mesto radi kraće od mesec dana, odnosno u mesecu s najvišim otkupom od početka rada tog menjačkog
+mesta.
+20. Javni poštanski operator i ovlašćeni menjač koji su gotovinu i efektivu
+evidentirali kao izlaz iz blagajne radi uplate na račun kod banke - dužni su da tu uplatu
+izvrše u toku tog radnog dana, a najkasnije narednog radnog dana, pri čemu evidentiranje
+izlaza iz blagajne prati potvrda o izlazu dinara i/ili efektive.
+Javni poštanski operator i ovlašćeni menjač koji su gotovinu i efektivu
+podigli s računa kod banke dužni su da tu gotovinu i efektivu unesu u blagajnu i evidentiraju
+u toku tog radnog dana, a najkasnije narednog radnog dana, pri čemu evidentiranje ulaza u
+blagajnu prati potvrda o ulazu dinara i/ili efektive.
+21. Menjač je dužan da preduzme sledeće radnje:
+1) da na vidnom mestu, ispred prostora gde se nalazi menjačko mesto, stavi natpis "MENJAČNICA" - na srpskom i na jednom od svetskih jezika;
+2) da sopstvenu kursnu listu istakne tako da ona bude vidljiva za stranke;
+3) da na menjačkom mestu ili ispred menjačkog mesta istakne lako uočljivo obaveštenje koje služi za informisanje građana o najmanjem (minimalnom) iznosu koji taj menjač plaća pri otkupu i najvećem (maksimalnom) iznosu koji naplaćuje pri prodaji efektive za sve valute iz svoje kursne liste (po jedinici strane valute), pri čemu najmanji iznos, u smislu ove odredbe, predstavlja garantovani iznos koji menjač isplaćuje fizičkom licu pri otkupu efektive i sastoji se od kupovnog kursa za efektivu menjača za tu valutu umanjenog za najveći procent provizije, a najveći iznos, u smislu ove odredbe, predstavlja garantovani iznos koji menjač naplaćuje od fizičkog lica pri prodaji efektive i sastoji se od prodajnog kursa menjača za tu efektivu uvećanog za najveći procent provizije;
+4) da na početku radnog vremena istakne obaveštenje o visini najvećeg procenta provizije (koji za javnog poštanskog operatora i ovlašćenog menjača ne može biti veći od 1%) tako da ono bude vidljivo za stranke, i to na istom mestu i na isti način kao što je istaknuta kursna lista, kao i da proviziju naplaćuje do visine procenta naznačenog u tom obaveštenju, s tim da ovo obaveštenje ne može menjati u toku radnog vremena;
+5) da kod svake transakcije, radi zaštite od falsifikata, postupa na način utvrđen propisom kojim se uređuje postupanje s novcem za koji postoji sumnja da je falsifikovan;
+6) da sledeće obaveštenje, na srpskom i engleskom jeziku, istakne tako da ono bude vidljivo za stranke, kao i da postupi u skladu s njim:
+"VAŽNO OBAVEŠTENJE:
+1. Menjač je obavezan da, pre obavljanja transakcije, fizičko lice obavesti o ukupnom iznosu dinara koje to lice dobija po jedinici strane valute koju želi da proda, odnosno o ukupnom iznosu dinara koje to lice plaća po jedinici strane valute koju želi da kupi, pri čemu ovi iznosi moraju biti istovetni ili za fizičko lice povoljniji od iznosa istaknutih na reklamnoj tabli.
+2. Menjač je obavezan da, kod svake prodaje fizičkom licu novčanica apoena od 50 i 100 SAD dolara, u potvrdu o prodaji upiše: ime i prezime rezidenta - fizičkog lica i njegov jedinstveni matični broj građana (JMBG) iz važeće lične karte ili pasoša, odnosno ime i prezime nerezidenta - fizičkog lica i broj njegove važeće putne isprave, kao i serijske brojeve novčanica.
+3. Menjač je obavezan da, kod svake prodaje efektive fizičkom licu, ako ovo lice to zahteva, u potvrdu o prodaji upiše: ime i prezime rezidenta - fizičkog lica i njegov JMBG iz važeće lične karte ili pasoša, odnosno ime i prezime nerezidenta - fizičkog lica i broj njegove važeće putne isprave, kao i serijske brojeve novčanica.
+Napomena: Podatke iz tač. 2. i 3. ovog obaveštenja menjač unosi u potvrdu iz tih tačaka - radi zaštite fizičkog lica od falsifikata, vanopticajnih novčanica i sl.";
+7) da dnevnik blagajne vodi korišćenjem softvera, a u slučaju prekida rada elektronskog sistema - da u taj dnevnik unese podatke iz ručno izrađenih potvrda o izvršenim otkupu i prodaji efektive i čekova odmah posle uspostavljanja rada elektronskog sistema;
+8) da dnevnik blagajne za menjačke poslove vodi odvojeno od dnevnika blagajne, odnosno od knjigovodstvene evidencije za drugu delatnost koju obavlja;
+9) da menjačko poslovanje obavlja prema obaveštenju o radnom vremenu koje je dostavljeno Narodnoj banci Srbije i koje je istaknuto na menjačkom mestu;
+10) da kod svake transakcije ili kod više međusobno povezanih transakcija čiji je iznos jednak iznosu utvrđenom propisom kojim se uređuje sprečavanje pranja novca i finansiranja terorizma ili je veći od tog iznosa, kao i u drugim slučajevima utvrđenim tim propisom - postupi u skladu s tim propisom.
+Kada menjač menjačke poslove obavlja na menjačkom mestu iz tačke 3. stav 5. ove odluke, dužan je da u obaveštenju iz stava 1. odredba pod 6) ove tačke, posle tačke 3. tog obaveštenja doda tačku 4, koja glasi:
+"
+4.
+Menjač je obavezan da, kod svake kupovine i prodaje efektive fizičkom licu na menjačkom mestu koje se nalazi na međunarodnom aerodromu ili luci, u prostoru iza mesta gde se vrši granična provera lica u skladu sa zakonom kojim se uređuje granična kontrola, i/ili u uređenom prostoru za priređivanje posebnih igara na sreću u skladu sa zakonom kojim se uređuju igre na sreću -u potvrdu o otkupu, odnosno potvrdu o prodajiupiše: ime i prezime rezidenta - fizičkog lica i njegov jedinstveni matični broj građana (JMBG) iz važeće lične karte ili pasoša, odnosno ime i prezime nerezidenta - fizičkog lica i broj njegove važeće putne isprave
+"
+.
+22. Ovlašćeni menjač dužan je da, pored obaveza propisanih tačkom 21. ove
+odluke, ispuni i sledeće obaveze:
+1) da na vidnom mestu, pored natpisa "MENJAČNICA", istakne
+naziv menjačnice i naziv osnivača, odnosno ime i prezime vlasnika;
+2) da na menjačkom mestu istakne ovlašćenje Narodne banke Srbije
+za to menjačko mesto;
+3) da na menjačkom mestu poseduje kopije važećih ugovora s bankom,
+odnosno bankama;
+4) da otkupljene čekove dostavi banci u roku i na način koji su
+utvrđeni ugovorom;
+5) da na menjačkom mestu drži samo onu gotovinu, efektivu i čekove
+koji su ostvareni menjačkim poslovanjem, odnosno namenjeni menjačkom poslovanju i koji su
+propisno evidentirani, uz odgovarajuću dokumentaciju;
+6) da, ako pored menjačkog poslovanja obavlja i drugu delatnost,
+osim kad je ta delatnost pružanje platnih usluga, obezbedi da se gotovina, efektiva i čekovi
+koji su namenjeni menjačkom poslovanju čuvaju na menjačkom mestu odvojeno od gotovine, efektive
+i čekova iz druge delatnosti koja se obavlja na tom mestu, a ako se drže u zajedničkoj kasi
+- da budu odvojeno pakovani i obeleženi natpisom "Menjačko poslovanje";
+7) da obezbedi da stanje gotovine i efektive na menjačkom mestu
+odgovara podacima iz dnevnika blagajne tog menjačkog mesta;
+8) da na menjačkom mestu poseduje obaveštenja banke, odnosno Narodne
+banke Srbije koja se odnose na strane novčanice, kao i obaveštenja banke, odnosno Narodne
+banke Srbije u vezi sa obavljanjem menjačkih poslova;
+9) da na menjačkom mestu poseduje sledeću opremu: metalnu kasu,
+brojačku mašinu, UV lampu i savremene uređaje za otkrivanje falsifikata (uređaje sa senzorima
+za markere i magnetnu detekciju koji otkrivaju većinu falsifikata SAD dolara i uređaje koji
+otkrivaju falsifikate evra);
+10) da na menjačkom mestu poseduje opremu prema specifikaciji Narodne
+banke Srbije, odnosno banke za korišćenje softvera;
+11) da na vidnom mestu istakne obaveštenje da je objekat pod video-nadzorom;
+12) da obezbedi neprekidno video-snimanje blagajničkog mesta, kao i bankomata, video-opremom;
+13) da poseduje video-snimke za najmanje 30 poslednjih dana u kojima je ovlašćeni menjač obavljao menjačke poslove, s naznačenim tačnim vremenom, a u čijem su središtu (fokusu) fizička lica koja vrše transakcije i sama transakcija;
+14) da video-snimke dostavi samo organu nadležnom za vršenje kontrole,
+odnosno ministarstvu nadležnom za unutrašnje poslove, na njegov zahtev, kao i fizičkom licu
+na koje se video-snimak odnosi, na njegov zahtev.
+Na obaveze javnog poštanskog operatora primenjuju se odredbe stava 1. ove
+tačke, osim odredaba pod 1), 2), 5) i 6) tog stava.
+Ovlašćeni menjač može na menjačkom mestu da istakne naziv banke, odnosno
+banaka s kojima ima zaključen ugovor. Ovlašćeni menjač ne može na menjačkom mestu da ima
+istaknutu oznaku ili natpis Narodne banke Srbije, osim ovlašćenja Narodne banke Srbije za
+to menjačko mesto.
+23. O izvršenim otkupu i prodaji efektive i čekova, menjač korišćenjem softvera izdaje potvrdu, koja ima najmanje jednu kopiju. Original ove potvrde menjač predaje rezidentu - fizičkom licu, odnosno nerezidentu - fizičkom licu, a kopiju, bez obzira na medij na kome se nalazi, čuva do isteka zakonom utvrđenog roka za čuvanje dokumentacije koja je osnov za evidentiranje poslovnih promena u dnevniku blagajne.
+Potvrda iz stava 1. ove tačke obavezno sadrži sledeće podatke:
+1) naziv menjača;
+2) naziv i adresu menjačkog mesta;
+3) šifru blagajničkog mesta;
+4) oznaku posla (otkup, prodaja);
+5) redni broj potvrde koji se ne sme ponavljati;
+6) ime i prezime rezidenta - fizičkog lica i nerezidenta - fizičkog lica, njihov JMBG iz važeće lične karte ili broj važeće putne isprave kod svake transakcije čiji je iznos jednak iznosu utvrđenom propisom kojim se uređuje sprečavanje pranja novca i finansiranja terorizma ili je veći od tog iznosa, kao i u drugim slučajevima utvrđenim tim propisom;
+7) šifru osnova otkupa (796 i 701 za efektivu, a 795 i 699 za čekove) ili prodaje (700 i 701 za efektivu, a 795 i 699 za čekove);
+8) oznaku valute, iznos u stranoj valuti i iznos u dinarima;
+9) kurs po kome je transakcija obavljena;
+10) procent i iznos provizije;
+11) datum i vreme izvršenja transakcije;
+12) mesto izvršenja transakcije;
+13) potpis blagajnika ili njegovu šifru.
+Radi zaštite fizičkog lica od falsifikata, vanopticajnih novčanica i sl. - menjač, pored podataka iz stava 2. ove tačke, u potvrdu iz tog stava unosi i podatke iz tač. 2, 3. i 4. obaveštenja iz tačke 21. odredba pod 6) ove odluke.
+Potvrda iz stava 1. ove tačke mora biti sačinjena u skladu s računovodstvenim standardima i mora sadržati redni broj, koji se ne sme ponavljati. Softver mora biti izrađen tako da se posle unošenja prvog rednog broja potvrde unose naredni brojevi, koji se do kraja predviđene serije više ne mogu menjati.
+U slučaju prekida rada elektronskog sistema na blagajničkom mestu, menjač potvrdu iz stava 1. ove tačke izdaje ručno, koristeći odštampane obrasce potvrda o otkupu i prodaji efektive i čekova, koji već sadrže redne brojeve, i vodi evidenciju o utrošenim obrascima tih potvrda. Ove potvrde štampaju se u blokovima - u okviru određenih serijskih brojeva.
+Menjač je dužan da, posle uspostavljanja rada elektronskog sistema na blagajničkom mestu, u dnevnik blagajne odmah unese podatke sa obrazaca iz stava 5. ove tačke.
+Kad menjač obavlja menjačke poslove na bankomatu, potvrda iz stava 1. ove tačke naročito sadrži podatke iz stava 2. odredbe pod 1), 5), 8), 9) i 11) ove tačke, a u slučaju da menjač naplaćuje proviziju - ta potvrda treba da sadrži i podatke iz odredbe pod 10) tog stava.
+Kad menjač obavlja menjačke poslove na bankomatu koji se nalazi na međunarodnom aerodromu ili luci, u prostoru iza mesta gde se vrši granična provera lica u skladu sa zakonom kojim se uređuje granična kontrola, i/ili u uređenom prostoru za priređivanje posebnih igara na sreću u skladu sa zakonom kojim se uređuju igre na sreću - potvrda iz stava 2. ove tačke pored podataka iz stava 7. ove tačke treba da sadrži i sledeće podatke: ime i prezime rezidenta - fizičkog lica i njegov jedinstveni matični broj građana (JMBG) iz važeće lične karte ili pasoša, odnosno ime i prezime nerezidenta - fizičkog lica i broj njegove važeće putne isprave.
+Kad obavlja menjačke poslove na posebnom blagajničkom mestu, menjač o izvršenom otkupu i prodaji efektive izdaje potvrdu na čije izdavanje, predaju, čuvanje i sadržinu se primenjuju odredbe st. 1. do 4. i stava 6. ove tačke. U slučaju da posebno blagajničko mesto nije elektronski povezano s menjačkim mestom kome pripada - menjač potvrdu izdaje ručno, na način propisan u stavu 5. ove tačke.
+24. Ako menjač obavlja menjačke poslove preko bankomata, dužan je da ispuni
+sledeće uslove:
+1) da na bankomatu na vidnom mestu istakne oznaku na srpskom i
+na jednom od svetskih jezika da je reč o bankomatu za obavljanje menjačkih poslova;
+2) da obezbedi da na bankomatu budu istaknute informacije o nazivu
+i adresi menjačkog mesta i isplatno-uplatnog blagajničkog mesta za taj bankomat;
+3) da obezbedi izdavanje potvrde o izvršenom otkupu i prodaji efektive;
+4) da na bankomatu obezbedi informacije o kursu za efektivu koji
+se primenjuje pri obavljanju pojedinačne transakcije;
+5) da, ako naplaćuje proviziju, na bankomatu obezbedi informaciju
+o njenoj visini.
+25. Menjač svakodnevno vodi dnevnik blagajne o obavljenim menjačkim poslovima,
+koji obavezno sadrži:
+1) naziv menjača;
+2) vrstu valute, iznos u valuti, kurs, obračunatu dinarsku protivvrednost,
+iznos obračunate provizije i ukupan iznos dinara;
+3) početno stanje efektive i gotovine i njihovo stanje na kraju
+dana;
+4) serijske brojeve potvrda o kupovini, odnosno prodaji i podatke
+o drugim transakcijama na blagajničkom mestu;
+5) vreme izvršene transakcije;
+6) šifru osnova kupovine, odnosno prodaje (efektiva, čekovi);
+7) mesto i datum izvršene transakcije.
+Podaci u dnevniku blagajne moraju se unositi hronološki, prema redosledu
+transakcija, i moraju odgovarati podacima o iznosima otkupljene, odnosno prodate efektive
+i čekova, kao i podacima o drugim transakcijama na blagajničkom mestu/blagajničkim mestima
+- po vrsti transakcije i iznosima, prema pojedinačnim potvrdama.
+Ovlašćeni menjač koji obavlja menjačke poslove na bankomatu, u dnevnik
+blagajne menjačkog mesta kome bankomat i isplatno-uplatno blagajničko mesto pripadaju unosi
+podatak o izlazu gotovine, odnosno efektive s tog blagajničkog mesta na bankomat - na dan
+kad tom gotovinom, odnosno efektivom puni bankomat, odnosno podatak o ulazu efektive, odnosno
+gotovine - na dan kad prazni bankomat.
+Ovlašćeni menjač koji obavlja menjačke poslove na bankomatu, podatke o
+obavljenim transakcijama na bankomatu, koji su elektronski zapisani, štampa, potpisuje i
+prilaže dnevniku blagajne menjačkog mesta kome bankomat pripada, po datumima, za sve dane
+između punjenja/pražnjenja bankomata nakon svakog punjenja/pražnjenja bankomata, a najkasnije
+do prvog radnog dana po isteku nedelje.
+Po potrebi, na zahtev Narodne banke Srbije - banka i javni poštanski operator
+štampaju podatke iz dnevnika blagajne za traženi datum.
+Ovlašćeni menjač na kraju svakog radnog dana zaključuje dnevnik blagajne,
+koji sadrži potpis ovlašćenog menjača ili lica koje on ovlasti, i čuva ga, u štampanom obliku,
+do isteka zakonom utvrđenog roka za čuvanje poslovnih knjiga.
+Ovlašćeni menjač dužan je da stanje gotovine i efektive u dnevniku blagajne
+svakog dana sravnjuje sa stvarnim stanjem gotovine i efektive u kasi, o čemu mora posedovati
+pismeni dokaz.
+Odredbe st. 3, 4. i 7. ove tačke shodno se primenjuju na javnog poštanskog
+operatora.
+Provera ispravnosti novčanica
+26. Menjač je dužan da, pri obavljanju menjačkih poslova, utvrdi da li
+je strana novčanica ispravna, da li je u opticaju, da li je istekao rok za njenu zamenu i
+da li je u pitanju novčanica za koju menjač sumnja da je falsifikovana.
+Izuzetno, kad obavlja menjačke poslove na bankomatu, ovlašćeni menjač podatke
+o stranim novčanicama iz stava 1. ove tačke utvrđuje nakon preuzimanja efektive sa bankomata
+i ulaza te efektive na isplatno-uplatno blagajničko mesto.
+Kod obavljanja menjačkih poslova, strana novčanica smatra se neispravnom
+u sledećim slučajevima:
+1) ako je falsifikovana;
+2) ako je novčanicu nadležni organ emitenta proglasio bezvrednom;
+3) ako je procent površine preostalog dela novčanice manji od procenta
+koji utvrđuje banka;
+4) ako je deo koji nedostaje na novčanici nadoknađen drugom vrstom
+papira ili papirom s druge novčanice, što se kvalifikuje kao pokušaj prepravke i podleže
+ekspertizi;
+5) ako su glavni motivi ili oznake apoena prepravljeni na bilo
+koji način i iz bilo kojih pobuda;
+6) ako je pranjem ili delovanjem neke supstance izbledela toliko
+da su njene osnovne karakteristike (vrsta valute, apoen, elementi zaštite i dr.) neprepoznatljive;
+7) ako je umrljana jarkom bojom (
+alert colours
+) kojom se
+vrši hemijska zaštita u transportu, odnosno kojom se novčanice boje u slučaju nasilnog otvaranja
+pakovanja novca (ovakve novčanice su obično obojene po ivicama i uglovima, a mogu biti obojeni
+i njihovi štampani delovi, i to jednom od jarkih boja - crvenom, crnom, plavom, zelenom i
+sl., pri čemu se kod pokušaja skidanja ovih boja često dobije bleđa nijansa boje i najčešće
+se oštete mesta s kojih je pokušano skidanje boje);
+8) ako na postojećem delu novčanice nedostaju svi zaštitni elementi
+(npr. vodeni žig, magnetna zaštita, obojena vlakna, sigurnosna nit, mikrotekst) ili su ovi
+elementi nečitljivi;
+9) ako na postojećem delu novčanice nedostaju sva obeležja autentičnosti
+(npr. naziv banke, serijski broj, vrednost novčanice iskazana slovima i brojevima, glavna
+slika) ili su ta obeležja nečitljiva;
+10) ako je do te mere lepljiva, natopljena uljem, uništena vatrom,
+hemikalijama, truljenjem i sl., odnosno kontaminirana da ne može biti ispitana.
+Kod obavljanja menjačkih poslova, na određivanje ispravnosti dinarske novčanice
+primenjuju se odredbe propisa kojim se uređuje upravljanje tokovima gotovine.
+27. Ako nisu sigurni da je neka novčanica u opticaju, javni poštanski operator
+i ovlašćeni menjač uputiće podnosioca takve novčanice na banku s kojom su zaključili ugovor.
+Na način iz stava 1. ove tačke javni poštanski operator i ovlašćeni menjač
+mogu da postupe i ako je strana novčanica do te mere oštećena ili pohabana da se ne može
+identifikovati.
+28. Ako pri podnošenju novčanice na otkup posumnja da je u pitanju falsifikat,
+menjač je dužan da postupi u skladu s propisom kojim se uređuje postupanje s novcem za koji
+postoji sumnja da je falsifikovan.
+29. U sklopu mera koje preduzima za očuvanje stabilnosti finansijskog sistema,
+a radi obezbeđivanja jednoobraznog postupanja kod obavljanja menjačkih poslova - Narodna
+banka Srbije, u okviru njenog softvera koji menjač koristi, omogućava menjaču direktan pristup
+(onlajn) Pregledu opticajnih novčanica stranog novca sa opisima, elementima zaštite i rokovima
+naplativosti i informacijama koje se odnose na falsifikate stranog novca (u daljem tekstu:
+Pregled).
+Menjač koji ne koristi softver Narodne banke Srbije pristupa Pregledu preko
+njene internet prezentacije, uz upotrebu korisničkog imena i lozinke koje Narodna banka Srbije
+dodeljuje ovim menjačima, a ovlašćeni menjač i javni poštanski operator - preko banke s kojom
+imaju zaključen ugovor o obavljanju menjačkih poslova i čiji softver koriste.
+Narodna banka Srbije redovno ažurira Pregled
+Banke su dužne da ovlašćenim menjačima s kojima imaju zaključen ugovor
+i koji koriste softver te banke - dostavljaju link, korisničko ime i lozinku radi pristupanja
+Pregledu.
+30. Ovlašćeni menjač može prenositi gotovinu i efektivu između više blagajničkih
+mesta jednog menjačkog mesta, odnosno između više menjačkih mesta, kao i između isplatno-uplatnog
+blagajničkog mesta i bankomata jednog menjačkog mesta, odnosno posebnog blagajničkog mesta
+u toku jednog njegovog radnog dana.
+Ovlašćeni menjač dužan je da gotovinu, odnosno efektivu koju je izneo sa
+isplatno-uplatnog blagajničkog mesta radi punjenja bankomata - istog radnog dana unese u
+bankomat, kao i da gotovinu, odnosno efektivu koju je podigao sa bankomata istog radnog dana
+unese na isplatno-uplatno blagajničko mesto.
+Ovlašćeni menjač dužan je da gotovinu, odnosno efektivu koju je izneo sa isplatno-uplatnog blagajničkog mesta radi obavljanja menjačkih poslova na posebnom blagajničkom mestu - istog radnog dana unese na posebno blagajničko mesto, kao i da gotovinu, odnosno efektivu koju je izneo s posebnoog blagajničkog mesta istog radnog dana unese na isplatno-uplatno blagajničko mesto.
+Prenos iz stava 1. ove tačke mora pratiti potvrda o internom izlazu, odnosno
+ulazu gotovine i efektive, kao i dokument s popisom specifikovanih iznosa po valutama u efektivi
+i iznosa u gotovini koji su predmet prenosa, koji je na oba blagajnička, odnosno menjačka
+mesta potpisao ovlašćeni menjač ili lice koje on ovlasti. Potvrda o internom izlazu, odnosno
+ulazu gotovine i efektive sadrži vreme i datum tog izlaza, odnosno ulaza.
+Izuzetno, kad ovlašćeni menjač obavlja menjačke poslove na bankomatu i
+posebnom blagajničkom mestu, prenos iz stava 1. ove tačke mora pratiti potvrda o internom
+izlazu, odnosno ulazu gotovine i efektive koju ovlašćeni menjač sačinjava samo na isplatno-uplatnom
+blagajničkom mestu za dane kad je evidentirao izlaz s tog blagajničkog mesta, odnosno ulaz
+na to blagajničko mesto. Potvrda o internom izlazu, odnosno ulazu gotovine i efektive sadrži
+vreme i datum tog izlaza, odnosno ulaza. Potvrdu o izlazu, odnosno ulazu gotovine i efektive
+prati dokument s popisom specifikovanih iznosa po valutama u efektivi i iznosa u gotovini,
+koji je na isplatno-uplatnom blagajničkom mestu potpisao ovlašćeni menjač ili lice koje on
+ovlasti.
+Potvrde i dokument iz stava 5. ove tačke ovlašćeni menjač dužan je da čuva
+na oba menjačka mesta, a potvrdu i dokument iz stava 5. ove tačke - na isplatno-uplatnom
+blagajničkom mestu.
+Odredbe ove tačke shodno se primenjuju i na javnog poštanskog operatora.
+Posebno blagajničko mesto
+31. Ovlašćeni menjač može da obavlja menjačke poslove na posebnom blagajničkom mestu pod uslovom da je za to dobio ovlašćenje Narodne banke Srbije.
+Ovlašćeni menjač podnosi Narodnoj banci Srbije zahtev za izdavanje ovlašćenja za obavljanje menjačkih poslova na posebnom blagajničkom mestu najkasnije deset radnih dana pre početka obavljanja menjačkih poslova na tom mestu.
+Zahtev iz stava 2. ove tačke naročito sadrži podatke o menjačkom mestu kome pripadaju posebno blagajničko mesto i isplatno-uplatno blagajničko mesto s kojim je posebno blagajničko mesto povezano, detaljne informacije u vezi s prostorom posebnog blagajničkog mesta (opština, grad, naselje, tačna lokacija, adresa održavanja manifestacije, broj hale, štanda ili pulta, registarska oznaka ako će se menjački poslovi obavljati u vozilu i sl.), uključujući svaki pojedinačni prostor u okviru posebnog blagajničkog mesta na kojem će se obavljati menjački poslovi (npr. ako se menjački poslovi obavljaju na više štandova, punktova i vozila u okviru određene manifestacije), period u kome će menjač obavljati menjačke poslove na posebnom blagajničkom mestu, radno vreme tog mesta i podatak o radniku koji će obavljati menjačke poslove.
+Uz zahtev iz stava 2. ove tačke ovlašćeni menjač dužan je da priloži dokumentaciju na osnovu koje Narodna banka Srbije ceni da li on ispunjava uslove za obavljanje menjačkih poslova na posebnom blagajničkom mestu, a koja je propisana tačkom 3. stav 2. odredbe pod 10) do 12) ove odluke, osim u slučaju da nije u mogućnosti da obezbedi tehničke uslove za posedovanje i korišćenje opreme za obavljanje menjačkih poslova koja je propisana u navedenim odredbama, o čemu dostavlja informaciju Narodnoj banci Srbije, s navođenjem opravdanih razloga za to.
+32. Kada oceni da je ovlašćeni menjač ispunio uslove za obavljanje menjačkih poslova na posebnom blagajničkom mestu, Narodna banka Srbije donosi rešenje o davanju ovlašćenja tom menjaču za obavljanje menjačkih poslova na posebnom blagajničkom mestu, na period koji ne može biti duži od perioda trajanja manifestacije na kojoj će obavljati menjačke poslove, a u svakom slučaju ne može biti duži od 30 dana.
+Ako oceni da ovlašćeni menjač nije ispunio uslove za obavljanje menjačkih poslova na posebnom blagajničkom mestu - Narodna banka Srbije donosi rešenje o odbijanju zahteva za izdavanje ovlašćenja za obavljanje menjačkih poslova na posebnom blagajničkom mestu.
+33. Banka i javni poštanski operator koji nameravaju da obavljaju menjačke poslove na posebnom blagajničkom mestu dužni su da Narodnoj banci Srbije dostave obaveštenje koje će sadržati podatke koji su propisani u tački 31. st. 3. i 4. ove odluke, najkasnije pet radnih dana pre početka rada na tom mestu.
+Ako oceni da menjač iz stava 1. ove tačke nije ispunio uslove za obavljanje menjačkih poslova na posebnom blagajničkom mestu - Narodna banka Srbije ga o tome obaveštava bez odlaganja, pre nameravanog početka rada na posebnom blagajničkom mestu, a može zatražiti i da taj menjač izmeni i/ili dopuni obaveštenje iz stava 1. ove tačke u skladu sa odredbama ove odluke.
+34. Menjač koji obavlja menjačke poslove na posebnom blagajničkom mestu dužan je da ispunjava sve uslove propisane za obavljanje menjačkih poslova iz ove odluke, osim u pogledu posedovanja i korišćenja opreme iz tačke 22. stav 1. odredbe pod 9) do 13) ove odluke za koju iz opravdanih razloga nije moguće obezbediti tehničke uslove, i to pod uslovom da je Narodnoj banci Srbije dostavio informaciju o tome u skladu s tačkom 31. stav 4. ove odluke, odnosno da je to naveo u obaveštenju iz tačke 33. ove odluke.
+Menjač je dužan da na posebnom blagajničkom mestu poseduje svu dokumentaciju koja je propisana tač. 21. i 22. ove odluke, pri čemu nije dužan da tu dokumentaciju istakne na vidno mesto, osim dokumentacije i podataka iz tačke 21. odredbe pod 1), 2), 3), 4), 6) i 9) i tačke 22. stav 1. odredbe pod 1) i 2) ove odluke.
+Menjač je dužan da menjačke poslove na posebnom blagajničkom mestu obavlja u prostoru i na način koji u svakom trenutku omogućavaju Narodnoj banci Srbije vršenje kontrole menjačkog poslovanja, u skladu sa odlukom kojom se uređuju bliži uslovi i način vršenja kontrole menjačkog poslovanja.
+35. Menjač je dužan da obezbedi da je posebno blagajničko mesto povezano sa isplatno-uplatnim blagajničkim mestom u pogledu snabdevanja gotovinom i efektivom i vraćanja otkupljene efektive i gotovine, pri čemu i posebno blagajničko mesto i isplatno-uplatno blagajničko mesto pripadaju istom menjačkom mestu, u smislu vođenja dnevnika blagajne i izveštavanja o obavljenim menjačkim poslovima.
+Na dan kad se sa isplatno-uplatnog blagajničkog mesta s kojim je povezano posebno blagajničko mesto preuzimaju, odnosno uplaćuju gotovina i efektiva s posebnog blagajničkog mesta - u dnevnik blagajne menjačkog mesta kome posebno blagajničko mesto i isplatno-uplatno blagajničko mesto pripadaju unosi se podatak o izlazu gotovine i efektive iz tog isplatno-uplatnog blagajničkog mesta, odnosno o ulazu gotovine i efektive u to mesto.
+Ako iz opravdanih razloga nije moguće da se posebno blagajničko mesto elektronski poveže s menjačkim mestom kome pripada, na kraju svakog radnog dana ručno se sačinjava i potpisuje dnevnik blagajne o obavljenim transakcijama, koji se prilaže dnevniku blagajne menjačkog mesta zajedno s ručno izdatim potvrdama, najkasnije prvog radnog dana po isteku svake radne nedelje, i to po datumima za sve dane u toj nedelji.
+35a. Menjač je dužan da najkasnije narednog radnog dana od dana prestanka obavljanja menjačkih poslova na posebnom blagajničkom mestu svu efektivu i svu gotovinu s tog mesta prenese na menjačko mesto kome pripada i da dokaz o tome zajedno sa obaveštenjem o prestanku rada posebnog blagajničkog mesta dostavi Narodnoj banci Srbije.
+Otkup putničkih i bankarskih čekova
+36. Putnički ček otkupljuje se po sledećem postupku: fizičko lice - korisnik
+čeka dužno je da drugi potpis na čeku, koji mora da odgovara prvom potpisu, stavi u prisustvu
+menjača na šalteru. Radi utvrđivanja autentičnosti potpisa, odnosno utvrđivanja da ček na
+naplatu podnosi pravi korisnik - menjač potpise na čekovima upoređuje s potpisom korisnika
+na njegovoj putnoj ispravi.
+Ako fizičko lice javnom poštanskom operatoru i ovlašćenom menjaču na otkup
+podnese putnički ček koji je korisnik na oba mesta već potpisao i na kome je, na mestu predviđenom
+za popunjavanje naredbe (
+pay to order
+), naredba već popunjena na ime lica koje taj
+ček podnosi na otkup - javni poštanski operator i ovlašćeni menjač to fizičko lice upućuju
+na banku s kojom su zaključili ugovor.
+Kod svakog otkupa putničkog čeka, javni poštanski operator i ovlašćeni
+menjač dužni su da u potvrdu o otkupu unesu: ime i prezime rezidenta - fizičkog lica i nerezidenta
+- fizičkog lica, njihov JMBG iz važeće lične karte ili broj važeće putne isprave, mesto stalnog
+prebivališta i adresu, serijski broj i mesto izdavanja čeka.
+37. Ako bankarski ček podnet na otkup ispunjava sve potrebne uslove, menjač
+će od korisnika (remitenta) zahtevati da ga indosira pred njim - stavljanjem potpisa na poleđini
+čeka (po njegovoj širini), a identitet korisnika utvrdiće na osnovu važeće putne isprave
+ili važeće lične karte. Kad se identitet korisnika utvrđuje na osnovu putne isprave, potpis
+mora biti identičan potpisu na toj ispravi.
+Ako javni poštanski operator i ovlašćeni menjač prime na šalteru bankarski
+ček na kome se iznos ispisan slovima ne slaže sa iznosom ispisanim ciframa - takav ček neće
+otkupiti, a korisnika će uputiti na banku s kojom su zaključili ugovor da taj ček preuzme
+na naplatu (inkaso).
+Ako na bankarskom čeku neki od bitnih elemenata čeka nedostaje ili je prepravljen,
+nečitak ili radiran (sastrugan) - javni poštanski operator i ovlašćeni menjač takav ček neće
+otkupiti, a korisnika će uputiti na banku s kojom su zaključili ugovor. Javni poštanski operator
+i ovlašćeni menjač neće otkupiti ni bankarski ček koji je izdat u više primeraka (što se
+vidi iz oznake na samom čeku -
+First, Original, Second, Duplicate
+) ako se ne podnesu
+svi primerci tog čeka.
+Javni poštanski operator i ovlašćeni menjač mogu otkupiti bankarski ček
+kad korisnik preda i original i kopiju tog čeka i kad oba primerka prethodno potpiše (indosira)
+na poleđini. I original i kopiju ovog čeka javni poštanski operator i ovlašćeni menjač dostavlja
+banci s kojom su zaključili ugovor.
+38. Pri predaji banci otkupljenih čekova, javni poštanski operator i ovlašćeni
+menjač dužni su da za putničke čekove koji glase na stranu valutu stave svoj pečat na lice
+čeka (na mesto za popunjavanje naredbe -
+order)
+, kao i na njegovu poleđinu (po širini),
+s potpisom ovlašćenog lica. U slučaju da korisnik čeka nije popunio datum otkupa čeka, javni
+poštanski operator i ovlašćeni menjač dužni su da to učine.
+Menjački poslovi povezani s platnim uslugama i međunarodnim uputnicama
+39. Ovlašćeni menjač može na blagajničkom mestu na kome obavlja menjačke
+poslove i pruža platne usluge - u istoj blagajni držati gotovinu i efektivu ostvarene po
+tim poslovima.
+Ovlašćeni menjač može na menjačkom mestu na kome obavlja menjačke poslove
+i pruža platne usluge koristiti gotovinu i efektivu ostvarenu po ovim poslovima za obavljanje
+tih poslova njihovim prenosom iz jednog u drugo poslovanje - ako to nije u suprotnosti sa
+obavezom zaštite novčanih sredstava korisnika platnih usluga u skladu sa zakonom kojim se
+uređuju platne usluge i drugim obavezama utvrđenim zakonom ili propisom.
+U slučaju prenosa iz stava 2. ove tačke, ovlašćeni menjač dužan je da pre
+izvršenja pojedinačne transakcije isplate gotovine ili efektive fizičkim licima po osnovu
+menjačkog poslovanja ili pružanja platnih usluga, u dnevniku blagajne za menjačke poslove
+evidentira interni izlaz, odnosno ulaz gotovine ili efektive, koji prati potvrda o izlazu,
+odnosno ulazu gotovine ili efektive.
+Izuzetno od stava 3. ove tačke, ako gotovinu i efektivu ostvarene po menjačkim
+poslovima i poslovima pružanja platnih usluga drži u odvojenim blagajnama - ovlašćeni menjač
+može između blagajne za menjačke poslove i blagajne platnih usluga vršiti prenos iznosa gotovine
+i efektive za koji proceni da će mu u toku dana biti potreban za isplatu fizičkim licima
+po tim poslovima (u daljem tekstu: procenjeni iznos efektive i gotovine), pri čemu je dužan
+da u dnevniku blagajne za menjačke poslove evidentira interni izlaz, odnosno ulaz gotovine
+i efektive, koji prati potvrda o tom izlazu, odnosno ulazu.
+Ako procenjeni iznos efektive i gotovine nije iskorišćen u celini u toku
+radnog dana u kome je izvršen prenos ovog iznosa - ovlašćeni menjač dužan je da neiskorišćeni
+deo tog iznosa prenet iz blagajne za menjačko poslovanje na kraju dana vrati u ovu blagajnu,
+ili da ovaj deo najkasnije narednog radnog dana uplati na svoj poseban račun za menjačke
+poslove.
+Iznos gotovine i efektive koji je u skladu sa st. 3. i 4. ove tačke prenet
+iz menjačkog poslovanja i iskorišćen za izvršenje platnih transakcija - ovlašćeni menjač
+dužan je da vrati u menjačko poslovanje najkasnije narednog radnog dana od dana prijema refundacije
+tih sredstava, i to na jedan od sledećih načina ili kombinacijom tih načina:
+1) prenosom sredstava s računa koji koristi za pružanje platnih
+usluga na poseban račun za menjačke poslove;
+2) prenosom gotovine i efektive iz blagajne platnih usluga u blagajnu
+menjačkih poslova, koji se obavlja samo knjigovostveno ako se ova sredstva nalaze u istoj
+blagajni.
+Iskorišćeni ili neiskorišćeni iznos gotovine i efektive koji je u skladu
+sa st. 3. i 4. ove tačke prenet u menjačko poslovanje, ovlašćeni menjač može da vrati u poslovanje
+po osnovu pružanja platnih usluga na jedan od sledećih načina ili kombinacijom tih načina:
+1) prenosom sredstava s posebnog računa za menjačke poslove na
+račun koji koristi za pružanje platnih usluga;
+2) prenosom gotovine i efektive iz blagajne menjačkih poslova u
+blagajnu platnih usluga, koji se obavlja samo knjigovodstveno ako se ova sredstva nalaze
+u istoj blagajni.
+Odredbe ove tačke shodno se primenjuju i na javnog poštanskog operatora
+koji na istom menjačkom mestu pored menjačkih poslova obavlja i poslove pružanja platnih
+usluga, odnosno prijema i isplata međunarodnih uputnica.
+Korišćenje softvera za obavljanje menjačkih poslova
+40. Za obavljanje menjačkih poslova ovlašćeni menjač može da koristi softver Narodne banke Srbije ili softver jedne od banaka s kojima ima zaključen ugovor, a javni poštanski operator - sopstveni softver. Softveri iz ovog stava treba da sadrže tehnološko-aplikativna rešenja koja omogućavaju obavljanje menjačkih poslova na propisan način, uključujući i utvrđivanje i primenu kurseva i provizija ovlašćenog menjača i javnog poštanskog operatora koji se utvrđuju na način propisan tač. 10, 11. i 12. ove odluke.
+Softver iz stava 1. ove tačke koji koristi ovlašćeni menjač treba da obezbedi i beleženje, čuvanje i dostavljanje Narodnoj banci Srbije svih podataka na nivou pojedinačne transakcije o obavljenim menjačkim poslovima ovlašćenog menjača koji su propisani ovom odlukom.
+Za obavljanje menjačkih poslova banka i javni poštanski operator koriste sopstveni softver, koji treba da obezbedi i beleženje, čuvanje i stavljanje na uvid Narodnoj banci Srbije pri vršenju kontrole menjačkog poslovanja svih podataka na nivou pojedinačne transakcije o obavljenim menjačkim poslovima banke, odnosno javnog poštanskog operatora koji su propisani ovom odlukom.
+Banka je dužna da vodi evidenciju o zaključenim i izmenjenim, odnosno raskinutim ugovorima o korišćenju softvera sa ovlašćenim menjačima, kao i da jednom mesečno Narodnoj banci Srbije dostavlja izvod iz te evidencije.
+Banka čiji softver ovlašćeni menjači koriste u obavljanju menjačkih poslova - dužna je da Narodnoj banci Srbije dostavi specifikaciju tog softvera, i to najkasnije 15 dana pre početka korišćenja tog softvera od strane ovlašćenih menjača, odnosno njegovog stavljanja u funkciju, kao i pre svake izmene tog softvera u odnosu na njegovu prethodnu verziju.
+Prestanak obavljanja menjačkih poslova
+41. Ovlašćeni menjač dužan je da Narodnoj banci Srbije podnese zahtev za
+trajni prestanak obavljanja menjačkih poslova na jednom, više ili svim menjačkim mestima
+istog, a najkasnije narednog radnog dana od poslednjeg radnog dana menjačkog mesta na koje se zahtev odnosi,
+kao i da o tome obavesti banku s kojom ima zaključen ugovor.
+Uz zahtev iz stava 1. ove tačke, ovlašćeni menjač dostavlja dokument
+kojim dokazuje da je obavestio banku o trajnom prestanku obavljanja menjačkih poslova u skladu
+s tim stavom, kao i dokumente kojima dokazuje da je ispunio obaveze iz st. 3. do 5. ove tačke.
+Ako trajno prestaje da obavlja menjačke poslove na svim menjačkim mestima
+- ovlašćeni menjač iz stava 1. ove tačke dužan je da svu efektivu sa svih menjačkih mesta
+proda banci s kojom ima zaključen ugovor i svu gotovinu uplati na svoj tekući račun najkasnije
+narednog radnog dana od poslednjeg radnog dana ovlašćenog menjača, kao i da dokaz o prodaji
+efektive i uplati gotovine na svoj tekući račun kod banke podnese Narodnoj banci Srbije uz
+zahtev iz tog stava.
+Ako trajno prestaje da obavlja menjačke poslove na jednom ili više menjačkih
+mesta - ovlašćeni menjač iz stava 1. ove tačke dužan je da svu efektivu s tog/tih menjačkih
+mesta proda banci s kojom ima zaključen ugovor i svu gotovinu uplati na svoj tekući račun
+najkasnije narednog radnog dana od poslednjeg radnog dana ovlašćenog menjača na tom/tim menjačkim
+mestima ili da istog dana prenese efektivu i gotovinu s tog/tih menjačkih mesta na menjačko
+mesto koje nastavlja da radi, kao i da dokaze o prodaji efektive i uplati gotovine na svoj
+tekući račun kod banke, odnosno o prenosu na menjačko mesto koje nastavlja da radi podnese
+Narodnoj banci Srbije uz zahtev iz tog stava.
+Ovlašćeni menjač dužan je da Narodnoj banci Srbije vrati ovlašćenja za
+menjačka mesta na kojima trajno prestaje da radi.
+Na osnovu zahteva i dokumentacije iz st. 1. do 5. ove tačke, Narodna
+banka Srbije donosi rešenje o oduzimanju ovlašćenja za obavljanje menjačkih poslova.
+Ovlašćeni menjač koji privremeno prestaje da obavlja menjačke poslove
+na jednom, više ili svim menjačkim mestima, odnosno na bankomatu/bankomatima koji pripadaju
+tom/tim menjačkim mestima, dužan je da odmah, a najkasnije narednog radnog dana od dana
+kad je privremeno prestao da obavlja menjačke poslove o tome obavesti Narodnu banku Srbije,
+kao i banku s kojom ima zaključen ugovor, pri čemu je dužan da u obaveštenju Narodnoj banci
+Srbije navede razloge zbog kojih je privremeno sprečen da obavlja menjačke poslove i period
+u kome privremeno neće obavljati menjačke poslove a koji može trajati do šest meseci.
+Ako po isteku perioda privremenog prestanka obavljanja menjačkih
+poslova iz stava 7. ove tačke i dalje postoje razlozi zbog kojih je ovlašćeni menjač privremeno
+prestao da obavlja menjačke poslove na jednom, više ili na svim menjačkim mestima, odnosno
+na bankomatu/bankomatima koji pripadaju tom/tim menjačkim mestima - ovlašćeni menjač dužan
+je da istog, a najkasnije narednog radnog dana od isteka roka za koji je dostavio obaveštenje o privremenom
+prestanku obavljanja menjačkih poslova iz tog stava, o produženju perioda privremenog prestanka
+obavljanja menjačkih poslova obavesti Narodnu banku Srbije, kao i banku s kojom ima zaključen
+ugovor, pri čemu je dužan da u obaveštenju Narodnoj banci Srbije navede period produženja
+privremenog prestanka obavljanja menjačkih poslova i razloge za to produženje, s tim što
+ukupno trajanje privremenog prestanka obavljanja menjačkih poslova ne može biti duže od godine
+dana od dana početka privremenog prestanka obavljanja menjačkih poslova.
+Ovlašćeni menjač iz stava 7. ove tačke dužan je da, istog dana kad
+je privremeno prestao da obavlja menjačke poslove na jednom ili više menjačkih mesta, svu
+efektivu i svu gotovinu s tog/tih menjačkih mesta prenese na menjačko mesto koje nastavlja
+da radi ili da ih uplati na svoje račune kod banke, odnosno banaka. Ako je ovlašćeni menjač
+privremeno prestao da obavlja menjačke poslove samo na bankomatu/bankomatima koji pripadaju
+menjačkom mestu na kome i dalje obavlja menjačke poslove - dužan je da istog dana svu efektivu
+i svu gotovinu s tog/tih bankomata uplati na isplatno-uplatno blagajničko mesto s kojim je
+bankomat povezan u pogledu snabdevanja gotovinom u dinarima i u efektivnom stranom novcu.
+U slučaju da je privremeno prestao da obavlja menjačke poslove na svim menjačkim mestima,
+ovaj menjač dužan je da svu efektivu proda banci s kojom ima zaključen ugovor i svu gotovinu
+uplati na svoj tekući račun najkasnije narednog radnog dana od poslednjeg radnog dana kad
+je obavljao menjačke poslove na svim menjačkim mestima i da dokaz o tome, zajedno sa obaveštenjem
+iz stava 7. ove tačke, podnese Narodnoj banci Srbije.
+Ovlašćeni menjač iz stava 7, odnosno stava 8. ove tačke, dužan je
+da istog dana kada je nastavio da obavlja menjačke poslove na jednom, više ili svim menjačkim
+mestima, odnosno na bankomatu/bankomatima koji pripadaju tom/tim menjačkim mestima na kojima
+je privremeno prestao da ih obavlja, obavesti o tome Narodnu banku Srbije, kao i banku s
+kojom ima zaključen ugovor.
+Ovlašćeni menjač obaveštenja iz st. 7. do 10. ove tačke dostavlja Narodnoj banci Srbije u skladu sa uputstvom kojim se uređuju izrada i elektronsko dostavljanje podataka Narodnoj banci Srbije.
+Ako ovlašćeni menjač ne nastavi da obavlja menjačke poslove nakon isteka
+perioda privremenog prestanka iz obaveštenja o privremenom prestanku obavljanja menjačkih
+poslova, odnosno obaveštenja o produženju tog perioda ili ne dostavi Narodnoj banci Srbije
+obaveštenje o produženju perioda privremenog prestanka obavljanja menjačkih poslova s navođenjem
+razloga za to produženje, na jednom, više ili svim menjačkim mestima - dužan je da Narodnoj
+banci Srbije podnese zahtev za trajni prestanak obavljanja menjačkih poslova na tom/tim menjačkim
+mestima u skladu sa ovom tačkom. U suprotnom - Narodna banka Srbije donosi rešenje o oduzimanju
+ovlašćenja za obavljanje menjačkih poslova na tom/tim menjačkim mestima u skladu sa zakonom
+i ovom odlukom. Ako ovlašćeni menjač ne nastavi da obavlja menjačke poslove na jednom, više
+ili svim bankomatima nakon isteka perioda privremenog prestanka iz obaveštenja o privremenom
+prestanku obavljanja menjačkih poslova, odnosno obaveštenja o produženju tog perioda ili
+ne dostavi Narodnoj banci Srbije obaveštenje o produženju perioda privremenog prestanka obavljanja
+menjačkih poslova s navođenjem razloga za to produženje - dužan je da postupi u  skladu s tačkom 5. stav 5. ove odluke.
+Odredbe ove tačke, osim st. 5. i 11, shodno se primenjuju na javnog poštanskog operatora.
+Izveštavanje
+42. Banka je dužna da Narodnoj banci Srbije svakodnevno - u skladu sa uputstvom
+kojim se uređuju izrada i elektronsko dostavljanje podataka Narodnoj banci Srbije - elektronski
+dostavlja izveštaj o obavljenim menjačkim poslovima, s podacima koji su dati u Prilogu 1.
+Izveštaj iz stava 1. ove tačke obuhvata i  podatke o otkupu
+efektive i čekova od javnog poštanskog operatora i ovlašćenog menjača, kao i podatke o prodaji
+efektive i čekova javnom poštanskom operatoru i ovlašćenom menjaču s kojima banka ima zaključene
+ugovore.
+U slučaju prekida rada elektronskog sistema, banka je dužna da izveštaj
+iz stava 1. ove tačke dostavi odmah posle uspostavljanja rada tog sistema.
+43. Ovlašćeni menjač koji koristi softver Narodne banke Srbije dužan je
+da Narodnoj banci Srbije svakodnevno elektronski dostavlja izveštaj o obavljenim menjačkim
+poslovima, s podacima koji su dati u Prilogu 2.
+Ovlašćeni menjač koji koristi softver banke dužan je da toj banci svakodnevno
+elektronski dostavlja izveštaj o obavljenim menjačkim poslovima, s podacima koji su dati
+u Prilogu 2.
+Banka je dužna da svakodnevno elektronski dostavlja Narodnoj banci Srbije
+izveštaje iz stava 2. ove tačke, kao i sve podatke o obavljenim menjačkim poslovima menjača
+iz tog stava, u skladu sa uputstvom kojim se uređuju izrada i elektronsko dostavljanje podataka
+Narodnoj banci Srbije, radi jednoobraznog postupka kontrole obavljanja menjačkih poslova.
+U slučaju prekida rada elektronskog sistema, ovlašćeni menjači iz st. 1.
+i 2. ove tačke i banka iz stava 3. ove tačke - dužni su da, odmah posle uspostavljanja rada
+tog sistema, Narodnoj banci Srbije, odnosno banci dostave izveštaje i podatke iz st. 1, 2.
+i 3. ove tačke.
+44. Javni poštanski operator dužan je da banci iz tačke 8. stav 5. ove
+odluke svakodnevno elektronski dostavlja izveštaj o obavljenim menjačkim poslovima, s podacima
+koji su dati u Prilogu 3.
+Banka iz stava 1. ove tačke Narodnoj banci Srbije svakodnevno elektronski
+dostavlja izveštaj iz tog stava, u skladu sa uputstvom kojim se uređuju izrada i elektronsko
+dostavljanje podataka Narodnoj banci Srbije.
+U slučaju prekida rada elektronskog sistema, javni poštanski operator,
+odnosno banka iz stava 1. ove tačke dužni su da, odmah posle uspostavljanja rada tog sistema,
+banci, odnosno Narodnoj banci Srbije dostave izveštaje i podatke iz tog stava.
+45. Prilozi iz ove odluke odštampani su uz ovu odluku i njen su sastavni
+deo.
+Prelazna odredba i završna odredba
+46. Danom početka primene ove odluke prestaju da važe Odluka o uslovima
+i načinu obavljanja menjačkih poslova ("Službeni glasnik RS", br. 51/15 i 3/16),
+osim odredbe tač. 21. i 22. te odluke, koje će se primenjivati do dana početka primene tačke
+40. i tač. od 42. do 45. ove odluke, kao i Uputstvo za sprovođenje Odluke o uslovima i načinu
+obavljanja menjačkih poslova ("Službeni glasnik RS", br. 51/15 i 3/16), osim odredaba
+tač. 21, 22. i 23. tog uputstva, koje će se primenjivati do dana početka primene tač. od
+42. do 45. ove odluke.
+47. Ova odluka objavljuje se u "Službenom glasniku Republike Srbije" i
+stupa na snagu osmog dana od dana objavljivanja, a primenjuje se od 1. januara 2019. godine,
+osim odredaba tačke 40. i tač. od 42. do 45, koje se primenjuju od 1. jula 2019. godine.
+Samostalna odredba Odluke o izmeni i dopuni
+Odluke o uslovima i načinu obavljanja menjačkih poslova
+("Sl. glasnik RS", br. 86/2018)
+2. Ova odluka objavljuje se u "Službenom glasniku Republike Srbije" i stupa na snagu osmog dana od dana objavljivanja, a primenjuje se od 1. januara 2019. godine.
+Samostalne odredbe Odluke o izmenama i dopunama
+Odluke o uslovima i načinu obavljanja menjačkih poslova
+("Sl. glasnik RS", br. 53/2020)
+9. Ako ovlašćeni menjač privremeno prestane da obavlja menjačke poslove
+za vreme trajanja vanrednog stanja proglašenog Odlukom o proglašenju vanrednog stanja ("Službeni
+glasnik RS", broj 29/20), ukupno trajanje privremenog prestanka obavljanja menjačkih
+poslova koje je propisano ovom odlukom može se produžiti za period trajanja vanrednog stanja.
+Ovlašćeni menjač iz stava 1. ove tačke dužan je da obaveštenje o privremenom
+prestanku obavljanja menjačkih poslova, kao i obaveštenje o produženju privremenog prestanka
+obavljanja menjačkih poslova, dostavi na način i u rokovima koji su propisani ovom odlukom.
+10. Ovlašćeni menjač koji je privremeno prestao da obavlja menjačke poslove
+do dana stupanja na snagu ove odluke dužan je da do 1. septembra 2020. godine obavesti Narodnu
+banku Srbije o trajanju i razlozima privremenog prestanka obavljanja menjačkih poslova na
+način koji je propisan ovom odlukom.
+Ovlašćeni menjač koji obavlja menjačke poslove i na bankomatu na dan stupanja
+na snagu ove odluke, dužan je da do 1. januara 2021. godine Narodnoj banci Srbije dostavi
+zahtev za izdavanje ovlašćenja za obavljanje menjačkih poslova s podacima o broju i adresi
+bankomata, kao i podacima o menjačkom mestu/menjačkim mestima kojima bankomat pripada, sa
+dokumentacijom kojom se dokazuju ovi podaci.
+11. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije", osim tačke 7. ove odluke, koja se primenjuje od 1. septembra
+2020. godine.
+Samostalne odredbe Odluke o izmenama i dopuni
+Odluke o uslovima i načinu obavljanja menjačkih poslova
+("Sl. glasnik RS", br. 32/2022)
+4. Banke su dužne da Narodnoj banci Srbije dostave specifikaciju softvera iz tačke 3. ove odluke koji ovlašćeni menjači koriste na dan stupanja na snagu ove odluke - najkasnije 15. aprila 2022. godine.
+5. Izuzetno od tačke 15. stav 1. Odluke, u periodu od dana stupanja na snagu ove odluke do 12. aprila 2022. godine, javni poštanski operator i ovlašćeni menjač mogu da prodaju efektivu banci u roku koji ne može biti duži od 30 dana od dana kupovine te efektive od banke.
+6. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", osim odredbe tačke 3. stav 1. ove odluke, koja stupa na snagu 1. aprila 2022. godine.
+Samostalne odredbe Odluke o izmenama i dopunama
+Odluke o uslovima i načinu obavljanja menjačkih poslova
+("Sl. glasnik RS", br. 67/2022)
+8. Ovlašćeni menjač kome je Narodna banka Srbije izdala ovlašćenje na osnovu odredaba Odluke, a koji namerava da menjačke poslove obavlja na posebnom blagajničkom mestu u skladu sa ovom odlukom, dužan je da Narodnoj banci Srbije podnese zahtev za dobijanje ovlašćenja za obavljanje menjačkih poslova na posebnom blagajničkom mestu.
+Danom stupanja na snagu ove odluke menjački poslovi se više ne mogu obavljati preko putujućih menjača ili privremenog blagajničkog mesta u skladu sa odredbama Odluke.
+9. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Samostalne odredbe Odluke o izmenama i dopunama
+Odluke o uslovima i načinu obavljanja menjačkih poslova
+("Sl. glasnik RS", br. 39/2023)
+7. Ovlašćeni menjač koji na dan stupanja na snagu ove odluke obavlja menjačke poslove na menjačkom mestu i/ili bankomatu koji se nalaze na međunarodnom aerodromu ili luci, u prostoru iza mesta gde se vrši granična provera lica u skladu sa zakonom kojim se uređuje granična kontrola, i/ili u uređenom prostoru za priređivanje posebnih igara na sreću u skladu sa zakonom kojim se uređuju igre na sreću - dužan je da do 1. jula 2023. godine Narodnoj banci Srbije dostavi zahtev za izdavanje ovlašćenja za obavljanje menjačkih poslova u kome će navesti da će menjačke poslove obavljati na menjačkom mestu, i/ili bankomatu koji se nalaze u navedenom prostoru, kao i da navede detaljne informacije koje se odnose na prostor u kome će se obavljati menjački poslovi (npr. opis tačne lokacije menjačkog mesta).
+Ako ovlašćeni menjač iz stava 1. ove tačke do 1. jula 2023. godine ne podnese Narodnoj banci Srbije zahtev za izdavanje ovlašćenja za obavljanje menjačkih poslova u prostoru iz tog stava - Narodna banka Srbije donosi rešenje o oduzimanju ovlašćenja koje je ovlašćeni menjač imao za obavljanje menjačkih poslova na tom menjačkom mestu.
+8. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", osim odredaba tačke 2. stav 1. i tačke 5. ove odluke, koje stupaju na snagu 1. septembra 2023. godine, kao i odredbe tačke 6. stav 2. ove odluke, koja stupa na snagu 1. januara 2024. godine.
+Samostalna  odredba Odluke o izmenama
+Odluke o uslovima i načinu obavljanja menjačkih poslova
+("Sl. glasnik RS", br. 21/2025)
+3. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", a primenjuje se od 2. juna 2025. godine.
+Samostalna  odredba Odluke o izmenama i dopunama
+Odluke o uslovima i načinu obavljanja menjačkih poslova
+("Sl. glasnik RS", br. 31/2025)
+9. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije" osim tač. 5, 6. i 7. ove odluke koje stupaju na snagu 2. juna 2025. godine.
+Prilog 1
+_______________________________
+_____________________________________
+(naziv banke)
+(matični broj)
+DNEVNI IZVEŠTAJ BANKE
+O OBAVLJENIM MENJAČKIM POSLOVIMA
+na dan _________________________
+Oznaka valute
+OTKUP EFEKTIVE
+OTKUP ČEKOVA
+PRODAJA EFEKTIVE
+PRODAJA ČEKOVA
+Stanje na posebnim deviznim računima ovlašćenih
+menjača
+Stanje na posebnom deviznom računu javnog
+poštanskog operatora
+Od rezidenata - fizičkih lica
+Od nerezidenata - fizičkih lica
+Od ovlašćenih menjača
+Od javnog poštanskog operatora
+Od rezidenata - fizičkih lica
+Od nerezidenata - fizičkih lica
+Od ovlašćenih menjača
+Od javnog poštanskog operatora
+Rezidentima - fizičkim licima
+Nerezidentima - fizičkim licima
+Ovlašćenim menjačima
+Javnom poštanskom operatoru
+Rezidentima - fizičkim licima
+Nerezidentima - fizičkim licima
+Ovlašćenim menjačima
+Javnom poštanskom operatoru
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+(796)
+(701)
+(572)
+(572)
+(795)
+(699)
+(572)
+(572)
+(700)
+(701)
+(573)
+(573)
+(795)
+(699)
+(573)
+(573)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+_________________________
+_____________________________
+(mesto i datum)
+(potpis)
+Prilog 2
+_________________________________
+__________________________________________
+(naziv ovlašćenog menjača)
+(matični broj, odnosno šifra ovlašćenog
+menjača)
+__________________________________________________________________________
+(matični broj i naziv banke s kojom ovlašćeni menjač ima zaključen ugovor)
+DNEVNI IZVEŠTAJ OVLAŠĆENOG MENJAČA
+na dan __________________________
+Oznaka valute
+Početno stanje u blagajni*
+MENJAČKI POSLOVI
+Ulaz efektive i gotovine u dinarima u
+blagajnu po osnovu pružanja platnih usluga
+Izlaz efektive i gotovine u dinarima iz
+blagajne radi pružanja platnih usluga
+Stanje u blagajni na kraju dana*
+Efektiva kupljena od banke
+OTKUP EFEKTIVE
+OTKUP ČEKOVA
+PRODAJA EFEKTIVE
+PRODAJA ČEKOVA
+Efektiva prodata banci (tačka 15. Odluke)
+Efektiva prodata banci (tačka 16. Odluke)
+Ulaz u blagajnu po osnovu podizanja s
+posebnog deviznog računa kod banke
+Izlaz iz blagajne po osnovu uplate na
+posebni devizni račun kod banke
+Čekovi predati banci
+Od rezidenata - fizičkih lica
+Od nerezidenata - fizičkih lica
+Od rezidenata - fizičkih lica
+Od nerezidenata - fizičkih lica
+Rezidentima - fizičkim licima
+Nerezidentima - fizičkim licima
+Rezidentima - fizičkim licima
+Nerezidentima - fizičkim licima
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+(573)
+(796)
+(701)
+(795)
+(699)
+(700)
+(701)
+(795)
+(699)
+(572)
+(572)
+(799)
+(799)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+_____________________________
+_______________________________________________
+(mesto i datum)
+(potpis)
+*Iznos dinara uključuje se u početno stanje, odnosno u stanje na kraju
+dana.
+Napomena: Kolone 17. i 18. popunjavaju ovlašćeni menjači koji istovremeno pružaju i platne
+usluge.
+Prilog 3
+_______________________________
+______________________________
+(naziv)
+(matični broj)
+_______________________________________________________________________
+(matični broj i naziv banke s kojom javni poštanski operator ima zaključen ugovor)
+DNEVNI IZVEŠTAJ JAVNOG POŠTANSKOG OPERATORA
+na dan __________________________
+Oznaka valute
+Početno stanje u blagajni*
+MENJAČKI POSLOVI
+Ulaz efektive i gotovine u dinarima u
+blagajnu po poslovima s međunarodnim uputnicama
+Izlaz efektive i gotovine u dinarima iz
+blagajne po poslovima s međunarodnim uputnicama
+Ulaz efektive i gotovine u dinarima u
+blagajnu po osnovu pružanja platnih usluga
+Izlaz efektive i gotovine u dinarima iz
+blagajne radi pružanja platnih usluga
+Stanje u blagajni na kraju dana*
+Efektiva kupljena od banke
+OTKUP EFEKTIVE
+OTKUP ČEKOVA
+PRODAJA EFEKTIVE
+PRODAJA ČEKOVA
+Efektiva prodata banci (tačka 15. Odluke)
+Efektiva prodata banci (tačka 16. Odluke)
+Ulaz u blagajnu po osnovu podizanja s
+posebnog deviznog računa kod banke
+Izlaz iz blagajne po osnovu uplate na
+posebni devizni račun kod banke
+Čekovi predati banci
+Od rezidenata - fizičkih lica
+Od nerezidenata - fizičkih lica
+Od rezidenata - fizičkih lica
+Od nerezidenata - fizičkih lica
+Rezidentima - fizičkim licima
+Nerezidentima - fizičkim licima
+Rezidentima - fizičkim licima
+Nerezidentima - fizičkim licima
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+Šifra
+(573)
+(796)
+(701)
+(795)
+(699)
+(700)
+(701)
+(795)
+(699)
+(572)
+(572)
+(805)
+(805)
+(799)
+(799)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+______________________________
+_________________________________________
+(mesto i datum)
+(potpis)
+*Iznos dinara uključuje se u početno stanje, odnosno u stanje na kraju
+dana.
+Napomena: Kolone 19. i 20. javni poštanski operator popunjava kada istovremeno pruža i platne
+usluge.

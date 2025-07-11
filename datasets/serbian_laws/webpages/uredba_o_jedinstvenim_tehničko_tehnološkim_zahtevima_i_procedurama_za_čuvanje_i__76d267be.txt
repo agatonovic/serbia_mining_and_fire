@@ -1,0 +1,106 @@
+Title: UREDBAO JEDINSTVENIM TEHNIČKO-TEHNOLOŠKIM ZAHTEVIMA I PROCEDURAMA ZA ČUVANJE I ZAŠTITU ARHIVSKE GRAĐE I DOKUMENTARNOG MATERIJALA U ELEKTRONSKOM OBLIKU
+URL: https://www.paragraf.rs/propisi/uredba-tehnicko-tehnoloskim-zahtevima-procedurama-za-cuvanje-i-zastitu-arhivske-gradje.html
+Extracted: 2025-07-06T23:16:02.600225
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Preuzmite model akta:
+Pravilnik o pripremi dokumentarnog materijala za pouzdano elektronsko cuvanje
+Tweet
+Prijavite se na
+mailing listu
+!
+UREDBA
+O JEDINSTVENIM TEHNIČKO-TEHNOLOŠKIM ZAHTEVIMA I PROCEDURAMA ZA ČUVANJE I ZAŠTITU ARHIVSKE GRAĐE I DOKUMENTARNOG MATERIJALA U ELEKTRONSKOM OBLIKU
+("Sl. glasnik RS", br. 107/2021,  94/2022 i 116/2023)
+Predmet uredbe
+Član 1
+Ovom uredbom uređuju se jedinstveni tehničko-tehnološki zahtevi i procedure koje treba da ispune stvaraoci i imaoci arhivske građe i dokumentarnog materijala (u daljem tekstu: stvaraoci i imaoci) pri čuvanju i zaštiti arhivske građe i dokumentarnog materijala u elektronskom obliku.
+Čuvanje elektronskog dokumenta
+Član 2
+Stvaraoci i imaoci dokumentarnog materijala koji se trajno čuva u elektronskom obliku dužni su da do predaje nadležnom arhivu, osiguraju njegovo pouzdano elektronsko čuvanje u skladu sa propisom kojim se uređuju uslovi za pripremu dokumenta za pouzdano elektronsko čuvanje i formatima dokumenta koji su pogodni za dugotrajno čuvanje.
+Pouzdano elektronsko čuvanje dokumentarnog materijala koji se trajno čuva u elektronskom obliku koji su stvaraoci predali državnom organu i organizaciji, organu teritorijalne autonomije i jedinici lokalne samouprave, ustanovi, javnom preduzeću i imaocu javnih ovlašćenja (u daljem tekstu: organi), osigurava se preko tog organa kao imaoca.
+Stvaraoci i imaoci dokumentarnog materijala u elektronskom obliku koji nema trajni rok čuvanja, dužni su da osiguraju njegov integritet, autentičnost, verodostojnost, celovitost i upotrebljivost kvalifikovanim elektronskim potpisom, odnosno kvalifikovanim elektronskim pečatom.
+Korišćenje softverskog rešenja eArhiv
+Član 3
+Organi kao stvaraoci i imaoci vrše pouzdano elektronsko čuvanje u softverskom rešenju eArhiv (u daljem tekstu: eArhiv) koji je deo arhivskog informacionog sistema.
+eArhiv Vojnog arhiva nije deo informacionog sistema arhiva već funkcioniše nezavisno.
+Odobravanje Liste kategorija arhivske građe i dokumentarnog materijala sa rokovima čuvanja
+Član 4
+Stvaralac i imalac donosi listu kategorija arhivske građe i dokumentarnog materijala sa rokovima čuvanja i dostavlja je u elektronskom obliku nadležnom javnom arhivu u eArhiv putem Portala eUprava, u skladu sa propisima kojima se uređuje elektronska uprava osim ako je posebnim zakonom drugačije propisano.
+Nadležni javni arhiv u eArhivu proverava listu kategorija arhivske građe i dokumentarnog materijala sa rokovima čuvanja i daje saglasnost.
+Ako nadležni javni arhiv utvrdi nepravilnost u listi iz stava 1. ovog člana nalaže meru za njeno ispravljanje.
+Stvaralac i imalac dokumentarnog materijala na osnovu mere iz stava 3. ovog člana bez odlaganja vrši ispravku nepravilnosti i dostavlja ispravljenu listu u eArhiv.
+Dužnosti stvaraoca i imaoca pre predaje nadležnom arhivu
+Član 5
+Stvaralac i imalac dokumentarnog materijala koji se trajno čuva dužan je da:
+1) donese interna pravila po kojima će postupati u pripremi dokumentarnog materijala za pouzdano elektronsko čuvanje;
+2) primeni mere zaštite softverskog rešenja iz člana 3. ove uredbe;
+3) pripremi dokumentarni materijal za elektronsko arhiviranje u skladu sa propisom kojim se uređuje pouzdano elektronsko čuvanje i formati dokumenta koji su pogodni za dugotrajno čuvanje;
+4) klasifikuje dokumentarni materijal u skladu sa listom kategorija arhivske građe i dokumentarnog materijala i odredi rok čuvanja;
+5) evidentira sledeće podatke o stvaraocu u softverskom rešenju iz člana 3. ove uredbe:
+(1) matični broj, odnosno jedinstveni matični broj građana;
+(2) naziv;
+(3) sedište, odnosno prebivalište;
+(4) organizaciona jedinica;
+(5) ovlašćeno lice;
+6) odredi metapodatke o dokumentarnom materijalu u koje spadaju:
+(1) jedinstvena oznaka dokumenta;
+(2) broj predmeta;
+(3) vrsta dokumenta;
+(4) opis;
+(5) izvorni oblik, i to: papirni, odnosno elektronski;
+(6) format u kome se dokument čuva;
+(7) datum nastanka, odnosno potpisivanja i/ili pečatiranja;
+(8) broj kvalifikovanog elektronskog sertifikata;
+(9) rok čuvanja;
+(10) datum arhiviranja;
+(11) datum pridruživanja kvalifikovanog vremenskog žiga (datum potvrđivanja integriteta);
+(12) rok za obnovu integriteta dokumenta;
+(13) status predmeta, i to: formiran, u obradi, prekinut, obustavljen, odbačen, rešen i arhiviran;
+(14) status dokumenta, i to: potpisan odnosno pečatiran, potpisan i pečatiran, nadograđen/obnovljen, uništen, predat javnom arhivu;
+(15) napomena;
+7) potvrdi vernost izvornom dokumentarnom materijalu i tačnost meta podataka kvalifikovanim elektronskim potpisom, odnosno pečatom;
+8) vodi evidenciju o preduzetim radnjama u postupku pripreme za elektronsko čuvanje i elektronsko arhiviranje;
+9) čuva dokumentarni materijal u formatima pogodnim za dugotrajno čuvanje;
+10) vodi arhivsku knjigu u elektronskom obliku;
+11) prilikom otpočinjanja pouzdanog elektronskog čuvanja i periodično pridružuje kvalifikovani vremenski žig, odnosno vrši nadogradnju kvalifikovanog elektronskog potpisa, odnosno pečata na arhiviranom dokumentarnom materijalu u elektronskom obliku do predaje nadležnom arhivu u skladu sa propisom kojim se uređuje pouzdano elektronsko čuvanje i formati dokumenata koji su pogodni za dugotrajno čuvanje.
+Obavljanje stručnog nadzora u eArhivu
+Član 6
+Nadležni javni arhiv imenuje administratora u eArhivu.
+Administrator iz stava 1. ovog člana autorizuje pristup ovlašćenom licu nadležnog javnog arhiva radi vršenja stručnog nadzora.
+Nadležni javni arhiv u eArhivu u odnosu na odobrenu listu iz člana 4. proverava elektronsko arhiviranje.
+U slučaju da nadležni javni arhiv utvrdi nepravilnost pri elektronskom arhiviranju, označava nepravilnost u arhivskoj knjizi i nalaže meru za otklanjanje, u skladu sa zakonom.
+Stvaralac i imalac na osnovu zahtevane mere iz stava 4. ovog člana bez odlaganja vrši ispravku nepravilnosti.
+Izdvajanje elektronskog dokumentarnog materijala koji se uništava
+Član 7
+Stvaralac i imalac dokumentarnog materijala, posle izvršenog odabiranja dokumentarnog materijala koji se trajno čuva, izdvaja radi uništenja dokumentarni materijal kome je istekao rok čuvanja.
+Stvaralac i imalac dokumentarnog materijala izdvajanje radi uništenja obavlja kreirajući zahtev u elektronskom obliku sa popisanim dokumentarnim materijalom evidentiranim u arhivskoj knjizi kojem je istekao rok čuvanja.
+Zahtev iz stava 2. ovog člana se dostavlja nadležnom javnom arhivu u eArhiv putem Portala eUprava.
+Izuzetno, organ iz člana 3. ove uredbe zahtev iz stava 2. ovog člana kreira i dostavlja u eArhivu.
+Vojni arhiv će primati od organizacionih jedinica Ministarstva odbrane i Vojske Srbije zahteve u elektronskom obliku sa popisom dokumentarnog materijala za uništenje i za iste izdavati odobrenje za uništenje.
+Nadležni javni arhiv odobrava zahtev iz stava 2. ovog člana u eArhivu za uništenje dokumentarnog materijala i čini ga dostupnim na način na koji je zahtev podnet.
+Izdvajanje elektronskog dokumentarnog materijala koji se trajno čuva
+Član 8
+Stvaralac i imalac dokumentarnog materijala koji se trajno čuva, po isteku roka od 30 godina od dana nastanka, predaje zahtev u elektronskom obliku putem Portala eUprava nadležnom javnom arhivu u eArhiv.
+Nadležni javni arhiv na osnovu zahteva iz stava 1. ovog člana donosi akt o utvrđivanju arhivske građe za kulturno dobro u skladu sa zakonom.
+Arhivska građa iz stava 2. ovog člana predaje se nadležnom javnom arhivu upisivanjem u eArhiv.
+Vojni arhiv će od organizacionih jedinica Ministarstva odbrane i Vojske Srbije, po isteku roka čuvanja od 30 godina od dana nastanka, prikupljati dokumentarni materijal koji se čuva trajno i koji neće biti sastavni deo javnog arhiva u eArhivu.
+Mere zaštite softverskog rešenja u kojem se vrši elektronsko arhiviranje
+Član 9
+Sve tehničko-tehnološke komponente koje organ, stvaralac ili imalac koji vrši pripremu koristi u toku pripreme dokumentarnog materijala za elektronsko arhiviranje, deo su softverskog rešenja na koji se primenjuju mere zaštite u skladu su sa propisima.
+Završna odredba
+Član 10
+Ova uredba stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", a primenjuje se od 1. januara 2024. godine.
+Samostalni član Uredbe o izmeni
+Uredbe o jedinstvenim tehničko-tehnološkim zahtevima i procedurama za čuvanje i zaštitu arhivske građe i dokumentarnog materijala u elektronskom obliku
+("Sl. glasnik RS", br. 94/2022)
+Član 2
+Ova uredba stupa na snagu danom objavljivanja u "Službenom glasniku Republike Srbije".
+Samostalni član Uredbe o izmenama i dopunama
+Uredbe o jedinstvenim tehničko-tehnološkim zahtevima i procedurama za čuvanje i zaštitu arhivske građe i dokumentarnog materijala u elektronskom obliku
+("Sl. glasnik RS", br. 116/2023)
+Član 7
+Ova uredba stupa na snagu 1. januara 2024. godine.

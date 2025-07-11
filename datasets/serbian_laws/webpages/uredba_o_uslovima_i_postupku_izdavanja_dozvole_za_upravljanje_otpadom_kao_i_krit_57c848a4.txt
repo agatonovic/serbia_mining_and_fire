@@ -1,0 +1,785 @@
+Title: UREDBAO USLOVIMA I POSTUPKU IZDAVANJA DOZVOLE ZA
+          UPRAVLJANJE OTPADOM, KAO I KRITERIJUMIMA, KARAKTERIZACIJI, KLASIFIKACIJI
+        I IZVEŠTAVANJU O RUDARSKOM OTPADU
+URL: https://www.paragraf.rs/propisi/uredba-o-dozvoli-upravljanje-otpadom-i-rudarskim-otpadom.html
+Extracted: 2025-07-06T23:17:30.397058
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+UREDBA
+O USLOVIMA I POSTUPKU IZDAVANJA DOZVOLE ZA
+          UPRAVLJANJE OTPADOM, KAO I KRITERIJUMIMA, KARAKTERIZACIJI, KLASIFIKACIJI
+        I IZVEŠTAVANJU O RUDARSKOM OTPADU
+("Sl. glasnik RS", br. 53/2017)
+Član 1
+Ovom uredbom bliže se uređuju uslovi i postupak izdavanja dozvole
+  za upravljanje otpadom, kao i kriterijumima, karakterizaciji, klasifikaciji
+  i izveštavanju o rudarskom otpadu.
+Član 2
+Pojedini izrazi upotrebljeni u ovoj uredbi imaju sledeće značenje:
+1) otpad je svaka materija ili predmet koji držalac odbacuje,
+  namerava ili je neophodno da odbaci;
+2) opasan otpad je otpad koji po svom poreklu, sastavu ili
+  koncentraciji opasnih materija može prouzrokovati opasnost po životnu sredinu
+  i zdravlje ljudi i ima najmanje jednu od opasnih karakteristika utvrđenih ovom
+  uredbom i/ili posebnim propisima kojima se uređuje upravljanje otpadom, uključujući
+  i ambalažu u koju je opasan otpad bio ili jeste upakovan;
+3) inertni otpad je otpad koji nije podložan bilo kojim fizičkim,
+  hemijskim ili biološkim promenama, ne rastvara se, ne sagoreva ili na drugi
+  način fizički ili hemijski reaguje, nije biološki razgradiv ili ne utiče nepovoljno
+  na druge materije sa kojima dolazi u kontakt na način koji može da dovede do
+  povećanja zagađenja životne sredine ili ugrozi zdravlje ljudi, a ukupno izluživanje
+  i sadržaj zagađujućih materija u otpadu i ekotoksičnost izluženih materija
+  ne smeju biti značajni, a posebno ne smeju da ugrožavaju kvalitet površinskih
+  i/ili podzemnih voda, ako su ispunjeni svi navedeni kriterijumi, u kratkoročnom
+  i dugoročnom periodu:
+- otpad neće pretrpeti nikakvo značajno raspadanje ili rastvaranje
+  ili drugu značajnu promenu koja može izazvati bilo kakav štetan uticaj na životnu
+  sredinu ili naneti štetu zdravlju ljudi, ukoliko su sadržaji supstanci navedenih
+  u alineji četvrtoj ove tačke ispod granice za inertan otpad predviđene posebnim
+  propisima o kategorijama, ispitivanju i klasifikaciji otpada;
+- otpad ima maksimalni sadržaj sulfidnog sumpora od 0,1%, ili
+  otpad ima maksimalni sadržaj sulfidnog sumpora od 1% i srazmeru potencijala
+  neutralizacije, koji je definisan kao srazmera između potencijala neutralizacije
+  i kiselinskog potencijala i kada se odredi na osnovu statičnog ispitivanja
+  prEN 15875, iznosi više od 3;
+- otpad ne predstavlja rizik od samozapaljivanja i neće goreti;
+- sadržaj supstanci u otpadu koje su potencijalno štetne za
+  životnu sredinu ili zdravlje ljudi, a posebno As, Cd, Co, Cr, Cu, Hg, Mo, Ni,
+  Pb, V i Zn, uključujući u zasebnim finim česticama u otpadu, dovoljno je nizak
+  da rizik za ljude i životnu sredinu bude zanemarljiv, u kratkoročnom i dugoročnom
+  periodu (da bi se smatrao dovoljno niskim da ne predstavlja rizik za ljude
+  ili životnu sredinu, sadržaj tih supstanci ne sme da prelazi nacionalne granične
+  vrednosti za prostore za koje je utvrđeno da nisu zagađeni ili relevantne za
+  činioce životne sredine);
+- otpad ne sadrži u većoj meri proizvode koji se koriste za
+  iskopavanje ili pripremu, a koji bi mogli naneti štetu životnoj sredini ili
+  zdravlju ljudi;
+4) jalovište jeste prirodan ili izgrađen objekat koji služi
+  za odlaganje sitno zrnastog otpada, jalovine, zajedno sa različitim količinama
+  slobodne vode nastale pri pripremi mineralne sirovine i izbistravanjem i recirkulacijom
+  procesne vode;
+5) nezagađena otkrivka je površinski sloj zemljine kore, koji
+  je uklonjen tokom aktivnosti otkopavanja mineralnih sirovina i koji se ne smatra
+  zagađenim na osnovu propisa iz oblasti zaštite zemljišta;
+6) prostor za odlaganje rudarskog otpada (u daljem tekstu:
+  deponija rudarskog otpada) jeste svaki prostor određen za sakupljanje ili odlaganje
+  rudarskog otpada, u čvrstom ili tečnom stanju, kao rastvor ili suspenziju,
+  u sledećim vremenskim periodima:
+- bez vremenskog ograničenja za deponije za upravljanje otpadom
+  kategorije A i deponije za upravljanje opasnim otpadom, koja su navedena u
+  planu upravljanja rudarskim otpadom;
+- duže od šest meseci za deponije za neočekivano nastali opasni
+  rudarski otpad;
+- duže od tri godine za deponije za nezagađeno zemljište, neopasan
+  rudarski otpad od geoloških istraživanja, otpad nastao iskopavanjem, obradom
+  ili skladištenjem treseta i inertni rudarski otpad;
+U deponije za upravljanje rudarskim otpadom uključene su i
+  svi nasipi/brane i drugi objekti koji služe za kontrolisanje, zadržavanje,
+  ograđivanje ili na drugi način osiguravaju stabilnost deponije i takođe uključuju,
+  između ostalog, jalovišta i akumulacije, kao i sve druge objekte koji služe
+  zadržavanju, spremanju ili osiguravaju stabilnost deponije, ali isključuju
+  eksploataciona polja izbrisana iz katastra eksploatacionih polja u koje se
+  otpad vraća nakon otkopavanja mineralnih sirovina, u svrhu saniranja ili izgradnje;
+7) veliki udes jeste događaj na lokaciji tokom aktivnosti koja
+  uključuje upravljanje rudarskim otpadom u bilo kom objektu na koji se primenjuju
+  odredbe ove uredbe, koji dovodi u ozbiljnu opasnost zdravlje ljudi i/ili životnu
+  sredinu, odmah ili tokom vremena, na lokaciji ili izvan nje;
+8) vodni recipijent jesu površinske vode, podzemne vode, vodna
+  ušća i/ili obalna voda odnosno prirodni i veštački vodotoci, jezera, akumulacije
+  i zemljište, u koje se ispuštaju otpadne i atmosferske vode kako je utvrđeno
+  u propisima iz oblasti voda;
+9) sanacija, odnosno remedijacija jeste proces preduzimanja
+  mera za zaustavljanje zagađenja i dalje degradacije životne sredine do nivoa
+  koji je bezbedan za buduće korišćenje lokacije uključujući uređenje prostora,
+  revitalizaciju i rekultivaciju prostora;
+10) nasip/brana jeste objekat izgrađen za zadržavanje vode
+  i rudarskog otpada unutar akumulacionog prostora;
+11) javnost jeste jedno ili više fizičkih ili pravnih lica,
+  i u skladu s propisima ili praksom, njihova udruženja, organizacije ili grupe;
+12) zainteresovana javnost jeste javnost na koju utiče ili
+  na koju može uticati ili koja ima interes pri donošenju odluka u vezi sa zaštitom
+  životne sredine, shodno odredbama ove uredbe kojima se uređuje sprečavanje
+  velikog udesa i informisanje javnosti i zahtev i dozvola. U smislu ove definicije
+  smatra se da nevladine organizacije koje promovišu zaštitu životne sredine
+  i ispunjavaju bilo koje primenjive zahteve iz propisa, imaju interes pri donošenju
+  odluka;
+13) operater jeste privredno društvo odnosno drugo pravno lice
+  i preduzetnik, odgovorno za upravljanje rudarskim otpadom u skladu sa zakonom
+  kojim se uređuje oblast rudarstva i geoloških istraživanja (u daljem tekstu:
+  Zakon), uključujući i privremeno skladištenje rudarskog otpada, kao i tokom
+  perioda rada deponije i nakon njenog zatvaranja;
+14) držalac rudarskog otpada je proizvođač rudarskog otpada,
+  odnosno privredno društvo ili drugo pravno lice i preduzetnik, koje je u posedu
+  otpada, koje je steklo svojstvo nosioca eksploatacije i/ili nosioca istraživanja
+  u skladu sa odredbama Zakona;
+15) lokacija jeste celokupno zemljište na određenoj geografskoj
+  lokaciji kojom upravlja operater i koja je pod njegovom upravljačkom kontrolom.
+Član 3
+Operater odlaže rudarski otpad i upravlja rudarskim otpadom
+  na osnovu dozvole za upravljanje otpadom (u daljem tekstu: dozvola) koju izdaje
+  ministarstvo nadležno za poslove rudarstva (u daljem tekstu: Ministarstvo)
+  odnosno nadležni pokrajinski organ.
+Dozvola se izdaje u skladu sa planom upravljanja rudarskim
+  otpadom i drugom pratećom dokumentacijom, kojom operater definiše vrstu, način
+  upravljanja i izveštavanja, kao i druge obaveze po pitanju upravljanja rudarskim
+  otpadom.
+Dozvola se izdaje rešenjem koje donosi Ministarstvo, odnosno
+  nadležni pokrajinski organ.
+Član 4
+Dozvola sadrži podatke o:
+1) kategoriji deponije;
+2) vrsti i karakteru rudarskog otpada koji će se odlagati;
+3) okvirnoj količini rudarskog otpada u m
+3
+, koji će biti odlagan
+  na deponiji;
+4) načinu odlaganja rudarskog otpada i metodama kontrole sastava
+  rudarskog otpada;
+5) postupku nadzora rada i održavanja deponije;
+6) izveštavanju nadležnog organa o radu deponije;
+7) uslovima koje operater mora ispuniti da bi se moglo pristupiti
+  postupku zatvaranja deponije, kao i o sprečavanju štetnog uticaja deponije
+  na životnu sredinu nakon zatvaranja;
+8) roku u kojem operater mora nadležnom organu pri zatvaranju
+  deponije dostaviti dokumentaciju u skladu sa odredbama ove uredbe;
+9) planu upravljanja otpadom.
+Član 5
+Plan upravljanja rudarskim otpadom operater izrađuje u skladu
+  sa ciljevima:
+1) sprečavanja ili smanjivanja nastajanja rudarskog otpada
+  i njegovog negativnog uticaja na životnu sredinu, posebno uzimajući u obzir:
+- upravljanje rudarskim otpadom u fazi projektovanja, kao i
+  prilikom odabira metode otkopavanja i pripreme mineralnih sirovina;
+- promene do kojih može doći u rudarskom otpadu u vezi s povećanjem
+  dostupne površine i izloženosti uslovima na površini zemlje;
+- vraćanje površinskog sloja zemljišta nakon zatvaranja deponije
+  ili, ako to nije izvodljivo, njegovim iskorišćenjem na nekom drugom mestu;
+- upotrebu manje opasnih supstanci pri pripremi mineralnih
+  sirovina;
+2) podsticanja iskorišćenja rudarskog otpada recikliranjem,
+  ponovnom upotrebom ili uklanjanjem takvog otpada kada je to prihvatljivo za
+  životnu sredinu, u skladu sa propisima iz oblasti zaštite životne sredine;
+3) osiguranja kratkotrajnog i dugotrajnog sigurnog zbrinjavanja
+  rudarskog otpada razmatranjem, posebno u fazi projektovanja, upravljanja deponijama
+  tokom rada i nakon zatvaranja, kao i izborom projekta koji:
+- zahteva minimalno, i ako je moguće, u krajnjoj meri ne zahteva
+  praćenje, kontrolu i upravljanje zatvorenim deponijama;
+- sprečava ili barem svodi na najmanju moguću meru sve dugotrajne
+  nepovoljne uticaje na životnu sredinu, kao što su oni koji se mogu pripisati
+  širenju zagađivača putem vazduha ili vode; i
+- osigurava trajnu geotehničku stabilnost svih nasipa/brana
+  ili jalovišta koji su iznad prethodno postojećeg nivoa tla.
+Član 6
+Operater u plan upravljanja rudarskim otpadom unosi:
+1) podatke o držaocu rudarskog otpada;
+2) osnovne podatke o licima koja su učestvovala u izradi plana,
+  o odgovornom licu, datumu izrade, potpis odgovornog lica i overu potpisa pečatom
+  ovlašćene organizacije koja je izradila plan, kao i podatke o licu koje će
+  upravljati deponijom;
+3) opis prostora na kojem nastaje i gde se planira odlaganje
+  rudarskog otpada, koji je određen, uzimajući u obzir posebne obaveze Evropske
+  zajednice ili obaveze Republike Srbije u vezi sa zaštićenim područjima, i geološkim,
+  hidrološkim, hidrogeološkim, seizmičkim i geotehničkim faktorima;
+4) opis rudarskog ili geološkog projekta, prema kojem se izvode
+  radovi za odlaganje rudarskog otpada, a koji ispunjava potrebne uslove za kratkoročno
+  i dugoročno sprečavanje zagađenja zemljišta, vazduha, podzemnih ili površinskih
+  voda, posebno uzimajući u obzir propise iz oblasti zagađenja izazvanog određenim
+  opasnim supstancama koje se ispuštaju u vodenu sredinu i propise iz oblasti
+  voda;
+5) program praćenja uticaja na životnu sredinu;
+6) predlog kategorije deponije u skladu s kriterijumima utvrđenim
+  u članu 17. ove uredbe, i to:
+- ako se zahteva deponija kategorije A, dokument kojim se dokazuje
+  da će se uspostaviti politika sprečavanja velikih udesa, sistem upravljanja
+  bezbednošću za njenu implementaciju i interni plan za zaštitu od udesa;
+- ako operater smatra da se ne zahteva deponija kategorije
+  A, dodatne podatke koji dokazuju opravdanost takvog predloga, uključujući identifikovanje
+  mogućih opasnosti u slučaju nesreće;
+7) karakterizaciju rudarskog otpada u skladu sa članom 16.
+  ove uredbe, i izjavu o procenjenim ukupnim količinama rudarskog otpada koji
+  će nastati tokom operativne faze;
+8) opis proizvodnih postupaka kojima se generiše takav otpad
+  i svih daljih postupaka pripreme koji će se primenjivati;
+9) opis načina na koji odlaganje rudarskog otpada može štetno
+  da utiče na životnu sredinu i zdravlje ljudi i preventivne mere koje je potrebno
+  preduzeti kako bi se uticaj na životnu sredinu tokom rada i nakon zatvaranja
+  deponije sveo na minimum i to posebno predlog mera za:
+- smanjenje erozije uzrokovane vodom ili vetrom, u meri u kojoj
+  je to tehnički moguće i ekonomski opravdano;
+- osiguranje fizičke stabilnosti deponije, sprečavanje kratkoročnog
+  i dugoročnog zagađenja zemljišta, vazduha, površinskih i/ili podzemnih voda,
+  radi smanjenja moguće štete po predele na najmanju moguću meru;
+- sanaciju i rekultivaciju i zatvaranje deponija;
+10) predlog procedura kontrole i praćenja deponije u skladu
+  sa odredbama ove uredbe;
+11) predlog plana zatvaranja, uključujući i sanaciju, ukoliko
+  je potrebna, procedure nakon zatvaranja i praćenje u skladu sa odredbama ove
+  uredbe;
+12) predlog perioda za koji se izrađuje i preispituje plan
+  upravljanja rudarskim otpadom;
+13) mere za sprečavanje pogoršanja stanja voda u skladu sa
+  propisima iz oblasti voda, kao i mere za sprečavanje ili smanjenje zagađenja
+  vazduha i zemljišta u skladu sa odredbama ove uredbe;
+14) podatke o trenutnom stanju zemljišta koje može biti ugroženo
+  radom deponije;
+15) način izveštavanja Ministarstva, odnosno nadležnog pokrajinskog
+  organa i nadležnog organa za vanredne situacije u slučaju kada operater utvrdi
+  da postoje događaji koji bi mogli da ugroze stabilnost deponije ili na osnovu
+  procedura kontrole i praćenja utvrdi da postoje značajni negativni efekti na
+  životnu sredinu, najkasnije u roku od 48 sati nakon što utvrdi postojanje takvih
+  događaja ili efekata;
+16) opis internog plana za zaštitu od udesa i podatke potrebne
+  za izradu eksternog plana zaštite od udesa;
+17) način podmirenja troškova za preduzete mere, u cilju da
+  se ispune sve obaveze iz dozvole i u pogledu deponije, uključujući i one koje
+  se odnose na period nakon zatvaranja deponije, tako da postoje sredstva koja
+  će biti raspoloživa u svakom trenutku za sanaciju zemljišta i drugih činioca
+  životne sredine na koje je uticala deponija, kao što je opisano u planu upravljanja
+  rudarskim otpadom.
+Član 7
+Kada operater upravlja deponijom za odlaganje inertnog rudarskog
+  otpada i/ili nezagađene otkrivke koja nastaje kao posledica istraživanja i
+  eksploatacije mineralnih sirovina, na koji se odnose odredbe člana 25. ove
+  uredbe, izrađuje se plan upravljanja rudarskim otpadom u sklopu rudarskog i/ili
+  geološkog projekta urađenog u skladu sa Zakonom.
+Član 8
+Zahtev za izdavanje dozvole sadrži podatke o podnosiocu zahteva,
+  predlog prostora za deponiju, i podatke o rudarskom i/ili geološkom projektu
+  prema kojem se izvode radovi na odlaganju rudarskog otpada.
+Uz zahtev se dostavlja:
+1) plan upravljanja rudarskim otpadom;
+2) odgovarajući akt iz oblasti zaštite životne sredine, ako
+  se zahteva procena uticaja na životnu sredinu u skladu sa propisima iz oblasti
+  zaštite životne sredine;
+3) odobrenja nosioca eksploatacije i/ili nosioca istraživanja.
+Član 9
+Ministarstvo, odnosno nadležni pokrajinski organ, odbija zahtev
+  za izdavanje dozvole ako:
+1) operater ne dostavi sve podatke iz člana 8. ove uredbe;
+2) se utvrdi da je upravljanje rudarskim otpadom u direktnoj
+  suprotnosti, ili na drugi način ometa sprovođenje odgovarajućeg plana ili planova
+  upravljanja otpadom prema posebnim propisima;
+3) ako se utvrdi da plan upravljanja rudarskim otpadom nije
+  u izrađen u skladu sa ciljevima određenim u članu 5. ove uredbe.
+Član 10
+Ministarstvo, odnosno nadležni pokrajinski organ, svakih pet
+  godina razmatra uslove za izdavanje dozvola i po potrebi ih ažurira na osnovu:
+1) značajne promene u radu deponije ili u vezi sa odloženim
+  rudarskim otpadom na osnovu izveštaja koji operater dostavlja Ministarstvu,
+  odnosno nadležnom pokrajinskom organu;
+2) rezultata monitoringa o kojima je izvestio operatera ili
+  izveštaja geoloških i rudarskih inspekcija;
+3) informacija o značajnim promenama u najboljim dostupnim
+  tehnikama koje je objavila Evropska komisija.
+Član 11
+Podaci sadržani u dozvoli izdatoj na osnovu ove uredbe dostavljaju
+  se na raspolaganje organima nadležnim za statistiku Republike Srbije i statističkim
+  telima Evropske zajednice, kada se to zahteva u statističke svrhe. Podaci čisto
+  komercijalne prirode, kao što su podaci o poslovnim odnosima i strukturi troškova
+  operatera, nisu za objavljivanje.
+Član 12
+Ministarstvo, odnosno nadležni pokrajinski organ, putem javnih
+  obaveštenja ili drugim odgovarajućim sredstvima, kao što su elektronski mediji
+  ukoliko su na raspolaganju, na samom početku postupka izdavanja dozvole ili
+  čim to postane moguće, dostavlja zainteresovanoj javnosti informacije o:
+1) zahtevu za izdavanje dozvole;
+2) nazivu i adresi operatera i lokaciji deponije;
+3) odluci da zahtev za izdavanje dozvole podleže međusobnom
+  savetovanju susednih zemalja u skladu sa čl. 21. i 22. ove uredbe;
+4) podacima o nadležnim organima odgovornim za donošenje odluke,
+  o nadležnim organima od kojih se mogu pribaviti odgovarajući podaci, o nadležnim
+  organima kojima se mogu dostaviti primedbe ili pitanja i detaljni podaci o
+  rokovima za dostavljanje primedbi ili pitanja;
+5) vrsti predloženih dozvola;
+6) prema potrebi, detaljima u vezi s predlogom za ažuriranje
+  dozvole ili uslova dozvole;
+7) vremenu i mestu gde ili medijima preko kojih se objavljuju
+  informacije o dozvolama;
+8) podacima u vezi sa organizacijom učestvovanja javnosti;
+9) informaciju o delatnostima koje se obavljaju na lokaciji;
+10) uobičajenim nazivima ili generičkim nazivima ili opštoj
+  klasifikaciji opasnosti supstanci i smeša koje se nalaze u deponiji, kao i
+  otpada koji bi mogao da prouzrokuje veliki udes, s navođenjem njihovih osnovnih
+  opasnih svojstava;
+11) opštim informacijama o prirodi opasnosti od velikih udesa,
+  uključujući njihove moguće posledice za okolno stanovništvo i životnu sredinu;
+12) odgovarajućim informacijama o tome kako će okolno ugroženo
+  stanovništvo biti upozoreno i obavešteno u slučaju dešavanja velikog udesa;
+13) odgovarajućim informacijama o merama koje stanovništvo
+  iz tačke 12) ovog člana treba da preduzme i kako treba da se ponaša u slučaju
+  dešavanja velikog udesa;
+14) potvrdi da operater mora da uspostavi odgovarajuću saradnju
+  na lokaciji, posebno sa službama za vanredne situacije, za postupanje u slučaju
+  velikih udesa i radi smanjivanja njihovih posledica na najmanju meru;
+15) upućivanju na eksterni plan zaštite od udesa, koji izrađuje
+  organ lokalne samouprave kako bi se sprečile potencijalne posledice udesa izvan
+  lokacije deponije u trenutku nesreće, u skladu sa propisima kojima se uređuju
+  vanredne situacije;
+16) detaljima o tome gde se mogu dobiti dodatne odgovarajuće
+  informacije, u skladu sa uslovima o poverljivosti određenim ovom uredbom i
+  drugim propisima.
+Član 13
+Ministarstvo, odnosno nadležni pokrajinski organ, preduzima
+  odgovarajuće mere kako bi, u skladu sa članom 12. ove uredbe, javnost bila
+  obaveštena o izvršenoj kontroli i ažuriranim uslovima za izdavanje dozvole
+  u skladu sa članom 10. ove uredbe.
+Član 14
+Zainteresovana javnost ima pravo da dostavi svoje primedbe
+  i mišljenja Ministarstvu, odnosno nadležnom pokrajinskom organu, u roku od
+  15 dana od dana izdavanja obaveštenja izdatih u skladu sa odredbama člana 12.
+  ove uredbe, a pre donošenja rešenja o izdavanju dozvole.
+U postupku izdavanja dozvole Ministarstvo, odnosno nadležni
+  pokrajinski organ, razmatra i rezultate učešća javnosti koje je sprovedeno
+  u skladu sa odredbama ove uredbe.
+Član 15
+Ministarstvo, odnosno nadležni pokrajinski organ, obaveštava
+  zainteresovanu javnost i stavlja joj na raspolaganje sadržaj dozvole, odnosno
+  kopiju dozvole sa obrazloženjem na kojem se zasniva rešenje o izdavanju dozvole.
+Član 16
+Rudarski otpad koji se odlaže u deponiji mora se karakterizovati
+  na način kojim se osigurava dugotrajna fizička i hemijska stabilnost strukture
+  deponije, kao i sprečavanje velikog udesa.
+Karakterizacija otpada, u skladu s kategorijom deponije, uključuje
+  sledeće:
+1) opis očekivanih fizičkih i hemijskih svojstava otpada koji
+  će se kratkotrajno ili dugotrajno odlagati, s posebnim osvrtom na njegovu stabilnost
+  ispod površine, pod uticajem atmosferskih i meteoroloških uslova, uzimajući
+  u obzir vrstu mineralnih sirovina koje se istražuju odnosno eksploatišu, kao
+  i svojstva i sastav otkrivke ili jalovine koji će se odlagati na deponiji;
+2) klasifikaciju rudarskog otpada u skladu sa posebnim propisima
+  za upravljanje otpadom o kategorijama, ispitivanju i klasifikaciji, posebno
+  u vezi s njegovim opasnim karakteristikama;
+3) opis reagenasa koje se koriste tokom pripreme mineralnih
+  sirovina i njihove stabilnosti;
+4) opis postupaka odlaganja;
+5) opis sistema transporta otpada koji će se primenjivati.
+Karakterizacija otpada obuhvata sledeće informacije:
+1) polazne informacije;
+2) geološku podlogu ležišta koje će se istraživati, odnosno
+  eksploatisati;
+3) karakter otpada i planirano rukovanje rudarskim otpadom;
+4) geotehničko ponašanje rudarskog otpada;
+5) geohemijske karakteristike i ponašanje rudarskog otpada.
+Kriterijumi za definisanje inertnog otpada uzimaju se u obzir
+  prilikom procene geohemijskog ponašanja otpada. Otpad koji se na osnovu tih
+  kriterijuma smatra inertnim, će biti podvrgnut jedino relevantnom delu geohemijskog
+  testiranja.
+Informacije i podaci potrebni za karakterizaciju rudarskog
+  otpada prikupljaju se tako da:
+1) se koriste postojeća istraživanja i studije, uključujući
+  postojeće dozvole, geološka istraživanja, slične lokacije, liste inertnog otpada,
+  odgovarajuće šeme sertifikacije i slični materijali koji zadovoljavaju tehničke
+  uslove iz stava 7. ovog člana;
+2) se evaluira kvalitet i reprezentativnost svih informacija
+  i utvrde informacije koje eventualno nedostaju;
+3) kada informacije potrebne za karakterizaciju otpada nedostaju,
+  se plan uzorkovanja sastavlja i uzorci se uzimaju u skladu sa tim planom uzorkovanja;
+4) ispitivanje rudarskog otpada vrše stručne organizacije i
+  druga pravna lica koja su akreditovana za uzrokovanje i karakterizaciju prema
+  obimu ispitivanja rudarskog otpada.
+Planovi uzorkovanja se zasnivaju na identifikovanim informacijama,
+  prema potrebi uključujući:
+1) svrhu prikupljanja podataka;
+2) program testiranja i uslove uzorkovanja;
+3) mesta uzorkovanja, uključujući uzimanje uzoraka iz jezgra
+  bušotine, sa radnog čela, transportne trake, gomile, jezera ili druga relevantna
+  mesta;
+4) procedure i preporuke za potrebni broj uzoraka, veličinu,
+  masu, opis i rukovanje.
+5) evaluaciju pouzdanosti i kvaliteta rezultata uzorkovanja;
+6) dodatne informacije, koristeći istu metodu, s tim da se
+  konačan rezultat uvrštava u plan upravljanja rudarskim otpadom.
+Operateri koriste sledeće tehničke uslove za karakterizaciju
+  rudarskog otpada:
+1) polazne opšte informacije o:
+(1) delatnostima bušenja, otkopavanja ili pripreme;
+(2) vrsti i opisu metoda otkopavanja i pripreme koji
+  se primenjuje;
+(3) vrsti planiranog proizvoda;
+2) geološku podlogu ležišta i identifikaciju jedinice rudarskog
+  otpada koje će biti izložene otkopavanjem i pripremom, pružanjem relevantnih
+  informacija o:
+(1) prirodi okolnih stena, njihovom hemijskom i mineraloškom
+  sastavu, uključujući hidrotermalnu promenu mineralizovanih stena i ogoljenih
+  stena;
+(2) prirodi ležišta, uključujući mineralizovane stene
+  ili mineralizaciju okolnih stena;
+(3) tipu mineralizacije, njihovoj hemiji i mineralogiji,
+  uključujući fizička svojstva kao što su gustina, poroznost, granulometrijski
+  sastav, sadržaj vode, prerađeni minerali, mineralni otpad, novonastali hidrotermalni
+  minerali;
+(4) veličini i geometriji ležišta;
+(5) razgradnji i supergenim promenama u hemijskom i
+  mineraloškom smislu;
+3) rudarski otpad i predviđeno postupanje sa otpadom koje uključuje
+  opis prirode svih vrsta otpada koji nastaju prilikom svakog istraživanja, otkopavanja
+  i pripreme, uključujući nezagađenu otkrivku, otkrivku, proslojke i jalovinu,
+  navodeći informacije o sledećim elementima:
+(1) poreklu otpada na lokaciji otkopavanja i postupku
+  dobijanja takvog otpada kao što je istraživanje, otkopavanje, usitnjavanje,
+  koncentracija;
+(2) količini otpada;
+(3) opisu sistema transporta otpada;
+(4) opisu reagenasa koji će se koristiti tokom prerade;
+(5) klasifikaciji rudarskog otpada u skladu sa propisima
+  o upravljanju otpadom, uključujući opasna svojstva;
+(6) kategoriji predviđene deponije, konačnom obliku
+  izlaganja otpada i metodi odlaganja otpada u deponije;
+4) geotehničko ponašanje rudarskog otpada i to:
+(1) određivanje odgovarajućih parametara za procenu
+  bitnih fizičkih karakteristika otpada uzimajući u obzir vrstu deponije;
+(2) relevantni parametri koje treba uzeti u obzir su:
+  krupnoća, plastičnost, gustina, sadržaj vode, stepen zbijenosti, napon smicanja,
+  ugao unutrašnjeg trenja, propustljivost, koeficijent poroznosti, stišljivost
+  i konsolidacija;
+5) geohemijske karakteristike i ponašanje otpada i to specifikacija
+  hemijskih i mineraloških karakteristika otpada i svih aditiva ili ostataka
+  koji ostaju u otpadu;
+6) predviđanje pojave kiselih drenažnih voda tokom vremena
+  za svaku vrstu rudarskog otpada, uzimajući u obzir predviđeno postupanje, a
+  posebno:
+(1) za procenu proceđivanja metala, oksidnih jona i
+  rastvorenih soli tokom vremena koristeći test izluživanja s obzirom na pH vrednost,
+  i/ili perkolacioni test i/ili test vremenskog otpuštanja i/ili drugo odgovarajuće
+  ispitivanje;
+(2) za otpad koji sadrži sulfide sprovode se statička
+  ili kinetička ispitivanja u svrhu određivanja kiselih drenažnih voda i rastvaranja
+  metala tokom vremena.
+Član 17
+Rudarski otpad se klasifikuje i odlaže u deponiju kategorije
+  A ako:
+1) zbog kvara ili neispravnog rada, npr. rušenja jalovišta
+  ili pucanja nasipa/brane, na osnovu procene rizika može doći do tehničko-tehnoloških
+  nesreća-udesa, pri čemu se u obzir uzimaju faktori kao što su sadašnja ili
+  buduća veličina, lokacija i uticaj na životnu sredinu; ili
+2) je klasifikovan kao opasan otpad u skladu sa propisima za
+  upravljanje otpadom iznad određene granične vrednosti; ili
+3) sadrži supstance ili smeše koje su klasifikovane kao opasne
+  na osnovu propisa za upravljanje otpadom iznad određene granične vrednosti.
+Deponije se klasifikuju u kategoriju A u skladu sa stavom 1.
+  tačka 1) ovog člana, ako zbog gubitka celovitosti konstrukcije ili neispravnog
+  rada deponije posledice, kratkoročno i dugoročno, mogu dovesti do:
+1) nezanemarljive mogućnosti gubitka ljudskih života;
+2) ozbiljne opasnosti po zdravlje ljudi;
+3) ozbiljne opasnosti po životnu sredinu.
+U svrhu klasifikacije iz stava 2. ovog člana prilikom ocene
+  potencijalne opasnosti koju predstavlja deponija u obzir se uzima celokupno
+  vreme razdoblja rada deponije, uključujući i fazu nakon zatvaranja.
+U smislu ovog člana celovitost konstrukcije deponije znači
+  njegovu sposobnost da zadrži otpad unutar nasipa na način za koji je projektovano.
+Gubitak celovitosti konstrukcije obuhvata sve moguće mehanizme
+  kvara koji su bitni za konstrukciju predmetnih deponija.
+Ocena posledica gubitka celovitosti konstrukcije obuhvata trenutni
+  uticaj bilo kog materijala koji se prevozi iz deponije kao posledica kvara
+  i posledičnih kratkoročnih i dugoročnih efekata.
+U smislu ovog člana, neispravan rad deponije znači svako funkcionisanje
+  koje može dovesti do velikih udesa, uključujući neuspeh u sprovođenju mera
+  zaštite životne sredine ili pogrešan ili nedovoljno razrađen projekat deponije.
+Procena ispuštanja zagađujućih materija kao rezultat neispravnog
+  rada obuhvata efekte kratkotrajnih ispuštanja velikih koncentracija, kao i
+  dugotrajno ispuštanje zagađujućih materija, razdoblje u kom je deponija u pogonu
+  kao i dugoročno razdoblje nakon zatvaranja i uključuje ocenu potencijalnih
+  opasnosti koje predstavljaju deponije koje sadrže reaktivan otpad, bez obzira
+  na klasifikaciju otpada kao opasnog ili neopasnog u skladu sa propisima za
+  upravljanje otpadom.
+Ministarstvo, odnosno nadležni pokrajinski organ, procenjuje
+  posledice kvara zbog gubitka celovitosti konstrukcije ili neispravnog rada
+  deponije u skladu sa st. 10, 11. i 12. ovog člana.
+Mogućnost gubitka života ili opasnost po zdravlje ljudi smatraće
+  se zanemarljivim ili lakšom opasnošću ako se ne očekuje da drugi ljudi, trajno
+  ili tokom dužeg razdoblja prisutni u zahvaćenom području, osim radnika koji
+  upravljaju deponijom, mogu biti zahvaćeni. Povrede koje uzrokuju invalidnost
+  ili dugotrajno narušeno zdravlje smatraju se ozbiljnom opasnošću po zdravlje
+  ljudi.
+Potencijalna opasnost po životnu sredinu ne smatra se ozbiljnom
+  ako:
+1) se intenzitet snage mogućeg izvora zagađenja značajno smanjuje
+  u kratkom razdoblju;
+2) kvar ne dovodi do bilo kakve trajne ili dugotrajne štete
+  po životnu sredinu;
+3) se zahvaćeno okruženje može vratiti u prvobitno stanje kroz
+  manje čišćenje i sanaciju.
+Prilikom utvrđivanja mogućnosti za gubitak ljudskih života
+  ili opasnosti po zdravlje ljudi ili po životnu sredinu, posebne procene razmera
+  potencijalnih uticaja se uzimaju u obzir u kontekstu lanca izvor-putanja-recipijent.
+  Kada ne postoji putanja kretanja između izvora i recipijenta, predmetna deponija
+  se ne klasifikuje u kategoriju A na osnovu kvara zbog gubitka celovitosti konstrukcije
+  ili neispravnog rada.
+U slučaju gubitka celovitosti konstrukcije brane na jalovištu,
+  smatraće se da su ljudski životi u opasnosti kada nivo vode ili mulja dostigne
+  visinu od najmanje 0,7 m iznad tla ili kada brzina vode ili mulja pređe 0,5
+  m/s.
+Procena mogućnosti gubitka života i opasnosti po zdravlje ljudi
+  obuhvata najmanje sledeće faktore:
+1) veličinu i karakteristike deponije uključujući projekat
+  deponije;
+2) kvantitet i kvalitet zajedno sa fizičkim i hemijskim svojstvima
+  otpada u deponiji;
+3) topografiju prostora deponije, uključujući karakteristike
+  deponovanja;
+4) vreme kretanja mogućeg vodenog talasa do područja gde su
+  prisutni ljudi;
+5) brzina širenja vodenog talasa;
+6) predviđena visina vode ili mulja;
+7) brzina rasta nivoa vode ili mulja;
+8) sve bitne faktore specifične za lokaciju koji mogu da utiču
+  na mogućnost gubitka života ili predstavljaju opasnost po zdravlje ljudi.
+U slučaju klizanja otpada, smatra se da svaka masa otpada u
+  pokretu predstavlja opasnost po život ljudi, ako se ljudi nalaze unutar dometa
+  mase otpada u pokretu.
+Procena mogućnosti gubitka života i opasnosti po zdravlje ljudi,
+  pri pojavi klizišta, obuhvata najmanje sledeće faktore:
+1) veličinu i karakteristike deponije uključujući projekat
+  deponije;
+2) kvantitet i kvalitet zajedno sa fizičkim i hemijskim svojstvima
+  otpada u deponiji;
+3) ugao nagiba jalovišta;
+4) mogućnost sakupljanja podzemnih voda unutar jalovišta;
+5) stabilnost podloge;
+6) topografiju;
+7) blizinu vodotokova, građevina, zgrada;
+8) rudarske radove;
+9) sve druge faktore specifične za lokaciju koji značajno mogu
+  da doprinesu riziku koji predstavlja deponija.
+Granična vrednost navedena u stavu 1. tačka 2) ovog člana određuje
+  se kao odnos masa, kao suve materije, za:
+1) sav rudarski otpad razvrstan kao opasan u skladu sa propisima
+  za upravljanje otpadom i za koji postoji verovatnoća da će biti prisutan u
+  deponiji na kraju predviđenog razdoblja rada, i
+2) rudarski otpad za koji postoji verovatnoća da će biti prisutan
+  u deponiji na kraju predviđenog razdoblja rada.
+Kada odnos iz stava 17. ovog člana prelazi 50% deponija će
+  biti klasifikovana kao kategorija A.
+Kada je odnos iz stava 17. ovog člana između 5% i 50%, deponija
+  se klasifikuje u kategoriju A. Izuzetno, takva deponija se ne može svrstati
+  u kategoriju A, ako je to opravdano na osnovu procene rizika za određenu lokaciju,
+  s posebnim fokusom na efektima opasnog otpada, a koja se sprovodi kao deo kategorizacije
+  na osnovu posledica kvara zbog gubitka celovitosti ili neispravnog rada, i
+  dokazujući da deponija ne treba da bude svrstana u kategoriju A na osnovu sadržaja
+  opasnog otpada.
+Kada je odnos iz stava 17. ovog člana manji od 5%, tada se
+  deponija ne klasifikuje u kategoriju A na osnovu sadržaja opasnog otpada.
+Ministarstvo, odnosno nadležni pokrajinski organ, procenjuje
+  da li je ispunjen kriterijum utvrđen u stavu 1. tačka 3) ovog člana u skladu
+  sa vrednostima navedenim u st. 22-24. ovog člana.
+Za planirana jalovišta koristi se sledeća metoda:
+1) sastavlja se popis reagenasa koji se koriste u pripremi
+  i koji se zatim ispuštaju zajedno sa otpadnim muljem u jalovište;
+2) za svaki reagens se unapred procenjuju godišnje količine
+  koje se koriste u procesima, za svaku planiranu godinu rada;
+3) za svaki reagens se utvrđuje da li se radi o opasnoj supstanci
+  ili opasnoj smeši u smislu propisa iz oblasti upravljanja hemikalijama;
+4) za svaku planiranu godinu rada, godišnje povećanje akumulirane
+  vode (ΔQ
+i
+) u jalovištu izračunava se,
+  u stabilnim uslovima, prema formuli datoj u stavu 27. ovog člana;
+5) za svaku opasnu supstancu ili smešu koje se identifikuju
+  u skladu sa tačkom 3) ovog stava, maksimalna godišnja koncentracija (C
+max
+)
+  u vodenoj fazi procenjuje se u skladu s formulom utvrđenom u stavu 28. ovog
+  člana. Ako se, na osnovu procene najvećih godišnjih koncentracija (C
+max
+),
+  vodena faza smatra "opasnom" u smislu propisa iz oblasti voda, deponija
+  se klasifikuje kao kategorija A.
+Klasifikacija jalovišta se zasniva na metodologiji utvrđenoj
+  u stavu 22. ovog člana ili na direktnoj hemijskoj analizi vode i čvrstih materija
+  koje se nalaze u jalovištu. Ukoliko se vodena faza i njen sadržaj smatraju
+  opasnim u smislu posebnih propisa iz oblasti voda jalovište se klasifikuje
+  kao kategorija A.
+U slučajevima kada se metali izdvajaju iz gomila rude luženjem,
+  vrše se provere na opasne supstance prilikom zatvaranja na osnovu popisa korišćenih
+  hemikalija i zaostalih koncentracija tih hemikalija nakon završenog luženja.
+  Ako se takve procedne vode smatraju opasnim u smislu propisa iz oblasti voda
+  deponija se klasifikuje kao kategorija A.
+Odredbe st. 17 - 24. ovog člana ne primenjuju se na deponije
+  koje sadrže isključivo inertni otpad ili nezagađenu otkrivku.
+Preispitivanje kategorizacije sprovodi Ministarstvo, odnosno
+  nadležni pokrajinski organ, ako je dozvola znatno izmenjena ili su značajno
+  promenjeni radni uslovi i sprovodi se najkasnije na kraju razdoblja rada deponije.
+Formula za izračunavanje prosečnog godišnjeg povećanja vode
+  u jalovištu ΔQ je:
+gde je:
+ΔQ
+i
+= godišnje povećanje
+  vode u akumulaciji za skupljanje jalovine (m
+3
+/god) tokom godine ‘i’ ;
+ΔΜ
+i
+= godišnja masa jalovine
+  koja se deponuje (tona suve mase/godina) tokom godine ‘i’;
+D = prosečna suva zapreminska gustina deponovane jalovine (u
+  t/m
+3
+);
+P = prosečna poroznost nataložene jalovine (m
+3
+/m
+3
+)
+  definisana kao odnos zapremine pora prema ukupnoj zapremini deponovane jalovine;
+s tim da ako tačni podaci nisu dostupni, treba koristiti zadate
+  vrednosti 1,4 t/m
+3
+za nasipnu zapreminsku
+  gustinu i 0,5 m
+3
+/m
+3
+za
+  poroznost.
+Procena maksimalne koncentracije u vodenoj fazi C
+max
+je:
+gde je:
+C
+i
+= godišnja masa svake
+  supstance i smeše kao što je utvrđeno u stavu 22. tač. 2) i 3) ovog člana,
+  koji se ispuštaju u deponiju tokom godine ‘i’.
+Član 18
+Nakon zatvaranja deponije, a u periodu određenom u skladu sa
+  odredbama ove uredbe, operater je dužan da:
+1) obaveštava, bez odlaganja, Ministarstvo, odnosno nadležni
+  pokrajinski organ i organ nadležan za poslove zaštite životne sredine, o svim
+  događajima ili razvoju događaja koji bi mogli da utiču na stabilnost deponije,
+  kao i o svim značajnim štetnim uticajima na životnu sredinu koji su otkriveni
+  postupcima kontrole i praćenja;
+2) sprovodi, prema potrebi, interni plan za zaštitu od udesa
+  za deponije kategorije A, osim za deponije rudarskog otpada na koje se primenjuju
+  propisi kojima se uređuje zaštita od hemijskog udesa;
+3) pridržava se svih drugih uputstava nadležnog organa u vezi
+  sa korektivnim merama koje je potrebno preduzeti;
+4) prihvata finansijsku odgovornost za troškove vezane za realizaciju
+  mera iz tač. 2) i 3) ovog člana;
+5) dostavlja na zahtev i u rokovima koje odredi Ministarstvo,
+  odnosno nadležni pokrajinski organ, na temelju ukupnih podataka, sve rezultate
+  praćenja kojima se dokazuje da je ispunio uslove iz dozvole i koji doprinose
+  saznanjima o rudarskom otpadu i deponiji.
+Član 19
+Prilikom dostavljanja dokumentacije Ministarstvu, odnosno nadležnom
+  pokrajinskom organu, u svrhu ispunjenja standarda zaštite životne sredine,
+  operater dostavlja dokaze, pre početka rada i tokom rada deponije, kojima se
+  dokazuje, prema potrebi, usklađenost sa propisima iz oblasti voda i zagađenja
+  zemljišta, i to:
+1) procena mogućnosti nastajanja procednih voda, uključujući
+  sadržaj zagađujućih materija u procednim vodama, u otpadu nastalom tokom rada
+  deponije i utvrđeni bilans vode te deponije;
+2) sprečavanje ili smanjenje na najmanju moguću meru nastajanja
+  procednih voda i zagađenja površinskih i podzemnih voda i zemljišta rudarskim
+  otpadom;
+3) skupljanje i tretman zagađenih i procednih voda iz deponije
+  za upravljanje rudarskim otpadom do ispunjavanja odgovarajućih normi za njihovo
+  ispuštanje u vodni recipijent;
+4) preduzimanje odgovarajućih mera sprečavanja ili smanjenja
+  emisije praškastih materija i gasa.
+Član 20
+Ministarstvo, odnosno nadležni pokrajinski organ, može da ograniči
+  ili odustane od usaglašavanja sa zahtevima iz člana 19. tač. 2) i 3) ove uredbe,
+  tokom operativne faze i faze nakon zatvaranja deponije, na osnovu procene uticaja
+  deponije na životnu sredinu, posebno uzimajući u obzir propise za granične
+  vrednosti emisije zagađujućih materija u vode i može da odluči da:
+1) prikupljanje i tretman procednih voda nije neophodan; ili
+2) da je utvrđeno da deponija ne predstavlja potencijalnu opasnost
+  za zemljište, podzemne vode i površinske vode.
+Član 21
+Ministarstvo, odnosno nadležni pokrajinski organ, dostavlja
+  informacije iz dozvole drugoj državi u isto vreme kada se te informacije stavljaju
+  na raspolaganje državljanima Republike Srbije ako oceni da rad deponije kategorije
+  A može imati značajne nepovoljne efekte na životnu sredinu u drugoj državi
+  i opasnost po ljudsko zdravlje u toj državi ili ako druga država koja može
+  imati značajne nepovoljne efekte na životnu sredinu i opasnost po ljudsko zdravlje
+  to zahteva, s tim da navedene informacije služe kao osnov za konsultacije koje
+  su potrebne u vezi bilaternih odnosa između dve države na recipročnoj i odgovarajućoj
+  osnovi.
+U okviru svojih bilateralnih odnosa Ministarstvo, odnosno nadležni
+  pokrajinski organ će osigurati da se, u slučajevima iz stava 1. ovog člana
+  i zainteresovanoj javnosti države koja bi mogla biti izložena značajnom uticaju
+  na životnu sredinu ostavi dovoljno vremena kako bi imala pravo da dostavi primedbe
+  pre nego što donese odluku o izdavanju dozvole.
+Član 22
+Ministarstvo, odnosno nadležni organ pokrajinski organ i nadležni
+  organ za vanredne situacije, su obavezni da u slučaju velikog udesa koji uključuje
+  deponiju, u skladu sa članom 21. ove uredbe, odmah dostave drugoj državi podatke
+  koje je operater dostavio Ministarstvu, odnosno nadležnom pokrajinskom organu,
+  organu nadležnom za zaštitu životne sredine i organu nadležnom za vanredne
+  situacije, kako bi se posledice udesa po ljudsko zdravlje smanjile na najmanju
+  meru i kako bi se procenio i na najmanju meru smanjio obim stvarne i moguće
+  štete na životnu sredinu.
+Član 23
+Odredbe ove uredbe primenjuju se ukoliko se rudarski otpad
+  odlaže na deponijama određenim u ovoj uredbi kao:
+- deponije kategorije A;
+- deponije na kojima se odlaže opasni rudarski otpad duže od
+  šest meseci;
+- deponije za odlaganje neopasnog neinertnog rudarskog otpada
+  duže od jedne godine;
+- deponije za odlaganje nezagađene otkrivke, neopasnog rudarskog
+  otpada nastalog geološkim istraživanjem i otpada nastalog obogaćivanjem, obradom
+  ili skladištenjem treseta i inertnog otpada duže od tri godine.
+Član 24
+Odredbe ove uredbe ne primenjuju se na:
+- rudarski otpad koji se generiše tokom geološkog istraživanja,
+  otkopavanja i pripreme mineralnih sirovina i rada kamenoloma, ali koji ne predstavlja
+  direktan rezultat tih operacija;
+- utiskivanje vode i ponovno utiskivanje iscrpljenje podzemne
+  vode, uključujući slojnu vodu;
+- rudarski otpad nastao tokom geoloških istraživanja mineralnih
+  sirovina, rada kamenoloma, kao i na naftnu isplaku, ukoliko se odlaže izvan
+  eksploatacionih polja.
+Član 25
+Odredbe ove uredbe ne primenjuju se na upravljanje inertnim
+  otpadom i nezagađenom otkrivkom koji su nastali kao posledica geoloških istraživanja,
+  otkopavanja, pripreme i skladištenja nemetaličnih mineralnih sirovina sa kamenoloma,
+  kao i otpada nastalog otkopavanjem, obradom, pripremom i skladištenjem treseta,
+  osim ako se ne skladište u deponije određene u ovoj uredbi kao deponije kategorije
+  A.
+Član 26
+Odredbe ove uredbe ne primenjuju se na upravljanje neopasnim
+  otpadom nastalim istraživanjem mineralnih sirovina, osim nafte i evaporita,
+  gipsa i anhidrida, kao i otpada nastalog odlaganjem nezagađene otkrivke i otpada
+  nastalog otkopavanjem, obradom i skladištenjem treseta.
+Član 27
+Odredbe čl. 19, 20, 21. i 22. ove uredbe ne primenjuju se na
+  neopasni otpad koji nema svojstvo inertnog otpada, osim ako se ne zbrinjava
+  u deponije određene u ovoj uredbi kao deponije kategorije A.
+Član 28
+Novčanom kaznom od 1.500.000 do 3.000.000 dinara kazniće se
+  za privredni prestup pravno lice - operater, ako:
+1) ne obavlja poslove u skladu sa članom 3. ove uredbe;
+2) ne vrši preispitivanje plana upravljanja rudarskim otpadom
+  (član 6. tačka 12);
+3) ne postupa u skladu sa odredbama člana 16. ove uredbe;
+4) ne sprovodi interni plan za zaštitu od udesa za deponije
+  kategorije A (član 18. tačka 2).
+Član 29
+Novčanom kaznom od 500.000 do 2.000.000 dinara kazniće se za
+  prekršaj pravno lice - operater, ako:
+1) nakon zatvaranja deponije ne postupa u skladu sa odredbama
+  člana 18. tač. 1) i 3) do 5) ove uredbe;
+2) ne postupa u skladu sa odredbama člana 19. ove uredbe.
+Novčanom kaznom u iznosu od 50.000 do 150.000 dinara kazniće
+  se fizičko lice ili odgovorno lice u pravnom licu za prekršaj iz stava 1. ovog
+  člana.
+Novčanom kaznom u iznosu od 10.000 do 500.000 dinara kazniće
+  se preduzetnik - operater za prekršaj iz stava 1. ovog člana.
+Član 30
+Privredna društva odnosno druga pravna lica i preduzetnici,
+  koja upravljaju otpadom koji se stvara tokom geoloških istraživanja, eksploatacije,
+  pripreme i skladištenja mineralnih sirovina, dužni su da usklade svoje poslovanje
+  sa odredbama ove uredbe u roku od dve godine od dana početka primene ove uredbe.
+Član 31
+Ova uredba stupa na snagu osmog dana od dana objavljivanja
+  u "Službenom glasniku Republike Srbije", a primenjuje se od 1. januara
+  2020. godine.

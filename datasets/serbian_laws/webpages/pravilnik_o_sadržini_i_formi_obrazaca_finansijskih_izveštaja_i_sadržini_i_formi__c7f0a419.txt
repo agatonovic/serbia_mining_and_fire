@@ -1,0 +1,2902 @@
+Title: PRAVILNIKO SADRŽINI I FORMI OBRAZACA FINANSIJSKIH IZVEŠTAJA I SADRŽINI
+I FORMI OBRASCA STATISTIČKOG IZVEŠTAJA ZA PRIVREDNA DRUŠTVA, ZADRUGE I PREDUZETNIKE
+URL: https://www.paragraf.rs/propisi/pravilnik-sadrzini-formi-obrazaca-finansijskih-izvestaja-za-privredna-drustva-zadruge.html
+Extracted: 2025-07-06T23:13:43.655145
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O SADRŽINI I FORMI OBRAZACA FINANSIJSKIH IZVEŠTAJA I SADRŽINI
+I FORMI OBRASCA STATISTIČKOG IZVEŠTAJA ZA PRIVREDNA DRUŠTVA, ZADRUGE I PREDUZETNIKE
+("Sl. glasnik RS", br. 89/2020)
+I UVODNE ODREDBE
+Član 1
+Ovim pravilnikom propisuju se sadržina i forma obrazaca finansijskih izveštaja
+i sadržina pojedinih pozicija u obrascima finansijskih izveštaja, i to:
+1) Bilansa stanja;
+2) Bilansa uspeha;
+3) Izveštaja o ostalom rezultatu;
+4) Izveštaja o tokovima gotovine;
+5) Izveštaja o promenama na kapitalu;
+6) Napomena uz finansijske izveštaje.
+Ovim pravilnikom propisuju se i sadržina i forma obrasca Statističkog izveštaja.
+Preduzetnici koji poslovne knjige vode po sistemu dvojnog knjigovodstva,
+dužni su da o tome u pisanoj formi obaveste Agenciju za privredne registre (u daljem tekstu:
+Agencija), najkasnije 60 dana pre roka za sastavljanje finansijskih izveštaja, a preduzetnik
+koji je prestao da vodi dvojno knjigovodstvo dužan je da u roku od 60 dana o tome obavesti
+Agenciju.
+Odredbe ovog pravilnika odnose se na sva pravna lica, osim na Narodnu banku
+Srbije, banke, društva za osiguranje, davaoce finansijskog lizinga, dobrovoljne penzijske
+fondove i društva za upravljanje dobrovoljnim penzijskim fondovima, investicione fondove
+i društva za upravljanje investicionim fondovima, Centralni registar, depo i kliring hartija
+od vrednosti, berze i brokersko-dilerska društava, kao i na druga pravna lica definisana
+Zakonom o računovodstvu ("Službeni glasnik RS", broj 73/19 - u daljem tekstu: Zakon).
+Odredbe ovog pravilnika odnose se i na institucije elektronskog novca,
+platne institucije, društva za posredovanje u osiguranju, društva za zastupanje u osiguranju
+i preduzetnike - zastupnike u osiguranju.
+Odredbe ovog pravilnika odnose se i na:
+1) preduzetnike koji u skladu sa Zakonom poslovne knjige vode po sistemu
+dvojnog knjigovodstva;
+2) druga pravna lica koja dobrovoljno primenjuju Međunarodni standard finansijskog
+izveštavanja za mala i srednja pravna lica (u daljem tekstu: MSFI za MSP), odnosno Međunarodne
+standarde finansijskog izveštavanja (u daljem tekstu: MSFI);
+3) pravna lica i preduzetnike obveznike primene ovog pravilnika u postupku
+stečaja ili likvidacije;
+4) ogranke i druge organizacione delove pravnih lica sa sedištem u inostranstvu,
+koji obavljaju privrednu delatnost u Republici Srbiji, ako posebnim propisima nije drukčije
+uređeno;
+5) stečajne mase stečajnih dužnika nad kojima je obustavljen odnosno zaključen
+postupak stečaja, osim ako nisu u pitanju stečajne mase banaka, društava za osiguranje, davaoca
+finansijskog lizinga, penzijskih fondova i društava za upravljanje dobrovoljnim penzijskim
+fondovima, investicionih fondova i društava za upravljanje investicionim fondovima, berzi
+i brokersko-dilerskih društava, kao i drugih pravnih lica definisanih Zakonom.
+Član 2
+Obrasci Bilans stanja, Bilans uspeha, Izveštaj o ostalom rezultatu, Izveštaj
+o tokovima gotovine, Izveštaj o promenama na kapitalu i Statistički izveštaj, kao prilozi
+1, 2, 3, 4, 5 i 6, odštampani su uz ovaj pravilnik i čine njegov sastavni deo.
+U pogledu sadržine pojedinih grupa računa i računa u obrascima iz stava
+1. ovog člana, postupa se prema odredbama pravilnika kojim se uređuje kontni okvir i sadržina
+računa u kontnom okviru za privredna društva, zadruge i preduzetnike.
+U obrasce iz stava 1. ovog člana iznosi se upisuju u hiljadama dinara,
+osim broja akcija, zaposlenih i volontera koji se u Statističkom izveštaju iskazuju u celom
+broju.
+U obrasce iz stava 1. ovog člana podaci se unose za tekući i za prethodni
+izveštajni period (poslovnu godinu). Za svaku stavku Bilansa stanja i Bilansa uspeha iskazuje
+se iznos za izveštajni period na koji se odnose Bilans stanja i Bilans uspeha, kao i iznos
+koji se odnosi na odgovarajuću stavku za prethodni izveštajni period. U slučaju kada ti iznosi
+nisu uporedivi i nije ih moguće učiniti uporedivim, obrazloženje za neuporedivost se obelodanjuje
+u Napomenama uz finansijske izveštaje.
+U slučaju kada se imovina ili obaveze odnose na više od jedne stavke iz
+obrasca, njen odnos sa ostalim stavkama obelodanjuje se u Napomenama uz finansijske izveštaje.
+Član 3
+U statusnoj promeni vanredne finansijske izveštaje sastavlja pravno lice
+koje je prestalo da postoji.
+Pravno lice koje je u toku izveštajne godine imalo statusnu promenu i kao
+rezultat te statusne promene je prestalo da postoji, ili je nad njim otvoren postupak stečaja,
+odnosno likvidacije, u redovnim godišnjim finansijskim izveštajima, u koloni za tekuću poslovnu
+godinu, prikazuje podatke o poslovanju za ceo izveštajni period.
+Na svim obrascima vanrednih finansijskih izveštaja pravnog lica stavlja
+se naznaka "statusna promena", "stečaj" ili "likvidacija".
+Pravno lice koje je u skladu sa Zakonom obavezno da sastavlja i dostavlja
+Napomene uz finansijske izveštaje, u Napomenama uz redovne godišnje finansijske izveštaje
+za godinu u kojoj je imalo statusnu promenu obelodanjuje informacije o učesnicima i vrsti
+statusne promene.
+Pravno lice koje je nastalo osnivanjem posle statusne promene, prikazuje
+podatke kao novoosnovani obveznik iz člana 4. ovog pravilnika, s tim što na obrascima finansijskih
+izveštaja stavlja naznaku "novo osnivanje".
+Član 4
+Novoosnovano pravno lice, odnosno preduzetnik prikazuje podatke o poslovanju
+u izveštajnoj poslovnoj godini u periodu koji je kraći od kalendarske godine ili je najviše
+jednak kalendarskoj godini, ali ne prikazuje stanje na dan 1. januara izveštajne poslovne
+godine, kao ni poslovanje u prethodnoj poslovnoj godini. Na svim propisanim obrascima finansijskih
+izveštaja i Statističkog izveštaja pravno lice, odnosno preduzetnik stavlja naznaku "novoosnovani".
+Na način iz stava 1. ovog člana postupa i preduzetnik koji je u toku izveštajne
+poslovne godine počeo da vodi poslovne knjige po sistemu dvojnog knjigovodstva.
+Član 5
+Matično pravno lice dostavlja sve propisane obrasce finansijskih izveštaja
+i na njima stavlja naznaku "konsolidovani".
+Matično pravno lice prikazuje konsolidovane podatke za izveštajnu i prethodnu
+poslovnu godinu.
+Pravno lice koje je postalo matično u izveštajnoj poslovnoj godini konsolidovane
+podatke dostavlja kao novoosnovano pravno lice iz člana 4. ovog pravilnika, pri čemu na svim
+obrascima stavlja naznaku "novokonsolidovani".
+II SADRŽINA POZICIJA U OBRASCU BILANS STANJA
+Član 6
+U obrascu Bilans stanja pravno lice, odnosno preduzetnik iskazuje podatke
+u kolonama od 5 do 7, na svim pozicijama označenim slovnim oznakama, rimskim i arapskim brojevima
+prema sadržini grupa računa i računa označenih u koloni 1 tog obrasca.
+Mikro pravna lica, kao i preduzetnici koji su razvrstani u kategoriju mikro
+pravnih lica, koji za priznavanje, vrednovanje, prezentaciju i obelodanjivanje pozicija u
+finansijskim izveštajima primenjuju podzakonski akt iz člana 26. stav 1. Zakona, u obrascu
+Bilans stanja iskazuju skraćeni obim podataka samo na pozicijama koje su označene slovnim
+oznakama i rimskim brojevima.
+Podaci u obrascu Bilans stanja iskazuju se u neto iznosu (po sadašnjoj
+vrednosti na datum bilansa), tako što se bruto iznosi iskazani na osnovnim računima glavne
+knjige, koriguju za iznose ispravke vrednosti i obezvređenja koji su iskazani na pripadajućim
+korektivnim računima osnovnih računa na datum bilansa.
+U Bilansu stanja u koloni 5 iskazuju se podaci na kraju tekućeg izveštajnog
+perioda, u koloni 6 podaci na kraju prethodnog izveštajnog perioda (koji je isti kao početak
+tekućeg izveštajnog perioda) i u koloni 7 podaci na početku najranijeg uporednog izveštajnog
+perioda (početno stanje prethodnog izveštajnog perioda). Podaci u koloni 7 iskazuju se samo
+u slučaju retrospektivne primene promenjene ili nove računovodstvene politike ili retrospektivnog
+preračunavanja stavki u finansijskim izveštajima, ili kada se reklasifikuju stavke u finansijskim
+izveštajima.
+Za izveštajni period za koji se sastavlja finansijski izveštaj, podaci
+se unose u kolonu 5 aktive i u kolonu 5 pasive.
+Ako su podaci iz prethodne godine korigovani u skladu sa propisima, u kolone
+6 i 7 aktive i kolone 6 i 7 pasive prethodne godine unose se tako korigovani podaci.
+Pri izradi godišnjeg finansijskog izveštaja, kao i pri nastanku statusne
+promene, otvaranja, odnosno zaključenja postupka likvidacije ili postupka stečaja - pod oznakom
+AOP 0001 do 0060 u aktivi i AOP 0401 do 0457 u pasivi unose se podaci sa odgovarajućih grupa
+računa i računa označenih u koloni 1 ovog obrasca.
+Podaci pod oznakom AOP 0411 pod nazivom "VIII. Učešće bez prava kontrole",
+popunjavaju se samo u konsolidovanom bilansu stanja.
+III SADRŽINA POZICIJA U OBRASCIMA BILANS USPEHA I IZVEŠTAJ
+O OSTALOM REZULTATU
+Član 7
+Rezultate poslovanja pravna lica, odnosno preduzetnici prikazuju u dva
+posebna izveštaja: Bilans uspeha i Izveštaj o ostalom rezultatu.
+1. Bilans uspeha
+Član 8
+U obrascu Bilans uspeha pravna lica, odnosno preduzetnici iskazuju podatke
+u kolonama 5 i 6, na svim pozicijama označenim slovnim oznakama, rimskim i arapskim brojevima
+prema sadržini grupa računa i računa po pojedinim pozicijama (AOP) tog obrasca.
+Mikro pravna lica, kao i preduzetnici koji su razvrstani u kategoriju mikro
+pravnih lica, koji za priznavanje, vrednovanje, prezentaciju i obelodanjivanje pozicija u
+finansijskim izveštajima primenjuju podzakonski akt iz člana 26. stav 1. Zakona, u obrascu
+Bilans uspeha iskazuju skraćeni obim podataka samo na pozicijama koje su označene slovnim
+oznakama i rimskim brojevima.
+U obrazac Bilans uspeha pri izradi godišnjeg finansijskog izveštaja, kao
+i pri nastanku statusne promene, otvaranja, odnosno zaključenja postupka likvidacije ili
+postupka stečaja unose se sledeći podaci:
+1) poslovni prihodi i poslovni rashodi - podaci se unose pod oznakama AOP
+1001 do 1024;
+2) poslovni dobitak i poslovni gubitak - podaci se unose pod oznakama AOP
+1025, odnosno AOP 1026;
+3) finansijski prihodi i finansijski rashodi - podaci se unose pod oznakama
+AOP 1027 do AOP 1036;
+4) dobitak iz finansiranja i gubitak iz finansiranja - podaci se unose
+pod oznakama AOP 1037, odnosno AOP 1038;
+5) prihodi i rashodi od usklađivanja vrednosti finansijske imovine koja
+se iskazuje po fer vrednosti kroz Bilans uspeha - podaci se unose pod oznakama AOP 1039 i
+AOP 1040;
+6) ostali prihodi i ostali rashodi - podaci se unose pod oznakama AOP 1041
+i AOP 1042;
+7) ukupni prihodi i ukupni rashodi - podaci se unose pod oznakama AOP 1043
+i AOP 1044;
+8) rezultat (dobitak ili gubitak) pre oporezivanja - podaci se unose pod
+oznakama AOP 1045, odnosno AOP 1046;
+9) neto dobitak i neto gubitak poslovanja koje se obustavlja, promena računovodstvenih
+politika i ispravki grešaka iz ranijih perioda - podaci se unose pod oznakama AOP 1047 i
+AOP 1048;
+10) iznos poreskog rashoda perioda, iznos odloženih poreskih rashoda perioda
+i iznos odloženih poreskih prihoda perioda - podaci se unose pod oznakama AOP 1051 do AOP
+1053;
+11) isplaćena lična primanja poslodavca - podaci se unose pod oznakom AOP
+1054;
+12) neto dobitak i neto gubitak - podaci se unose pod oznakama AOP 1055,
+odnosno AOP 1056.
+Pod oznakom AOP 1057 ovog obrasca unosi se iznos dela neto dobitka sa AOP
+1055 koji pripada učešćima bez prava kontrole, a pod oznakom AOP 1058 iznos dela neto dobitka
+iskazanog sa AOP 1055 koji pripada matičnom pravnom licu.
+Pod oznakom AOP 1059 ovog obrasca unosi se iznos dela neto gubitka sa AOP
+1056 koji pripada učešćima bez prava kontrole, a pod oznakom AOP 1060 iznos dela neto gubitka
+iskazanog sa AOP 1056 koji pripada matičnom pravnom licu.
+Podaci pod oznakom AOP 1057 do AOP 1060 unose se samo u konsolidovani Bilans
+uspeha.
+Pod oznakom AOP 1061 ovog obrasca unosi se iznos osnovne zarade po akciji.
+Pod oznakom AOP 1062 ovog obrasca unosi se iznos umanjene (razvodnjene)
+zarade po akciji.
+Podatke pod oznakama AOP 1061 i AOP 1062 unose samo pravna lica sa akcijskim
+kapitalom.
+Podaci se sa odgovarajućih računa označenih u koloni 1 unose tako što se
+u kolonu 6 (prethodna godina) unose podaci iz obračuna odgovarajućeg perioda prethodne godine,
+reklasifikovani u skladu sa strukturom podataka za tekući period, dok se za tekuću godinu,
+u kolonu 5, podaci unose sa računa na kraju perioda za koji se obračun sastavlja.
+Ako su podaci prethodne godine korigovani u skladu sa propisima, u kolonu
+6 unose se tako korigovani podaci.
+2. Izveštaj o ostalom rezultatu
+Član 9
+U obrascu Izveštaj o ostalom rezultatu iskazuju se komponente ostalog sveobuhvatnog
+dobitka ili gubitka, kao i ukupan sveobuhvatni dobitak ili gubitak.
+U obrascu Izveštaj o ostalom rezultatu, pravno lice, odnosno preduzetnik
+unosi podatke u kolone 5 i 6, prema sadržini grupa računa označenih u koloni 1 tog obrasca.
+U ovaj obrazac, pri izradi godišnjeg finansijskog izveštaja, unose se sledeći
+podaci:
+1) pod oznakom AOP 2001 i AOP 2002 iskazuje se neto dobitak ili neto gubitak
+iz Bilansa uspeha sa oznaka AOP 1055 i AOP 1056;
+2) pod oznakom AOP 2003 do AOP 2008 unose se promene stanja, povećanje,
+odnosno smanjenja stanja na računima 330, 331 i 333 - pri utvrđivanju iznosa promene ne uzimaju
+se u obzir promene na ovim računima koje su posledica ukidanja rezervisanja, odnosno nerealizovanih
+dobitaka i gubitaka u korist računa neraspoređenog dobitka (ukidanja po osnovu rashodovanja
+i prodaje sredstva, po osnovu obračuna amortizacije i dr.);
+3) pod oznakom AOP 2009 do AOP 2018 unose se promene stanja, povećanje,
+odnosno smanjenje stanja na računima 332, 334, 335, 336 i 337 - pri utvrđivanju iznosa promene
+uzimaju se u obzir i promene na ovim računima koje su posledica preklasifikacije (prenošenja
+nerealizovanih dobitaka ili gubitaka na račune prihoda ili rashoda, na primer, po osnovu
+prestanka priznavanja ovih sredstava);
+4) pod oznakama AOP 2019 i 2020 iskazuje se ostali bruto sveobuhvatni dobitak
+ili gubitak perioda;
+5) pod oznakom AOP 2021 iskazuje se odloženi poreski rashod obračunat na
+ostali sveobuhvatni dobitak ili gubitak;
+6) pod oznakom AOP 2022 iskazuje se odloženi poreski prihod obračunat na
+ostali sveobuhvatni dobitak ili gubitak;
+7) pod oznakom AOP 2023 i AOP 2024 iskazuju se neto ostali sveobuhvatni
+dobitak i neto ostali sveobuhvatni gubitak;
+8) pod oznakama AOP 2025 i 2026 iskazuje se ukupan neto sveobuhvatni dobitak
+ili gubitak perioda kao zbir neto dobitka ili gubitka sa oznaka AOP 2001 i 2002 i neto ostalog
+sveobuhvatnog dobitka ili gubitka sa oznaka AOP 2023 i 2024;
+9) pod oznakama AOP 2028, odnosno AOP 2029 iskazuje se ukupan neto sveobuhvatni
+dobitak ili gubitak pripisan matičnom pravnom licu, odnosno učešćima bez prava kontrole.
+Komponente ostalog sveobuhvatnog dobitka i gubitka pod oznakama AOP 2003
+do AOP 2018 ovog obrasca, iskazuju se pojedinačno u bruto iznosu.
+Podaci pod oznakom AOP 2028 i AOP 2029 unose se samo u konsolidovani Izveštaj
+o ostalom rezultatu.
+IV SADRŽINA POZICIJA U OBRASCU IZVEŠTAJ O TOKOVIMA GOTOVINE
+Član 10
+U obrascu Izveštaj o tokovima gotovine, pravno lice, odnosno preduzetnik
+unosi podatke u kolone 3 i 4, prema sadržini i opisu pozicija označenih u koloni 1 tog obrasca.
+Pod tokovima gotovine (novčanim tokovima), u smislu ovog pravilnika, podrazumevaju
+se naplate i isplate u gotovini i gotovinskim ekvivalentima preko poslovnih računa i deviznog
+računa, uključujući kompenzacije, asignacije i cesije sprovedene preko tih računa.
+Prenos između pojedinih računa gotovine i gotovinskih ekvivalenata u istom
+pravnom licu, odnosno kod preduzetnika ne smatra se tokom gotovine.
+Iznos priliva i odliva gotovine može se utvrditi na osnovu evidencije o
+prilivima i odlivima u blagajni, na poslovnim računima i deviznom računu ili sa odgovarajućih
+računa Bilansa stanja, Bilansa uspeha i grupa računa i računa u knjigovodstvu pravnih lica,
+odnosno preduzetnika.
+Pri sastavljanju obrasca Izveštaj o tokovima gotovine, u kolonu 4 unose
+se podaci odgovarajućeg perioda prethodne godine, a za tekuću godinu podaci se unose u kolonu
+3.
+1. Tokovi gotovine iz poslovnih aktivnosti
+Član 11
+Pod oznakom AOP 3001 - Prilivi gotovine iz poslovnih aktivnosti, upisuje
+se podatak o ukupnom prilivu gotovine sa pozicija pod oznakom AOP 3002 do AOP 3005.
+Pod oznakom AOP 3002 - Prodaja i primljeni avansi u zemlji, iskazuju se
+podaci o prilivu gotovine po osnovu naplaćenih potraživanja od kupaca u zemlji u toku obračunskog
+perioda i primljeni avansi od dobavljača u zemlji.
+Pod oznakom AOP 3003 - Prodaja i primljeni avansi u inostranstvu, iskazuju
+se podaci o prilivu gotovine po osnovu naplaćenih potraživanja od kupaca iz inostranstva
+u toku obračunskog perioda i primljeni avansi od dobavljača iz inostranstva.
+Pod oznakom AOP 3004 - Primljene kamate iz poslovnih aktivnosti, iskazuju
+se podaci o prilivu gotovine po osnovu naplaćenih zateznih i ugovornih kamata po osnovu potraživanja
+od kupaca i druge naplaćene kamate iz poslovnih aktivnosti.
+Pod oznakom AOP 3005 - Ostali prilivi iz redovnog poslovanja, iskazuju
+se podaci o prilivu gotovine od državnih organa po osnovu premija, subvencija, dotacija i
+sl, po osnovu naplate prihoda od zakupnina, članarina i ostalih poslovnih prihoda, kao i
+naplate potraživanja od zaposlenih i ostalih potraživanja.
+Član 12
+Pod oznakom AOP 3006 - Odlivi gotovine iz poslovnih aktivnosti, upisuje
+se podatak o ukupnom odlivu gotovine sa pozicija pod oznakama AOP 3007 do AOP 3014.
+Pod oznakom AOP 3007 - Isplate dobavljačima i dati avansi u zemlji, iskazuju
+se iznosi izvršenih isplata dobavljačima u zemlji za nabavke sirovina i materijala i drugih
+troškova poslovanja u toku obračunskog perioda, kao i iznosi plaćenih avansa dobavljačima
+u zemlji za buduće nabavke materijala, robe, energije i usluga.
+Pod oznakom AOP 3008 - Isplate dobavljačima i dati avansi u inostranstvu,
+iskazuju se iznosi izvršenih isplata dobavljačima u inostranstvu za nabavke sirovina i materijala
+i drugih troškova poslovanja u toku obračunskog perioda, kao i iznosi plaćenih avansa dobavljačima
+za buduće nabavke materijala, robe, energije i usluga.
+Pod oznakom AOP 3009 - Zarade, naknade zarada i ostali lični rashodi, iskazuju
+se iznosi isplaćenih bruto zarada, naknada zarada i ostalih ličnih rashoda u toku obračunskog
+perioda.
+Pod oznakom AOP 3010 - Plaćene kamate u zemlji, iskazuju se sva plaćanja
+po osnovu kamata u zemlji u toku obračunskog perioda.
+Pod oznakom AOP 3011 - Plaćene kamate u inostranstvu, iskazuju se sva plaćanja
+po osnovu kamata u toku obračunskog perioda.
+Pod oznakom AOP 3012 - Porez na dobitak, iskazuju se iznosi plaćenih akontacija
+poreza na dobitak u toku obračunskog perioda i po konačnom obračunu za prethodnu godinu,
+umanjeni za izvršene povraćaje u toku obračunskog perioda.
+Pod oznakom AOP 3013 - Odlivi po osnovu ostalih javnih prihoda, iskazuju
+se iznosi isplata u toku obračunskog perioda po osnovu akciza, poreza na dodatu vrednost
+i ostalih poreza, carina i drugih dažbina.
+Pod oznakom AOP 3014 - Ostali odlivi iz poslovnih aktivnosti, iskazuju
+se odlivi gotovine iz poslovnih aktivnosti za koje u ovom obrascu nije predviđena posebna
+pozicija (kao što su odlivi za date donacije, subvencije i dr.).
+Član 13
+Pod oznakom AOP 3015 - Neto priliv gotovine iz poslovnih aktivnosti, iskazuje
+se razlika između pozicija pod oznakom AOP 3001 - Prilivi gotovine iz poslovnih aktivnosti
+i AOP 3006 - Odlivi gotovine iz poslovnih aktivnosti.
+Pod oznakom AOP 3016 - Neto odliv gotovine iz poslovnih aktivnosti, iskazuje
+se razlika između pozicija pod oznakom AOP 3006 - Odlivi gotovine iz poslovnih aktivnosti
+i AOP 3001 - Prilivi gotovine iz poslovnih aktivnosti.
+2. Tokovi gotovine iz aktivnosti investiranja
+Član 14
+Pod oznakom AOP 3017 - Prilivi gotovine iz aktivnosti investiranja, upisuje
+se podatak o ukupnom prilivu gotovine iz aktivnosti investiranja sa pozicija pod oznakama
+AOP 3018 do AOP 3022.
+Pod oznakom AOP 3018 - Prodaja akcija i udela, iskazuje se iznos primljene
+gotovine u toku obračunskog perioda po osnovu prodaje akcija i udela.
+Pod oznakom AOP 3019 - Prodaja nematerijalne imovine, nekretnina, postrojenja,
+opreme i bioloških sredstava, iskazuje se iznos primljene gotovine od prodaje nematerijalne
+imovine, osnovnih sredstava i bioloških sredstava u toku obračunskog perioda.
+Pod oznakom AOP 3020 - Ostali finansijski plasmani, iskazuje se iznos primljene
+gotovine u toku obračunskog perioda po osnovu prodaje kratkoročnih i dugoročnih finansijskih
+plasmana.
+Pod oznakom AOP 3021 - Primljene kamate iz aktivnosti investiranja, iskazuje
+se iznos gotovine po osnovu naplaćenih kamata u toku obračunskog perioda iz aktivnosti investiranja.
+Pod oznakom AOP 3022 - Primljene dividende, iskazuje se iznos primljene
+gotovine po ovom osnovu u toku obračunskog perioda.
+Član 15
+Pod oznakom AOP 3023 - Odlivi gotovine iz aktivnosti investiranja, upisuje
+se podatak o ukupnom odlivu gotovine iz aktivnosti investiranja sa pozicija pod oznakom AOP
+3024 do AOP 3026.
+Pod oznakom AOP 3024 - Kupovina akcija i udela, iskazuje se iznos odliva
+gotovine po osnovu sticanja akcija i udela.
+Pod oznakom AOP 3025 - Kupovina nematerijalne imovine, nekretnina, postrojenja,
+opreme i bioloških sredstava, iskazuje se iznos odliva gotovine po osnovu pribavljanja nematerijalne
+imovine, osnovnih sredstava i bioloških sredstava u toku obračunskog perioda.
+Pod oznakom AOP 3026 - Ostali finansijski plasmani, iskazuje se iznos odliva
+gotovine po osnovu kupovine dugoročnih i kratkoročnih finansijskih plasmana.
+Član 16
+Pod oznakom AOP 3027 - Neto priliv gotovine iz aktivnosti investiranja,
+iskazuje se razlika između pozicije pod oznakom AOP 3017 - Prilivi gotovine iz aktivnosti
+investiranja i AOP 3023 - Odlivi gotovine iz aktivnosti investiranja.
+Pod oznakom AOP 3028 - Neto odliv gotovine iz aktivnosti investiranja,
+iskazuje se razlika između pozicije pod oznakom AOP 3023 - Odlivi gotovine iz aktivnosti
+investiranja i AOP 3017 - Prilivi gotovine iz aktivnosti investiranja.
+3. Tokovi gotovine iz aktivnosti finansiranja
+Član 17
+Pod oznakom AOP 3029 - Prilivi gotovine iz aktivnosti finansiranja, upisuje
+se podatak o ukupnom prilivu gotovine sa pozicija pod oznakama AOP 3030 do AOP 3036.
+Pod oznakom AOP 3030 - Uvećanje osnovnog kapitala, iskazuju se iznosi priliva
+gotovine po osnovu uplate akcija i drugih trajnih udela u osnovni kapital pravnih lica, odnosno
+preduzetnika.
+Pod oznakom AOP 3031 i AOP 3032 - Dugoročni krediti, iskazuje se iznos
+priliva gotovine po osnovu dugoročnih kredita u zemlji i inostranstvu.
+Pod oznakom AOP 3033 i 3034 - Kratkoročni krediti, iskazuje se iznos priliva
+gotovine po osnovu kratkoročnih kredita u zemlji i inostranstvu.
+Pod oznakom AOP 3035 - Ostale dugoročne obaveze, iskazuje se iznos priliva
+gotovine po osnovu ostalih dugoročnih obaveza pravnih lica, odnosno preduzetnika.
+Pod oznakom AOP 3036 - Ostale kratkoročne obaveze, iskazuje se iznos priliva
+gotovine po osnovu ostalih kratkoročnih obaveza pravnih lica, odnosno preduzetnika.
+Član 18
+Pod oznakom AOP 3037 - Odlivi gotovine iz aktivnosti finansiranja, upisuje
+se podatak o ukupnom odlivu gotovine iz aktivnosti finansiranja sa pozicija pod oznakom AOP
+3038 do AOP 3045.
+Pod oznakom AOP 3038 - Otkup sopstvenih akcija i udela, iskazuje se iznos
+odliva gotovine u toku obračunskog perioda za otkup sopstvenih akcija i udela.
+Pod oznakom AOP 3039 - Dugoročni krediti u zemlji iskazuje se iznos odliva
+gotovine po osnovu otplate dugoročnih kredita u zemlji.
+Pod oznakom AOP 3040 - Dugoročni krediti u inostranstvu iskazuje se iznos
+odliva gotovine po osnovu otplate dugoročnih kredita u inostranstvu.
+Pod oznakom AOP 3041 - Kratkoročni krediti u zemlji iskazuje se iznos odliva
+gotovine po osnovu otplate kratkoročnih kredita u zemlji.
+Pod oznakom AOP 3042 - Kratkoročni krediti u inostranstvu iskazuje se iznos
+odliva gotovine po osnovu otplate kratkoročnih kredita inostranstvu.
+Pod oznakom AOP 3043 - Ostale obaveze, iskazuje se iznos odliva gotovine
+po osnovu otplate drugih obaveza.
+Pod oznakom AOP 3044 - Finansijski lizing, iskazuje se iznos odliva gotovine
+u toku obračunskog perioda po osnovu plaćanja za sredstva uzeta u finansijski lizing.
+Pod oznakom AOP 3045 - Isplaćene dividende, iskazuje se iznos odliva gotovine
+po osnovu dividendi u toku obračunskog perioda.
+Član 19
+Pod oznakom AOP 3046 - Neto priliv gotovine iz aktivnosti finansiranja,
+iskazuje se razlika između pozicija pod oznakom AOP 3029 - Prilivi gotovine iz aktivnosti
+finansiranja i AOP 3037 Odlivi gotovine iz aktivnosti finansiranja.
+Pod oznakom AOP 3047 - Neto odliv gotovine iz aktivnosti finansiranja,
+iskazuje se razlika između pozicija pod oznakom AOP 3037 - Odlivi gotovine iz aktivnosti
+finansiranja i AOP 3029 - Prilivi gotovine iz aktivnosti finansiranja.
+4. Zaključivanje izveštaja o tokovima gotovine
+Član 20
+Pod oznakom AOP 3048 - Svega priliv gotovine, iskazuje se zbir iznosa na
+pozicijama AOP 3001, AOP 3017 i AOP 3029.
+Pod oznakom AOP 3049 - Svega odliv gotovine, iskazuje se zbir iznosa na
+pozicijama AOP 3006, AOP 3023 i AOP 3037.
+Pod oznakom AOP 3050 - Neto priliv gotovine, iskazuje se razlika između
+iznosa na pozicijama AOP 3048 i AOP 3049.
+Pod oznakom AOP 3051 - Neto odliv gotovine, iskazuje se razlika između
+iznosa na pozicijama AOP 3049 i AOP 3048.
+Pod oznakom AOP 3052 - Gotovina na početku obračunskog perioda, iskazuje
+se iznos gotovine na dan 1. januara prethodne i tekuće godine.
+Pod oznakom AOP 3053 - Pozitivne kursne razlike po osnovu preračuna gotovine,
+iskazuje se iznos realizovanih pozitivnih kursnih razlika na datum bilansa.
+Pod oznakom AOP 3054 - Negativne kursne razlike po osnovu preračuna gotovine,
+iskazuje se iznos realizovanih negativnih kursnih razlika na datum bilansa.
+Pod oznakom AOP 3055 - Gotovina na kraju obračunskog perioda, iskazuje
+se iznos gotovine na kraju obračunskog perioda AOP (3050 - 3051 + 3052 + 3053 - 3054).
+V SADRŽINA POZICIJA U OBRASCU IZVEŠTAJ O PROMENAMA NA KAPITALU
+Član 21
+Na poziciji br. 1. pod oznakom AOP 4001 iskazuje se stanje na računima
+osnovnog kapitala (grupa računa 30 - Osnovni i ostali kapital, bez računa 306 - Emisiona
+premija i računa 309 - Ostali osnovni kapital) na dan početka prethodnog izveštajnog perioda.
+Na poziciji 1. pod oznakom AOP 4010 iskazuje se stanje na računu 309 -
+Ostali osnovni kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 1. pod oznakom AOP 4019 iskazuje se stanje na grupi računa
+31 - Upisani a neuplaćeni kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 1. pod oznakom AOP 4028 iskazuje se stanje na računima 306
+- Emisiona premija, 321 - Zakonske rezerve, 322 - Statutarne i druge rezerve i 323 - Dodatne
+uplate kojima se ne povećava kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 1. pod oznakom AOP 4037 iskazuje se stanje na grupi računa
+33 - Revalorizacione rezerve i nerealizovani dobici i gubici na dan početka prethodnog izveštajnog
+perioda.
+Na poziciji 1. pod oznakom AOP 4046 iskazuje se stanje na grupi računa
+34 - Neraspoređeni dobitak na dan početka prethodnog izveštajnog perioda.
+Na poziciji 1. pod oznakom AOP 4055 iskazuje se stanje na grupi računa
+35 - Gubitak, na dan početka prethodnog izveštajnog perioda.
+Na poziciji 1. pod oznakom AOP 4064 popunjavaju se podaci samo u konsolidovanom
+izveštaju o promenama na kapitalu.
+Na poziciji 1. pod oznakom AOP 4073 iskazuje se ukupno stanje kapitala
+na dan početka prethodnog izveštajnog perioda.
+Na poziciji 1. pod oznakom AOP 4082 iskazuje se gubitak iznad visine kapitala
+na dan početka prethodnog izveštajnog perioda.
+Član 22
+Na poziciji 2. pod oznakom AOP 4002 iskazuje se neto promena stanja na
+računima osnovnog kapitala (grupa računa 30 - Osnovni kapital, bez računa 306 - Emisiona
+premija i računa 309 - Ostali osnovni kapital) po osnovu retroaktivne ispravke materijalno
+značajnih grešaka i efekata promene računovodstvenih politika koja je izvršena u prethodnom
+izveštajnom periodu.
+Na poziciji 2. pod oznakom AOP 4011 iskazuje se neto promena stanja na
+računu 309 - Ostali osnovni kapital po osnovu retroaktivne ispravke materijalno značajnih
+grešaka i efekata promene računovodstvenih politika koja je izvršena u prethodnom izveštajnom
+periodu.
+Na poziciji 2. pod oznakom AOP 4020 iskazuje se neto promena stanja na
+grupi računa 31 - Upisani a neuplaćeni kapital po osnovu retroaktivne ispravke materijalno
+značajnih grešaka i efekata promene računovodstvenih politika koja je izvršena u prethodnom
+izveštajnom periodu.
+Na poziciji 2. pod oznakom AOP 4029 iskazuje se stanje na računima 306
+- Emisiona premija, 321 - Zakonske rezerve, 322 - Statutarne i druge rezerve i 323 - Dodatne
+uplate kojima se ne povećava kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 2. pod oznakom AOP 4038 iskazuje se neto promena stanja na
+grupi računa 33 - Revalorizacione rezerve i nerealizovani dobici i gubici po osnovu retroaktivne
+ispravke materijalno značajnih grešaka i promene računovodstvenih politika koja je izvršena
+u prethodnom izveštajnom periodu.
+Na poziciji 2. pod oznakom AOP 4047 iskazuje se neto promena stanja na
+grupi računa 34 - Neraspoređeni dobitak po osnovu retroaktivne ispravke materijalno značajnih
+grešaka i efekata promene računovodstvenih politika koja je izvršena u prethodnom izveštajnom
+periodu.
+Na poziciji 2. pod oznakom AOP 4056 iskazuje se neto promena stanja na
+grupi računa 35 - Gubitak, po osnovu retroaktivne ispravke materijalno značajnih grešaka
+i efekata promene računovodstvenih politika koja je izvršena u prethodnom izveštajnom periodu.
+Na poziciji 2. pod oznakom AOP 4065 popunjavaju se podaci samo u konsolidovanom
+izveštaju o promenama na kapitalu.
+Na poziciji 2. pod oznakom AOP 4074 iskazuje se ukupne neto promene stanja
+kapitala po osnovu retroaktivne ispravke materijalno značajnih grešaka i efekata promene
+računovodstvenih politika koja je izvršena u prethodnom izveštajnom periodu.
+Na poziciji 2. pod oznakom AOP 4083 iskazuje se neto promene stanja gubitka
+iznad visine kapitala po osnovu retroaktivne ispravke materijalno značajnih grešaka i efekata
+promene računovodstvenih politika koja je izvršena u prethodnom izveštajnom periodu.
+Član 23
+Na poziciji 3. pod oznakom AOP 4003 iskazuje se korigovano početno stanje
+na računima osnovnog kapitala (grupa računa 30 - Osnovni kapital bez računa 306 - Emisiona
+premija i računa 309 - Ostali osnovni kapital) na dan početka prethodnog izveštajnog perioda.
+Na poziciji 3. pod oznakom AOP 4012 iskazuje se korigovano početno stanje
+na računu 309 - Ostali osnovni kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 3. pod oznakom AOP 4021 iskazuje se korigovano početno stanje
+na grupi računa 31 - Upisani a neuplaćeni kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 3. pod oznakom AOP 4030 iskazuje se stanje na računima 306
+- Emisiona premija, 321 - Zakonske rezerve, 322 - Statutarne i druge rezerve i 323 - Dodatne
+uplate kojima se ne povećava kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 3. pod oznakom AOP 4039 iskazuje se korigovano početno stanje
+na grupi računa 33 - Revalorizacione rezerve i nerealizovani dobici i gubici na dan početka
+prethodnog izveštajnog perioda.
+Na poziciji 3. pod oznakom AOP 4048 iskazuje se korigovano početno stanje
+na grupi računa 34 - Neraspoređeni dobitak na dan početka prethodnog izveštajnog perioda.
+Na poziciji 3. pod oznakom AOP 4057 iskazuje se korigovano početno stanje
+na grupi računa 35 - Gubitak, na dan početka prethodnog izveštajnog perioda.
+Na poziciji 3. pod oznakom AOP 4066 popunjavaju se podaci samo u konsolidovanom
+izveštaju o promenama na kapitalu.
+Na poziciji 3. pod oznakom AOP 4075 iskazuje se ukupno korigovano početno
+stanje kapitala na dan početka prethodnog izveštajnog perioda.
+Na poziciji 3. pod oznakom AOP 4084 iskazuje se korigovano početno stanje
+gubitka iznad visine kapitala na dan početka prethodnog izveštajnog perioda.
+Član 24
+Na poziciji 4. pod oznakom AOP 4004 iskazuje se neto promena stanja na
+računima osnovnog kapitala (grupa računa 30 - Osnovni kapital bez računa 306 - Emisiona premija
+i računa 309 - Ostali osnovni kapital) u prethodnoj godini po svim osnovama, izuzev promene
+po osnovu ispravke materijalno značajnih grešaka i efekata promene računovodstvenih politika
+koje je izvršeno na početku tekućeg izveštajnog perioda a odnosi se na prethodni izveštajni
+period.
+Na poziciji 4. pod oznakom AOP 4013 iskazuje se neto promena stanja na
+računu 309 - Ostali osnovni kapital u prethodnoj godini po svim osnovama, izuzev promene
+po osnovu ispravke materijalno značajnih grešaka i efekata promene računovodstvenih politika
+koje je izvršeno na početku tekućeg izveštajnog perioda a odnosi se na prethodni izveštajni
+period.
+Na poziciji 4. pod oznakom AOP 4022 iskazuje se neto promena stanja na
+grupi računa 31 - Upisani a neuplaćeni kapital u prethodnoj godini po svim osnovama, izuzev
+promene po osnovu ispravke materijalno značajnih grešaka i efekata promene računovodstvenih
+politika koje je izvršeno na početku tekućeg izveštajnog perioda a odnosi se na prethodni
+izveštajni period.
+Na poziciji 4. pod oznakom AOP 4031 iskazuje se stanje na računima 306
+- Emisiona premija, 321 - Zakonske rezerve, 322 - Statutarne i druge rezerve i 323 - Dodatne
+uplate kojima se ne povećava kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 4. pod oznakom AOP 4040 iskazuje se neto promena stanja na
+grupi računa 33 - Revalorizacione rezerve i nerealizovani dobici i gubici u prethodnoj godini
+po svim osnovama, izuzev promene po osnovu ispravke materijalno značajnih grešaka i efekata
+promene računovodstvenih politika koje je izvršeno na početku tekućeg izveštajnog perioda
+a odnosi se na prethodni izveštajni period.
+Na poziciji 4. pod oznakom AOP 4049 iskazuje se neto promena stanja na
+grupi računa 34 - Neraspoređeni dobitak u prethodnom izveštajnom periodu po svim osnovama,
+izuzev promene po osnovu ispravke materijalno značajnih grešaka i efekata promene računovodstvenih
+politika koje je izvršeno na početku tekućeg izveštajnog perioda a odnosi se na prethodni
+izveštajni period.
+Na poziciji 4. pod oznakom AOP 4058 iskazuje se neto promena stanja na
+grupi računa 35 - Gubitak, u prethodnom izveštajnom periodu po svim osnovama, izuzev promene
+po osnovu ispravke materijalno značajnih grešaka i efekata promene računovodstvenih politika
+koje je izvršeno na početku tekućeg izveštajnog perioda a odnosi se na prethodni izveštajni
+period.
+Na poziciji 4. pod oznakom AOP 4067 popunjavaju se podaci samo u konsolidovanom
+izveštaju o promenama na kapitalu.
+Na poziciji 4. pod oznakom AOP 4076 iskazuje se ukupna neto promena stanja
+kapitala u prethodnoj godini po svim osnovama, izuzev promene po osnovu ispravke materijalno
+značajnih grešaka i efekata promene računovodstvenih politika koje je izvršeno na početku
+tekućeg izveštajnog perioda a odnosi se na prethodni izveštajni period.
+Na poziciji 4. pod oznakom AOP 4085 iskazuje se promena stanja gubitka
+iznad visine kapitala, izuzev promene po osnovu ispravke materijalno značajnih grešaka i
+efekata promene računovodstvenih politika koje je izvršeno na početku tekućeg izveštajnog
+perioda a odnosi se na prethodni izveštajni period.
+Član 25
+Na poziciji 5. pod oznakom AOP 4005 iskazuje se stanje na računima osnovnog
+kapitala (grupa računa 30 - Osnovni kapital bez računa 306 - Emisiona premija i računa 309
+- Ostali osnovni kapital) na datum bilansa prethodnog izveštajnog perioda.
+Na poziciji 5. pod oznakom AOP 4014 iskazuje se stanje na računu 309 -
+Ostali kapital na datum bilansa prethodnog izveštajnog perioda.
+Na poziciji 5. pod oznakom AOP 4023 iskazuje se stanje na grupi računa
+31 - Upisani a neuplaćeni kapital na datum bilansa prethodnog izveštajnog perioda.
+Na poziciji 5. pod oznakom AOP 4032 iskazuje se stanje na računima 306
+- Emisiona premija, 321 - Zakonske rezerve, 322 - Statutarne i druge rezerve i 323 - Dodatne
+uplate kojima se ne povećava kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 5. pod oznakom AOP 4041 iskazuje se stanje na grupi računa
+33 - Revalorizacione rezerve i nerealizovani dobici i gubici na datum bilansa prethodnog
+izveštajnog perioda.
+Na poziciji 5. pod oznakom AOP 4050 iskazuje se stanje na grupi računa
+34 - Neraspoređeni dobitak na datum bilansa prethodnog izveštajnog perioda.
+Na poziciji 5. pod oznakom AOP 4059 iskazuje se stanje na grupi računa
+35 - Gubitak, na datum bilansa prethodnog izveštajnog perioda.
+Na poziciji 5. pod oznakom AOP 4068 popunjavaju se podaci samo u konsolidovanom
+izveštaju o promenama na kapitalu.
+Na poziciji 5. pod oznakom AOP 4077 iskazuje se ukupno stanje datum bilansa
+prethodnog izveštajnog perioda.
+Na poziciji 5. pod oznakom AOP 4086 iskazuje se stanje gubitka iznad visine
+kapitala na datum bilansa prethodnog izveštajnog perioda.
+Član 26
+Na poziciji 6. pod oznakom AOP 4006 iskazuje se neto promena stanja na
+računima osnovnog kapitala (grupa računa 30 - Osnovni kapital bez računa 306 - Emisiona premija
+i računa 309 - Ostali osnovni kapital) po osnovu ispravke materijalno značajnih grešaka i
+promene računovodstvenih politika koja je izvršena u tekućem izveštajnom periodu.
+Na poziciji 6. pod oznakom AOP 4015 iskazuje se neto promena stanja na
+računu 309 - Ostali osnovni kapital po osnovu retroaktivne ispravke materijalno značajnih
+grešaka i promene računovodstvenih politika koja je izvršena u tekućem izveštajnom periodu.
+Na poziciji 6. pod oznakom AOP 4024 iskazuje se neto promena stanja na
+grupi računa 31 - Upisani a neuplaćeni kapital po osnovu retroaktivne ispravke materijalno
+značajnih grešaka i promene računovodstvenih politika koja je izvršena u tekućem izveštajnom
+periodu.
+Na poziciji 6. pod oznakom AOP 4033 iskazuje se stanje na računima 306
+- Emisiona premija, 321 - Zakonske rezerve, 322 - Statutarne i druge rezerve i 323 - Dodatne
+uplate kojima se ne povećava kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 6. pod oznakom AOP 4042 iskazuje se neto promena stanja na
+grupi računa 33 - Revalorizacione rezerve i nerealizovani dobici i gubici po osnovu retroaktivne
+ispravke materijalno značajnih grešaka i promene računovodstvenih politika koja je izvršena
+u tekućem izveštajnom periodu.
+Na poziciji 6. pod oznakom AOP 4051 iskazuje se neto promena stanja na
+grupi računa 34 - Neraspoređeni dobitak po osnovu retroaktivne ispravke materijalno značajnih
+grešaka i promene računovodstvenih politika koja je izvršena u tekućem izveštajnom periodu.
+Na poziciji 6. pod oznakom AOP 4060 iskazuje se neto promena stanja na
+grupi računa 35 - Gubitak, po osnovu retroaktivne ispravke materijalno značajnih grešaka
+i promene računovodstvenih politika koja je izvršena u tekućem izveštajnom periodu.
+Na poziciji 6. pod oznakom AOP 4069 popunjavaju se podaci samo u konsolidovanom
+izveštaju o promenama na kapitalu.
+Na poziciji 6. pod oznakom AOP 4078 iskazuje se ukupna neto promena stanja
+kapitala po osnovu retroaktivne ispravke materijalno značajnih grešaka i promene računovodstvenih
+politika koja je izvršena u tekućem izveštajnom periodu.
+Na poziciji 6. pod oznakom AOP 4087 iskazuje se promena stanja gubitka
+iznad visine kapitala po osnovu retroaktivne ispravke materijalno značajnih grešaka i promene
+računovodstvenih politika koja je izvršena u tekućem izveštajnom periodu.
+Član 27
+Na poziciji 7. pod oznakom AOP 4007 iskazuje se korigovano početno stanje
+na računima osnovnog kapitala (grupa računa 30 - Osnovni kapital bez računa 306 - Emisiona
+premija i računa 309 - Ostali osnovni kapital) na dan početka tekućeg izveštajnog perioda.
+Na poziciji 7. pod oznakom AOP 4016 iskazuje se korigovano početno stanje
+na računu 309 - Ostali osnovni kapital na dan početka tekućeg izveštajnog perioda.
+Na poziciji 7. pod oznakom AOP 4025 iskazuje se korigovano početno stanje
+na grupi računa 31 - Upisani a neuplaćeni kapital na dan početka tekućeg izveštajnog perioda.
+Na poziciji 7. pod oznakom AOP 4034 iskazuje se stanje na računima 306
+- Emisiona premija, 321 - Zakonske rezerve, 322 - Statutarne i druge rezerve i 323 - Dodatne
+uplate kojima se ne povećava kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 7. pod oznakom AOP 4043 iskazuje se korigovano početno stanje
+na grupi računa 33 - Revalorizacione rezerve i nerealizovani dobici i gubici na dan početka
+tekućeg izveštajnog perioda.
+Na poziciji 7. pod oznakom AOP 4052 iskazuje se korigovano početno stanje
+na grupi računa 34 - Neraspoređeni dobitak na dan početka tekućeg izveštajnog perioda.
+Na poziciji 7. pod oznakom AOP 4061 iskazuje se korigovano početno stanje
+na grupi računa 35 - Gubitak, na dan početka tekućeg izveštajnog perioda.
+Na poziciji 7. pod oznakom AOP 4070 popunjavaju se podaci samo u konsolidovanom
+izveštaju o promenama na kapitalu.
+Na poziciji 7. pod oznakom AOP 4079 iskazuje se ukupno korigovano početno
+stanje kapitala na dan početka tekućeg izveštajnog perioda.
+Na poziciji 7. pod oznakom AOP 4088 iskazuje se korigovano početno stanje
+gubitka iznad visine kapitala na dan početka tekućeg izveštajnog perioda.
+Član 28
+Na poziciji 8. pod oznakom AOP 4008 iskazuje se neto promena stanja na
+računima osnovnog kapitala (grupa računa 30 - Osnovni kapital bez računa 306 - Emisiona premija
+i računa 309 - Ostali osnovni kapital) u tekućem izveštajnom periodu po svim osnovama, izuzev
+promene u početnom stanju po osnovu ispravke materijalno značajnih grešaka i promene računovodstvenih
+politika.
+Na poziciji 8. pod oznakom AOP 4017 iskazuje se neto promena stanja na
+računu 309 - Ostali osnovni kapital u tekućem izveštajnom periodu po svim osnovama, izuzev
+promene u početnom stanju po osnovu ispravke materijalno značajnih grešaka i promene računovodstvenih
+politika.
+Na poziciji 8. pod oznakom AOP 4026 iskazuje se neto promena stanja na
+grupi računa 31 - Upisani a neuplaćeni kapital u tekućem izveštajnom periodu po svim osnovama,
+izuzev promene u početnom stanju po osnovu ispravke materijalno značajnih grešaka i promene
+računovodstvenih politika.
+Na poziciji 8. pod oznakom AOP 4035 iskazuje se stanje na računima 306
+- Emisiona premija, 321 - Zakonske rezerve, 322 - Statutarne i druge rezerve i 323 - Dodatne
+uplate kojima se ne povećava kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 8. pod oznakom AOP 4044 iskazuje se neto promena stanja na
+grupi računa 33 - Revalorizacione rezerve i nerealizovani dobici i gubici u tekućem izveštajnom
+periodu po svim osnovama, izuzev promene u početnom stanju po osnovu ispravke materijalno
+značajnih grešaka i promene računovodstvenih politika.
+Na poziciji 8. pod oznakom AOP 4053 iskazuje se neto promena stanja na
+grupi računa 34 - Neraspoređeni dobitak u tekućem izveštajnom periodu po svim osnovama, izuzev
+promene u početnom stanju po osnovu ispravke materijalno značajnih grešaka i promene računovodstvenih
+politika.
+Na poziciji 8. pod oznakom AOP 4062 iskazuje se neto promena stanja na
+grupi računa 35 - Gubitak, u tekućem izveštajnom periodu po svim osnovama, izuzev promene
+u početnom stanju po osnovu ispravke materijalno značajnih grešaka i promene računovodstvenih
+politika.
+Na poziciji 8. pod oznakom AOP 4071 popunjavaju se podaci samo u konsolidovanom
+izveštaju o promenama na kapitalu.
+Na poziciji 8. pod oznakom AOP 4080 iskazuje se ukupna neto promena stanja
+kapitala u tekućem izveštajnom periodu po svim osnovama, izuzev promene u početnom stanju
+po osnovu ispravke materijalno značajnih grešaka i promene računovodstvenih politika.
+Na poziciji 8. pod oznakom AOP 4089 iskazuje se ukupna promena stanja gubitka
+iznad visine kapitala u tekućem izveštajnom periodu po svim osnovama, izuzev promene u početnom
+stanju po osnovu ispravke materijalno značajnih grešaka i promene računovodstvenih politika.
+Član 29
+Na poziciji 9. pod oznakom AOP 4009 iskazuje se stanje na računima osnovnog
+kapitala (grupa računa 30 - Osnovni kapital bez računa 306 - Emisiona premija i računa 309
+- Ostali osnovni kapital) na datum bilansa tekućeg izveštajnog perioda.
+Na poziciji 9. pod oznakom AOP 4018 iskazuje se stanje na računu 309 -
+Ostali kapital na datum bilansa tekućeg izveštajnog perioda.
+Na poziciji 9. pod oznakom AOP 4027 iskazuje se stanje na grupi računa
+31 - Upisani a neuplaćeni kapital na datum bilansa tekućeg izveštajnog perioda.
+Na poziciji 9. pod oznakom AOP 4036 iskazuje se stanje na računima 306
+- Emisiona premija, 321 - Zakonske rezerve, 322 - Statutarne i druge rezerve i 323 - Dodatne
+uplate kojima se ne povećava kapital na dan početka prethodnog izveštajnog perioda.
+Na poziciji 9. pod oznakom AOP 4045 iskazuje se stanje na grupi računa
+33 - Revalorizacione rezerve i nerealizovani dobici i gubici na datum bilansa tekućeg izveštajnog
+perioda.
+Na poziciji 9. pod oznakom AOP 4054 iskazuje se stanje na grupi računa
+34 - Neraspoređeni dobitak na datum bilansa tekućeg izveštajnog perioda.
+Na poziciji 9. pod oznakom AOP 4063 iskazuje se stanje na grupi računa
+35 - Gubitak, na datum bilansa tekućeg izveštajnog perioda.
+Na poziciji 9. pod oznakom AOP 4072 popunjavaju se podaci samo u konsolidovanom
+izveštaju o promenama na kapitalu.
+Na poziciji 9. pod oznakom AOP 4081 iskazuje se ukupno stanje kapitala
+na datum bilansa tekućeg izveštajnog perioda.
+Na poziciji 9. pod oznakom AOP 4090 iskazuje se ukupno stanje gubitka iznad
+visine kapitala na datum bilansa tekućeg izveštajnog perioda.
+VI NAPOMENE UZ FINANSIJSKE IZVEŠTAJE
+1. Opšte informacije
+Član 30
+Napomene uz finansijske izveštaje sadrže opise i/ili detaljnije raščlanjavanje
+iznosa prikazanih u obrascima Bilansa stanja, Bilansa uspeha, Izveštaja o ostalom rezultatu,
+Izveštaja o tokovima gotovine i Izveštaja o promenama na kapitalu i dodatne informacije koje
+nisu prikazane u navedenim finansijskim izveštajima, a zahtevaju se u skladu sa:
+1) MSFI;
+2) MSFI za MSP;
+3) podzakonskim aktom kojim se reguliše način priznavanja, vrednovanja,
+prezentacije i obelodanjivanja pozicija u finansijskim izveštajima mikro i drugih pravnih
+lica; ili
+4) ovim pravilnikom.
+Ukoliko se neka informacija u Napomenama uz finansijske izveštaje obelodanjuje
+kao rezultat zahteva ovog pravilnika, a isti takav zahtev postoji i u MSFI, odnosno MSFI
+za MSP, odnosno u podzakonskom aktu kojim se reguliše način priznavanja, vrednovanja, prezentacije
+i obelodanjivanja pozicija u finansijskim izveštajima mikro i drugih pravnih lica, pravno
+lice, odnosno preduzetnik ne iskazuje ponovo takvu informaciju, odnosno informacija se obelodanjuje
+samo jednom.
+Obelodanjivanja u Napomenama uz finansijske izveštaje se numerišu i u obrascima
+iz stava 1. ovog člana (Bilans stanja, Bilans uspeha i Izveštaj o ostalom rezultatu) se navodi
+redni broj pod kojim je informacija napisana u Napomenama uz finansijske izveštaje. Za prikazivanje
+rednog broja Napomena uz finansijske izveštaje koriste se arapski brojevi, prema redosledu
+prikazivanja podataka u finansijskom izveštaju, i to maksimalno 50 karaktera koji se unose
+u obrasce finansijskog izveštaja.
+U Napomenama uz finansijske izveštaje svi obveznici primene ovog pravilnika,
+koji su u skladu sa Zakonom obavezni da sastavljaju i dostavljaju Napomene uz finansijske
+izveštaje, obelodanjuju sledeće informacije:
+1) opšte informacije o pravnom licu, odnosno preduzetniku (sedište, pravna
+forma, opis prirode poslovanja i glavnih aktivnosti, naziv matičnog pravnog lica i krajnjeg
+vlasnika matičnog pravnog lica, podatak o prosečnom broju zaposlenih u toku izveštajnog perioda,
+na bazi stanja krajem svakog meseca);
+2) informaciju o usaglašenosti sa nacionalnim propisima i MSFI, odnosno
+MSFI za MSP;
+3) informaciju o korekciji početnog stanja po osnovu greške i promena računovodstvenih
+politika;
+4) informaciju o primenjenim osnovama za vrednovanje pozicija prilikom
+izrade finansijskog izveštaja;
+5) informaciju o računovodstvenim politikama, koje su odabrane i primenjene
+na značajne poslovne promene i događaje;
+6) za nekretnine, postrojenja, opremu i biološka sredstva vrednovana primenom
+modela revalorizacije, odnosno modela fer vrednosti:
+(1) promene revalorizacione rezerve u izveštajnom periodu, uz objašnjenje
+poreskog tretmana sadržanih stavki;
+(2) knjigovodstvenu vrednost u Bilansu stanja koja bi se priznala
+da osnovna sredstva nisu bila revalorizovana;
+7) za finansijske instrumente i ostalu imovinu koji se naknadno vrednuju
+po fer vrednosti:
+(1) značajne pretpostavke koje su služile kao osnova za načine i
+tehnike vrednovanja u slučaju kada su fer vrednosti određene nekom od dozvoljenih metoda
+procene;
+(2) za svaku kategoriju finansijskih instrumenata ili imovine koja
+nije finansijski instrument, fer vrednost, promene vrednosti koje su direktno uključene u
+Bilans uspeha, kao i promene uključene u nerealizovane dobitke ili gubitke u okviru kapitala;
+(3) za svaku kategoriju derivatnih finansijskih instrumenata podatak
+o visini i prirodi instrumenata, uključujući značajne rokove i uslove koji mogu uticati na
+iznos, vreme i sigurnost budućih novčanih tokova;
+(4) tabelu koja prikazuje kretanja revalorizacionih rezervi i nerealizovanih
+dobitaka i gubitaka tokom izveštajnog perioda, odnosno stanje na početku i na kraju perioda;
+8) informacije o stavkama koje nisu prikazane u izveštajima iz stava 1.
+ovog člana, a značajne su za ocenu finansijskog položaja i uspešnosti poslovanja pravnog
+lica, odnosno preduzetnika uključujući i ukupan iznos svih finansijskih obaveza, garancija
+ili nepredviđenih izdataka koji nisu uključeni u Bilans stanja, kao i naznaku prirode i oblika
+svih datih materijalno značajnih garancija (obaveze koje se odnose na penzije i povezana
+pravna lica ili pravna lica povezana udelom obelodanjuju se odvojeno od drugih obaveza iste
+prirode);
+9) iznos zajmova datih zaposlenima, članovima organa upravljanja i nadzora,
+sa naznakama kamatnih stopa, i uslova, i svih otplaćenih i otpisanih iznosa, kao i obaveza
+prema zaposlenima utvrđenih internim aktom u njihovu korist, naznakom ukupnog iznosa za svaku
+kategoriju obaveza;
+10) iznos i prirodu pojedinih stavki prihoda ili rashoda koji su po svom
+iznosu i prirodi materijalno značajni sa odvojenim iskazivanjem tih stavki ostvarenih iz
+odnosa sa povezanim licima;
+11) iznose obaveza koje dospevaju nakon više od pet godina, kao i ukupna
+dugovanja u vezi sa garancijama (zalogama, hipotekama) koje je pravno lice, odnosno preduzetnik
+dalo uz naznaku prirode i oblika garancija.
+2. Dodatna obelodanjivanja za srednja pravna lica i društva
+od javnog interesa
+Član 31
+Srednja pravna lica, kao i preduzetnici koji su razvrstani u srednja kao
+i sva društva od javnog interesa u Napomenama uz finansijske izveštaje, osim informacija
+koje se zahtevaju odredbama člana 30. stav 4. ovog pravilnika, obelodanjuju i sledeće informacije:
+1) za različite stavke stalne imovine:
+(1) nabavnu cenu ili trošak proizvodnje ili, ako se koristi alternativna
+osnova odmeravanja, fer vrednost ili revalorizovani iznos na početku i na kraju izveštajnog
+perioda;
+(2) nabavke, kretanja i prenosi (iz jedne kategorije u drugu kategoriju
+imovine) tokom izveštajnog perioda;
+(3) ispravke vrednosti na početku i na kraju izveštajnog perioda;
+(4) korekcije vrednosti tokom izveštajnog perioda;
+(5) promene ispravki vrednosti stalne imovine tokom izveštajnog
+perioda po osnovu njene nabavke, prodaje i prenosa (iz jedne kategorije u drugu kategoriju
+imovine);
+(6) u slučaju kada su troškovi pozajmljivanja kapitalizovani, iznos
+koji je kapitalizovan tokom izveštajnog perioda.
+2) ako su nekretnine, postrojenja, oprema i biološka sredstva ili obrtna
+sredstva predmet ispravke vrednosti samo za potrebe oporezivanja, iznos ispravki kao i razlozi
+zbog kojih su izvršene;
+3) ako se finansijski instrumenti odmeravaju po nabavnoj ceni ili u visini
+izdataka pribavljanja:
+(1) za svaku kategoriju derivatnih finansijskih instrumenata:
+- fer vrednost instrumenata, ako se ista može odrediti bilo kojim
+od primenljivih metoda;
+- informacije o opsegu i prirodi instrumenata;
+(2) za dugoročna finansijska sredstva koja se vrednuju po iznosu
+većem od njihove fer vrednosti:
+- knjigovodstvenu vrednost i fer vrednost pojedinih finansijskih
+sredstava ili odgovarajuće grupe finansijskih sredstava;
+- razlozi zbog kojih nije vršeno umanjenje knjigovodstvene vrednosti
+finansijskih sredstava, uključujući prirodu dokaza na kojima se zasniva očekivanje naplate
+njihove knjigovodstvene vrednosti;
+4) iznos naknada odobrenih za tekući izveštajni period članovima organa
+upravljanja i nadzora povodom njihove odgovornosti i sve obaveze koje proističu ili koje
+su dogovorene u vezi sa penzijama za bivše članove tih tela, uz naznaku ukupnog iznosa za
+svako telo ponaosob. Pravno lice samostalno odlučuje da li će obelodaniti ove podatke (razlog
+za neobelodanjivanje može da bude procena da bi se takvim obelodanjivanjem stavilo javnosti
+na finansijsko stanje određenog člana takvog tela, a takva situacija bi npr. nastupila ako
+je samo jedno lice član nekog organa ili tela);
+5) prosečan broj zaposlenih tokom izveštajnog perioda raščlanjen po kategorijama,
+i ako to nije posebno obelodanjeno u Bilansu uspeha, troškovi zarada i naknada zaposlenih
+koji se odnose na izveštajni period, raščlanjeni na zarade, naknade, poreze i troškove obaveznog
+socijalnog osiguranja;
+6) iznos odloženih poreskih sredstava ili obaveza i odloženog poreskog
+prihoda ili rashoda, na početku i na kraju izveštajnog perioda, kao i promene tih pozicija
+u toku izveštajnog perioda;
+7) naziv i sedište svakog pravnog lica u kojem pravno lice, odnosno preduzetnik,
+direktno ili indirektno poseduje udeo, iskazujući učešće u kapitalu, iznos kapitala i rezervi
+i dobitak ili gubitak poslednjeg izveštajnog perioda predmetnog pravnog lica, a za koje su
+usvojeni finansijski izveštaji. Pravno lice, odnosno preduzetnik ne mora da obelodani ove
+informacije kada bi njihovo obelodanjivanje nanelo značajnu štetu licima na koje se informacije
+odnose, s tim da je dužno da u Napomenama uz finansijske izveštaje obelodani informaciju
+da je iskoristilo pravo da ne obelodani ove informacije. Pravno lice nije dužno da prezentuje
+ove informacije za pravna lica koja su za njega zavisna i koja je uključilo u konsolidovane
+finansijske izveštaje koje sastavlja, kao i za pravna lica za koja je učešće u kapitalu vrednovalo
+metodom udela;
+8) broj i nominalnu vrednost ili, ako ne postoji nominalna vrednost, knjigovodstvenu
+vrednost akcija upisanih tokom izveštajnog perioda;
+9) u slučaju kada postoji više klasa akcija broj i nominalnu vrednost,
+ili ako ne postoji nominalna vrednost, knjigovodstvenu vrednost svake klase akcija;
+10) postojanje bilo kakvih potvrda o učešću, konvertibilnih obaveznica,
+jemstava, opcija ili sličnih hartija od vrednosti ili prava, s naznakom njihovog broja i
+prava koja daju;
+11) naziv, sedište i pravni oblik svakog pravnog lica koje je po formi
+društvo sa ograničenom odgovornošću, a jedan od njegovih članova je pravno lice obveznik
+sastavljanja finansijskih izveštaja;
+12) naziv i sedište pravnog lica koje sastavlja konsolidovane finansijske
+izveštaje najveće grupe pravnih lica u kojoj pravno lice učestvuje kao zavisno pravno lice;
+13) naziv i sedište pravnog lica koje sastavlja konsolidovane finansijske
+izveštaje najmanje grupe pravnih lica u kojoj pravno lice učestvuje kao zavisno pravno lice
+i koje je takođe uključeno u grupu pravnih lica na koje se odnosi tačka 12);
+14) mesto gde se mogu dobiti kopije konsolidovanih finansijskih izveštaja
+na koje upućuju tač. 12) i 13) ovog stava, ukoliko su dostupni;
+15) predloženu raspodelu dobiti ili predloženo postupanje s gubitkom, ili,
+ako je to primenljivo, raspodelu dobiti ili postupanje s gubitkom;
+16) prirodu i poslovnu svrhu aranžmana pravnog lica, odnosno preduzetnika
+koji nisu uključeni u Bilans stanja i finansijski uticaj tih aranžmana na pravno lice, ukoliko
+su rizici ili koristi koji proističu iz tih aranžmana materijalni i u meri u kojoj je obelodanjivanje
+takvih rizika ili koristi neophodno za procenu njegovog finansijskog stanja;
+17) prirodu i finansijski efekat značajnih događaja koji su nastupili nakon
+datuma Bilansa stanja i koji nisu prikazani u Bilansu uspeha ili Bilansu stanja;
+18) transakcije pravnog lica, odnosno preduzetnika s povezanim stranama,
+uključujući iznos takvih transakcija, prirodu odnosa sa povezanim stranama i druge informacije
+o transakcijama neophodne za razumevanje finansijskog položaja. Informacije o pojedinačnim
+transakcijama mogu se objediniti u skladu sa njihovom prirodom, osim kada su odvojene informacije
+potrebne za razumevanje efekata tih transakcija na finansijsko stanje pravnog lica. Informacije
+o ovim transakcijama se obelodanjuju samo ako nisu zaključene pod uobičajenim tržišnim uslovima.
+3. Dodatna obelodanjivanja za društva od javnog interesa
+Član 32
+Društva od javnog interesa u Napomenama uz finansijske izveštaje, osim
+informacija koje se zahtevaju članom 30. stav 4. i članom 31. ovog pravilnika, obelodanjuju
+i sledeće informacije:
+1) poslovni prihod raščlanjen po kategorijama aktivnosti i geografskim
+tržištima, ako se te kategorije i tržišta znatno razlikuju, uzimajući u obzir način na koji
+je organizovana prodaja proizvoda (roba) i pružanje usluga;
+2) ukupan iznos naknada koje za određeni izveštajni period naplaćuje svaki
+samostalni revizor ili revizorsko društvo za zakonsku reviziju godišnjih finansijskih izveštaja,
+i ukupan iznos naknada koje naplaćuje svaki samostalni revizor ili revizorsko društvo za
+druge usluge provere, za usluge poreskog savetovanja, kao i za druge usluge osim revizorskih.
+Društvo od javnog interesa ne mora da obelodani informacije iz stava 1.
+tačka 1) ovog člana u slučaju kada bi mu njihovo obelodanjivanje nanelo značajnu štetu.
+Društvo od javnog interesa je dužno da u Napomenama obelodani informaciju
+da je iskoristilo pravo iz stava 2. ovog člana.
+Ukoliko je društvo od javnog interesa uključeno u konsolidovanje ne mora
+da obelodani informacije iz stava 1. tačka 2) ovog člana pod uslovom da je ta informacija
+sadržana u konsolidovanim napomenama uz finansijske izveštaje.
+4. Dodatna obelodanjivanja u konsolidovanim napomenama uz
+finansijske izveštaje
+Član 33
+U konsolidovanim napomenama uz finansijske izveštaje matično pravno lice
+obelodanjuje informacije zahtevane članom 30. stav 4. i čl. 31. i 32. ovog pravilnika na
+način koji olakšava procenu finansijskog stanja pravnih lica koja su uključena u konsolidovanje
+i predstavljaju ekonomsku celinu, uzimajući u obzir neophodna usklađivanja koja proističu
+iz posebnih obeležja konsolidovanih finansijskih izveštaja u poređenju sa redovnim pojedinačnim
+godišnjim finansijskim izveštajima. Matično pravno lice u konsolidovanim napomenama uz finansijske
+izveštaje:
+1) pri obelodanjivanju transakcija između povezanih strana, ne uključuje
+transakcije između povezanih strana obuhvaćenih konsolidovanjem koje su eliminisane konsolidovanjem;
+2) pri obelodanjivanju prosečnog broja zaposlenih tokom izveštajnog perioda,
+odvojeno objavljuje broj zaposlenih tokom izveštajnog perioda u privrednim društvima obuhvaćenim
+metodom proporcionalnog konsolidovanja;
+3) pri obelodanjivanju iznosa prihoda, pozajmica i odobrenih kredita članovima
+administrativnih, upravljačkih i nadzornih tela, objavljuje samo iznose koje su matično pravno
+lice i zavisna pravna lica odobrili članovima organa upravljanja i nadzora matičnog pravnog
+lica.
+Napomene uz konsolidovane finansijske izveštaje pored informacija zahtevanih
+stavom 1. ovog člana sadrže i sledeće informacije:
+1) za pravna lica obuhvaćena konsolidovanjem:
+(1) nazive i sedišta tih pravnih lica;
+(2) udeo u kapitalu koji u tim pravnim licima, osim u matičnom pravnom
+licu, drže pravna lica obuhvaćena konsolidovanjem ili lica koja deluju u svoje ime a za račun
+tih pravnih lica;
+(3) informaciju o tome po kom osnovu matično pravno lice ima kontrolu
+nad zavisnim pravnim licem (ova informacija se ne mora objaviti kada matično pravno licem
+ima većinu glasačkih prava u zavisnom pravnom licu i u slučaju kada su udeo u kapitalu i
+udeo u glasačkim pravima jednaki). Ove informacije se obelodanjuju za pravna lica koja su
+izuzeta od obaveze sastavljanja konsolidovanih finansijskih izveštaja na osnovu nematerijalnosti
+u skladu sa odredbama člana 32. Zakona.
+2) nazivi i sedišta povezanih pravnih lica uključenih u konsolidovanje
+primenom metode učešća, kao i učešća u njihovom kapitalu koja su u posedu pravnih lica obuhvaćenih
+konsolidovanjem ili lica koja deluju u svoje ime a za račun takvih pravnih lica;
+3) nazivi i sedišta pravnih lica uključenih u konsolidovanje primenom metode
+proporcionalnog konsolidovanja, objašnjenje po kom osnovu postoji zajedničko upravljanje
+tim pravnim licima, kao i visinu njihovog kapitala koji drže pravna lica obuhvaćena konsolidovanjem
+ili lica koja deluju u svoje ime a za račun takvih pravnih lica;
+4) za sva pravna lica osim onih navedenih u tač. 1), 2) i 3) ovog stava,
+u kojima pravna lica obuhvaćena konsolidovanjem, bilo sama ili preko lica koja deluju u svoje
+ime a za račun tih pravnih lica, imaju suvlasnički udeo:
+(1) naziv i sedište tih pravnih lica;
+(2) udeo u kapitalu koji imaju;
+(3) iznos kapitala i rezervi i dobitak ili gubitak u poslednjem
+izveštajnom periodu tog pravnog lica za koji je usvojen finansijski izveštaj.
+Pravno lice ne mora da obelodani informacije iz stava 2. ovog člana u slučaju
+kada bi njihovo obelodanjivanje nanelo značajnu štetu tom pravnom licu.
+Pravno lice je dužno da u konsolidovanim napomenama uz finansijske izveštaje
+obelodani informaciju da je iskoristilo pravo iz stava 3. ovog člana.
+VII SADRŽAJ STATISTIČKOG IZVEŠTAJA
+Član 34
+U Statističkom izveštaju, pravno lice i preduzetnik unose podatke u sve
+tabele od I do XIII (Prilog 6), na sve pozicije osim AOP 9125 - Lična primanja preduzetnika
+iz neto dobitka, na kojoj podatke iskazuje samo preduzetnik.
+Podaci se unose u sve predviđene kolone prema sadržini grupa računa i računa
+označenih u tabeli.
+Član 35
+U tabelu I - OPŠTI PODACI O PRAVNOM LICU I PREDUZETNIKU, pod oznakom AOP
+9001 - Broj meseci poslovanja, unosi se broj meseci poslovanja u kalendarskoj godini, kao
+ceo broj u intervalu od 1 do 12. Novoosnovano pravno lice i preduzetnik ne popunjavaju kolonu
+4.
+Pod oznakom AOP 9002 - Oznaka za vlasništvo, unosi se statistička oznaka
+za vlasništvo prema sledećem: 1 za društveno, 2 za privatno, 3 za zadružno, 4 za mešovito
+(dva ili više oblika vlasništva) i 5 za državno vlasništvo. Preduzetnici unose oznaku 2.
+Pod oznakom AOP 9003 - Broj stranih (pravnih ili fizičkih) lica koja imaju
+učešće u kapitalu, unosi se broj pravnih ili fizičkih lica sa sedištem u inostranstvu koja
+imaju učešće, udele ili uloge u osnovnom kapitalu pravnog lica. Preduzetnik ne popunjava
+ovu poziciju.
+Pod oznakom AOP 9004 - Broj stranih (pravnih ili fizičkih) lica čije je
+učešće u kapitalu 10% ili više od 10%, unosi se broj pravnih ili fizičkih lica sa sedištem
+u inostranstvu čije učešće, udeli ili ulozi u osnovnom kapitalu pravnog lica čine 10% ili
+više od 10% osnovnog kapitala. Preduzetnik ne popunjava ovu poziciju.
+Pod oznakom AOP 9005 - Prosečan broj zaposlenih na osnovu stanja krajem
+svakog meseca, u kolonu 3 unosi se podatak utvrđen kao godišnji prosek brojčanog stanja zaposlenih
+na kraju svakog meseca u izveštajnoj godini, a u kolonu 4 broj zaposlenih u prethodnoj godini
+utvrđen na isti način. Godišnji prosek predstavlja zbir zaposlenih na kraju svakog meseca
+u toku obračunskog perioda, podeljen brojem meseci poslovanja. Broj zaposlenih iskazuje se
+kao ceo broj, bez decimala.
+Pod oznakom AOP 9006 - Prosečan broj zaposlenih preko agencija i organizacija
+za zapošljavanje (omladinske i studentske zadruge) na osnovu stanja krajem svakog meseca,
+u kolonu 3 unosi se podatak utvrđen kao prosek brojčanog stanja zaposlenih na kraju svakog
+meseca u izveštajnoj godini, a u kolonu 4 broj zaposlenih u prethodnoj godini utvrđen na
+isti način. Godišnji prosek predstavlja zbir zaposlenih na kraju svakog meseca u toku obračunskog
+perioda, podeljen brojem meseci poslovanja. Broj zaposlenih iskazuje se kao ceo broj, bez
+decimala.
+Pod oznakom AOP 9007 - Prosečan broj volontera na osnovu stanja krajem
+svakog meseca (ceo broj) u kolonu 3 unosi se podatak utvrđen kao prosek brojčanog stanja
+volontera na kraju svakog meseca u izveštajnoj godini, a u kolonu 4 broj volontera u prethodnoj
+godini utvrđen na isti način. Godišnji prosek predstavlja zbir volontera na kraju svakog
+meseca u toku obračunskog perioda, podeljen brojem meseci poslovanja. Broj volontera iskazuje
+se kao ceo broj, bez decimala.
+Član 36
+U tabelu II - BRUTO PROMENE NEMATERIJALNE IMOVINE I NEKRETNINA, POSTROJENJA,
+OPREME I BIOLOŠKIH SREDSTAVA, pod oznakama AOP 9008 do 9037 unose se podaci sa odgovarajuće
+grupe računa 01, 02 i 03, i to: stanje na početku godine, promene u toku godine (nabavke,
+povećanja, smanjenja i revalorizacije), amortizacija i obezvređenje i stanje na kraju godine,
+tako što se u kolonu 4 unose bruto vrednosti, u kolonu 5 ispravka vrednosti, a u kolonu 6
+neto vrednosti. Podaci uneti u kolonu 6 (neto vrednosti) odgovaraju podacima iz Bilansa stanja,
+i to: za oznaku AOP 9008 kolona 6 = AOP 0003 kolona 6, AOP 9015 kolona 6 = AOP 0003 kolona
+5, AOP 9016 i AOP 9023 kolona 6 = AOP 0009 kolona 6, AOP 9022 i AOP 9030 kolona 6 = AOP 0009
+kolona 5, AOP 9031 kolona 6 = AOP 0017 kolona 6, AOP 9037 kolona 6 = AOP 0017 kolona 5.
+Član 37
+U tabelu III - STRUKTURA ZALIHA, pod oznakama AOP 9038 do 9043 unose se
+podaci sa odgovarajućih grupa računa 10, 11, 12, 13, 14 i 15. Pod oznakom AOP 9044 - Svega,
+unosi se iznos ukupnih zaliha koji odgovara podacima unetim u Bilans stanja na oznakama AOP
+0031 i AOP 0037, kolona 5 za tekuću, odnosno kolona 6 za prethodnu godinu.
+Član 38
+U tabelu IV - STRUKTURA OSNOVNOG KAPITALA, pod oznakama AOP 9045, 9047,
+9049, 9051 do 9056 unosi se stanje računa 300 do 309, a pod oznakama AOP 9046, 9048 i 9050
+unosi se deo koji se odnosi na iznos stranog kapitala. Pod oznakom AOP 9057 - Svega, unosi
+se iznos osnovnog kapitala koji odgovara podatku unetom u Bilans stanja na oznaci AOP 0402
+i AOP 0404, kolona 5 za tekuću, odnosno kolona 6 za prethodnu godinu.
+Član 39
+U tabelu V - STRUKTURA AKCIJSKOG KAPITALA, pod oznakama AOP 9058 i 9060
+unosi se apsolutni broj običnih, odnosno prioritetnih akcija na kraju tekuće (kolona 4) i
+prethodne godine (kolona 5). Pod oznakama AOP 9059 i 9061 unosi se nominalna vrednost običnih,
+odnosno prioritetnih akcija, dobijena množenjem broja akcija i nominalne vrednosti po jednoj
+akciji. Pod oznakom AOP 9062 - Svega, unosi se ukupna nominalna vrednost akcija koja je jednaka
+iznosu akcijskog kapitala pod oznakom AOP 9045.
+Član 40
+U tabelu VI - STRUKTURA ISPLAĆENIH DIVIDENDI I UČEŠĆA U DOBITKU, PO SEKTORIMA,
+pod oznakama AOP 9063 do 9070 unosi se iznos isplaćenih dividendi (odnosno učešća u dobitku)
+po sektorima: privredna društva (domaća pravna lica); fizička lica; država i institucije
+i organizacije koje se finansiraju iz budžeta; finansijske institucije; neprofitne organizacije,
+fondacije i fondovi neprofitnog karaktera; strana fizička lica; strana pravna lica; evropske
+finansijske i razvojne institucije. Pod oznakom AOP 9071 - Svega, unosi se ukupan iznos isplaćenih
+dividendi koji odgovara podatku unetom u Izveštaj o tokovima gotovine na oznaci AOP 3045,
+kolona 3 za tekuću, odnosno kolona 4 za prethodnu godinu.
+Član 41
+U tabelu VII - POTRAŽIVANJA I OBAVEZE, pod oznakom AOP 9072 - Potraživanja
+u toku godine od društava za osiguranje za naknadu štete, unosi se ukupna vrednost odštetnih
+zahteva po osnovu naknada šteta od društava za osiguranje u toku godine (povećanje - dugovni
+promet bez početnog stanja računa 226, u delu koji se odnosi na potraživanja od društava
+za osiguranje).
+Pod oznakom AOP 9073 - Obaveze iz poslovanja (potražni promet bez početnog
+stanja), unose se podaci sa grupe računa 43.
+Pod oznakama AOP 9074 do 9076 - Obaveze za neto zarade i naknade zarada,
+porez i doprinose na zarade i naknade zarada, unosi se ukupan godišnji iznos prema obračunu
+zarada - povećanje u toku godine (potražni promet bez početnog stanja) sa računa 450, 451
+i 452.
+Pod oznakom AOP 9077 - Obaveze prema fizičkim licima za naknade po ugovorima,
+unosi se povećanje u toku godine (potražni promet bez početnog stanja) obaveza za naknade
+fizičkim licima po osnovu ugovora o delu, autorstvu, privremenim i povremenim poslovima,
+zastupanju i posredovanju, dopunskom radu i drugih ugovora uz naknadu.
+Član 42
+U tabelu VIII - DRUGI TROŠKOVI I RASHODI, unose se podaci u kolone 4 i
+5 prema sadržini računa označenih u koloni 1.
+Pod oznakom AOP 9079 - Troškovi goriva i energije, unose se podaci sa računa
+513.
+Pod oznakom AOP 9080 - Troškovi zarada i naknada zarada (bruto), unose
+se podaci sa računa 520.
+Pod oznakom AOP 9081 - Troškovi poreza i doprinosa na zarade i naknade
+zarada na teret poslodavca, unose se podaci sa računa 521.
+Pod oznakom AOP 9082 - Troškovi naknada fizičkim licima (bruto) po osnovu
+ugovora, unosi se zbir stanja na računima 522 - Troškovi naknada po ugovoru o delu, 523 -
+Troškovi naknada po autorskim ugovorima i 525 - Troškovi naknada fizičkim licima po osnovu
+ostalih ugovora.
+Pod oznakom AOP 9083 - Troškovi naknada po ugovoru o privremenim i povremenim
+poslovima zaključenim sa fizičkim licem, unosi se podatak sa računa 524.
+Pod oznakom AOP 9084 - Troškovi naknada direktoru, odnosno članovima organa
+upravljanja i nadzora, unosi se podatak sa računa 526.
+Pod oznakom AOP 9085 - Troškovi angažovanja zaposlenih preko agencija i
+zadruga, unosi se podatak sa računa 528.
+Pod oznakom AOP 9086 do 9088 iskazuju se podaci sa računa 529, u delu koji
+se odnosi na naknade troškova zaposlenima, ostala davanja zaposlenima i lična primanja koja
+se ne smatraju zaradom - otpremnine, jubilarne nagrade, pomoć zaposlenom, stipendije i dr,
+kao i naknade troškova i druga davanja poslodavcima i drugim fizičkim licima koja nisu zaposlena.
+Pod oznakom AOP 9089 - Troškovi zakupnina, unosi se godišnji iznos zakupnina
+po osnovu ugovora o zakupu osnovnih sredstava: opreme, poslovnog, skladišnog, kancelarijskog
+i drugog prostora, zemljišta i sl., bez obzira na to da li je zakupodavac pravno ili fizičko
+lice. Ova pozicija trebalo bi da odgovara zbiru konačnog stanja računa 533 - Troškovi zakupnina
+i analitičkog računa u okviru računa 525 na kojem se knjiže troškovi naknada fizičkim licima
+po osnovu drugih ugovora (ugovora o zakupu kada je zakupodavac fizičko lice i dr.), i dela
+grupe računa 54 (Troškovi amortizacije i rezervisanja) prema godišnjem zaključku poslovnih
+knjiga.
+Pod oznakom AOP 9090 - Troškovi zakupnina zemljišta, unosi se godišnji
+iznos zakupnine za zemljište uzeto u zakup prema ugovoru o zakupu. Ova pozicija odgovara
+zbiru konačnog stanja analitičkog računa u okviru računa 533 na kojem se knjiži zakupnina
+zemljišta pravnih lica i preduzetnika i analitičkog računa u okviru računa 525 na kojem se
+knjiže troškovi naknada fizičkim licima po osnovu drugih ugovora (ugovora o zakupu kada je
+zakupodavac fizičko lice i dr.), u delu koji se odnosi na zakup zemljišta, i dela grupe računa
+54 (Troškovi amortizacije i rezervisanja) prema godišnjem zaključku poslovnih knjiga.
+Pod oznakom AOP 9097 - Rashodi za humanitarne, naučne, verske, kulturne,
+zdravstvene, obrazovne i za sportske namene, kao i za zaštitu čovekove sredine, unosi se
+godišnji iznos izdataka za navedene svrhe proknjižen na računima otvorenim u okviru računa
+579, i to na računima na kojima se knjiže izdaci za humanitarne, kulturne, zdravstvene, obrazovne,
+naučne i verske namene, za zaštitu čovekove sredine i za sportske namene, kao i na računu
+na kojem se knjiže davanja u novčanom iznosu ili naturalnom obliku pravnim licima i preduzetnicima
+radi ublažavanja posledica elementarnih nepogoda ili drugih vanrednih događaja.
+Član 43
+U tabelu IX RASHODI KAMATA unose se podaci u kolone 4 i 5 prema sadržini
+računa označenih u koloni 1.
+Pod oznakom AOP 9099 do AOP 9104 Kamate o kreditima i zajmovima od poslovnih
+banaka, kamate po osnovu finansijskog lizinga, kamate po osnovu zajmova od drugih nebankarskih
+entiteta i zajmodavaca, kamate po osnovu hartija od vrednosti i zatezne kamate, unosi se
+godišnji izdatak za navedene svrhe iskazana na računima u okviru grupe 56.
+Član 44
+U tabelu X - DRUGI PRIHODI, unose se podaci u kolone 4 i 5 prema sadržini
+računa označenih u koloni 1.
+Pod oznakom AOP 9110 - Prihodi od članarina, unose se prihodi od članarine
+poslovnih i drugih udruženja proknjiženi na računu 651.
+Pod oznakom AOP 9111 - Prihodi po osnovu dividendi i učešća u dobitku,
+unosi se godišnji iznos prihoda po osnovu dividendi i učešća u dobitku proknjižen na računu
+669. Pored navedenog, unose se i prihodi od dividendi i učešća u dobitku ostvarenom u odnosu
+sa matičnim, zavisnim i ostalim povezanim pravnim licima koja se evidentiraju na računima
+660 i 661.
+Član 45
+U tabelu XI - PRIHODI OD KAMATA unose se podaci u kolone 4 i 5 prema sadržini
+računa označenih u koloni 1.
+Pod oznakom AOP 9113 do AOP 9117 unose se prihodi od kamata po datim kreditima,
+po računima i depozitima u bankama i drugim finansijskim institucijama, prihodi od kamata
+po osnovu hartija od vrednosti zateznim i drugim kamatama evidentiranim na računu 662, kao
+i evidentiranim na računima 660 i 661.
+Član 46
+U tabelu XII - OSTALI PODACI, pod oznakom AOP 9119 - Obaveze za akcize
+(prema godišnjem obračunu akciza), unosi se ukupan godišnji iznos obračunatih akciza prema
+godišnjem obračunu i poreskoj prijavi.
+Pod oznakom AOP 9120 - Obračunate carine i druge uvozne dažbine, unosi
+se ukupan godišnji iznos obračunatih carina i drugih uvoznih dažbina prema carinskoj i drugoj
+dokumentaciji u vezi sa uvozom.
+Pod oznakom AOP 9121 - Kapitalne subvencije i druga državna dodeljivanja
+za izgradnju i nabavku osnovnih sredstava i nematerijalne imovine, unose se državna dodeljivanja
+namenjena za izgradnju i nabavku osnovnih sredstava (poslovni prostor i zgrade, oprema, vozila
+i ostalo), primljena osnovna sredstva bez naknade, kao i državna pomoć za rekonstrukciju,
+modernizaciju i druga unapređenja osnovnih sredstava. Takođe, unosi se i otpis dugova po
+osnovu poreza i doprinosa, kao i priliv sredstava u cilju pokrića gubitaka kumuliranih tokom
+više poslovnih godina. Obuhvata se i državna pomoć u cilju nadoknade štete i pokrića gubitaka
+nastalih kao posledica prirodnih nepogoda i drugih vanrednih okolnosti (deo grupe računa
+64 koji se odnosi na pomoć države i njenih organa i fondova). Na ovoj poziciji unosi se ukupan
+(bruto) iznos novoprimljenih sredstava u toku godine po osnovu državnih dodeljivanja za nabavku
+i izgradnju osnovnih sredstava i nematerijalne imovine. Unosi se isključivo iznos novih državnih
+dodeljivanja primljenih u toku godine u bruto iznosu (u slučaju da je izvršeno vremensko
+razgraničenje primljenih državnih dodeljivanja preko računa 495, neophodno je prikazati ukupan
+(bruto) iznos primljenog dodeljivanja, odnosno donacije u toku godine, a ne godišnji deo
+koji se prenosi sa računa 495 na račune grupe 64). Ukidanje odloženih prihoda po osnovu dodeljivanja
+iz prethodnih godina se isključuje.
+Pod oznakom AOP 9122 - Državna dodeljivanja za premije, regres i pokriće
+tekućih troškova poslovanja, unose se državna dodeljivanja u vidu premija, regresa, dodeljivanja
+za pokriće tekućih troškova poslovanja i poslovnih gubitaka, odnosno samo ona dodeljivanja
+koja su neposredno vezana za proizvodnju proizvoda i usluga i koja se primaju po osnovu količine
+ili vrednosti ostvarene proizvodnje.
+Pod oznakom AOP 9123 - Ostala državna dodeljivanja, unose se svi prethodno
+nepomenuti vidovi državne pomoći u novcu ili naturi. Obuhvataju se primanja bez uslovljene
+namene i bez direktne veze sa proizvodnjom proizvoda i usluga, kao što su dotacije za novozaposlena
+lica, za zaštitu čovekove okoline i ugradnju odgovarajuće opreme, za istraživanje i razvoj,
+povraćaj poreskih dažbina po osnovu izvoza proizvoda i usluga i sl.
+Pod oznakom AOP 9124 - Primljene donacije iz inostranstva i druga bespovratna
+sredstva u novcu ili naturi od inostranih pravnih i fizičkih lica, unose se donacije i sva
+ostala bespovratna sredstva iz inostranstva primljena u toku godine u bruto iznosu (u novcu
+ili naturi). Obuhvataju se ne samo prihodi od uslovljenih donacija (deo grupe računa 64),
+već i donacije za koje ugovorom nije predviđen uslov niti namena i koje se knjiže u korist
+ostalih prihoda, kao i prihodi od naknada šteta od katastrofa i drugih nepredviđenih događaja
+(deo računa 679). Ukidanje odloženih prihoda po osnovu donacija iz prethodnih godina se isključuje.
+Pod oznakom AOP 9125 - Lična primanja preduzetnika iz neto dobitka, unosi
+se deo neraspoređenog neto dobitka preduzetnika iz ranijih godina (smanjenje računa 340)
+koji je preduzetnik podigao u gotovini za sopstvene potrebe u toku godine. Na ovoj poziciji
+se upisuju i iznosi gotovine koje je preduzetnik akontaciono podigao u toku godine na ime
+svog neto prihoda (račun 723 - Lična primanja poslodavca).
+Član 47
+U tabelu XIII - BRUTO POTRAŽIVANJA ZA DATE KREDITE I ZAJMOVE, PRODATE PROIZVODE,
+ROBU I USLUGE I DATE AVANSE I DRUGA POTRAŽIVANJA, unose se podaci koji se odnose na stanje
+na kraju godine tako što se u kolonu 4 unose bruto vrednosti, u kolonu 5 ispravke vrednosti,
+a u kolonu 6 neto vrednosti.
+Pod oznakama AOP 9127 i 9128 unose se podaci o kratkoročnim i dugoročnim
+kreditima i zajmovima koji su dati fizičkim licima i preduzetnicima. Na ovim pozicijama unose
+se podaci sa odgovarajućih računa koji su navedeni u tabelarnom pregledu.
+Pod oznakom AOP 9129 unose se podaci o prodatim proizvodima, robi i uslugama
+i datim avansima koji su razgraničeni i iskazani oznakama od AOP 9130 do AOP 9132. Na ovim
+pozicijama unose se podaci sa odgovarajućih računa koji su navedeni u tabelarnom pregledu,
+s tim što je potrebno razgraničiti potraživanja (prodati proizvodi, roba i usluge i dati
+avansi) na potraživanja prema fizičkim licima i preduzetnicima, državnim organima i institucijama,
+i organima i institucijama lokalne samouprave.
+Pod oznakom AOP 9133 unose se podaci o drugim potraživanjima koji su razgraničeni
+i iskazani oznakama od AOP 9134 do 9136. Na ovim pozicijama unose se podaci sa odgovarajućih
+računa koji su navedeni u tabelarnom pregledu, s tim što je potrebno razgraničiti druga potraživanja
+na potraživanja prema fizičkim licima i preduzetnicima, državnim organima i institucijama,
+i organima i institucijama lokalne samouprave.
+Pod državnim organima i institucijama, u smislu ovog tabelarnog pregleda,
+podrazumevaju se republički organi i institucije, ministarstva i republičke agencije, regulatorna
+tela, razvojne agencije i fondovi, državni univerziteti i fakulteti, institucije i tela od
+nacionalnog značaja. U državne organe i institucije ne uključuju se fondovi socijalnog osiguranja
+(RFPIO, RFZO, NSZ, FSOVO), kao ni državne zdravstvene ustanove (domovi zdravlja, opšte i
+specijalne bolnice, kliničko-bolnički centri).
+Pod organima i institucijama lokalne samouprave, u smislu ovog tabelarnog
+pregleda, podrazumevaju se pokrajinski, opštinski i gradski organi i institucije i druge
+organizacije i ustanove na nivou pokrajine, opštine i grada.
+VIII PRELAZNE I ZAVRŠNE ODREDBE
+Član 48
+Odredbe ovog pravilnika primenjuju se počev od finansijskih izveštaja koji
+se sastavljaju na dan 31. decembra 2021. godine.
+Danom početka primene ovog pravilnika prestaje da važi Pravilnik o sadržini
+i formi obrazaca finansijskih izveštaja za privredna društva, zadruge i preduzetnike ("Službeni
+glasnik RS", br. 95/14 i 144/14) i Pravilnik o obliku i sadržaju Statističkog izveštaja
+za privreda društva, zadruge i preduzetnike ("Službeni glasnik RS", broj 127/14).
+Pravna lica i preduzetnici koji imaju poslovnu godinu različitu od kalendarske,
+a koja se završava pre 31. decembra 2021. godine, kao i pravna lica i preduzetnici koji sastavljaju
+vanredne finansijske izveštaje pre 31. decembra 2021. godine, za tu poslovnu godinu, odnosno
+vanredne finansijske izveštaje, primenjuju Pravilnik o sadržini i formi obrazaca finansijskih
+izveštaja za privredna društva, zadruge i preduzetnike ("Službeni glasnik RS",
+br. 95/14 i 144/14) i Pravilnik o obliku i sadržaju Statističkog izveštaja za privreda društva,
+zadruge i preduzetnike ("Službeni glasnik RS", broj 127/14).
+Član 49
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije".
+Prilog 1
+Popunjava
+pravno lice - preduzetnik
+Matični broj
+Šifra delatnosti
+PIB
+Naziv
+Sedište
+BILANS STANJA
+na dan _______20___. godine
+-u hiljadama dinara-
+Grupa računa, račun
+P O Z I C I J A
+AOP
+Napomena
+broj
+Iznos
+Tekuća godina
+Prethodna godina
+Krajnje stanje ______20__.
+Početno stanje
+01.01.20__.
+1
+2
+3
+4
+5
+6
+7
+AKTIVA
+00
+A. UPISANI A NEUPLAĆENI KAPITAL
+0001
+B. STALNA IMOVINA
+(0003 + 0009 +
+0017 + 0018 + 0028)
+0002
+01
+I. NEMATERIJALNA IMOVINA
+(0004 + 0005 + 0006 + 0007 + 0008)
+0003
+010
+1. Ulaganja u razvoj
+0004
+011, 012 i 014
+2. Koncesije, patenti, licence, robne i uslužne
+marke, softver i ostala nematerijalna imovina
+0005
+013
+3. Gudvil
+0006
+015 i 016
+4. Nematerijalna imovina uzeta u lizing i
+nematerijalna imovina u pripremi
+0007
+017
+5. Avansi za nematerijalnu imovinu
+0008
+02
+II. NEKRETNINE, POSTROJENJA I OPREMA
+(0010 + 0011 + 0012 + 0013 + 0014 + 0015 + 0016)
+0009
+020, 021 i 022
+1. Zemljište i građevinski objekti
+0010
+023
+2. Postrojenja i oprema
+0011
+024
+3. Investicione nekretnine
+0012
+025 i 027
+4. Nekretnine, postrojenja i oprema uzeti
+u lizing i nekretnine, postrojenja i oprema u pripremi
+0013
+026 i 028
+5. Ostale nekretnine, postrojenja i oprema
+i ulaganja na tuđim nekretninama, postrojenjima i opremi
+0014
+029 (deo)
+6. Avansi za nekretnine, postrojenja i opremu
+u zemlji
+0015
+029 (deo)
+7. Avansi za nekretnine, postrojenja i opremu
+u inostranstvu
+0016
+03
+III. BIOLOŠKA SREDSTVA
+0017
+04 i 05
+IV. DUGOROČNI FINANSIJSKI PLASMANI I DUGOROČNA
+POTRAŽIVANJA
+(0019 + 0020 + 0021 + 0022 + 0023 + 0024 + 0025 + 0026 + 0027)
+0018
+040 (deo), 041 (deo) i 042 (deo)
+1. Učešća u kapitalu pravnih lica (osim učešća
+u kapitalu koja se vrednuju metodom učešća)
+0019
+040 (deo), 041 (deo), 042 (deo)
+2. Učešća u kapitalu koja se vrednuju metodom
+učešća
+0020
+043, 050 (deo) i 051 (deo)
+3. Dugoročni plasmani matičnom, zavisnim i
+ostalim povezanim licima i dugoročna potraživanja od tih lica u zemlji
+0021
+044, 050 (deo), 051 (deo)
+4. Dugoročni plasmani matičnom, zavisnim i
+ostalim povezanim licima i dugoročna potraživanja od tih lica u inostranstvu
+0022
+045 (deo) i 053 (deo)
+5. Dugoročni plasmani (dati krediti i zajmovi)
+u zemlji
+0023
+045 (deo) i 053 (deo)
+6. Dugoročni plasmani (dati krediti i zajmovi)
+u inostranstvu
+0024
+046
+7. Dugoročna finansijska ulaganja (hartije
+od vrednosti koje se vrednuju po amortizovanoj vrednosti)
+0025
+047
+8. Otkupljene sopstvene akcije i otkupljeni
+sopstveni udeli
+0026
+048, 052, 054, 055 i 056
+9. Ostali dugoročni finansijski plasmani i
+ostala dugoročna potraživanja
+0027
+28 (deo), osim 288
+V. DUGOROČNA AKTIVNA VREMENSKA RAZGRANIČENJA
+0028
+288
+V. ODLOŽENA PORESKA SREDSTVA
+0029
+G. OBRTNA IMOVINA
+(0031 + 0037 + 0038 + 0044 + 0048 + 0057+ 0058)
+0030
+Klasa 1, osim grupe računa 14
+I. ZALIHE (0032 + 0033 + 0034 + 0035 + 0036)
+0031
+10
+1. Materijal, rezervni delovi, alat i sitan
+inventar
+0032
+11 i 12
+2. Nedovršena proizvodnja i gotovi proizvodi
+0033
+13
+3. Roba
+0034
+150, 152 i 154
+4. Plaćeni avansi za zalihe i usluge u zemlji
+0035
+151, 153 i 155
+5. Plaćeni avansi za zalihe i usluge u inostranstvu
+0036
+14
+II. STALNA IMOVINA KOJA SE DRŽI ZA PRODAJU
+I PRESTANAK POSLOVANJA
+0037
+20
+III. POTRAŽIVANJA PO OSNOVU PRODAJE
+(0039 + 0040 + 0041 + 0042 + 0043)
+0038
+204
+1. Potraživanja od kupaca u zemlji
+0039
+205
+2. Potraživanja od kupaca u inostranstvu
+0040
+200 i 202
+3. Potraživanja od matičnog, zavisnih i ostalih
+povezanih lica u zemlji
+0041
+201 i 203
+4. Potraživanja od matičnog, zavisnih i ostalih
+povezanih lica u inostranstvu
+0042
+206
+5. Ostala potraživanja po osnovu prodaje
+0043
+21, 22 i 27
+IV. OSTALA KRATKOROČNA POTRAŽIVANJA
+(0045 + 0046 + 0047)
+0044
+21, 22 osim 223 i 224, i 27
+1. Ostala potraživanja
+0045
+223
+2. Potraživanja za više plaćen porez na dobitak
+0046
+224
+3. Potraživanja po osnovu preplaćenih ostalih
+poreza i doprinosa
+0047
+23
+V. KRATKOROČNI FINANSIJSKI PLASMANI
+(0049 + 0050 + 0051 + 0052 + 0053 + 0054 + 0055 + 0056)
+0048
+230
+1. Kratkoročni krediti i plasmani - matično
+i zavisna pravna lica
+0049
+231
+2. Kratkoročni krediti i plasmani - ostala
+povezana lica
+0050
+232, 234 (deo)
+3. Kratkoročni krediti, zajmovi i plasmani
+u zemlji
+0051
+233, 234 (deo)
+4. Kratkoročni krediti, zajmovi i plasmani
+u inostranstvu
+0052
+235
+5. Hartije od vrednosti koje se vrednuju po
+amortizovanoj vrednosti
+0053
+236 (deo)
+6. Finansijska sredstva koja se vrednuju po
+fer vrednosti kroz Bilans uspeha
+0054
+237
+7. Otkupljene sopstvene akcije i otkupljeni
+sopstveni udeli
+0055
+236 (deo), 238 i 239
+8. Ostali kratkoročni finansijski plasmani
+0056
+24
+VI. GOTOVINA I GOTOVINSKI EKVIVALENTI
+0057
+28 (deo), osim 288
+VII. KRATKOROČNA AKTIVNA VREMENSKA RAZGRANIČENJA
+0058
+D. UKUPNA AKTIVA = POSLOVNA IMOVINA (0001
++ 0002 + 0029 + 0030)
+0059
+88
+Đ. VANBILANSNA AKTIVA
+0060
+PASIVA
+A. KAPITAL
+(0402 + 0403 + 0404 + 0405 + 0406 - 0407 + 0408 + 0411 - 0412) ≥ 0
+0401
+30, osim 306
+I. OSNOVNI KAPITAL
+0402
+31
+II. UPISANI A NEUPLAĆENI KAPITAL
+0403
+306
+III. EMISIONA PREMIJA
+0404
+32
+IV. REZERVE
+0405
+330 i potražni saldo računa 331,332,
+333, 334, 335, 336 i 337
+V. POZITIVNE REVALORIZACIONE REZERVE I NEREALIZOVANI
+DOBICI PO OSNOVU FINANSIJSKIH SREDSTAVA I DRUGIH KOMPONENTI OSTALOG SVEOBUHVATNOG REZULTATA
+0406
+dugovni saldo računa 331, 332, 333, 334,
+335, 336 i 337
+VI. NEREALIZOVANI GUBICI PO OSNOVU FINANSIJSKIH
+SREDSTAVA I DRUGIH KOMPONENTI OSTALOG SVEOBUHVATNOG REZULTATA
+0407
+34
+VII. NERASPOREĐENI DOBITAK (0409 + 0410)
+0408
+340
+1. Neraspoređeni dobitak ranijih godina
+0409
+341
+2. Neraspoređeni dobitak tekuće godine
+0410
+VIII. UČEŠĆE BEZ PRAVA KONTROLE
+0411
+35
+IX. GUBITAK (0413 + 0414)
+0412
+350
+1. Gubitak ranijih godina
+0413
+351
+2. Gubitak tekuće godine
+0414
+B. DUGOROČNA REZERVISANJA I DUGOROČNE
+OBAVEZE (0416 + 0420 + 0428)
+0415
+40
+I. DUGOROČNA REZERVISANJA
+(0417+0418+0419)
+0416
+404
+1. Rezervisanja za naknade i druge beneficije
+zaposlenih
+0417
+400
+2. Rezervisanja za troškove u garantnom roku
+0418
+40, osim 400 i 404
+3. Ostala dugoročna rezervisanja
+0419
+41
+II. DUGOROČNE OBAVEZE
+(0421 + 0422 + 0423 + 0424 + 0425 + 0426 + 0427)
+0420
+410
+1. Obaveze koje se mogu konvertovati u kapital
+0421
+411 (deo) i 412 (deo)
+2. Dugoročni krediti i ostale dugoročne obaveze
+prema matičnom, zavisnim i ostalim povezanim licima u zemlji
+0422
+411 (deo) i 412 (deo)
+3. Dugoročni krediti i ostale dugoročne obaveze
+prema matičnom, zavisnim i ostalim povezanim licima u inostranstvu
+0423
+414 i 416 (deo)
+4. Dugoročni krediti, zajmovi i obaveze po
+osnovu lizinga u zemlji
+0424
+415 i 416 (deo)
+5. Dugoročni krediti, zajmovi i obaveze po
+osnovu lizinga u inostranstvu
+0425
+413
+6. Obaveze po emitovanim hartijama od vrednosti
+0426
+419
+7. Ostale dugoročne obaveze
+0427
+49 (deo), osim 498 i 495 (deo)
+III. DUGOROČNA PASIVNA VREMENSKA RAZGRANIČENJA
+0428
+498
+V. ODLOŽENE PORESKE OBAVEZE
+0429
+495 (deo)
+G. DUGOROČNI ODLOŽENI PRIHODI I PRIMLJENE
+DONACIJE
+0430
+D. KRATKOROČNA REZERVISANJA I KRATKOROČNE
+OBAVEZE
+(0432 + 0433 + 0441 + 0442 + 0449 + 0453 + 0454)
+0431
+467
+I. KRATKOROČNA REZERVISANJA
+0432
+42, osim 427
+II. KRATKOROČNE FINANSIJSKE OBAVEZE
+(0434 + 0435 + 0436 + 0437 + 0438 + 0439 + 0440)
+0433
+420 (deo) i 421 (deo)
+1. Obaveze po osnovu kredita prema matičnom,
+zavisnim i ostalim povezanim licima u zemlji
+0434
+420 (deo) i 421 (deo)
+2. Obaveze po osnovu kredita prema matičnom,
+zavisnim i ostalim povezanim licima u inostranstvu
+0435
+422 (deo), 424 (deo), 425 (deo), i 429
+(deo)
+3. Obaveze po osnovu kredita i zajmova od
+lica koja nisu domaće banke
+0436
+422 (deo), 424 (deo), 425 (deo) i 429
+(deo)
+4. Obaveze po osnovu kredita od domaćih banaka
+0437
+423, 424 (deo), 425 (deo) i 429 (deo)
+5. Krediti, zajmovi i obaveze iz inostranstva
+0438
+426
+6. Obaveze po kratkoročnim hartijama od vrednosti
+0439
+428
+7. Obaveze po osnovu finansijskih derivata
+0440
+430
+III. PRIMLJENI AVANSI, DEPOZITI I KAUCIJE
+0441
+43, osim 430
+IV. OBAVEZE IZ POSLOVANJA
+(0443 + 0444 + 0445 + 0046 + 0447 + 0448)
+0442
+431 i 433
+1. Obaveze prema dobavljačima - matična, zavisna
+pravna lica i ostala povezana lica u zemlji
+0443
+432 i 434
+2. Obaveze prema dobavljačima - matična, zavisna
+pravna lica i ostala povezana lica u inostranstvu
+0444
+435
+3. Obaveze prema dobavljačima u zemlji
+0445
+436
+4. Obaveze prema dobavljačima u inostranstvu
+0446
+439 (deo)
+5. Obaveze po menicama
+0447
+439 (deo)
+6. Ostale obaveze iz poslovanja
+0448
+44,45,46, osim 467, 47 i 48
+V. OSTALE KRATKOROČNE OBAVEZE
+(0450 + 0451 + 0452)
+0449
+44, 45 i 46 osim 467
+1. Ostale kratkoročne obaveze
+0450
+47,48 osim 481
+2. Obaveze po osnovu poreza na dodatu vrednost
+i ostalih javnih prihoda
+0451
+481
+3. Obaveze po osnovu poreza na dobitak
+0452
+427
+VI. OBAVEZE PO OSNOVU SREDSTAVA NAMENJENIH
+PRODAJI I SREDSTAVA POSLOVANJA KOJE JE OBUSTAVLJENO
+0453
+49 (deo) osim 498
+VII. KRATKOROČNA PASIVNA VREMENSKA RAZGRANIČENJA
+0454
+Đ. GUBITAK IZNAD VISINE KAPITALA
+(0415 + 0429 + 0430 + 0431 - 0059) ≥ 0 = 0407 + 0412 - 0402 - 0403 - 0404 - 0405 - 0406 -
+0408 - 0411) ≥ 0
+0455
+E. UKUPNA PASIVA
+(0401 + 0415 + 0429 + 0430 + 0431 - 0455)
+0456
+89
+Ž. VANBILANSNA PASIVA
+0457
+U ________________________
+dana __________20____ godine
+Zakonski zastupnik
+__________________
+Prilog 2
+Popunjava pravno lice - preduzetnik
+Matični broj
+Šifra delatnosti
+PIB
+Naziv
+Sedište
+BILANS USPEHA
+za period od _______do _______20___. godine
+-u hiljadama dinara-
+Grupa računa, račun
+P O Z I C I J A
+AOP
+Napomena broj
+I z n o s
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+6
+A. POSLOVNI PRIHODI
+(1002 + 1005 + 1008 + 1009 - 1010 + 1011 + 1012)
+1001
+60
+I. PRIHODI OD PRODAJE ROBE (1003 + 1004)
+1002
+600, 602 i 604
+1. Prihodi od prodaje robe na domaćem tržištu
+1003
+601, 603 i 605
+2. Prihodi od prodaje roba na inostranom tržištu
+1004
+61
+II. PRIHODI OD PRODAJE PROIZVODA I USLUGA
+(1006 + 1007)
+1005
+610, 612 i 614
+1. Prihodi od prodaje proizvoda i usluga na
+domaćem tržištu
+1006
+611, 613 i 615
+2. Prihodi od prodaje proizvoda i usluga na
+inostranom tržištu
+1007
+62
+III. PRIHODI OD AKTIVIRANJA UČINAKA I ROBE
+1008
+630
+IV. POVEĆANJE VREDNOSTI ZALIHA NEDOVRŠENIH
+I GOTOVIH PROIZVODA
+1009
+631
+V. SMANJENJE VREDNOSTI ZALIHA NEDOVRŠENIH
+I GOTOVIH PROIZVODA
+1010
+64 i 65
+VI. OSTALI POSLOVNI PRIHODI
+1011
+68, osim 683, 685 i 686
+VII. PRIHODI OD USKLAĐIVANJA VREDNOSTI IMOVINE
+(OSIM FINANSIJSKE)
+1012
+B. POSLOVNI RASHODI (1014 + 1015 + 1016
++ 1020 + 1021 + 1022 + 1023 + 1024)
+1013
+50
+I. NABAVNA VREDNOST PRODATE ROBE
+1014
+51
+II. TROŠKOVI MATERIJALA, GORIVA I ENERGIJE
+1015
+52
+III. TROŠKOVI ZARADA, NAKNADA ZARADA I OSTALI
+LIČNI RASHODI (1017 + 1018 + 1019)
+1016
+520
+1. Troškovi zarada i naknada zarada
+1017
+521
+2. Troškovi poreza i doprinosa na zarade i
+naknade zarada
+1018
+52 osim 520 i 521
+3. Ostali lični rashodi i naknade
+1019
+540
+IV. TROŠKOVI AMORTIZACIJE
+1020
+58, osim 583, 585 i 586
+V. RASHODI OD USKLAĐIVANJA VREDNOSTI IMOVINE
+(OSIM FINANSIJSKE)
+1021
+53
+VI. TROŠKOVI PROIZVODNIH USLUGA
+1022
+54, osim 540
+VII. TROŠKOVI REZERVISANJA
+1023
+55
+VIII. NEMATERIJALNI TROŠKOVI
+1024
+V. POSLOVNI DOBITAK (1001 - 1013) ≥ 0
+1025
+G. POSLOVNI GUBITAK (1013 - 1001) ≥ 0
+1026
+D. FINANSIJSKI PRIHODI
+(1028 + 1029 + 1030 + 1031)
+1027
+660 i 661
+I. FINANSIJSKI PRIHODI IZ ODNOSA SA MATIČNIM,
+ZAVISNIM I OSTALIM POVEZANIM LICIMA
+1028
+662
+II. PRIHODI OD KAMATA
+1029
+663 i 664
+III. POZITIVNE KURSNE RAZLIKE I POZITIVNI
+EFEKTI VALUTNE KLAUZULE
+1030
+665 i 669
+IV. OSTALI FINANSIJSKI PRIHODI
+1031
+Đ. FINANSIJSKI RASHODI
+(1033 + 1034 + 1035 + 1036)
+1032
+560 i 561
+I. FINANSIJSKI RASHODI IZ ODNOSA SA MATIČNIM,
+ZAVISNIM I OSTALIM POVEZANIM LICIMA
+1033
+562
+II. RASHODI KAMATA
+1034
+563 i 564
+III. NEGATIVNE KURSNE RAZLIKE I NEGATIVNI
+EFEKTI VALUTNE KLAUZULE
+1035
+565 i 569
+IV. OSTALI FINANSIJSKI RASHODI
+1036
+E. DOBITAK IZ FINANSIRANJA (1027 - 1032)
+≥ 0
+1037
+Ž. GUBITAK IZ FINANSIRANJA (1032 - 1027)
+≥ 0
+1038
+683, 685 i 686
+Z. PRIHODI OD USKLAĐIVANJA VREDNOSTI FINANSIJSKE
+IMOVINE KOJA SE ISKAZUJE PO FER VREDNOSTI KROZ BILANS USPEHA
+1039
+583, 585 i 586
+I. RASHODI OD USKLAĐIVANJA VREDNOSTI FINANSIJSKE
+IMOVINE KOJA SE ISKAZUJE PO FER VREDNOSTI KROZ BILANS USPEHA
+1040
+67
+J. OSTALI PRIHODI
+1041
+57
+K. OSTALI RASHODI
+1042
+L. UKUPNI PRIHODI
+(1001 + 1027 + 1039 + 1041)
+1043
+LJ. UKUPNI RASHODI
+(1013 + 1032 + 1040 + 1042)
+1044
+M. DOBITAK IZ REDOVNOG POSLOVANJA PRE OPOREZIVANJA
+(1043 - 1044) ≥ 0
+1045
+N. GUBITAK IZ REDOVNOG POSLOVANJA PRE OPOREZIVANJA
+(1044 - 1043) ≥ 0
+1046
+69-59
+NJ. POZITIVAN NETO EFEKAT NA REZULTAT PO
+OSNOVU DOBITKA POSLOVANJA KOJE SE OBUSTAVLJA, PROMENA RAČUNOVODSTVENIH POLITIKA I ISPRAVKI
+GREŠAKA IZ RANIJIH PERIODA
+1047
+59- 69
+O. NEGATIVAN NETO EFEKAT NA REZULTAT PO
+OSNOVU GUBITKA POSLOVANJA KOJE SE OBUSTAVLJA, PROMENA RAČUNOVODSTVENIH POLITIKA I ISPRAVKI
+GREŠAKA IZ RANIJIH PERIODA
+1048
+P. DOBITAK PRE OPOREZIVANJA
+(1045
+-
+1046 + 1047
+-
+1048) ≥ 0
+1049
+R. GUBITAK PRE OPOREZIVANJA
+(1046 - 1045 + 1048 - 1047) ≥ 0
+1050
+S. POREZ NA DOBITAK
+721
+I. PORESKI RASHOD PERIODA
+1051
+722 dug. saldo
+II. ODLOŽENI PORESKI RASHODI PERIODA
+1052
+722 pot. saldo
+III. ODLOŽENI PORESKI PRIHODI PERIODA
+1053
+723
+T. ISPLAĆENA LIČNA PRIMANJA POSLODAVCA
+1054
+Ć. NETO DOBITAK
+(1049 - 1050 -
+1051 - 1052 + 1053 - 1054) ≥ 0
+1055
+U. NETO GUBITAK
+(1050 - 1049 + 1051 + 1052 - 1053 + 1054) ≥ 0
+1056
+I. NETO DOBITAK KOJI PRIPADA UČEŠĆIMA BEZ
+PRAVA KONTROLE
+1057
+II. NETO DOBITAK KOJI PRIPADA MATIČNOM PRAVNOM LICU
+1058
+III. NETO GUBITAK KOJI PRIPADA UČEŠĆIMA BEZ
+PRAVA KONTROLE
+1059
+IV. NETO GUBITAK KOJI PRIPADA MATIČNOM PRAVNOM
+LICU
+1060
+V. ZARADA PO AKCIJI
+1. Osnovna zarada po akciji
+1061
+2. Umanjena (razvodnjena) zarada po akciji
+1062
+U _______________________
+dana _____________20____ godine
+Zakonski zastupnik
+__________________
+Prilog 3
+Popunjava pravno lice - preduzetnik
+Matični broj
+Šifra delatnosti
+PIB
+Naziv
+Sedište
+IZVEŠTAJ O OSTALOM REZULTATU
+za period od _______do _______20___. godine
+-u hiljadama dinara-
+Grupa računa, račun
+P O Z I C I J A
+AOP
+Napomena broj
+I z n o s
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+6
+A. NETO REZULTAT IZ POSLOVANJA
+I. NETO DOBITAK (AOP 1055)
+2001
+II. NETO GUBITAK (AOP 1056)
+2002
+B. OSTALI SVEOBUHVATNI DOBITAK ILI GUBITAK
+a) Stavke koje neće biti reklasifikovane
+u Bilans uspeha u budućim periodima
+330
+1. Promene revalorizacije nematerijalne imovine,
+nekretnina, postrojenja i opreme
+a) povećanje revalorizacionih rezervi
+2003
+b) smanjenje revalorizacionih rezervi
+2004
+331
+2. Aktuarski dobici ili gubici po osnovu planova
+definisanih primanja
+a) dobici
+2005
+b) gubici
+2006
+333
+3. Dobici ili gubici po osnovu udela u ostalom
+sveobuhvatnom dobitku ili gubitku pridruženih društava
+a) dobici
+2007
+b) gubici
+2008
+b) Stavke koje naknadno mogu biti reklasifikovane
+u Bilans uspeha u budućim periodima
+332
+1. Dobici ili gubici po osnovu ulaganja u
+vlasničke instrumente kapitala
+a) dobici
+2009
+b) gubici
+2010
+334
+2. Dobici ili gubici po osnovu preračuna finansijskih
+izveštaja inostranog poslovanja
+a) dobici
+2011
+b) gubici
+2012
+335
+3. Dobici ili gubici od instrumenata zaštite
+neto ulaganja u inostrano poslovanje
+a) dobici
+2013
+b) gubici
+2014
+336
+4. Dobici ili gubici po osnovu instrumenata
+zaštite rizika (hedžinga) novčanog toka
+a) dobici
+2015
+b) gubici
+2016
+337
+5. Dobici ili gubici po osnovu hartija od
+vrednosti koje se vrednuju po fer vrednosti kroz ostali ukupan rezultat
+a) dobici
+2017
+b) gubici
+2018
+I. OSTALI BRUTO SVEOBUHVATNI DOBITAK
+(2003 + 2005 + 2007 + 2009 + 2011 + 2013 + 2015 + 2017) - (2004 + 2006 + 2008 + 2010 + 2012
++ 2014 + 2016 + 2018) ≥ 0
+2019
+II. OSTALI BRUTO SVEOBUHVATNI GUBITAK
+(2004 + 2006 + 2008 + 2010 + 2012 + 2014 + 2016 + 2018) - (2003 + 2005 + 2007 + 2009 + 2011
++ 2013 + 2015 + 2017) ≥ 0
+2020
+III. ODLOŽENI PORESKI RASHOD NA OSTALI SVEOBUHVATNI
+DOBITAK ILI GUBITAK PERIODA
+2021
+IV. ODLOŽENI PORESKI PRIHOD NA OSTALI SVEOBUHVATNI
+DOBITAK ILI GUBITAK PERIODA
+2022
+V. NETO OSTALI SVEOBUHVATNI DOBITAK
+(2019 - 2020
+-
+2021 + 2022) ≥ 0
+2023
+VI. NETO OSTALI SVEOBUHVATNI GUBITAK
+(2020 - 2019 + 2021 - 2022) ≥ 0
+2024
+V. UKUPAN NETO SVEOBUHVATNI REZULTAT PERIODA
+I. UKUPAN NETO SVEOBUHVATNI DOBITAK
+(2001 - 2002 + 2023 - 2024) ≥ 0
+2025
+II. UKUPAN NETO SVEOBUHVATNI GUBITAK
+(2002 - 2001 + 2024 - 2023) ≥ 0
+2026
+G. UKUPAN NETO SVEOBUHVATNI DOBITAK ILI
+GUBITAK (2028 + 2029) = AOP 2025 ≥ 0 ili AOP 2026 > 0
+2027
+1. Pripisan matičnom pravnom licu
+2028
+2. Pripisan učešćima bez prava kontrole
+2029
+U _________________________
+dana __________20____ godine
+Zakonski zastupnik
+__________________
+Prilog 4
+Popunjava pravno lice - preduzetnik
+Matični broj
+Šifra delatnosti
+PIB
+Naziv
+Sedište
+IZVEŠTAJ O TOKOVIMA GOTOVINE
+u periodu od___________do________20_____godine
+- u hiljadama dinara -
+P O Z I C I J A
+AOP
+Iznos
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+A. TOKOVI GOTOVINE IZ POSLOVNIH AKTIVNOSTI
+I. Prilivi gotovine iz poslovnih aktivnosti (1 do 4)
+3001
+1. Prodaja i primljeni avansi u zemlji
+3002
+2. Prodaja i primljeni avansi u inostranstvu
+3003
+3. Primljene kamate iz poslovnih aktivnosti
+3004
+4. Ostali prilivi iz redovnog poslovanja
+3005
+II. Odlivi gotovine iz poslovnih aktivnosti
+(1 do 8)
+3006
+1. Isplate dobavljačima i dati avansi u zemlji
+3007
+2. Isplate dobavljačima i dati avansi u inostranstvu
+3008
+3. Zarade, naknade zarada i ostali lični rashodi
+3009
+4. Plaćene kamate u zemlji
+3010
+5. Plaćene kamate u inostranstvu
+3011
+6. Porez na dobitak
+3012
+7. Odlivi po osnovu ostalih javnih prihoda
+3013
+8. Ostali odlivi iz poslovnih aktivnosti
+3014
+III. Neto priliv gotovine iz poslovnih aktivnosti
+(I - II)
+3015
+IV. Neto odliv gotovine iz poslovnih aktivnosti
+(II - I)
+3016
+B. TOKOVI GOTOVINE IZ AKTIVNOSTI INVESTIRANJA
+I. Prilivi gotovine iz aktivnosti investiranja (1 do 5)
+3017
+1. Prodaja akcija i udela
+3018
+2. Prodaja nematerijalne imovine, nekretnina,
+postrojenja, opreme i bioloških sredstava
+3019
+3. Ostali finansijski plasmani
+3020
+4. Primljene kamate iz aktivnosti investiranja
+3021
+5. Primljene dividende
+3022
+II. Odlivi gotovine iz aktivnosti investiranja
+(1 do 3)
+3023
+1. Kupovina akcija i udela
+3024
+2. Kupovina nematerijalne imovine, nekretnina,
+postrojenja, opreme i bioloških sredstava
+3025
+3. Ostali finansijski plasmani
+3026
+III. Neto priliv gotovine iz aktivnosti investiranja
+(I - II)
+3027
+IV. Neto odliv gotovine iz aktivnosti investiranja
+(II - I)
+3028
+V. TOKOVI GOTOVINE IZ AKTIVNOSTI FINANSIRANJA
+I. Prilivi gotovine iz aktivnosti finansiranja (1 do 7)
+3029
+1. Uvećanje osnovnog kapitala
+3030
+2. Dugoročni krediti u zemlji
+3031
+3. Dugoročni krediti u inostranstvu
+3032
+4. Kratkoročni krediti u zemlji
+3033
+5. Kratkoročni krediti u inostranstvu
+3034
+6. Ostale dugoročne obaveze
+3035
+7. Ostale kratkoročne obaveze
+3036
+II. Odlivi gotovine iz aktivnosti finansiranja
+(1 do 8)
+3037
+1. Otkup sopstvenih akcija i udela
+3038
+2. Dugoročni krediti u zemlji
+3039
+3. Dugoročni krediti u inostranstvu
+3040
+4. Kratkoročni krediti u zemlji
+3041
+5. Kratkoročni krediti u inostranstvu
+3042
+6. Ostale obaveze
+3043
+7. Finansijski lizing
+3044
+8. Isplaćene dividende
+3045
+III. Neto priliv gotovine iz aktivnosti finansiranja
+(I - II)
+3046
+IV. Neto odliv gotovine iz aktivnosti finansiranja
+(II - I)
+3047
+G. SVEGA PRILIV GOTOVINE
+(3001 + 3017
++ 3029)
+3048
+D. SVEGA ODLIV GOTOVINE
+(3006 + 3023
++ 3037)
+3049
+Đ. NETO PRILIV GOTOVINE
+(3048 - 3049)
+≥ 0
+3050
+E. NETO ODLIV GOTOVINE
+(3049 - 3048)
+≥ 0
+3051
+Ž. GOTOVINA NA POČETKU OBRAČUNSKOG PERIODA
+3052
+Z. POZITIVNE KURSNE RAZLIKE PO OSNOVU PRERAČUNA
+GOTOVINE
+3053
+I. NEGATIVNE KURSNE RAZLIKE PO OSNOVU PRERAČUNA
+GOTOVINE
+3054
+J. GOTOVINA NA KRAJU OBRAČUNSKOG PERIODA
+(3050 - 3051 + 3052 + 3053 - 3054)
+3055
+U _____________________
+dana __________20____ godine
+Zakonski zastupnik
+__________________
+Prilog 5
+Popunjava pravno lice - preduzetnik
+Matični broj
+Šifra delatnosti
+PIB
+Naziv
+Sedište
+IZVEŠTAJ O PROMENAMA NA KAPITALU
+u periodu od___________do________20_____godine
+-u hiljadama dinara-
+P
+o
+z
+i
+c
+i
+j
+a
+OPIS
+AOP
+Osnovni kapital
+(grupa 30 bez 306 i 309)
+AOP
+Ostali osnovni kapital
+(rn 309)
+AOP
+Upisani a neuplaćeni kapital
+(grupa 31)
+AOP
+Emisiona premija i rezerve
+(rn 306 i grupa 32)
+AOP
+Rev. rez. i ner. dob. i gub.
+(grupa 33)
+AOP
+Neraspoređeni dobitak
+(grupa 34)
+AOP
+Gubitak
+(grupa 35)
+AOP
+Učešće bez prava kontrole
+AOP
+Ukupno (odgovara poziciji AOP 0401)
+(kol. 2+3+4+5+6+7-8+9) ≥0
+AOP
+Gubitak iznad visine kapitala (odgovara
+poziciji AOP 0455) (kol 2+3+4+5+6+7-8+9) <0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+1.
+Stanje na dan 01.01. ______ godine
+4001
+4010
+4019
+4028
+4037
+4046
+4055
+4064
+4073
+4082
+2.
+Efekti retroaktivne ispravke materijalno značajnih grešaka
+i promena računovodstvenih politika
+4002
+4011
+4020
+4029
+4038
+4047
+4056
+4065
+4074
+4083
+3.
+Korigovano početno stanje na dan 01.01. ________ godine
+(r.br. 1+2)
+4003
+4012
+4021
+4030
+4039
+4048
+4057
+4066
+4075
+4084
+4.
+Neto promene u _______ godini
+4004
+4013
+4022
+4031
+4040
+4049
+4058
+4067
+4076
+4085
+5.
+Stanje na dan 31.12. ____________ godine (r.br. 3+4)
+4005
+4014
+4023
+4032
+4041
+4050
+4059
+4068
+4077
+4086
+6.
+Efekti retroaktivne ispravke materijalno značajnih grešaka
+i promena računovodstvenih politika
+4006
+4015
+4024
+4033
+4042
+4051
+4060
+4069
+4078
+4087
+7.
+Korigovano početno stanje na dan 01.01._________ godine
+(r.br. 5+6)
+4007
+4016
+4025
+4034
+4043
+4052
+4061
+4070
+4079
+4088
+8.
+Neto promene u _______ godini
+4008
+4017
+4026
+4035
+4044
+4053
+4062
+4071
+4080
+4089
+9.
+Stanje na dan 31.12. __________ godine (r.br. 7+8)
+4009
+4018
+4027
+4036
+4045
+4054
+4063
+4072
+4081
+4090
+U ___________________
+Zakonski zastupnik
+Dana ________________
+________________________
+Prilog 6
+Popunjava pravno lice - preduzetnik
+Matični broj
+Šifra delatnosti
+PIB
+Naziv
+Sedište
+STATISTIČKI IZVEŠTAJ
+za 20____godinu
+I. OPŠTI PODACI O PRAVNOM LICU I PREDUZETNIKU
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+1. Broj meseci poslovanja (oznaka od 1 do
+12)
+9001
+2. Oznaka za vlasništvo (oznaka od 1 do 5)
+9002
+3. Broj stranih (pravnih ili fizičkih) lica
+koja imaju učešće u kapitalu
+9003
+4. Broj stranih (pravnih ili fizičkih) lica
+čije je učešće u kapitalu 10% ili više od 10%
+9004
+5. Prosečan broj zaposlenih na osnovu stanja
+krajem svakog meseca (ceo broj)
+9005
+6. Prosečan broj zaposlenih preko agencija
+i organizacija za zapošljavanje (omladinske i studentske zadruge) na osnovu stanja krajem
+svakog meseca (ceo broj)
+9006
+7. Prosečan broj volontera na osnovu stanja
+krajem svakog meseca (ceo broj)
+9007
+II. BRUTO PROMENE NEMATERIJALNE IMOVINE, NEKRETNINA, POSTROJENJA, OPREME
+I BIOLOŠKIH SREDSTAVA
+-iznosi u hiljadama dinara-
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Bruto
+Ispravka vrednosti
+Neto
+(kol. 4 - 5)
+1
+2
+3
+4
+5
+6
+01
+1. Nematerijalna imovina
+1.1. Stanje na početku godine
+9008
+1.2. Povećanja u toku godine (nabavke, rekonstrukcije
+i dr. bez avansa i softvera)
+9009
+1.3 Povećanja u toku godine - softveri
+9010
+1.4. Povećanja u toku godine - avansi
+9011
+1.5. Smanjenja u toku godine (prodaja, rashodovanje
+i dr.)
+9012
+1.6. Amortizacija i obezvređenje
+9013
+1.7. Revalorizacija
+9014
+1.8. Stanje na kraju godine
+(9008 + 9009 + 9010 + 9011 - 9012 + 9013 + 9014)
+9015
+02 (deo)
+2. Građevinski objekti, postrojenja i oprema
+2.1. Stanje na početku godine
+9016
+2.2. Povećanja u toku godine (nabavke,
+rekonstrukcije i dr. bez avansa)
+9017
+2.3. Povećanja u toku godine - avansi
+9018
+2.4. Smanjenja u toku godine (prodaja, rashodovanje
+i dr.)
+9019
+2.5. Amortizacija i obezvređenje
+9020
+2.6. Revalorizacija
+9021
+2.7. Stanje na kraju godine
+(9016 + 9017 + 9018 - 9019 + 9020 + 9021)
+9022
+02 (deo)
+3. Zemljište
+3.1. Stanje na početku godine
+9023
+3.2. Povećanja u toku godine - nabavke (bez
+avansa)
+9024
+3.3. Povećanja u toku godine - značajnija
+poboljšanja zemljišta (krčenje, melioracija i dr.)
+9025
+3.4. Povećanja u toku godine - avansi
+9026
+3.5. Smanjenja u toku godine (prodaja i dr.)
+9027
+3.6. Amortizacija i obezvređenje
+9028
+3.7. Revalorizacija
+9029
+3.8. Stanje na kraju godine (9023 + 9024 +
+9025 + 9026 - 9027 + 9028 + 9029)
+9030
+03
+4. Biološka sredstva
+4.1. Stanje na početku godine
+9031
+4.2. Povećanja u toku godine (nabavke, rekonstrukcija
+i dr. bez avansa)
+9032
+4.3. Povećanja u toku godine - avansi
+9033
+4.4. Smanjenja u toku godine (prodaja, rashodovanje
+i dr.)
+9034
+4.5. Amortizacija i obezvređenje
+9035
+4.6. Revalorizacija
+9036
+4.7. Stanje na kraju godine
+(9031 + 9032 + 9033 - 9034 + 9035 + 9036)
+9037
+III. STRUKTURA ZALIHA
+-iznosi u hiljadama dinara-
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+10
+1. Materijal, rezervni delovi, alat i sitan
+inventar
+9038
+11
+2. Nedovršena proizvodnja i usluge
+9039
+12
+3. Gotovi proizvodi
+9040
+13
+4. Roba
+9041
+14
+5. Stalna imovina koja se drži za prodaju
+i prestanak poslovanja
+9042
+15
+6. Plaćeni avansi za zalihe i usluge
+9043
+7. SVEGA (9038 + 9039 + 9040 + 9041 + 9042
++ 9043 = 0031 + 0037)
+9044
+IV. STRUKTURA OSNOVNOG KAPITALA
+-iznosi u hiljadama dinara-
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+300
+1. Akcijski kapital
+9045
+u tome: strani kapital
+9046
+301
+2. Udeli društava s ograničenom odgovornošću
+9047
+u tome: strani kapital
+9048
+302
+3. Ulozi
+9049
+u tome: strani kapital
+9050
+303
+4. Državni kapital
+9051
+304
+5. Društveni kapital
+9052
+305
+6. Zadružni udeli
+9053
+306
+7. Emisiona premija
+9054
+307
+8. Ulozi - sopstveni izvori drugih pravnih
+lica - ulozi osnivača i drugih lica
+9055
+309
+9. Ostali osnovni kapital
+9056
+10. SVEGA (9045 + 9047 + 9049 + 9051 +
+9052 + 9053 + 9054 + 9055 + 9056 = 0402 + 0404)
+9057
+V. STRUKTURA AKCIJSKOG KAPITALA
+-broj akcija kao ceo broj-
+-iznosi u hiljadama dinara-
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+1. Obične akcije
+1.1. Broj običnih akcija
+9058
+deo 300
+1.2. Nominalna vrednost običnih akcija - ukupno
+9059
+2. Prioritetne akcije
+2.1. Broj prioritetnih akcija
+9060
+deo 300
+2.2. Nominalna vrednost prioritetnih akcija
+- ukupno
+9061
+300
+3. SVEGA
+-
+nominalna vrednost (9059
++ 9061 = 9045)
+9062
+VI. STRUKTURA ISPLAĆENIH DIVIDENDI I UČEŠĆA U DOBITKU, PO SEKTORIMA
+-iznosi u hiljadama dinara-
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+1. Privredna društva (domaća pravna lica)
+9063
+2. Fizička lica
+9064
+3. Država i institucije i organizacije koje
+se finansiraju iz budžeta
+9065
+4. Finansijske institucije
+9066
+5. Neprofitne organizacije, fondacije i fondovi
+neprofitnog karaktera
+9067
+6. Strana fizička lica
+9068
+7. Strana pravna lica
+9069
+8. Evropske finansijske i razvojne institucije
+9070
+9. SVEGA
+(9063 + 9064 + 9065 + 9066 + 9067 + 9068 + 9069 + 9070 = 3045)
+9071
+VII. POTRAŽIVANJA I OBAVEZE
+-iznosi u hiljadama dinara-
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+226 (deo)
+1. Potraživanja u toku godine od društava
+za osiguranje za naknadu štete (dugovni promet bez početnog stanja)
+9072
+43
+2. Obaveze iz poslovanja (potražni promet
+bez početnog stanja)
+9073
+450
+3. Obaveze za neto zarade i naknade zarada,
+osim naknada zarada koje se refundiraju (potražni promet bez početnog stanja)
+9074
+451
+4. Obaveze za porez na zarade i naknade zarada
+na teret zaposlenog (potražni promet bez početnog stanja)
+9075
+452
+5. Obaveze za doprinose na zarade i naknade
+zarada na teret zaposlenog (potražni promet bez početnog stanja)
+9076
+465
+6. Obaveze prema fizičkim licima za naknade
+po ugovorima (potražni promet bez početnog stanja)
+9077
+7. Kontrolni zbir
+(9072 + 9073 + 9074 + 9075 + 9076 + 9077)
+9078
+VIII. DRUGI TROŠKOVI I RASHODI
+-iznosi u hiljadama dinara-
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+513
+1. Troškovi goriva i energije
+9079
+520
+2. Troškovi zarada i naknada zarada (bruto)
+9080
+521
+3. Troškovi poreza i doprinosa na zarade i
+naknade zarada na teret poslodavca
+9081
+522, 523 i 525
+4. Troškovi naknada fizičkim licima (bruto)
+po osnovu ugovora
+9082
+524
+5. Troškovi naknada po ugovoru o privremenim
+i povremenim poslovima zaključenim sa fizičkim licem
+9083
+526
+6. Troškovi naknada direktoru, odnosno članovima
+organa upravljanja i nadzora
+9084
+528
+7. Troškovi angažovanja zaposlenih preko agencija
+i zadruga
+9085
+deo 529
+8. Naknade troškova zaposlenima
+9086
+deo 529
+9. Ostala davanja zaposlenima i lična primanja
+koja se ne smatraju zaradom - otpremnine, jubilarne nagrade, pomoć zaposlenom, stipendije
+i dr.
+9087
+deo 529
+10. Naknade troškova i druga davanja poslodavcima
+i drugim fizičkim licima koja nisu zaposlena
+9088
+deo 525, 533 i deo 54
+11. Troškovi zakupnina
+9089
+deo 525, deo 533 i deo 54
+12. Troškovi zakupnina zemljišta
+9090
+536 i 537
+13. Troškovi istraživanja i razvoja
+9091
+552
+14. Troškovi premija osiguranja
+9092
+553
+15. Troškovi platnog prometa
+9093
+554
+16. Troškovi članarina
+9094
+555
+17. Troškovi poreza i naknada
+9095
+556
+18. Troškovi doprinosa
+9096
+deo 579
+19. Rashodi za humanitarne, naučne, verske,
+kulturne, zdravstvene, obrazovne i za sportske namene, kao i za zaštitu čovekove sredine
+9097
+20. Kontrolni zbir (9079 + 9080 + 9081
++ 9082 + 9083 + 9084 + 9085 + 9086 + 9087 + 9088 + 9089 + 9090 + 9091 + 9092 + 9093 + 9094
++ 9095 + 9096 + 9097)
+9098
+IX. RASHODI KAMATA
+-iznosi u hiljadama dinara-
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+Grupa računa 56 (deo)
+1. Kamate po kreditima i zajmovima od poslovnih
+banaka u zemlji
+9099
+2. Kamate po osnovu finansijskog lizinga u
+zemlji
+9100
+3. Kamate po osnovu zajmova od drugih nebankarskih
+preduzeća i zajmodavaca u zemlji
+9101
+4. Kamate po osnovu hartija od vrednosti
+9102
+5. Zatezne kamate
+9103
+6. Kamate po osnovu kratkoročnih i dugoročnih
+kredita u inostranstvu
+9104
+7. Kontrolni zbir (9099 + 9100 + 9101 +
+9102 + 9103 + 9104)
+9105
+X. DRUGI PRIHODI
+-iznosi u hiljadama dinara-
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+640
+1. Prihodi od premija, subvencija, dotacija,
+regresa,
+kompenzacija i povraćaja poreskih dažbina
+9106
+641
+2. Prihodi po osnovu uslovljenih donacija
+9107
+65
+3. Drugi poslovni prihodi
+9108
+deo 650
+4. Prihodi od zakupnina za zemljište
+9109
+651
+5. Prihodi od članarina
+9110
+deo 660, deo 661 i deo 669
+6. Prihodi po osnovu dividendi i učešća u
+dobitku
+9111
+7. Kontrolni zbir (9106 + 9107 + 9108 +
+9109 + 9110 + 9111)
+9112
+XI. PRIHODI OD KAMATA
+-iznosi u hiljadama dinara-
+Grupa računa, račun
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+5
+Grupa računa 66 (deo)
+1. Kamate po depozitima u poslovnim bankama
+u zemlji
+9113
+2. Kamate po osnovu datih kredita i zajmova
+u zemlji
+9114
+3. Kamate po osnovu hartija od vrednosti
+9115
+4. Zatezne kamate
+9116
+5. Kamate po osnovu datih kredita i zajmova
+u inostranstvu
+9117
+6. Kontrolni zbir (9113 + 9114 + 9115 +
+9116 + 9117)
+9118
+XII. OSTALI PODACI
+-iznosi u hiljadama dinara-
+OPIS
+Ozn. za AOP
+Tekuća godina
+Prethodna godina
+1
+2
+3
+4
+1. Obaveze za akcize (prema godišnjem obračunu
+akciza)
+9119
+2. Obračunate carine i druge uvozne dažbine
+(ukupan godišnji iznos prema obračunu)
+9120
+3. Kapitalne subvencije i druga državna dodeljivanja
+za izgradnju i nabavku osnovnih sredstava i nematerijalne imovine
+9121
+4. Državna dodeljivanja za premije, regres
+i pokriće tekućih troškova poslovanja
+9122
+5. Ostala državna dodeljivanja
+9123
+6. Primljene donacije iz inostranstva i druga
+bespovratna sredstva u novcu ili naturi od inostranih pravnih i fizičkih lica
+9124
+7. Lična primanja preduzetnika iz neto dobitka
+(popunjavaju samo preduzetnici)
+9125
+8. Kontrolni zbir (9119 + 9120 + 9121 +
+9122 + 9123 + 9124 + 9125)
+9126
+XIII. BRUTO POTRAŽIVANJA ZA DATE KREDITE I ZAJMOVE, PRODATE PROIZVODE,
+ROBU I USLUGE I DATE AVANSE I DRUGA POTRAŽIVANJA
+-iznosi u hiljadama dinara-
+Grupa računa, račun
+FINANSIJSKI INSTRUMENTI
+Ozn. za AOP
+Bruto
+Ispravka
+vrednosti
+Neto
+(kol. 4 - 5)
+1
+2
+3
+4
+5
+6
+230 (deo), 231 (deo), 232 (deo), 234
+(deo)
+1. Kratkoročni finansijski 
+plasmani (dati krediti i zajmovi) fizičkim licima i preduzetnicima
+9127
+043 (deo), 045 (deo), 050 (deo), 051
+(deo), 053 (deo)
+2. Dugoročni finansijski plasmani (dati
+krediti i zajmovi) fizičkim licima i preduzetnicima
+9128
+3. Prodati proizvodi, roba i usluge i dati
+avansi (9130 + 9131 + 9132)
+9129
+017 (deo), 029 (deo), 038 (deo) 052
+(deo) 150 (deo), 152 (deo), 154 (deo), 200 (deo), 202 (deo), 204 (deo)
+3.1. Prodati proizvodi, roba i usluge i dati
+avansi fizičkim licima i preduzetnicima
+9130
+017 (deo), 029 (deo), 038 (deo) 052
+(deo) 150 (deo), 152 (deo), 154 (deo), 200 (deo), 202 (deo), 204 (deo)
+3.2. Prodati proizvodi, roba i usluge i dati
+avansi državnim organima i institucijama
+9131
+017 (deo), 029 (deo), 038 (deo), 052
+(deo), 150 (deo), 152 (deo), 154 (deo), 200 (deo), 202 (deo), 204 (deo)
+3.3. Prodati proizvodi, roba i usluge i dati
+avansi organima i institucijama lokalne samouprave
+9132
+4. Druga potraživanja (9134 + 9135 + 9136)
+9133
+206 (deo), 221, 228 (deo)
+4.1. Potraživanja od fizičkih lica i preduzetnika
+9134
+206 (deo), 222 (deo), 223, 224 (deo),
+225 (deo), 227 (deo), 228 (deo)
+4.2. Potraživanja od državnih organa i institucija
+9135
+206 (deo), 222 (deo), 224, (deo),225
+(deo), 227 (deo), 228 (deo)
+4.3. Potraživanja od organa i institucija
+lokalne samouprave
+9136
+U ________________________
+dana __________20____ godine
+Zakonski zastupnik
+__________________

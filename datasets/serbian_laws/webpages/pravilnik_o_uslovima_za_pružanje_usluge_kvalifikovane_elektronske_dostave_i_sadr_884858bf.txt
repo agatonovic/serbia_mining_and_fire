@@ -1,0 +1,261 @@
+Title: PRAVILNIKO USLOVIMA ZA PRUŽANJE USLUGE KVALIFIKOVANE ELEKTRONSKE DOSTAVE
+I SADRŽAJU POTVRDE O PRIJEMU I DOSTAVI ELEKTRONSKE PORUKE
+URL: https://www.paragraf.rs/propisi/pravilnik-uslovi-pruzanje-usluge-kvalifikovane-elektronske-dostave-potvrda-o-prijemu.html
+Extracted: 2025-07-06T23:14:49.034773
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O USLOVIMA ZA PRUŽANJE USLUGE KVALIFIKOVANE ELEKTRONSKE DOSTAVE
+I SADRŽAJU POTVRDE O PRIJEMU I DOSTAVI ELEKTRONSKE PORUKE
+("Sl. glasnik RS", br. 99/2020 i 74/2021)
+Predmet Pravilnika
+Član 1
+Ovim pravilnikom bliže se uređuju uslovi za pružanje usluge kvalifikovane
+elektronske dostave i sadržaj potvrde o prijemu i dostavi elektronske poruke koju izdaje
+pružalac usluge kvalifikovane elektronske dostave.
+Obavljanje usluge kvalifikovane elektronske dostave u skladu
+sa propisima standardima i preporukama
+Član 2
+Pružalac usluge kvalifikovane elektronske dostave (u daljem tekstu: pružalac
+usluge) dužan je da pruža uslugu saglasno zahtevima sledećih standarda:
+1) ETSI EN 319 401 - "General Policy requirements for Trust Service
+Providers";
+2) ETSI EN 319 521 - "Electronic Signatures and Infrastructures (ESI);
+Policy and security requirements for Electronic Registered Delivery Service Providers" (u
+daljem tekstu: EN 319 521);
+3) ETSI EN 319 522 - "Electronic Signatures and Infrastructures (ESI);
+Electronic Registered Delivery Services" (u daljem tekstu: EN 319 522), uključujući:
+(1) Part 1: Framework and Architecture,
+(2) Part 2: Semantic Contents,
+(3) Part 3: Formats,
+(4) Part 4: Bindings:
+- 319 522-4-1: message delivery binding,
+- 319 522-4-2: evidence and identification binding,
+- 319 522-4-3: capability/requirements binding;
+4) ETSI EN 119 524-1 - "Electronic Signatures and Infrastructures
+(ESI); Testing Conformance and Interoperability of Electronic Registered Delivery Services;
+Part 1: Testing conformance";
+5) ETSI EN 119 524-2 - "Electronic Signatures and Infrastructures
+(ESI); Testing Conformance and Interoperability of Electronic Registered Delivery Services;
+Part 2: Test suites for interoperability testing of Electronic Registered Delivery Service
+Providers";
+6) zahtevima iz drugih standarda na koji standardi iz tač. 1)-5) ovog stava
+direktno i indirektno upućuju, kao i saglasno drugim standardima, dokumentima i preporukama
+koje se odnose na pružanje kvalifikovanih usluga od poverenja, utvrđenim ovim pravilnikom
+i drugim propisima donetim na osnovu Zakona o elektronskom dokumentu, elektronskoj identifikaciji
+i uslugama od poverenja u elektronskom poslovanju (u daljem tekstu: Zakon).
+Primena opštih odredbi za pružanje kvalifikovanih usluga
+od poverenja
+Član 3
+Pružalac usluge kvalifikovane elektronske dostave dužan je da, u skladu
+sa propisima koji uređuju uslove za pružanje kvalifikovanih usluga od poverenja, primenjuje
+opšte odredbe za pružanje kvalifikovanih usluga od poverenja koji se odnose na:
+1) obavljanje kvalifikovanih usluga od poverenja u skladu sa propisima
+standardima i preporukama;
+2) ugovor o pružanju kvalifikovanih usluga od poverenja;
+3) sadržaj akata pružaoca usluge;
+4) opšte uslove za pružanje usluga;
+5) politiku pružanja usluge i praktična pravila za pružanje usluge;
+6) informacionu bezbednost;
+7) ljudske resurse;
+8) osiguranje od odgovornosti za štetu nastalu vršenjem kvalifikovane usluge
+od poverenja;
+9) korišćenje sigurnih uređaja i proizvoda;
+10) čuvanje relevantnih informacija;
+11) plan završetka rada pružaoca usluge.
+Politika i praktična pravila pružanja usluge kvalifikovane
+elektronske dostave
+Član 4
+Politika pružanja usluge kvalifikovane elektronske dostave definiše zahteve
+koje treba da ispunjava usluga kvalifikovane elektronske dostave, dok praktična pravila pružanja
+usluge kvalifikovane elektronske dostave definišu operativne procedure u cilju ispunjenja
+tih zahteva, tj. način na koji pružalac usluge ispunjava tehničke, organizacione i proceduralne
+zahteve poslovanja koji su određeni u politici pružanja usluge kvalifikovane elektronske
+dostave, saglasno Zakonu i propisima kojima se uređuju uslovi za pružanje kvalifikovanih
+usluga od poverenja.
+Politika pružanja usluge kvalifikovane elektronske dostave se definiše
+nezavisno od specifičnog operativnog okruženja pružaoca usluge, dok praktična pravila pružanja
+usluge kvalifikovane elektronske dostave daju detaljan opis organizacione strukture, operativnih
+procedura, kao i fizičko i računarsko okruženje pružaoca usluge, saglasno Zakonu i propisima
+kojima se uređuju uslovi za pružanje kvalifikovanih usluga od poverenja.
+Uslovi koje treba da ispunjavaju politika i praktična pravila
+Član 5
+Politika pružanja usluge kvalifikovane elektronske dostave i praktična
+pravila pružanja usluge kvalifikovane elektronske dostave moraju biti usklađeni sa odredbama
+Zakona, odredbama propisa donetih na osnovu zakona, kao i zahtevima standarda koji su tim
+propisima propisani da se primenjuju.
+Politika pružanja usluge kvalifikovane elektronske dostave i praktična
+pravila pružanja usluge kvalifikovane elektronske dostave treba da ispunjavaju zahteve iz
+standarda EN 319 521, uključujući zahteve iz drugih standarda na koje se iz tog standarda
+direktno i indirektno upućuje, a koji se odnose na politiku i praktična pravila pružanja
+usluge kvalifikovane elektronske dostave.
+Uslovi za pružanje usluge kvalifikovane elektronske dostave
+Član 6
+Pružalac usluge dužan je da za pružanje usluge obezbedi sledeće uslove:
+1) zaključi ugovor o pružanju usluge kvalifikovane elektronske dostave
+sa korisnikom;
+2) izvrši proveru identiteta korisnika prilikom registracije;
+3) proveri identitet korisnika, odnosno izvrši autentikaciju i autorizaciju
+prilikom pristupa usluzi kvalifikovane elektronske dostave, na osnovu šeme identifikacije
+srednjeg ili višeg nivoa pouzdanosti u skladu sa Zakonom;
+4) vrši proveru identiteta pošiljaoca pre izvršene kvalifikovane elektronske
+dostave;
+5) vrši proveru identiteta primaoca pre izvršene kvalifikovane elektronske
+dostave;
+6) poseduje podatke da je sadržaj elektronske poruke primljen, prosleđen
+i preuzet;
+7) obezbedi da elektronska poruka sadrži sve propisane elemente;
+8) obezbedi da u toku vršenja kvalifikovane elektronske dostave nije bilo
+promene sadržaja podataka;
+9) obavesti primaoca i pošiljaoca u slučaju izmene sadržaja podataka prilikom
+pružanja usluge kvalifikovane elektronske dostave;
+10) obezbedi da vreme slanja, primanja, prosleđivanja i preuzimanja elektronske
+poruke bude potvrđeno kvalifikovanim elektronskim vremenskim žigom;
+11) obezbedi elektronsko čuvanje podataka o izvršenju kvalifikovane elektronske
+dostave odnosno o pojedinačnim dostavama u skladu sa standardom ETSI TS 119 511 - "Policy&security
+requirements for trust service providers providing long-term preservation of digital signatures
+or unsigned data using signature techniques" i standardom ETSI TS 119 512 - "Protocols
+for trust service providers providing long-term preservation of digital signatures or unsigned
+data using signature techniques";
+12) obezbedi čuvanje relevantnih informacija;
+13)
+(brisana)
+14) obezbedi ažuran spisak korisnika usluge i servis putem koga drugi pružaoci
+usluge  izvršavaju
+proveru adrese korisnika;
+15) da u okviru svoje usluge omoguće prijem i slanje poruka i kada je pošiljalac
+ili primalac poruke korisnik drugog pružaoca usluge kvalifikovane elektronske dostave;
+16) da omoguće obaveštavanje pošiljaoca o prosleđivanju i preuzimanju dostavljene
+elektronske poruke koja je izvršena na platformi drugog pružaoca usluge.
+Provera identiteta i registracija korisnika
+Član 7
+Registracija korisnika usluge kvalifikovane elektronske dostave vrši se
+na zahtev korisnika, tako što je pružalac usluge dužan da pri registraciji korisnika obezbedi:
+1) da pre uspostavljanja ugovornog odnosa sa korisnikom, javno informiše
+korisnika na jasnom i razumljivom jeziku o relevantnim uslovima korišćenja usluge kvalifikovane
+elektronske dostave;
+2) da se, ukoliko se korisnik identifikuje kao fizičko lice, utvrdi i proveri identitet korisnika, i to:
+(1) uz fizičko prisustvo, a na osnovu lične karte, putne isprave, strane putne isprave, putne isprave za strance ili lične karte za strance, ili
+(2) putem javne isprave koja služi kao sredstvo identifikacije na daljinu, u skladu sa zakonom, ili
+(3) putem identifikacije na daljinu u skladu sa zakonom;
+3) da se, ukoliko se korisnik identifikuje kao pravno lice:
+(1) u skladu sa tačkom 2) ovog stava utvrdi i proveri identitet
+ovlašćenog lica korisnika koje u ime korisnika podnosi zahtev za uslugu kvalifikovane elektronske
+dostave;
+(2) proveri ovlašćenje na bazi akta korisnika kojim se ovlašćeno
+lice ovlašćuje da u ime korisnika zahteva uslugu kvalifikovane elektronske dostave;
+(3) proveri podatke o korisniku kao pravnom licu na bazi uvida
+u podatke Agencije za privredne registre ili na bazi akta nadležnog organa o registraciji
+pravnog lica;
+4) da se od korisnika pribave tačne i pouzdane informacije o fizičkoj adresi,
+ili drugim atributima, koji opisuju kako se korisnik može kontaktirati;
+5) da se sa korisnikom zaključi ugovor.
+Prilikom registracije korisnika pružalac usluge dužan je da ispuni i druge
+uslove predviđene propisom kojim se uređuju uslovi za pružanje kvalifikovanih usluga od poverenja.
+Slanje elektronske poruke
+Član 8
+Slanje elektronske poruke u okviru usluge kvalifikovane elektronske dostave
+vrši se tako što pošiljalac elektronsku poruku šalje pružaocu usluge sa kojim ima zaključen
+ugovor radi slanja primaocu.
+Pružalac usluge je u obavezi da prilikom pružanja usluge kvalifikovane elektronske dostave izda dve potvrde pošiljaocu, i to:
+1) potvrdu da je primio elektronsku poruku pošiljaoca i prosledio je primaocu;
+2) potvrdu da je primalac preuzeo dostavljenu elektronsku poruku.
+Ukoliko pošiljalac i primalac imaju zaključen ugovor sa istim pružaocem
+usluge, elektronska poruka se prosleđuje direktno primaocu.
+Ukoliko pošiljalac i primalac nemaju zaključen ugovor sa istim pružaocem
+usluge, elektronska poruka se prosleđuje pružaocu usluge sa kojim primalac ima zaključen
+ugovor.
+Sadržaj potvrde prijema elektronske poruke od strane pružaoca
+usluge
+Član 9
+Potvrda o prijemu elektronske poruke iz člana 8. stav 2. tačka 1) ovog
+pravilnika sadrži:
+1) identifikacionu oznaku elektronske poruke koju je dodelio pružalac usluge;
+2) podatke o pošiljaocu i primaocu, i to:
+(1) za fizičko lice: ime i prezime,
+(2) za pravno lice: naziv, matični broj, odnosno jedinstvenu identifikacionu
+oznaku u skladu sa pravnom regulativom države,
+(3) adresu za elektronsku dostavu;
+3) podatke koji povezuju potvrdu sa sadržajem elektronske poruke;
+4) datum i vreme kada je pružalac usluge primio elektronsku poruku pošiljaoca;
+5) datum i vreme kada je elektronska poruka prosleđena primaocu, odnosno
+njegovom pružaocu usluge.
+Sadržaj potvrde dostave elektronske poruke primaocu
+Član 10
+Pružalac usluge je dužan da u okviru softverskog rešenja za elektronsku
+dostavu obezbedi primaocu da potvrdi dostavu, odnosno prijem elektronske poruke, čime se
+elektronska poruka smatra dostavljenom.
+Nakon dobijanja potvrde o prijemu elektronske poruke od strane primaoca,
+pružalac usluge je u obavezi da bez odlaganja o tome obavesti pošiljaoca.
+Potvrda iz stava 2. ovog člana mora najmanje da sadrži:
+1) identifikacionu oznaku elektronske poruke koju je dodelio pružalac usluge;
+2) podatke o pošiljaocu i primaocu, i to:
+(1) za fizičko lice: ime i prezime,
+(2) za pravno lice: naziv, matični broj, odnosno jedinstvenu identifikacionu
+oznaku u skladu sa pravnom regulativom države,
+(3) adresu za elektronsku dostavu;
+3) podatke koji povezuju potvrdu sa sadržajem elektronske poruke;
+4) datum i vreme kada je prosleđena elektronska poruka dostavljena, odnosno
+preuzeta od strane primaoca.
+Upotreba naprednog elektronskog pečata
+Član 11
+Potvrde iz čl. 9 i 10. ovog pravilnika pružalac usluge dostavlja automatski
+u elektronskom obliku potpisane naprednim elektronskim pečatom, a na zahtev ih može izdati
+u elektronskom ili papirnom obliku.
+Napredni elektronski pečat iz stava 1. ovog člana mora da ispunjava uslove
+definisane zakonom koji uređuje kvalifikovane usluge od poverenja.
+Čuvanje relevantnih informacija
+Član 12
+Pružalac usluge je dužan da potvrde iz člana 8. stav 2. ovog pravilnika
+čuva i učini dostupnim korisniku.
+Pored potvrda iz stava 1. ovog člana, pružalac usluge je dužan da čuva
+i:
+1) podatke o utvrđivanju i potvrdi identiteta korisnika;
+2) podatke o utvrđivanju identiteta pošiljaoca pre izvršene kvalifikovane
+elektronske dostave;
+3) podatke o proveri i utvrđivanju identiteta primaoca pre izvršene kvalifikovane
+elektronske dostave;
+4) podatke da je sadržaj elektronske poruke primljen i prosleđen;
+5) podatke da je sadržaj dostavljene elektronske poruke preuzet;
+6) dokaze da nije bilo promene sadržaja podataka u toku vršenja kvalifikovane
+elektronske dostave;
+7) podatke o vremenu slanja, primanja, prosleđivanja i preuzimanja elektronske
+poruke, koji su potvrđeni kvalifikovanim elektronskim vremenskim žigom.
+Pružalac usluge je dužan da obezbedi poverljivost, integritet i dostupnost
+podataka iz st. 1. i 2. ovog člana.
+Podaci iz st. 1. i 2. ovog člana se čuvaju trajno.
+Ljudski resursi koje zapošljava pružalac usluge
+Član 13
+Pružalac usluge obezbeđuje neophodne ljudske resurse, odnosno zaposlene
+koji moraju da poseduju ekspertsko znanje, iskustvo i neophodnu kvalifikaciju za uslugu koja
+se pruža, i to:
+1) najmanje dva zaposlena sa stečenim obrazovanjem iz oblasti informaciono-komunikacionih
+tehnologija na osnovnim akademskim ili osnovnim strukovnim studijama i radnim iskustvom od
+najmanje tri godine u oblasti održavanja i bezbednosti informacionih sistema i položen najmanje
+jedan od ispita: CompTIA Security+, ISC2 CISSP ili SANS GSEC, kao i da zaposleni redovno,
+a najmanje jednom godišnje pohađaju obuke i seminare u cilju obnavljanja znanja o novim bezbednosnim
+pretnjama i aktuelnim bezbednosnim procedurama;
+2) najmanje dva zaposlena sa stečenim obrazovanjem iz oblasti informacionih
+sistema na osnovnim akademskim studijama i pet godina radnog iskustva u oblasti informacionih
+sistema i položen najmanje jedan od ispita: ISC2 CISSP ispit ili SANS GSEC, kao i da zaposleni
+redovno, a najmanje jednom godišnje pohađaju obuke i seminare u cilju obnavljanja znanja
+o novim bezbednosnim pretnjama i aktuelnim bezbednosnim procedurama.
+Razmena elektronskih poruka između pružalaca usluge kvalifikovane elektronske dostave
+Član 14
+Razmena elektronskih poruka između pružalaca usluge kvalifikovane elektronske dostave omogućava pružaocima usluge da vrše proveru adresa korisnika drugog pružaoca usluge, čime se omogućava prijem i slanje poruka i kada je pošiljalac ili primalac poruke korisnik drugog pružaoca usluge kvalifikovane elektronske dostave.
+Pružalac usluge je dužan da svim drugim pružaocima usluge dostavi parametre za pristup servisu za proveru podataka o adresama svojih korisnika, koji na upit daje informaciju o postojanju konkretne adrese u spisku korisnika pružaoca usluge.
+Pristup servisu mora da funkcioniše na principu autorizovanog upita za
+proveru podataka o adresi korisnika usluge.
+Svaki pružalac usluge dužan je da drugom pružaocu usluge omogući pristup
+servisu za proveru podataka o adresi korisnika, na osnovu autorizovanog upita.
+Završna odredba
+Član 15
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije".

@@ -1,0 +1,206 @@
+Title: ODLUKAO JEDINSTVENIM METODOLOŠKIM PRINCIPIMA ZA VOĐENJE EVIDENCIJA 
+ U OBLASTI RADA I OBRASCIMA PRIJAVA I IZVEŠTAJA
+URL: https://www.paragraf.rs/propisi/odluka-metodoloskim-principima-vodjenje-evidencija.html
+Extracted: 2025-07-06T23:08:20.756150
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+﻿
+ODLUKA
+O JEDINSTVENIM METODOLOŠKIM PRINCIPIMA ZA VOĐENJE EVIDENCIJA 
+ U OBLASTI RADA I OBRASCIMA PRIJAVA I IZVEŠTAJA
+("Sl. list SRJ", br. 40/97 i 25/2000, "Sl. list SCG",
+   br. 1/2003 - Ustavna povelja i "Sl. glasnik RS",  br. 15/2010 - dr. pravilnik i 54/2010 - dr. uredba)
+I OSNOVNE ODREDBE
+1. Ovom odlukom propisuju se jedinstveni metodološki principi 
+ za vođenje evidencija u oblasti rada, način unošenja podataka, zaštita 
+ i obezbeđenje komunikacionog povezivanja podataka) i obrasci za vođenje 
+ evidencija u oblasti rada.
+2. Evidencije u oblasti rada vode se unošenjem podataka u obrasce 
+ propisane ovom odlukom.
+II NAČIN VOĐENJA EVIDENCIJA U OBLASTI RADA
+3. U evidencije u oblasti rada podaci se unose na sledeći način:
+1) jedinstveni matični broj građana unosi se na način propisan 
+ Zakonom o uvođenju jedinstvenog matičnog broja građana ("Službeni 
+ list SFRJ", br. 58/76);
+2) kao podatak o delatnosti poslodavca unosi se naziv aktivnosti 
+ koje u vidu zanimanja obavlja poslodavac (preduzeće i drugo pravno lice, 
+ fizičko lice, državni organ i organ jedinice lokalne samouprave), i šifra 
+ delatnosti prema Zakonu o klasifikaciji delatnosti i o Registru jedinica 
+ razvrstavanja ("Službeni list SRJ", br. 31/96);
+3) kao podatak o radnom odnosu unosi se odgovarajući podatak 
+ o vrsti radnog odnosa ili angažovanja na osnovu ugovora zaključenog sa 
+ poslodavcem, pri čemu se primenjuje sledeća klasifikacija:
+a) radni odnos na neodređeno vreme;
+b) radni odnos na određeno vreme;
+v) pripravnik;
+g) pripravnik - volonter;
+d) dopunski rad;
+đ) privremeni i povremeni poslovi;
+e) sezonski rad;
+ž) privremeno radno angažovanje;
+z) invalid;
+4) kao podatak o radnom mestu unosi se naziv poslova i zadataka 
+ koje je poslodavac utvrdio svojim opštim aktom i oznaka o vrsti radnog 
+ mesta (da li je novootvoreno ili upražnjeno);
+5) matični broj registra poslodavca unosi se kao numerička 
+ oznaka - matični broj registra koji je dobijen upisom u Registar jedinica 
+ razvrstavanja;
+6) registarski broj prijave o slobodnom radnom mestu unosi 
+ se kao numerička oznaka od 13 mesta kojom se označava svaka prijava koju 
+ primi organizacija za zapošljavanje, na sledeći način: u prvih pet mesta 
+ upisuje se šifra opštine, u šestom poslednja cifra godine u kojoj se prijava 
+ registruje, u sledećih šest redni broj prijave, a poslednja trinaesta 
+ cifra je kontrolni broj po modulu 11;
+7) kao podatak o radnom stažu unosi se, u skladu sa propisima 
+ o penzijskom i invalidskom osiguranju, broj godina i meseci navršenog 
+ staža koji se računa sa efektivnim trajanjem, sa uvećanim trajanjem, kao 
+ i poseban staž;
+8) o radnom iskustvu unosi se podatak o:
+a) potrebnom radnom iskustvu za obavljanje poslova radnog mesta;
+b) broj meseci radnog iskustva koje je pojedinac stekao u radnom 
+ odnosu, kroz radno angažovanje ili volonterski rad u stepenu stručne spreme 
+ određenog zanimanja;
+9) podatak o zanimanju iskazuje se na sledeći način:
+a) za zaposleno lice - kao naziv i šifra određenih poslova 
+ i radnih zadataka koje zaposleni obavlja radi proizvodnje materijalnih 
+ i drugih dobara, odnosno radi vršenja usluga i sticanja zarade, bez obzira 
+ na delatnost;
+b) za nezaposleno lice - kao naziv i šifra kojom se označava 
+ stručna i radna osposobljenost nezaposlenog za vršenje određenih poslova, 
+ bez obzira na delatnost;
+10) podatak o vrsti stručne spreme iskazuje se kao naziv i 
+ šifra škole odnosno fakulteta čijim je završavanjem pojedinac osposobljen 
+ za određenu vrstu poslova;
+11) kao podatak o stepenu stručne spreme unosi se stepen stručne 
+ spreme koji je pojedinac dobio završavanjem verifikovanog programa obrazovanja 
+ u organizaciji ovlašćenoj za izvođenje takvog programa ili drugih vidova 
+ obrazovanja priznati zakonom, prema sledećoj klasifikaciji:
+I stepen
+- završeno osnovno obrazovanje i odgovarajući program za 
+ I stepen stručne spreme. U ovaj stepen razvrstavaju se i lica 
+ bez stručne spreme, odnosno nekvalifikovani radnici;
+II stepen
+- završeno osnovno obrazovanje i odgovarajući program za 
+ II stepen stručne spreme. U ovaj stepen razvrstavaju se i polukvalifkovani 
+ radnici, lica sa priznatom nižom stručnom spremom, kao i lica 
+ sa završenim dvogodišnjim zajedničkim osnovama srednjeg usmerenog 
+ obrazovanja;
+III stepen
+- završeno trogodišnje srednje obrazovanje ili završene 
+ dvogodišnje zajedničke osnove usmerenog obrazovanja i odgovarajući 
+ program za III stepen stručne spreme. U ovaj stepen razvrstavaju 
+ se i lica sa završenom trogodišnjom školom za kvalifikovane radnike, 
+ kao i lica sa završenom dvogodišnjom srednjom školom, pre nego 
+ što je školovanje postalo trogodišnje;
+IV stepen
+- završeno četvorogidišnje srednje obrazovanje ili završene 
+ dvogodišnje zajedničke osnove usmerenog obrazovanja i odgovarajući 
+ program za IV stepen stručne spreme, ili završena gimnazija. U 
+ ovaj stepen razvrstavaju se i lica sa završenom stručnom školom 
+ u trogodišnjem trajanju, pre nego što je škovanje postalo četvorogodišnje;
+V stepen
+- završeno jednogodišnje specijalističko obrazovanje nakon 
+ srednjeg obrazovanja ili završeno petogodišnje srednje obrazovanje. 
+ U ovaj stepen razvrstavaju se i lica sa završenom školom za visokokvalifikovane 
+ radnike;
+VI/1 stepen
+- završen obrazovni program za VI/1 stepen stručne spreme. 
+ U ovaj stepen razvrstavaju se i lica sa završenom višom školom, 
+ kao i lica sa savladanim programom I stepena studija na fakultetu;
+VI/2 stepen
+- završen obrazovni program za VI/2 stepen stručne spreme;
+VII/1 stepen
+- završen obrazovni program za VII/1 stepen stručne spreme. 
+ U ovaj stepen razvrstavaju se i lica sa završenim studijama na 
+ fakultetu, visokoj školi ili akademiji;
+VII/2 stepen
+- završen obrazovni program za VII/2 stepen stručne spreme. 
+ U ovaj stepen razvrstavaju se lica sa završenim poslediplomskim 
+ studijama i akademskim zvanjem magistra nauka ili umetnosti, kao 
+ i lica sa završenom specijalizacijom i stručnim nazivom specijaliste;
+VIII stepen
+- u ovaj stepen razvrstavaju se lica sa stečenim naučnim 
+ stepenom doktora nauka;
+12) o postojanju i vrsti faktora koji otežavaju zapošljavanje 
+ unose se sledeći podaci, i to:
+a) subjektivni faktori - psihološki, fizičko-fiziološki i zdravstveni, 
+ pod čijim delovanjem mogućnost za zapošljavanje pojedinca može biti 
+ umanjena a status nezaposlenosti prolongiran;
+b) objektivni faktori - neusklađenost ponude i tražnje zaposlenja 
+ koja utiče na mogućnost zapošljavanja pojedinca;
+13) o posebnim znanjima i veštinama unosi se podatak o svim 
+ sposobnostima, funkcionalnim znanjima i veštinama koje je pojedinac 
+ stekao završavanjem posebnih programa obrazovanja, obukom, usavršavanjem 
+ ili specijalizacijom, a koji mogu da uvećaju njegove mogućnosti, odnosno 
+ da olakšaju njegovo zapošljavanje;
+14) podatak o zaradi unosi se kao:
+a) iznos bruto zarade, koji podrazumeva iznos koji pripada 
+ zaposlenom kao nadoknada za njegov rad, a u koji su uključeni porezi 
+ i doprinosi koji se plaćaju na teret zaposlenog a nisu uključeni porezi 
+ i doprinosi na teret poslodavca;
+b) iznos neto zarade, koji podrazumeva iznos koji se isplaćuje 
+ zaposlenom, a koji predstavlja ostatak od bruto zarade po odbitku poreza 
+ i doprinosa.
+III ZAŠTITA I OBEZBEĐENJE KOMUNIKACIONOG POVEZIVANJA PODATKA
+4. Zaštita podataka u evidencijama u oblasti rada vrši se putem 
+ njihovog prikupljanja, obrade i korišćenja isključivo za svrhe utvrđene 
+ zakonom.
+Zaštita podataka obezbeđuje se i kroz ispravku netačnih podataka, 
+ kao i zabranu korišćenja netačnih, neažurnih i nepotpunih podataka.
+5. Podaci sadržani u evidencijama u oblasti rada koji se koriste 
+ za istraživačke, naučne i slične svrhe, mogu se davati samo u obliku koji 
+ ne omogućava identifikaciju podataka koji su lične ili poverljive prirode.
+6. Lični podaci sadržani u evidencijama u oblasti rada ne mogu 
+ se objavljivati ili saopštavati.
+Ukoliko postoji potreba za korišćenjem ličnih podataka za druge, 
+ osim u statističke svrhe, za to se prethodno obezbeđuje pismena saglasnost 
+ lica na koje se podaci odnose.
+7. Ako evidencije u oblasti rada sadrže podatke lične i poverljive 
+ prirode koji se ni na koji način ne mogu saopštavati, ti podaci u evidencijama 
+ moraju biti posebno označeni.
+8. U uslovima primene automatske obrade podataka subjekti koji 
+ vode evidenciju utvrđuju organizacione i tehničko-tehnološke mere zaštite 
+ podataka od uništenja, gubitka, menjanja ili davanja, neovlašćenog korišćenja 
+ i neovlašćenog pristupa prostoru i opremi koja se koristi u obradi podataka.
+9. Subjekti koji vode evidencije u oblasti rada i savezni organ 
+ nadležan za obradu i objavljivanje podataka obezbeđuju komunikaciono povezivanje 
+ podataka i elektronskim putem razmenjuju podatke iz baza podataka u okviru 
+ informacionog sistema u zapošljavanju i sistema statističkih istraživanja.
+U slučaju kada se razmena podataka vrši na način iz stava 1. 
+ ove tačke, subjekti koji vode evidencije posebnim merama obezbeđuju zaštitu 
+ prikupljenih podataka, računarsku i programsku opremu i prenosne puteve.
+IV OBRASCI PRIJAVA I IZVEŠTAJA
+10.* Za vođenje evidencija u oblasti rada i dostavljanje podataka 
+ propisuju se sledeći obrasci prijava i izveštaja:
+1) E-1, Prijava o slobodnom radnom mestu;
+2) E-2, Izveštaj o realizaciji prijave o slobodnom radnom mestu;
+tač. 3)  i 4)**
+(Prestale da važe)
+5) E-4, Lični karton nezaposlenog lica i
+6) E-4/1, Evidencioni karton nezaposlenog lica;
+7) E-5, Registar ponuda stranih poslodavaca za zapošljavanje 
+ građana SRJ u inostranstvu;
+8) E-6, Lični karton građanina SRJ u inostranstvu i
+9) E-6/1, Zahtev za posredovanje pri zapošljavanju u SRJ;
+10) E-7, Izveštaj o zaposlenim licima koje poslodavac upućuje 
+ na privremeni rad u inostranstvo.
+Obrasci su prilagođeni za automatsku obradu podataka.
+11.* Obrasci E-1 do E-7 iz tačke 10. odštampani su uz ovu odluku 
+ i čine njen sastavni deo.
+12. Evidencija o korisnicima prava invalidskog osiguranja vodi 
+ se na obrascu MIN koji je propisan Odlukom o obrascima prijava podataka 
+ za matičnu evidenciju o osiguranicima i korisnicima prava iz penzijskog 
+ i invalidskog osiguranja.
+V PRELAZNE I ZAVRŠNE ODREDBE
+13. Danom stupanja na snagu ove odluke prestaje da važi Uputstvo 
+ o metodološkim principima za vođenje evidencija u oblasti rada i o sredstvima, 
+ načinu i rokovima dostavljanja prijava i izveštaja ("Službeni list 
+ SFRJ", br. 58/77, 49/82 i 23/86).
+14. Ova odluka stupa na snagu 1. januara 1998. godine.

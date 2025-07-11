@@ -1,0 +1,1221 @@
+Title: PRAVILNIKO OPŠTIM MERAMA ZAŠTITE NA RADU OD OPASNOG DEJSTVA 
+ ELEKTRIČNE STRUJE U OBJEKTIMA NAMENJENIM ZA RAD, RADNIM PROSTORIJAMA I 
+ NA RADILIŠTIMA
+URL: https://www.paragraf.rs/propisi/pravilnik-opstim-merama-zastite-radu-opasnog-dejstva-elektricne-struje.html
+Extracted: 2025-07-06T23:12:09.905070
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O OPŠTIM MERAMA ZAŠTITE NA RADU OD OPASNOG DEJSTVA 
+ ELEKTRIČNE STRUJE U OBJEKTIMA NAMENJENIM ZA RAD, RADNIM PROSTORIJAMA I 
+ NA RADILIŠTIMA
+("Sl. glasnik SRS", br. 21/89)
+I OPŠTE ODREDBE
+Član 1
+Ovim pravilnikom utvrđuju se opšte mere zaštite na radu od 
+ opasnog dejstva električne struje u objektima namenjenim za rad, radnim prostorijama 
+ i na radilištima.
+Opšte mere zaštite na radu od opasnog dejstva električne struje 
+ primenjuju se i pri obavljanju radova na električnim postrojenjima, pri upotrebi 
+ električnih uređaja i pri korišćenju električnih instalacija nazivnih naizmeničnih 
+ napona viših od 50 V i učestanosti 50 Hz, odnosno nazivnih jednosmernih napona 
+ viših od 120 V bez neizmenične komponente.
+Član 2
+Mere zaštite na radu propisane ovim pravilnikom obezbeđuju 
+ se i primenjuju kod projektovanja, izgradnje, rekonstrukcije i korišćenja investicionih 
+ objekata i sredstava rada.
+Član 3
+Elektrotehnički instalacioni materijal, kao i sve električne 
+ naprave, postrojenja, uređaji i sredstva zaštite na radu moraju odgovarati važećim 
+ propisima, standardima i opšte priznatim pravilima zaštite na radu.
+Član 4
+Navedeni izrazi, u smislu ovog pravilnika, imaju sledeća značenja:
+1. elektroenergetski objekat (u daljem tekstu: objekat) je 
+ građevinsko-elektromontažna celina koja služi za proizvodnju, prenos, transformaciju 
+ i distribuciju električne energije;
+2. električna pogonska prostorija je prostorija u zgradi ili 
+ otvoreni prostor određen prvenstveno za smeštaj i pogon električnih postrojenja 
+ u koje je dozvoljen pristup prvenstveno licima koja održavaju takva postrojenja 
+ ili njima rukuju, kao i radnicima ovlašćenim da vrše nadzor;
+3. zatvorena električna pogonska prostorija je prostorija u 
+ zgradi ili otvoreni prostor određen isključivo za smeštaj i pogon električnih 
+ postrojenja, koja je prilikom rada postrojenja zaključana i u koju je pristup 
+ dozvoljen samo licima koja održavaju ta postrojenja ili njima rukuju i licima 
+ koja vrše neposredni nadzor;
+4. mesto rada je prostor u objektu ili pored objekta u kome 
+ izvršilac obavlja radni zadatak;
+5. osigurati mesto rada znači primeniti određeni postupak, 
+ zaštitnu opremu i lična zaštitna sredstva u cilju sprečavanja povrede radnika 
+ na radu;
+6. radovi u blizini napona su takvi radovi koji se obavljaju 
+ na propisanoj udaljenosti od dela električnog postrojenja pod naponom koji iz 
+ objektivnih razloga nije moguće isključiti;
+7. radovi u beznaponskom stanju su takvi radovi koji se izvode 
+ na ili pored elektroenergetskih objekata na kojima je sa svih električno provodljivih 
+ delova isključen napon, a pre početka rada preduzete propisane zaštitne mere;
+8. radovi pod naponom su radovi na delovima elektroenergetskih 
+ objekata koji su pod naponom;
+9. privremene instalacije su instalacije koje su privremeno 
+ postavljene za osvetljenje i pogon za vreme izrade građevinskih objekata i izvođenje 
+ drugih radova;
+10. zaštitna sredstva su uređaji, naprave, prenosne i prevozne 
+ sprave koje služe za zaštitu lica koja rade u ili na električnim postrojenjima 
+ od udara električne struje, delovanja električnog luka, električnog polja, produkata 
+ gorenja, od pada sa visine i drugih opasnih dejstava po život i zdravlje radnika;
+11. osnovna zaštitna sredstva su elektroizolaciona zaštitna 
+ sredstva čija izolacija trajno izdržava radni napon električnog postrojenja 
+ prilikom dodirivanja električno provodivih delova pod naponom;
+12. dopunska zaštitna sredstva su elektroizolaciona zaštitna 
+ sredstva koja pri datom naponu ne mogu samostalno da obezbede potrebnu zaštitu 
+ od udara električne struje, već prema potrebi dopunjuju osnovna zaštitna sredstva, 
+ a kao osnovna zaštitna sredstva mogu služiti za zaštitu od napona dodira i napona 
+ koraka;
+13. električni udar je takvo stanje u kome radnik postaje deo 
+ električnog kola usled direktnog dodira, kao i usled pojave napona dodira, odnosno 
+ napona koraka, tako da kroz telo radnika protiče električna struja;
+14. radilišta su radni prostori izvan radnih prostorija u kojima 
+ se obavlja rad, odnosno u kojima se kreću ili pretežni deo radnog vremena zadržavaju 
+ radnici;
+15. sigurnosni razmak je najkraće dozvoljeno rastojanje radnika, 
+ odnosno neizolovanog alata ili predmeta kojim se radnik služi i dela elektroenergetskog 
+ postrojenja pod naponom;
+16. prenosni alat je električna mašina na motorni ili magnetni 
+ pogon namenjena za obavljanje mehaničkog rada koja se može držati rukom, preneti 
+ sa mesta na mesto i odložiti u toku rada, a konstruisana je tako da pogonski 
+ i radni deo čine celinu;
+17. prenosni alat klase I je takav prenosni alat koji pored 
+ osnovne izolacije ima i dodatnu zaštitnu meru od udara električne struje za 
+ slučaj proboja izolacije;
+18. prenosni alat klase II je takav prenosni alat koji pored 
+ osnovne izolacije ima i pojačanu ili dvostruku izolaciju koja ne zahteva zaštitno 
+ uzemljenje;
+19. prenosni alat klase III je takav prenosni alat koji se 
+ priključuje samo na zaštitni mali napon u cilju zaštite od električnog udara;
+20. zaštitni mali napon je nazivni napon koji ne prelazi:
+- 42 V između dva provodnika kod trofaznog napajanja i između 
+ provodnika i uzemljenja,
+- 24 V između faznog i neutralnog napajanja pri opterećenom 
+ stanju mreže,
+- 50 V između faznog provodnika, odnosno 29 V između faznog 
+ i neutralnog provodnika u neopterećenom stanju mreže kod trofaznog napajanja;
+21. transformator za razdvajanje je transformator predviđen 
+ da na principu galvanski odvojenih strujnih kola napaja alat nazivnim naponom 
+ (primarni je namotaj galvanski odvojen od sekundarnog dvostrukom, odnosno pojačanom 
+ izolacijom);
+22. zaštitni transformator za razdvajanje je takav transformator 
+ za razdvajanje koji pored galvanske odvojenosti primarnog i sekundarnog namotaja 
+ ima i sniženi napon na sekundarnu (u daljem tekstu: zaštitni transformator);
+23. postrojenje u pogonu je stanje postrojenja u procesu proizvodnje, 
+ prenosa, distribucije i korišćenja električne energije;
+24. opsluživanje postrojenja obuhvata nadzor i kontrolu nad 
+ stanjem postrojenja, kao i manipulacije i podešavanja;
+25. radovi na električnim postrojenjima i objektima obuhvataju 
+ radove na održavanju i rekonstrukciji postrojenja.
+II KLASIFIKACIJA OPASNOSTI OD ELEKTRIČNE STRUJE I PODELA OBJEKATA 
+ NA ZONE OPASNOSTI
+Član 5
+Prilikom projektovanja, izgradnje ili rekonstrukcije, s obzirom 
+ na opasnosti od povređivanja električnom strujom, radne prostorije i prostori 
+ klasifikuju se prema spoljašnjim uticajima u skladu sa odgovarajućim jugoslovenskim 
+ standardima.
+Klasifikacija spoljašnjih uticaja iz stava 1 ovog člana predstavlja 
+ elemenat projektnog zadatka za izradu tehničke dokumentacije odgovarajuće električne 
+ instalacije.
+Član 6
+U odnosu na spoljašnje uticaje električna oprema i instalacije 
+ u radnim prostorijama i prostorima mora biti izabrana i postavljena prema odgovarajućim 
+ jugoslovenskim standardima i važećim tehničkim propisima za takvu vrstu elektroenergetskih 
+ instalacija.
+Član 7
+Prema stepenu opasnosti od električne struje, a u cilju regulisanja 
+ bezopasnog pristupa u električna postrojenja preko 1000 V definišu se tri zone, 
+ i to:
+- I zona - zona slobodnog kretanja, odnosno zona u kojoj nisu 
+ potrebna posebna upozorenja i uputstva o ponašanju ni mere zaštite;
+- II zona - zona manipulacije i kontrole - u koju spadaju električne 
+ pogonske prostorije i zatvorene električne pogonske prostorije;
+- III zona - zona opasnosti je prostor oko delova pod naponom 
+ na udaljenosti manjoj od sigurnosnog razmaka.
+Član 8
+Organizacija udruženog rada odgovarajućim aktom utvrđuje zone 
+ u svojim objektima u smislu člana 7 ovog pravilnika, uslove pristupa u objekte, 
+ kao i način kretanja, pridržavajući se sledećih načela:
+a) da je u I zoni dozvoljeno kretanje svim radnicima sa radnim 
+ zadatkom, a za posetioce obavezna pratnja stručnog lica;
+b) da je u II zoni dozvoljeno slobodno kretanje radnicima elektrostruke 
+ korisnika objekta koji dolaze po radnom zadatku, za ostale radnike u zavisnosti 
+ od stepena njihove obučenosti i stepena opasnosti koja preti ocenjuje se kada 
+ je potrebna pratnja, nadzor, odnosno primena odgovarajućih zaštitnih mera, a 
+ posetioci obavezno moraju imati pratnju stručnog lica;
+v) da je pristup u III zoni dozvoljen kod radova u beznaponskom 
+ stanju:
+- radnicima koji sprovode osiguranje mesta rada,
+- radnicima navedenim u dokumentu za rad, posle osiguranja 
+ mesta rada, izvršnih priprema za rad u blizini napona, odnosno za rad pod naponom,
+- licima unutrašnjeg i spoljnog nadzora.
+III TEHNIČKE ZAŠTITNE MERE
+Član 9
+Tehničke zaštitne mere obezbeđuju se izborom i ugradnjom adekvatne 
+ opreme i materijala, u skladu sa odgovarajućim standardima i uz primenu drugih 
+ zaštitnih mera na osnovu prethodno izvršene klasifikacije prostorija i prostora 
+ prema odredbama člana 5 ovog pravilnika.
+Član 10
+U radnim prostorijama i na radilištima sprovode se odgovarajuće 
+ tehničke mere zaštite od električnog udara, požara koji prouzrokuje električna 
+ energija, prekomerne struje, kratkih spojeva, prenapona, nedostatka ili pada 
+ napona.
+U radnim prostorijama i na radilištima klasifikovanih prema 
+ spoljašnjim uticajima (član 5), prilikom primene zaštitnih mera iz stava 1 ovog 
+ člana uzimaju se u obzir i spoljašnji uticaji.
+IV ELEKTRIČNA POSTROJENJA
+Član 11
+Pristup u električne pogonske prostorije i u zatvorene električne 
+ pogonske prostorije po pravilu nije dozvoljen neupućenim i neovlašćenim licima.
+Zabrana pristupa iz stava 1 ovog člana ističe se na ulaznim 
+ vratima.
+Pristup u električne pogonske prostorije i u zatvorene električne 
+ pogonske prostorije licima iz stava 1 ovog člana dozvoljen je samo u pratnji 
+ stručnog lica.
+Član 12
+Na elektroenergetskim objektima i postrojenjima mogu samostalno 
+ raditi ili radom rukovoditi samo stručna lica.
+Na elektroenergetskim objektima i postrojenjima mogu raditi 
+ i druga lica, ali samo uz pratnju, odnosno nadzor ovlašćenog radnika.
+Ulazak i kretanje posetilaca u elektroenergetskim objektima 
+ i postrojenjima vrši se uz obaveznu pratnju stručnog lica, u skladu sa internim 
+ aktom organizacije.
+1. Osnovna pravila bezbednog rada pri rukovanju električnim postrojenima 
+ napona preko 1000 V
+1.1. Opsluživanje
+Član 13
+Vrata prostorija elektropostrojenja moraju stalno biti zaključana. 
+ Vrata iz razvodnih postrojenja moraju se otvarati u pravcu drugih prostorija 
+ ili spolja i imati samozatvarajuće brave s ručicama, koje se otključavaju bez 
+ ključa sa strane razvodnog postrojenja. Vrata između odeljenja istog razvodnog 
+ postrojenja ili među susednim prostorijama dva razvodna postrojenja mogu biti 
+ bez brave, ali moraju imati uređaj koji učvršćuje vrata u zatvorenom položaju 
+ i ne ometa otvaranje vrata u oba smera.
+Za svaku prostoriju elektropostrojenja treba imati najmanje 
+ dva kompleta ključeva, od kojih je jedan rezervni. Ključevi od prostorija razvodnih 
+ postrojenja ne smeju se podudarati sa ključevima za vrata ćelija.
+Način obezbeđenja, čuvanja, izdavanja i vraćanja ključeva od 
+ prostorija elektropostrojenja uređuje se aktom organizacije.
+Član 14
+Opsluživanje postrojenja mogu vršiti samo stručna lica.
+Stručna lica iz stava 1 ovog člana moraju biti upoznata sa 
+ merama zaštite na radu i tehničkom regulativom iz svoje oblasti rada, zatim 
+ sa pružanjem prve pomoći kod električnih udara i postupkom u slučaju požara.
+Član 15
+Pregled električnih postrojenja vrši se isključivo sa spoljne 
+ strane ograde, odnosno prepreke.
+Izuzetno, pregled zatvorenih razvodnih postrojenja može se 
+ vršiti i ulaskom iza ograde, odnosno prepreke, pod uslovom da pregled vrše najmanje 
+ dva stručna lica.
+Pri vršenju pregleda električnih postrojenja u III zoni opasnosti 
+ ne mogu se obavljati drugi radovi.
+Član 16
+Nije dozvoljen pristup mestu zemljospoja na rastojanju manjem 
+ od 4 m u zatvorenim postrojenjima, odnosno na 8 m na otvorenom prostoru.
+Izuzetno od stava 1 ovog člana dozvoljen je pristup i na manjem 
+ rastojanju samo u slučaju vršenja manipulacija sa komutacionim uređajem pri 
+ otklanjanju zemljospoja, a takođe i prilikom oslobađanja postradalog iz strujnog 
+ kruga, pri čemu se koriste odgovarajuća zaštitna sredstva.
+Član 17
+Isključenje strujnog kola pomoću rastavljača vrši se tako što 
+ se strujno kolo prethodno prekine odgovarajućim prekidačem snage, zatim proveri 
+ da li je mehanizam i stvarno isključen, pa se rastavi strujno kolo odgovarajućim 
+ rastavljačima i na kraju proveri ispravnost obavljanja manipulacija.
+Manipulacija uključenja vrši se obrnutim redom, uz proveru 
+ ispravnosti izvršenih radnji, odnosno postupka.
+U toku uključenja, odnosno isključenja strujnog kola lica koja 
+ obavljaju manipulacije ne smeju biti ometana od drugih lica, niti se druga lica 
+ mogu nalaziti u blizini uređaja sa kojima se manipuliše.
+Član 18
+Kod manipulacije rasklopnim aparatima koje se vrše pomoću ručnih 
+ pogona ili izolacionih motki obavezna je upotreba zaštitnog šlema i elektroizolacionih 
+ rukavica.
+Član 19
+Zamena visokonaponskih osigurača može se vršiti samo u neopterećenom 
+ strujnom kolu, a zamena osigurača pod naponom vrši se uz primenu izolacionih 
+ klešta i ostalih zaštitnih sredstava.
+1.2. Radovi
+Član 20
+Radovi u električnim postrojenjima s obzirom na zaštitne mere, 
+ dele se na tri kategorije:
+a) radovi u beznaponskom stanju;
+b) radovi u blizini napona; i
+v) radovi pod naponom.
+Član 21
+Prilikom unošenja u električna postrojenja dugačkih provodljivih 
+ predmeta i manipulacije sa njima u razvodnim postrojenjima u kojima pojedini 
+ delovi pod naponom nisu zaštićeni od dodira, postupa se sa posebnom pažnjom, 
+ uz neprekidan nadzor drugog lica.
+Član 22
+Pri radu u električnim postrojenjima nje dozvoljena upotreba 
+ neispravnih izolacionih sredstava.
+Član 23
+Elektroradovi na otvorenom prostoru ne mogu se obavljati:
+- pri nevremenu praćenom atmosferskim pražnjenjem koje se može 
+ preneti na mesto rada;
+- pri vetru iznad 60 km/h, ako se radovi obavljaju na visini 
+ iznad 3 m;
+- kod temperature ispod - 18
+o
+C 
+ i iznad +35
+o
+C u hladu.
+Rukovodilac radova odlučuje kada će se prekinuti rad u slučaju 
+ iz stava 1 alineja 1 ovog člana i o mogućnosti rada na visini pri vetru brzine 
+ ispod 60 km/h.
+Rukovodilac radova odlučuje da li je moguć rad pri pojavi kiše, 
+ magle i snežnih padavina, a izuzetno može, u slučaju posebnih okolnosti, po 
+ sopstvenoj proceni, odlučiti da se rad nastavi i pod težim uslovima iz stava 
+ 1 ovog člana, osim u slučaju iz alineje 1 tog stava.
+1.2.1. Mere za bezbedan rad u beznaponskom stanju
+Član 24
+Pre početka radova u beznaponskom stanju mesto rada obezbeđuje 
+ se primenom zaštitnih mera prema sledećem redosledu:
+a) prekidač se isključuje i, ako to konstruktivne karakteristike 
+ dozvoljavaju, vidljivo odvaja od napona;
+b) sprečava se slučajno ponovno uključivanje prekidača i rastavljača;
+v) na odgovarajući način utvrđuje beznaponskom stanje;
+g) izvrši uzemljivanje i kratka spajanja;
+d) ograđuje mesto rada od delova pod naponom.
+Član 25
+Prilikom osiguranja mesta rada u trafostanicama sa daljinskim 
+ upravljanjem, prethodno se isključuje daljinsko upravljanje i na odgovarajući 
+ način sprečava i slučajno ponovno uključenje objekta ili dela objekta na kome 
+ se radi.
+Član 26
+U postrojenjima kod kojih se izvršenje prekida ne može uočiti 
+ na vidljiv način, konstatacija prekida vrši se putem pomoćnog strujnog kola 
+ sa signalizacijom ili na drugi pouzdan način.
+Član 27
+U elektroenergetskim objektima naprave za uzemljivanje i kratko 
+ spajanje postavljaju se:
+- na mestima odvajanja od napona;
+- na svakoj isključnoj galvanski odvojenoj deonici u blizini 
+ mesta rada, koja može doći pod napon ili se na njoj može indukovati napon;
+- na mestu rada, i to na svim provodnicima.
+Član 28
+Zamena visokonaponskih osigurača i pregled Bucholz relea u 
+ beznaponskom stanju može se vršiti i bez kratkog spajanja i uzemljivanja, bez 
+ ograđivanja delova pod naponom, kao i bez dozvole za rad izdate u smislu ovog 
+ pravilnika, pri čemu se:
+- za isključene delove postrojenja smatra kao da su pod naponom;
+- zamena visokonaponskih osigurača izvodi izolacionim alatom 
+ i primenom ličnih zaštitnih sredstava.
+Član 29
+Utvrđivanje beznaponskog stanja na jednosistemskim nadzemnim 
+ vodovima može se izvršiti i prebacivanjem tankog provodnika sa nabacivačkom 
+ puškom preko faznih provodnika.
+Član 30
+Na nadzemnim vodovima iznad 1000 V, osim uzemljivanja i kratkog 
+ spajanja na mestu rada, mora se izvršiti uzemljivanje i kratko spajanje na svim 
+ mestima odvajanja od galvanski odvojene mreže koja ostaje pod naponom.
+Član 31
+Kad se radovi obavljaju samo na jednom stubu, prenosne naprave 
+ za uzemljivanje i kratko spajanje na nadzemnom vodu postavljaju se:
+- na jednom mestu, što bliže mestu rada, ukoliko se provodnici 
+ ne razdvajaju;
+- na svakoj galvanski odvojenoj deonici, ukoliko se provodnici 
+ razdvajaju u dve ili više galvanski odvojene deonice.
+Kad se radovi obavljaju na više stubova, prenosne naprave iz 
+ stava 1 ovog člana postavljaju se sa svake strane radne deonice sa koje može 
+ da dođe do prodora napona, s tim što udaljenost između postavljenih prenosnih 
+ naprava ne sme biti veća od 2 km.
+Kad postoji ukrštanje između vodova na radnoj deonici sa drugim 
+ vodom pod naponom, na stubu radne deonice koji je najbliži mestu ukrštanja postavljaju 
+ se i dodatne prenosne naprave za uzemljivanje i kratko spajanje.
+Član 32
+Kod radova na kablovskom vodu uzemljivanje i kratko spajanje 
+ vrši se obavezno na svim mestima odvajanja od napona, a na mestu rada ako to 
+ dozvoljava tehnologija rada.
+Ukoliko se mesto rada nalazi na prelasku kabla u nadzemni vod, 
+ obavezno se vrši uzemljivanje i kratko spajanje i na mestu rada.
+Član 33
+Pre početka radova na već određenom kablu treba izvršiti mehaničko 
+ probijanje kabla odgovarajućim uređajem ili alatom sa izolovanom ručkom.
+Ako zbog tehnologije rada postupak iz stava 1 ovog člana nije 
+ izvodljiv, treba primeniti druge dovoljno sigurne metode (primena indikatora 
+ sa šiljkom preko izolacije žila i dr.).
+Ako je pouzdano utvrđen traženi kabl, ne mora se sprovoditi 
+ postupak na način utvrđen st. 1 i 2 ovog člana.
+Član 34
+Ako kablovi sa uzemljenim metalnim plaštom leže u području 
+ uticaja mreže jednosmerne ili naizmenične struje za željeznice ili leže u području 
+ naponskog levka mreže sa uzemljenom neutralnom tačkom, metalni omotač se mora 
+ premostiti na mestu rada bakarnim provodnikom preseka najmanje 16 mm
+2
+, 
+ i to pre sečenja kabla.
+Član 35
+Kod radova na kablovskim vodovima preko kojih se može preneti 
+ potencijal iz postrojenja napajanja na mesto rada, proračunom i analizom određuju 
+ se mesta i način uzemljivanja i kratkog spajanja.
+Kod radova na kablovskim vodovima kod kojih, usled dejstva 
+ napojne železničke mreže, postoji opasnost od prenetog potencijala, proračunom 
+ i analizom utvrđuje se stepen opasnosti i sprovode mere uzemljivanja, kratkog 
+ spajanja, izjednačavanja potencijala i druge zaštitne mere.
+1.2.2. Mere za bezbedan rad u blizini napona
+Član 36
+Pri radovima koji se izvode u blizini napona susedni delovi 
+ pod naponom osiguravaju se od slučajnog neposrednog ili posrednog dodira, pomoću 
+ dovoljno čvrstih i pouzdano postavljenih izolacionih zaštitnih pregrada, ploča, 
+ prekrivača i drugih zaštitnih sredstava.
+Kod nazivnih napona iznad 1000 V najmanji sigurnosni razmak 
+ između delova pod naponom i izolacione zaštitne pregrade ne sme biti manji:
+iznad
+1 do 6 kV
+90 mm u prostoriji
+iznad
+6 do 10 kV
+115 mm u prostoriji
+iznad
+6 do 10 kV
+150 mm na otvorenom
+iznad
+10 do 20 kV
+215 mm u prostoriji i na otvorenom
+iznad
+20 do 35 kV
+325 mm    "
+iznad
+35 do 110 kV
+1100 mm    "
+iznad
+110 do 220 kV
+2200 mm    "
+iznad
+220 do 400 kV
+2900 mm    "
+Izuzetno od stava 2 ovog člana, za unutrašnja postrojenja nazivnog 
+ napona do 35 kV navedeni razmaci mogu biti i manji, ako se primeni izolaciona 
+ zaštitna ploča od materijala takve električne čvrstoće i drugih osobina da izdrži 
+ sva propisana ispitivanja za određeni stepen izolacije.
+Član 37
+Radovi u blizini napona mogu se izvoditi bez primene izolacione 
+ zaštitne pregrade ili ploče, ako ne postoji mogućnost primene izolacione zaštitne 
+ pregrade ili ploče (postrojenja starijih konstrukcija i sl.).
+U slučaju iz stava 1 ovog člana, sigurnosni razmak od delova 
+ pod naponom ne sme biti manji:
+iznad
+1 do 10 kV
+400 mm u prostoriji
+iznad
+1 do 10 kV
+700 mm na otvorenom
+iznad
+10 do 35 kV
+700 mm u prostoriji i na otvorenom
+iznad
+35 do 110 kV
+1150 mm    "
+iznad
+110 do 220 kV
+2300 mm    "
+iznad
+220 do 400 kV
+3300 mm    "
+Član 38
+Pri upotrebi lestava, glomaznih predmeta i transportnih sredstava 
+ u spoljnim postrojenjima i kod radova na vodovima, najmanji sigurnosni razmak 
+ približavanja od delova pod naponom ne sme biti manji:
+do
+1 kV
+800 mm
+iznad
+1 do 10 kV
+1200 mm
+iznad
+10 do 35 kV
+1500 mm
+iznad
+35 do 110 kV
+2000 mm
+iznad
+110 do 220 kV
+3000 mm
+iznad
+220 do 400 kV
+4000 mm
+Član 39
+Na višesistemskim dalekovodima napona iznad 35 kV, mogu se 
+ izvoditi radovi samo na sistemu koji je isključen, a ako je bar jedan od ostalih 
+ sistema pod naponom, moraju biti ispunjeni i sledeći uslovi:
+- da sigurnosni razmak nije manji od razmaka iz člana 38 ovog 
+ pravilnika za odgovarajući red napona;
+- da se radovi ne mogu vršiti istovremeno na više stubova, 
+ već samo na jednom stubu, na kome se vrši uzemljivanje i kratko spajanje;
+- da krajevi voda ne smeju biti uzemljeni;
+- da se izvod između izlaznog rastavljača i prekidača kratko 
+ spoji i uzemlji.
+Član 40
+Na višesistemskim vodovima napona do 35 kV, mogu se izvoditi 
+ radovi samo na sistemu koji je isključen, a ako je bar jedan od ostalih sistema 
+ pod naponom, moraju biti ispunjeni i sledeći uslovi:
+- da se rad obavlja sa pokretnom platformom (korpom) postavljenom 
+ sa spoljašnje strane isključenog voda;
+- da između radnika i alata, odnosno pribora kojim se služi 
+ i delova pod naponom sigurnosni razmak nije manji od razmaka iz člana 38 ovog 
+ pravilnika za odgovarajući red napona;
+- da se radovi ne mogu vršiti istovremeno na više stubova, 
+ već samo na jednom stubu, na kome se vrši uzemljivanje i kratko spajanje;
+- da krajevi voda ne smeju biti uzemljeni;
+- da je na krajevima voda, ukoliko za to postoji konstrukciona 
+ mogućnost, izvršeno uzemljenje i kratko spajanje između prekidača i izlaznog 
+ rastavljača.
+Član 41
+Prilikom izvođenja radova na višesistemskim vodovima iz čl. 
+ 39 i 40 ovog pravilnika, kad neki od sistema ostaju pod naponom, preuzimaju 
+ se i posebne mere za sprečavanje zamene sistema koji je isključen sistemom koji 
+ je pod naponom, odnosno mere za utvrđivanje koji je sistem pod naponom.
+Član 42
+Prilikom izvođenja radova na dalekovodu čija trasa ide uporedo 
+ sa dalekovodom pod naponom, na osnovu proračuna i analize elektromagnetnih i 
+ elektrostatičkih uticaja dalekovoda pod naponom na dalekovod na kome se izvode 
+ radovi, posebno se određuje mesto i način uzemljenja i kratkog spajanja u cilju 
+ otklanjanja ovih uticaja.
+Mere iz stava 1 ovog člana preduzimaju se i prilikom radova 
+ na razvlačenju provodnika uporedo sa nadzemnim vodovima pod naponom, na osnovu 
+ proračuna i analize elektromagnetnih i elektrostatičkih uticaja nadzemnih vodova 
+ pod naponom na uporedo razvlačene provodnike.
+Član 43
+Ako se provodnici voda na kome se radi razvlače ili zatežu 
+ ispod ili iznad voda pod naponom, preduzimaju se potrebne mere u cilju održavanja 
+ sigurnosnog razmaka iz člana 38 ovog pravilnika, za odgovarajući red napona.
+Član 44
+Ako se na istim stubovima nalaze niskonaponski i visokonaponski 
+ vodovi, dozvoljen je rad na niskonaponskom vodu dok se visokonaponski nalazi 
+ pod naponom, ako je između radnika i neizolovanog alata, odnosno pribora kojim 
+ se radnik služi i delova pod naponom osiguran minimalan razmak prema članu 38 
+ ovog pravilnika i ako se niskonaponski vod uzemlji i kratko spoji na mestu rada.
+Član 45
+Na stubovima vodova visokog napona mogu se izvoditi radovi 
+ u blizini delova pod naponom, ako se njima ne narušava stabilnost stuba i ako 
+ je obezbeđeno održavanje sigurnosnog razmaka iz člana 38 ovog pravilnika.
+Ako u izvođenju radova iz stava 1 ovog člana učestvuju priučena 
+ lica, na vidni način označavaju se i granice kretanja.
+Član 46
+Prilikom sečenja grana i drveća u blizini voda koji se nalazi 
+ pod naponom moraju se održavati sigurnosni razmaci iz člana 38 ovog pravilnika.
+U toku sečenja, ne sme se dozvoliti nekontrolisani pad drveća 
+ i grana u blizini voda. Ne sme se ostaviti zasečeno drvo, a nije dozvoljeno 
+ ni penjanje na drvo koje se seče.
+Član 47
+Prilikom radova na prelazima preko drugih objekata (železnice, 
+ putevi i dr.) primenjuju se sledeće zaštitne mere:
+- usklađivanje plana radova, kako bi se saobraćaj što manje 
+ ometao;
+- stalno održavanje sigurnosnog razmaka iz člana 38 ovog pravilnika.
+1.2.3. Mere za bezbedan rad pod naponom
+Član 48
+Radovi na delovima objekata koji su pod naponom mogu se izvoditi 
+ ako:
+- je izabran sistem rada pod naponom i radni postupak utvrđen 
+ i proveren;
+- postoje pisana uputstva za svaku vrstu rada;
+- postoji odgovarajući izolacioni alat, pomoćna sredstva, zaštitna 
+ oprema, odnosno lična zaštitna sredstva za svaku vrstu rada u skladu sa izabranim 
+ sistemom rada pod naponom;
+- radnik ispunjava posebne psihofizičke sposobnosti za ovaj 
+ rad, ako je obučen i ako je izvršena provera njegovog znanja za određene vrste 
+ radova pod naponom; i
+- je radnik na periodičnim proverama pokazao zadovoljavajuće 
+ rezultate u pogledu obučenosti za određenu vrstu rada i psihofizičke sposobnosti.
+Član 49
+Radovi pod naponom ne smeju se izvoditi ako:
+- na mestu rada električna varnica može da izazove požar ili 
+ eksploziju; i
+- pri postojanju okolnosti iz člana 23 ovog pravilnika.
+1.3. Dokumenti za rad
+Član 50
+Radovi na elektroenergetskom objektu mogu se izvoditi samo 
+ na osnovu odgovarajućih dokumenata za rad, kao što su: nalog za rad, dozvola 
+ za rad, obaveštenje o završetku rada, depeša i program rada.
+Član 51
+Nalog za rad kojim nadležni rukovodilac određuje odgovorno 
+ stručno lice za izvršenje konkretnog radnog zadatka može se izdati:
+- pismeno - preko određenog obrasca ili teleprinterom;
+- usmeno uz istovremeno snimanje govora; i
+- putem govornih telekomunikacionih veza, uz upisivanje podataka 
+ u određene obrasce i sravnjivanje teksta.
+Nalog za rad daje se tako da izvršiocu bude jasan zadatak - 
+ gde i šta treba da uradi.
+Član 52
+Dozvola za rad, koja se izdaje za izvođenje radova u beznaponskom 
+ stanju u III zoni opasnosti i radova u blizini napona u slučaju primene mera 
+ iz člana 24 ovog pravilnika, izdaje se pre početka radova, i to:
+- pismeno - na određenom obrascu ili teleprinterom (uz povratnu 
+ potvrdu prijema), i
+- putem govornih telekomunikacionih veza i uz upisivanja podataka 
+ u određene obrasce i sravnjivanje teksta.
+Član 53
+Obaveštenjem o završetku rada rukovodilac izveštava ovlašćeno 
+ lice da su radovi završeni, uklonjen sav alat, materijal i zaštitna oprema i 
+ da su radnici udaljeni sa mesta rada, kao i da je objekat spreman za stavljanje 
+ u pogon. Prijava završetka radova se podnosi na isti način na koji se izdaje 
+ dozvola za rad.
+Depešom, koja se obavezno obostrano upisuje u knjigu depeša, 
+ daju se kratka i važna obaveštenja, kao i zahtevi i odobrenja pogonskog značaja. 
+ Depeša se prenosi putem govornih i telekomunikacionih veza, uz sravnjivanje 
+ upisanog teksta telegramom ili teleksom.
+Program rada, kojim se objedinjuje rad više radnih grupa i 
+ određuje koordinator radova, izrađuje se za složenije radove u kojima učestvuje 
+ više radnih grupa.
+1.4. Organizacione mere za bezbedan rad
+Član 54
+Rad na objektima organizuje se tako da se omogući najveća moguća 
+ bezbednost radnika.
+Za objekte moraju postojati detaljna uputstva o manipulaciji, 
+ radu i sigurnosti pri opsluživanju i održavanju postrojenja.
+Vršenje nadzora, organizacije rada i neposrednih tehničkih 
+ radova, kao i izdavanje dokumenata za rad mogu obavljati samo lica koja imaju 
+ potrebne stručne kvalifikacije i ovlašćenja prema odgovarajućim internim aktima 
+ organizacije.
+Član 55
+Sve radove u visokonaponskim objektima uključujući i osiguranje 
+ mesta rada uz povećane opasnosti, osim manipulacija i vizuelnih pregleda objekata, 
+ moraju vršiti najmanje dva lica.
+Ako rad izvodi više radnika, jedan od njih određuje se za rukovodioca 
+ radova.
+Član 56
+Pošto od ovlašćenog lica dobije dozvolu i ostala dokumenta 
+ za rad, rukovodilac radova na mestu rada:
+- proverava da li su sprovedene zaštitne mere;
+- utvrđuje granice delova postrojenja u beznaponskom stanju;
+- po potrebi sprovodi dodatne zaštitne mere.
+U određenim slučajevima, zavisno od konstrukcije mreže, rukovodilac 
+ radova može dobiti i dozvolu za rad za samoisključenje, na osnovu koje je dužan 
+ da sam isključi i osigura mesto rada.
+Rukovodilac radova pre početka rada upozorava radnike na granice 
+ delova postrojenja u beznaponskom stanju i delova pod naponom, na prisutne opasnosti 
+ i na primenu ličnih zaštitnih sredstava i zaštitne opreme i upoznaje ih sa sprovedenim 
+ zaštitnim merama.
+Izvršenje radova može započeti tek kad njihov početak objavi 
+ rukovodilac radova, a ne samo na osnovu prethodnog dogovora o tome da će radovi 
+ započeti u određeno vreme.
+Član 57
+Prilikom vršenja merenja i ispitivanja, delovi postrojenja 
+ moraju biti uzemljeni i kratko spojeni za sve vreme priključivanja, odnosno 
+ skidanja mernih instrumenata.
+Ako to priroda postupka zahteva, prilikom merenja i ispitivanja, 
+ i to samo za vreme očitavanja rezultata merenja, uzemljivači se mogu privremeno 
+ skinuti.
+Član 58
+Po završetku rada rukovodilac radova proverava ispravnost izvršenih 
+ radova, daje nalog radnoj grupi da ukloni sav alat, pribor i osiguranja mesta 
+ rada i da napusti mesto rada, a zatim na pouzdan način obaveštava ovlašćeno 
+ lice za izdavanje dozvole za rad da su radovi završeni i da je objekat spreman 
+ za pogon.
+Član 59
+Po dobijenom obaveštenju da su radovi završeni i da je objekat 
+ spreman za pogon, tek pošto lice ovlašćeno za izdavanje dozvole za rad ukloni 
+ ona osiguranja mesta rada koje je to lice postavilo ili su postavljena po njegovom 
+ nalogu, objekat se može staviti u pogon.
+Nije dozvoljeno uključivanje postrojenja samo na osnovu prethodnog 
+ dogovora, bez pouzdanog obaveštenja o završetku rada i spremnosti objekta za 
+ pogon.
+2. Osnovna pravila bezbednog rada pri rukovanju električnim postrojenjima 
+ napona do 1000 V
+2.1. Opsluživanje
+Član 60
+Sve radove u niskonaponskim objektima vrše najmanje dva radnika, 
+ osim manipulacija sa komutacionim uređajem u razvodnom postrojenju, na razvodnoj 
+ ploči i drugim elementima, koje može da vrši i pojedinac koji poznaje električnu 
+ šemu, električno postrojenje i koji je obučen za obavljanje tih manipulacija.
+Član 61
+Pored manipulacija iz člana 60 ovog pravilnika, pregled niskonaponskih 
+ postrojenja, pojedinačno može vršiti:
+- ovlašćeno stručno lice;
+- stručno lice ili lice koje rukuje električnim postrojenjem.
+Član 62
+Ključeve od postrojenja, električnih ormana, uređaja za pokretanje, 
+ upravljačkih pultova i drugih uređaja i elemenata koji moraju biti obezbeđeni, 
+ a čiji se način obezbeđenja, izdavanja i vraćanja uređuje internim aktom, mogu 
+ lično imati i lica koja rukuju električnim postrojenjima i ona se sa njima zadužuju.
+Član 63
+Zamena topljivih umetaka osigurača obavlja se u beznaponskom 
+ stanju.
+Izuzetno od stava 1 ovog člana, zamena topljivih umetaka osigurača 
+ može se vršiti pod opterećenjem u sledećim slučajevima:
+- zamena topljivih umetaka niskonaponskih osigurača tipa D 
+ i DO, pod uslovom da struja (A) za dati napon (V) ne premašuje vrednosti datih 
+ u tabeli:
+Napon (V)
+-------------------------------           
+           =
+Struja (A)
+»
+do 380
+do 63
+preko 380
+do 16
+do 24
+iznad 0
+iznad 24
+do 60
+do 16
+iznad 60
+do 110
+do 6
+i da su primenjena odgovarajuća zaštitna sredstva;
+- zamena visokoučinskih i niskonaponskih osigurača, ako zamenu 
+ obavljaju posebno obučena stručna lica uz primenu izolacionih ručica, zaštitnog 
+ šlema, zaštitnih naočara ili štita, kožnih rukavica, odnosno drugih odgovarajućih 
+ zaštitnih sredstava.
+2.2. Radovi
+Član 64
+Radovi u električnim postrojenjima, u pogledu zaštitnih mera 
+ od opasnog dejstva električne struje, razvrstavaju se u tri kategorije:
+a) radovi u beznaponskom stanju;
+b) radovi u blizini delova pod naponom; i
+v) radovi pod naponom.
+Član 65
+Nisu dozvoljeni radovi na nadzemnim vodovima, nadzemnim uvodima 
+ i komutacionim uređajima, koji su neposredno spojeni sa nadzemnim vodovima pri 
+ postojanju uslova iz člana 23 ovog pravilnika.
+2.2.1. Mere za bezbedan rad u beznaponskom stanju
+Član 66
+Pri radovima u beznaponskom stanju u objektu moraju se sprovesti 
+ po niže navedenom redosledu sledeće mere:
+a) izvršiti neophodna isključenja;
+b) preduzeti mere koje bi sprečile pojavu napona usled slučajnog 
+ uključenja komutacionog uređaja;
+v) proveriti odsustvo napona na delovima elektropostrojenja 
+ na kojima se obavljaju radovi;
+g) izvesti uzemljivanje i kratko spajanje pomoću prenosnih 
+ uzemljivača svih provodnika koji su pod naponom u normalnom pogonu, uključujući 
+ i neutralni provodnik;
+d) izvršiti ograđivanje mesta rada i delova pod naponom i istaći 
+ upozorenje da se izvode radovi.
+Ako se javnim osvetljenjem upravlja fotoćelijama, pri osiguranju 
+ mesta rada u beznaponskom stanju treba onemogućiti njihovo funkcionisanje.
+Kod radova sa razvodim niskog napona i izolovanim nadzemnim 
+ vodovima niskog napona mere iz stava 1 tačka g) ovog člana ne moraju se primeniti 
+ ako je osigurano beznaponsko stanje i ne postoji opasnost povratnih napona i 
+ prodiranja atmosferskih pražnjenja na mesto rada.
+Pomoćna strujna kola koja se nalaze na mestu rada ne moraju 
+ se isključiti ukoliko je sprečen neposredan dodir sa neizolovanim delovima strujnog 
+ kola i ukoliko se preko njih ne može izazivati nekontrolisano uključenje rasklopnih 
+ aparata.
+Član 67
+Kod nadzemnih vodova nazivnih napona do 1000 V na drvenim stubovima 
+ i drugim stubovima bez zemljovoda nije potrebno uzemljivanje i kratko spajanje 
+ na mestima odvajanja od napona kad se svi provodnici fazni i neutralni i provodnik 
+ za javno osvetljenje spoje.
+U slučaju iz stava 1 ovog člana, prilikom kratkog spajanja, 
+ prvo se vrši spajanje sa neutralnim provodnikom, a zatim sa ostalim (fazni i 
+ provodnik za javno osvetljenje), dok se skidanje kratkog spoja vrši obrnutim 
+ redom.
+Član 68
+Kod kablovskih vodova nazivnog napona do 1000 V nije potrebno 
+ uzemljivanje i kratko spajanje na mestima odvajanja od napona i na mestu rada 
+ kad je pouzdano osigurano beznaponsko stanje, osim u slučaju prelaska kablovskog 
+ voda u nadzemni, kada se obavezno vrši uzemljivanje i kratko spajanje.
+Član 69
+Pri radovima na kablovskim vodovima nazivnog napona do 1000 
+ V u beznaponskom stanju primenjuju se odredbe čl. 34 i 35 ovog pravilnika.
+Član 70
+Nije dozvoljena primena improvizovanih naprava za proveru beznaponskog 
+ stanja.
+2.2.2. Mere za bezbedan rad u blizini delova pod 
+ naponom
+Član 71
+Pri radovima koji se izvode u blizini napona susedni delovi 
+ pod naponom osiguravaju se od slučajnog neposrednog dodira radnika sa delovima 
+ pod naponom, pomoću dovoljno čvrstih i pouzdano postavljenih izolacionih zaštitnih 
+ pregrada, ploča, prekrivača i drugih zaštitnih sredstava.
+Član 72
+Pri upotrebi lestava, glomaznih predmeta i transportnih sredstava 
+ u spoljnim postrojenjima kod radova na vodovima, najmanji sigurnosni razmak 
+ približavanja delova pod naponom određuje se prema odredbi člana 38 ovog pravilnika.
+2.2.3. Mere za bezbedan rad pod naponom
+Član 73
+Na delovima elektroenergetskih objekata, kod kojih nazivni 
+ naponi između provodnika pod naponom ili napon između provodnika pod naponom 
+ i zemlje ne prelazi 50 V naizmeničnog napona, odnosno 120 V jednosmernog napona, 
+ dozvoljen je rad pod naponom uz primenu kožnih zaštitnih rukavica i izolovanog 
+ električnog alata.
+Radovi na delovima elektroenergetskog objekta koji su pod naponom 
+ iznad napona iz stava 1 ovog člana, dozvoljeni su pod uslovima iz čl. 48 i 49 
+ ovog pravilnika.
+2.3. Organizacione mere za bezbedan rad
+Član 74
+Radovi u električnom postrojenju napona do 1000 V vrše se po 
+ nalogu ovlašćenog stručnog lica.
+Član 75
+Način pripreme rada, izdavanja dozvola za rad, vršenje nadzora 
+ za vreme rada, prekid i završetak rada na objektima do 1000 V organizacija uređuje 
+ odgovarajućim opštim aktom.
+3. Mere za sprečavanje povreda od dejstva električne struje indukovanog 
+ napona
+Član 76
+Pri izvođenju radova na nadzemnim elektroenergetskim vodovima 
+ u blizini drugih vodova pod naponom, pored primene zaštitnih mera iz člana 24 
+ ovog pravilnika, preduzimaju se i sledeće mere zaštite:
+- pri obučavanju radnika koji će raditi na nadzemnim vodovima 
+ posebno se ukazuje na opasnost od pojave indukovanog napona i na preventivne 
+ mere za sprečavanje povreda od udara električne struje indukovanog napona;
+- zabraniti postavljanje uzemljivača, naprave za uzemljivanje 
+ i kratko spajanje u nasute gomile zemlje;
+- prilikom postavljanja, odnosno skidanja naprava za uzemljivanje 
+ i kratko spajanje upotrebom izolacione motke sa užadima, radnik se ne sme nalaziti 
+ na rastojanju od voda kraćem od dužine izolacionog dela motke;
+- pri dodavanju alata sa zemlje i drugih naprava monteru koji 
+ se nalazi na stubu nadzemnog voda ili na dizalici, koristiti izolaciono uže;
+- pri vršenju popravki i regulacije na linijskom rastavljaču 
+ postavljaju se naprave za uzemljivanje i kratko spajanje, bez obzira da li rastavljač 
+ ima noževe za uzemljenje;
+- pri radu na nadzemnim vodovima sa više provodnika po fazi, 
+ koji su međusobno razdvojeni izolacionim umecima, vrši se uzemljivanje svakog 
+ provodnika.
+4. Zaštitna sredstva za rad u električnim postrojenjima
+Član 77
+Za zaštitu od električnog udara, delovanja električnog luka, 
+ produkata gorenja i pada sa visine, pri izvođenju radova na elektroenergetskim 
+ objektima koriste se:
+a) izolacione motke, izolaciona klešta za osigurače i za električna 
+ merenja i indikatori napona;
+b) izolaciona sredstva za radove pod naponom i elektro-monterski 
+ alat sa izolacionim ručicama - držačima;
+v) elektro-izolacione rukavice, elektroizolaciona obuća, izolacione 
+ prostirke i prekrivači i izolaciona postolja;
+g) prenosne naprave za uzemljivanje i kratko spajanje;
+d) sredstva za ograđivanje i izolovanje od delova pod naponom 
+ i oznake upozorenja;
+đ) zaštitne naočare, kožne rukavice, gas maske, sigurnosni 
+ pojas, osiguravajuća užad i zaštitni šlem i druga odgovarajuća zaštitna sredstva.
+Zaštitna izolaciona sredstva iz stava 1 ovog člana mogu se 
+ koristiti kao osnovna ili dopunska.
+Član 78
+Osnovna izolaciona sredstva su:
+- izolacione motke;
+- izolaciona klješta za vađenje osigurača i merenje električne 
+ struje;
+- indikatori napona;
+- sredstva za radove pod visokim naponom (izolacione motke, 
+ platforme, pogon vuča koja se neposredno dodiruje sa provodnikom);
+- izolacione pregrade;
+- motke za učvršćivanje izolacionih pregrada i druga zaštitna 
+ sredstva čija izolacija trajno izdržava radni napon električnog postrojenja 
+ prilikom dodirivanja električno provodivih delova pod naponom.
+Izolacioni materijal kod izolacionih sredstava koja se koriste 
+ kao osnovna moraju biti izvedeni prema visini nazivnog napona postrojenja.
+Izolacione rukavice, obuća i prostirke i druga izolaciona zaštitna 
+ sredstva koja se koriste kao dopunska, mogu se upotrebljavati kao osnovna za 
+ zaštitu od napona dodira na delovima postrojenja koji nisu pod naponom u normalnim 
+ pogonskim uslovima.
+Član 79
+Opštim aktom organizacije utvrđuju se opremljenost mobilnih 
+ ekipa i elektroenergetskih postrojenja potrebnim sredstvima zaštite, kao i način 
+ njihovog održavanja.
+Član 80
+Prilikom korišćenja zaštitnih sredstava iz člana 77 ovog pravilnika 
+ mora se voditi računa o sledećem:
+- izolaciona zaštitna sredstva koristiti samo prema nameni 
+ u električnom postrojenju, za napone za koje je predviđeno zaštitno sredstvo;
+- izolaciona zaštitna sredstva mogu se koristiti u uslovima 
+ postrojenja vlažnosti samo ako su konstruisana u uputstvom proizvođača predviđena 
+ za rad u tim uslovima;
+- zaštitna sredstva ne mogu se koristiti pre nego što se izvrši 
+ provera roka njihove upotrebe i postrojenja mehaničkih i drugih oštećenja, odnosno 
+ ispravnosti i izvrši njihovo čišćenje.
+5. Uzemljivanje i kratko spajanje
+Član 81
+Uzemljivanje i kratko spajanje vrši se zemljospojnikom ili 
+ prenosnom napravom za uzemljivanje i kratko spajanje.
+Presek užeta prenosnih naprava za uzemljivanje i kratko spajanje, 
+ koje je izrađeno od tankih bakarnih žica i čije su stezaljke takvih dimenzija 
+ da mogu da izdrže očekivana termička i dinamička naprezanja struje kratkog spoja, 
+ vrši se prema sledećoj tabeli:
+Presek bakarnog užeta u mm
+2
+Najveća dozvoljena struja kratkog spoja 
+ u KA u trajanju od (sekunde)
+10 S
+5 S
+2 S
+1 S
+0,5 S
+0,2 S
+16
+1,0
+1,4
+2,2
+3,2
+4,4
+7
+25
+1,5
+2,2
+3,5
+5,0
+6,8
+11
+35
+2,2
+3,1
+4,8
+7,0
+9,6
+15,4
+50
+3,1
+4,3
+7,0
+10,0
+14
+22
+70
+4,0
+6,0
+9,5
+14,0
+19,5
+30,8
+95
+5,8
+8,3
+13
+18,5
+26,5
+41,9
+120
+7,5
+10,5
+16,5
+23,5
+33,5
+52,9
+150
+9,2
+13,0
+21
+29,5
+42
+66,1
+Član 82
+Izuzetno od člana 81 stav 2 ovog pravilnika, ako je vod identifikovan 
+ i ako je na krajevima voda, na kojima bi mogao da prodre pogonski napon sprovedeno 
+ uzemljivanje i kratko spajanje pomoću naprava koje su dimenzionisane tako da 
+ izdrže očekivane struje kratkog spoja, za uzemljivanje i kratko spajanje na 
+ mestu rada može se koristiti i uže manjeg preseka (najčešće 25 mm
+2
+).
+Član 83
+Za uzemljivanje i kratko spajanje ne mogu se koristiti oštećene 
+ prenosne naprave, kao i prenosne naprave koje su, usled struje kratkog spoja, 
+ bile izložene naprezanju.
+Član 84
+Uzemljene metalne konstrukcije mogu se koristiti za uzemljivanje 
+ i kratko spajanje ako, s obzirom na provodljivost, imaju ekvivalentan presek 
+ prema tabeli iz člana 81 ovog pravilnika i ako su spojevi u konstrukciji dobro 
+ provodljivi.
+Član 85
+Radi odvođenja indukovanih napona koji se mogu javiti u postrojenjima 
+ vrlo visokih napona usled elektrostatičkih i elektromagnetskih uticaja, metalne 
+ skele, dizalice, transportna sredstva i ostali dugački provodni predmeti privremeno 
+ se uzemljuju bakarnim provodnikom preseka 16 mm
+2
+.
+6. Provera i obezbeđenje stabilnosti drvenih stubova
+Član 86
+Pre početka rada na starim drvenim stubovima proverava sa njihova 
+ čvrstina (pojava trulosti i sl.).
+Pre penjanja na stubove kod kojih je utvrđena trulost isti 
+ se moraju obezbediti od rušenja nekom od pouzdanih metoda (ankerisanje, tronožac 
+ i sl.).
+V RADNE PROSTORIJE I RADILIŠTA
+1. Stalne električne instalacije
+Član 87
+Stalne električne instalacije u radnim prostorijama izvode 
+ se na osnovu klasifikacije radne prostorije, odnosno prostora u skladu sa članom 
+ 5 ovog pravilnika i odgovarajućim tehničkim propisima koji regulišu ovu oblast.
+Član 88
+Na svim električnim instalacijama, uređajima i napravama, u 
+ svim radnim prostorijama i drugim prostorima primenjuju se odgovarajuće mere 
+ zaštite od električnog udara u skladu sa odgovarajućim jugoslovenskim standardima, 
+ bez obzira na klasifikaciju u smislu člana 5 ovog pravilnika.
+U cilju zaštite od eksplozije u radnim prostorijama i drugim 
+ prostorima, izuzev rudnika, primenjuju se zaštitne mere i odgovarajuća električna 
+ instalacija i uređaji u skladu sa jugoslovenskim standardima kojima je regulisana 
+ protiveksplozijska zaštita.
+Na objektima u kojima se nalaze prostorije iz stava 2 ovog 
+ člana izvodi se gromobranska zaštita radi sprečavanja eksplozija, odnosno požara 
+ i udara električne struje usled pražnjenja atmosferskog elektriciteta, u skladu 
+ sa strožim uslovima koji su propisani za zaštitu od udara groma.
+2. Privremene električne instalacije
+Član 89
+Privremene električne instalacije na radilištima izvode se 
+ na osnovu klasifikacije prostorije, odnosno prostora u skladu sa članom 5 ovog 
+ pravilnika i odgovarajućih tehničkih propisa za ovu oblast.
+Član 90
+Neizolovani delovi električnih postrojenja (provodnici, šine, 
+ kontakt prekidači i osigurači, stezaljke električnih mašina i aparata i sl.), 
+ koji se nalaze izvan električnih pogonskih prostorija moraju sa svih strana 
+ biti ograđeni ili da se nalaze izvan dohvata ruke.
+Nije dozvoljeno ostavljanje neizolovanih krajeva provodnika 
+ ili kablova posle demontaže aparata ili uređaja.
+Član 91
+Uređaji za stavljanje u pogon mašina, odnosno mehanizama ne 
+ smeju biti dostupni neovlašćenim licima.
+Stavljanje u pogon više mašina, odnosno mehanizama jednim uređajem 
+ može se vršiti samo ako je to predviđeno uputstvom proizvođača i ako te mašine, 
+ odnosno mehanizmi predstavljaju jednu tehničku, odnosno tehnološku celinu.
+Pokretni kontaktni uređaji za uključivanje ne smeju da se nalaze 
+ pod naponom u isključenom položaju, niti da težinom svojih pokretnih delova 
+ zatvaraju strujno kolo.
+Član 92
+Ograde i kućišta elektroprovodljivih delova moraju da budu 
+ izvedeni tako da njihovo skidanje, odnosno otkrivanje može da se izvrši samo 
+ upotrebom ključa ili drugog odgovarajućeg alata.
+Član 93
+Privremene električne instalacije na otvorenom prostoru radilišta 
+ izvode se upotrebom izolovanih odgovarajućih provodnika koji se učvršćuju na 
+ stabilnim stubovima, tako da se najniža tačka provodnika nalazi na najmanje 
+ 2,5 m visine nad radnim mestom, 3,5 m nad pešačkim prolazima, odnosno najmanje 
+ 6 m nad kolskim prolazima.
+Izuzetno od stava 1 ovog člana, nad radnim mestom izolovani 
+ provodnik može se postaviti i na visini manjoj od 2,5 m, s tim što mora biti 
+ smešten u cev ili odgovarajući profil dovoljne mehaničke izdržljivosti.
+Na visini ispod 2,5 m mogu se postavljati svetiljke opšteg 
+ osvetljenja napona 220 V sa izolacijom koja isključuje mogućnost dodira radnika 
+ sa njenim provodljivim delovima, a ukoliko se ne mogu obezbediti takve svetiljke, 
+ za napajanje se koristi sniženi napon (najviše 42 V).
+Član 94
+Električna instalacija na radilištima treba da bude tako izvedena 
+ da se sa jednog mesta mogu isključiti svi provodnici pod naponom.
+Nakon isključenja napona glavnim prekidačem, obavezno je isključivanje 
+ opasnih alata sopstvenim prekidačima.
+Član 95
+Svi montažni i remontni radovi na električnim mrežama i postrojenjima 
+ i radovi na priključivanju i otpajanju (klemovanju) provodnika moraju se vršiti 
+ pri isključenom naponu uz primenu pravila iz čl. 24 i 56 ovog pravilnika.
+Izuzetno od stava 1 ovog člana, radovi koji se izvode sa mernom 
+ izolacionom motkom i priključivanje pokretnih mehanizama pomoću specijalnih 
+ provodnih uređaja, mogu se vršiti i pod naponom.
+Član 96
+Zamena pregorelih osigurača može se vršiti i pod naponom, uz 
+ obavezno isključenje opterećenja.
+Član 97
+Zamena sijalica po pravilu se obavlja u beznaponskom stanju.
+Zamena sijalica snage do 1000 W i napona prema zemlji do 250 
+ V, može se vršiti pod naponom ako se obavlja sa odgovarajućom opreznošću i uz 
+ primenu odgovarajućih zaštitnih sredstava.
+Član 98
+Svetiljke i elektrificirani alati napona do 50 V moraju da 
+ se napajaju iz zaštitnih transformatora izgrađenih u skladu sa odgovarajućim 
+ jugoslovenskim standardima, a alati visoke učestanosti iz odgovarajućih pretvarača 
+ učestanosti.
+Za napajanje svetiljki i alata iz stava 1 ovog člana ne smeju 
+ se koristiti autotransformatori, induktivni kalemovi i reostati za dobijanje 
+ nižih napona.
+Član 99
+Priključivanje na električnu mrežu elektromotora, elektrificiranog 
+ alata, uređaja električnog osvetljenja i drugih električnih prijemnika može 
+ se vršiti samo pomoću predviđenih uređaja i naprava za ove namene.
+Zabranjeno je priključivanje električnih prijemnika na električnu 
+ mrežu uvijanjem krajeva provodnika ili na drugi improvizovani način.
+Član 100
+Radnici koji rukuju električnim instalacijama i električnim 
+ postrojenjima na radilištima moraju prilikom rada da koriste izolacione rukavice, 
+ kožne rukavice, izolacionu obuću, alat sa izolacionim ručicama i druga odgovarajuća 
+ zaštitna sredstva.
+Izolaciona sredstva iz stava 1 ovog člana ne smeju se koristiti 
+ po isteku predviđenog roka upotrebe, niti ako se periodičnim pregledom njihove 
+ ispravnosti utvrdi da nisu ispravna za upotrebu.
+Član 101
+Zabranjena je upotreba gumenih zaštitnih sredstava koja imaju 
+ ubode i naprsline.
+Gumena zaštitna sredstva moraju se pre upotrebe pregledati 
+ i očistiti od prljavštine, a u slučaju pojave vlage detaljno obrisati i osušiti.
+VI PRENOSNI ALAT, PRENOSNE ELEKTRIČNE SVETILJKE I ZAŠTITNI 
+ TRANSFORMATORI
+Član 102
+Kod korišćenja prenosnih alata, vrsta i uslovi njihovog korišćenja 
+ određuju se u zavisnosti od klasifikacije prostorija prema spoljašnjim uticajima 
+ (član 5), a prema sledećoj tabeli:
+Klasa prostorije
+Napon alata (V)
+Uslovi korišćenja Alat Klasa
+Bez povećane opasnosti
+do 50
+I - bez uzemljenja kućišta
+127-220
+I - II
+Sa povećanom opasnošću
+do 50
+127-200
+III
+II
+Naročito opasne
+do 50
+III
+127-220
+II ili I sa priključkom preko transformatora za razdvajanje
+Izuzetno od stava 1 ovog člana, radovi u metalnim rezervoarima, 
+ kotlovima, cilindrima, cevovodima, ložištima, odvodima gasova iz kotla i drugim 
+ naročito provodljivim sredinama smatraju se naročito opasnim, bez obzira na 
+ klasifikaciju prostora prema spoljnim uticajima gde se isti nalaze.
+Na otvorenom prostoru može se obavljati rad samo sa prenosnim 
+ alatima klase II ili III.
+Član 103
+Priključivanje prenosnog alata na električnu instalaciju može 
+ se vršiti samo pomoću kvalitetno izolovanih provodnika u zajedničkom plaštu 
+ ili radioničkim gajtanom čiji je presek provodnika najmanje 1,5 mm
+2
+. 
+ Za zaštitu dovodnih provodnika od prejakog savijanja i oštećenja na alatu se 
+ postavljaju dobro učvršćene uvodnice od izolacionog materijala.
+Član 104
+Zaštita od napona dodira prenosnog alata klase I izvodi se 
+ pomoću posebnog zaštitnog provodnika koji se nalazi u istom plaštu sa faznim 
+ i neutralnim provodnikom.
+Za zaštitu od napona dodira iz stava 1 ovog člana zabranjeno 
+ je korišćenje neutralnog provodnika.
+Član 105
+Kabl prenosnog alata mora biti zaštićen od oštećenja.
+Za vreme rada sa prenosnim alatom nije dozvoljeno natezanje 
+ i lomljenje priključnih kablova, niti njihovo ukrštanje sa čeličnim užadima, 
+ kablovima za zavarivanje, sa crevima koja služe za dovod gasova kod aparata 
+ za gasno rezanje i zavarivanje i sa drugim materijalima koji mogu da oštete 
+ priključne kablove.
+Član 106
+Uključivanje i isključivanje prenosnog alata iz priključnice 
+ vrši se samo pri isključenom položaju prekidača na alatu.
+Pri svakom udaljavanju sa mesta rada i prekidu (nastanku) napona 
+ za vreme rada sa prenosnim alatom, alat se mora isključiti iz električne instalacije.
+Član 107
+Pri radu sa prenosnim alatom zabranjeno je:
+- dodavanje alata u aktivnom stanju;
+- unošenje prenosnih zaštitnih transformatora, transformatora 
+ za razdvajanje i pretvarača učestanosti u unutrašnjost kotlova i metalnih rezervoara;
+- davanje na upotrebu elektrificiranog alata drugim licima, 
+ a naročito licima koja nisu obučena za rad sa takvim alatom.
+Član 108
+Kada se ne koristi, prenosni alat mora da se čuva u prostorijama 
+ bez vlage.
+Član 109
+Prenosni alati, prenosne svetiljke, transformatori za razdvajanje, 
+ zaštitni transformatori i pretvarači učestanosti moraju da se provere na: spoj 
+ sa masom, neprekidnost zaštitnog provodnika, ispravnost izolacije napojnih provodnika 
+ i ogolelost provodljivih delova i izolovanost između radnog i pogonskog dela 
+ alata. Transformatori za razdvajanje i zaštitni transformatori moraju još da 
+ se provere i na odsustvo spoja među namotima višeg i nižeg napona.
+Radna organizacija uređuje način i učestalost provera iz stava 
+ 1 ovog člana.
+Član 110
+Radnik koji izdaje prenosni alat i koji ga prima obavezno se 
+ moraju osvedočiti u ispravnost alata, pri čemu se vrši provera: zategnutosti 
+ zavrtnjeva pojedinih detalja prenosnog alata, stanje provodnika - kabla, odsustvo 
+ spoljnih oštećenja njegove izolacije i preloma žila, ispravnost prekidača i 
+ zaštitnog provodnika.
+Izdavanje neispravnog prenosnog alata nije dozvoljeno.
+Član 111
+Ako za vreme rada primeti neispravnost prenosnog alata, radnik 
+ odmah prekida rad i vraća neispravan alat na proveru i popravku.
+Član 112
+Ručne svetiljke moraju ispunjavati uslove predviđene odgovarajućim 
+ jugoslovenskim standardom, a za rad u kotlovima i sličnim objektima moraju biti 
+ zaštićene zaštitnom mrežom i zaštitnim staklom.
+Prilikom rada u kotlovima i drugim naročito provodnim prostorijama, 
+ ručne svetiljke priključuju se na napon do 24 V koji se kod naizmenične struje 
+ dobija pomoću prenosnih zaštitnih transformatora izgrađenih u skladu sa odgovarajućim 
+ jugoslovenskim standardom, a kod jednosmerne struje napajanje se vrši pomoću 
+ akumulatora.
+Član 113
+Za priključenje prenosnih ručnih električnih svetiljki mogu 
+ se koristiti samo kvalitetno izolovani provodnici u zajedničkom plaštu ili radionički 
+ gajtani.
+Član 114
+Ako se za vreme rada primeti neispravnost prenosne električne 
+ svetiljke, kabla ili zaštitnog transformatora, treba ih odmah zameniti ispravnim.
+U naročito provodljivim prostorijama, odnosno sredinama zabranjena 
+ je zamena sijalica na prenosnim svetiljkama.
+Član 115
+Transformator za razdvajanje i zaštitni transformator na koji 
+ se priključuje prenosna ručna svetiljka ili prenosni alat, ne unosi se u naročito 
+ provodljive prostorije odnosno sredine (kotao, metalni sud, šaht, rov i sl.).
+Za obezbeđenje sniženog napona na koji se priključuju prenosni 
+ alati i ručne svetiljke ne smeju se koristiti autotransformatori.
+Član 116
+Prenosni alati i ručne prenosne svetiljke priključuju se na 
+ transformator za razdvajanje odnosno zaštitni transformator samo na priključnicu 
+ koja se nalazi na sekundarnoj strani transformatora i koja se razlikuje od standardnih 
+ priključnica 127 V i 220 V.
+Transformator za razdvajanje i zaštitni transformator na primarnoj 
+ strani imaju priključni kabl sa utikačem.
+Priključni kabl iz stava 2 ovog člana zaštićen je izolovanim 
+ savitljivim plaštom.
+Član 117
+Zaštitni transformator mora da ima inventarski broj.
+Zaštitni transformatori i prenosne svetiljke moraju da se čuvaju 
+ u odgovarajućim prostorijama.
+Pri izdavanju zaštitnog transformatora i prenosnih svetiljki, 
+ radnik koji ih izdaje i radnik koji ih prima, moraju da se osvedoče u njihovu 
+ ispravnost.
+VII ISPITIVANJE, NADZOR I KONTROLA
+Član 118
+U cilju primene, odnosno obezbeđenja uslova za primenu mera 
+ zaštite na radu utvrđenih ovim pravilnikom, organizacije udruženog rada vrše 
+ sistematsku kontrolu ispravnosti, održavanje električnih postrojenja i instalacija 
+ i preglede i ispitivanja zaštitnih sredstava u rokovima predviđenim aktom organizacije.
+O rezultatima pregleda i ispitivanja vodi se evidencija koja 
+ naročito sadrži:
+- datum i mesto pregleda, ispitivanja, odnosno merenja;
+- podatke o metodu merenja i upotrebljenim instrumentima;
+- način i rezultate ispitivanja, odnosno merenja;
+- ocenu rezultata;
+- ime, prezime, zvanje i potpis stručnog lica koje je vršilo 
+ merenje, odnosno ispitivanje.
+Član 119
+Pregled i ispitivanje stanja primenjenih mera zaštite od električnog 
+ udara predviđenih odgovarajućim jugoslovenskim standardima, vrši se:
+- pre puštanja u pogon postrojenja, instalacija i oruđa za 
+ rad;
+- nakon rekonstrukcija;
+- periodično u rokovima propisanim aktom organizacije.
+Član 120
+Pregled i ispitivanje ličnih zaštitnih sredstava i zaštitne 
+ opreme vrši se u skladu sa odgovarajućim jugoslovenskim standardom.
+Član 121
+Kad se preventivna ispitivanja i merenja obavljaju pokretnim 
+ ispitnim kolima, primenjuju se sledeće zaštitne mere:
+1. pokretne ispitne laboratorije moraju imati prekidač sa vidljivim 
+ prekidom kontakta na dovodu električne energije, sa zaštitom od slučajnog dodira 
+ delova pod naponom;
+2. pokretne ispitne laboratorije moraju imati svetlosne signale 
+ koji upozoravaju na prisutnost napona u visokonaponskom delu pokretne laboratorije;
+3. ne primenjivati spojne provodnike bez specijalnih završnica;
+4. zabraniti prisustvo ljudi u blizini opreme koja se ispituje;
+5. oklop pokretne laboratorije mora obavezno da bude uzemljen 
+ posebnim zemljovodom od elastičnog bakarnog provodnika sa presekom od najmanje 
+ 10 mm
+2
+;
+6. vršilac merenja mora lično pre svakog podizanja ispitnog 
+ napona da udaljava ljude od ispitnog kola i od opreme koja se ispituje i da 
+ proverava isključivanje i uzemljivanje kola posle završetka svakog ispitivanja.
+VIII PRELAZNE I ZAVRŠNE ODREDBE
+Član 122
+Organizacije udruženog rada uskladiće samoupravna opšta akta 
+ o zaštiti na radu sa odredbama ovog pravilnika u roku od šest meseci od dana 
+ stupanja na snagu ovog pravilnika.
+Član 123
+Danom stupanja na snagu ovog pravilnika odredbe Pravilnika 
+ o zaštitnim merama protiv opasnosti od električne struje u radnim prostorijama 
+ i radilištima ("Službeni list FNRJ", br. 107/47), prestaju da se primenjuju 
+ kao pravila u smislu člana 94 tačka 5 Zakona o zaštiti na radu ("Službeni 
+ glasnik SR Srbije", br. 21/78, 23/78, 22/79 i 10/85).
+Član 124
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja 
+ u "Službenom glasniku Socijalističke Republike Srbije".

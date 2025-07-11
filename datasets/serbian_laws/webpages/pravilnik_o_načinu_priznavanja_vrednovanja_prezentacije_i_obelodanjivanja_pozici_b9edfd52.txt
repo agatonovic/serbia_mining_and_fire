@@ -1,0 +1,1542 @@
+Title: PRAVILNIKO NAČINU PRIZNAVANJA, VREDNOVANJA, PREZENTACIJE I OBELODANJIVANJA
+POZICIJA U POJEDINAČNIM FINANSIJSKIM IZVEŠTAJIMA MIKRO I DRUGIH PRAVNIH LICA
+URL: https://www.paragraf.rs/propisi/pravilnik-nacinu-priznavanja-vrednovanja-prezentacije-obelodanjivanja-pozicija-pojedinacnim.html
+Extracted: 2025-07-06T23:11:24.666017
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O NAČINU PRIZNAVANJA, VREDNOVANJA, PREZENTACIJE I OBELODANJIVANJA
+POZICIJA U POJEDINAČNIM FINANSIJSKIM IZVEŠTAJIMA MIKRO I DRUGIH PRAVNIH LICA
+("Sl. glasnik RS", br. 89/2020)
+I OSNOVNE ODREDBE
+Član 1
+Ovim pravilnikom propisuje se način priznavanja, vrednovanja, prezentacije
+i obelodanjivanja pozicija u pojedinačnim finansijskim izveštajima mikro i drugih pravnih
+lica (u daljem tekstu: poslovni subjekti), koji ne primenjuju Međunarodne standarde finansijskog
+izveštavanja (u daljem tekstu: MSFI), odnosno Međunarodni standard finansijskog izveštavanja
+za mala i srednja pravna lica (u daljem tekstu: MSFI za MSP), u skladu sa čl. 25. i 26. Zakona
+o računovodstvu ("Službeni glasnik RS", broj 73/19 - u daljem tekstu: Zakon).
+Član 2
+Poslovni subjekti priznavanje, vrednovanje, prezentaciju i obelodanjivanje
+pozicija u pojedinačnim finansijskim izveštajima vrše u skladu sa Zakonom, ovim pravilnikom
+i internim aktom o računovodstvenim politikama.
+Odredbe ovog pravilnika ne odnose se na poslovne subjekte koji su u skladu
+sa članom 26. st. 2. i 3. Zakona odlučili da u kontinuitetu primenjuju MSFI ili MSFI za MSP.
+Definicije
+Član 3
+Pojedini pojmovi, u smislu ovog pravilnika, imaju sledeća značenja:
+1) mikro pravno lice iz člana 1. ovog pravilnika je pravno lice i preduzetnik
+koji su na osnovu kriterijuma iz člana 6. stav 2. Zakona, razvrstani u mikro pravno lice;
+2) drugo pravno lice iz člana 1. ovog pravilnika je drugo pravno lice iz
+člana 2. tačka 2) Zakona, čije se poslovanje delom finansira iz javnih prihoda ili drugih
+namenskih izvora, a delom ili u celini po osnovu učlanjenja i koje se ne osniva radi sticanja
+dobiti (političke organizacije, sindikalne organizacije sa svojstvom pravnog lica, fondacije
+i zadužbine, udruženja, komore, crkve i verske zajednice, u delu obavljanja privredne ili
+druge delatnosti u skladu sa propisima kojima je uređeno obavljanje tih delatnosti, kao i
+druge organizacije organizovane po osnovu učlanjenja);
+3) transakcije su poslovne aktivnosti koje, u okviru svog poslovanja, poslovni
+subjekt redovno sprovodi i koje dovode do promena njegovih sredstava, obaveza i kapitala
+(uz mogući nastanak prihoda i rashoda);
+4) događaji su dešavanja koja nisu direktno povezana sa poslovanjem, ali
+dovode do izmena na sredstvima, obavezama ili kapitalu poslovnog subjekta, kao što su: oštećenja
+sredstava, nelikvidnost poslovnih partnera i sl.;
+5) okolnosti su stanja u kojima poslovni subjekt posluje, kao što su: opšti
+indeks rasta potrošačkih cena (inflacija), promena kursa domaće valute u odnosu na strane
+valute, poreske olakšice, itd.;
+6) nepotrebni troškovi ili napori predstavljaju uslov za izuzimanje od
+primene određenog zahteva propisanog ovim pravilnikom. Izuzimanje po ovom uslovu može se
+vršiti samo za primenu zahteva za koji je propisana mogućnost izuzimanja, a na druge zahteve
+se ne može primeniti. Primena određenog zahteva bi podrazumevala nepotrebne troškove ili
+napore ako bi troškovi koji su direktno pripisiva pribavljanju određene informacije (npr.
+naknade za procenitelja) ili dodatni napori (npr. angažovanje zaposlenih) bili znatno veći
+od koristi koje bi korisnici finansijskih izveštaja poslovnog subjekta ostvarili posedovanjem
+te informacije. Procenjivanje da li bi određeni zahtev podrazumevao nepotrebne troškove ili
+napore pri početnom priznavanju u finansijskim izveštajima, npr. na datum transakcije, treba
+da bude zasnovano na informacijama o troškovima i koristima tog zahteva u trenutku početnog
+priznavanja. Ako se izuzimanje po osnovu nepotrebnih troškova ili napora primenjuje i nakon
+početnog priznavanja, (npr. na naknadno odmeravanje neke stavke), treba izvršiti novu procenu
+nepotrebnih troškova ili napora na taj naknadni datum, na bazi informacija dostupnih na taj
+datum.
+II OSNOVNE PRETPOSTAVKE I NAČELA FINANSIJSKOG IZVEŠTAVANJA
+1. Opšta računovodstvena načela
+Član 4
+Pozicije, koje se prikazuju u redovnim finansijskim izveštajima poslovnih
+subjekata, vrednuju se u skladu sa opštim računovodstvenim načelima:
+1) pretpostavke da poslovni subjekt posluje kontinuirano;
+2) računovodstvene politike i osnove vrednovanja primenjuju se dosledno
+iz godine u godinu;
+3) priznavanje i vrednovanje se vrši uz primenu principa opreznosti, a
+posebno:
+(1) može se priznati samo dobit koja se ostvari do datuma bilansa,
+(2) u Bilansu stanja prikazuju se obaveze nastale u toku tekuće
+ili prethodnih poslovnih godina, čak i ukoliko takve obaveze postanu evidentne samo između
+datuma Bilansa stanja i datuma njegovog sastavljanja,
+(3) u obzir se uzimaju sva obezvređenja, bez obzira da li je rezultat
+poslovne godine dobitak ili gubitak;
+4) u obzir se uzimaju svi prihodi i rashodi koji se odnose na poslovnu
+godinu bez obzira na datum njihove naplate, odnosno isplate;
+5) komponente imovine i obaveza vrednuju se posebno;
+6) zabranjeno je prebijanje između stavki aktive i pasive ili između stavki
+prihoda i rashoda;
+7) bilans otvaranja za svaku poslovnu godinu mora da bude jednak bilansu
+zatvaranja za prethodnu poslovnu godinu;
+8) stavke Bilansa uspeha i Bilansa stanja obračunavaju se i prezentuju
+uzimajući u obzir suštinu predmetne transakcije ili predmetnog posla;
+9) iznosi priznati u Bilansu stanja i Bilansu uspeha izračunavaju se na
+obračunskoj osnovi korišćenjem načela uzročnosti prihoda i rashoda.
+U skladu sa načelom nastanka poslovnog događaja, poslovni događaj se priznaje
+kada je nastao i uključuje se u finansijske izveštaje u periodu na koji se odnosi, nezavisno
+od prijema ili isplate novca u vezi sa tim poslovnim događajem.
+2. Kvalitativna obeležja finansijskih izveštaja
+Član 5
+Finansijski izveštaji treba istinito i objektivno da prezentuju finansijsku
+poziciju, finansijsku uspešnost i novčane tokove poslovnog subjekta. Istinito i objektivno
+prikazivanje zahteva verno prikazivanje efekata transakcija, drugih poslovnih događaja u
+skladu sa kriterijima za priznavanje imovine, obaveza, kapitala, prihoda i rashoda.
+Finansijski izveštaji, u redovnim okolnostima, se sastavljaju uz pretpostavku
+stalnosti poslovanja poslovnog subjekta, odnosno pretpostavku da njegovo poslovanje neće
+biti obustavljeno u periodu kraćem od godinu dana od dana izveštavanja.
+Svaka materijalno značajna stavka treba da bude prezentovana u finansijskim
+izveštajima. Stavke koje imaju sličnu prirodu i funkcionalne osobine mogu biti prikazane
+kao grupa stavki.
+Materijalna značajnost koja se primenjuje na stavke u finansijskim izveštajima
+poslovnog subjekta, treba da bude definisana internim aktom kojim poslovni subjekt uređuje
+računovodstvene politike. Kriterijum za utvrđivanje materijalnog značaja određene stavke
+je procena da li bi izostavljanje te stavke iz finansijskih izveštaja ili njeno pogrešno
+prikazivanje uticalo na donošenje poslovnih odluka korisnika finansijskih izveštaja.
+Član 6
+Pri sastavljanju finansijskih izveštaja na dan otvaranja, odnosno zaključenja
+postupka stečaja i likvidacije, prestanka poslovanja preduzetnika, kao i u slučajevima kada
+se u toku trajanja tih postupaka sastavljaju godišnji finansijski izveštaji, poslovni subjekti
+primenjuju odredbe ovog pravilnika, s tim što vrednovanje imovine koja čini stečajnu, odnosno
+likvidacionu masu, vrše u skladu sa propisima kojima se uređuje stečaj i likvidacija privrednih
+subjekata.
+3. Računovodstvene politike, promene računovodstvenih procena
+i greške
+Računovodstvene politike, računovodstvene procene i greške
+Član 7
+Računovodstvene politike su specifični principi, osnove, konvencije, pravila
+i prakse koje poslovni subjekt primenjuje pri sastavljanju i prezentaciji finansijskih izveštaja.
+Pri izboru računovodstvenih politika poslovni subjekt treba da se pridržava
+opštih računovodstvenih načela, principa i pravila vrednovanja koji su propisani ovim pravilnikom
+i koji su primenljivi na konkretnu transakciju.
+U slučaju kada za konkretnu situaciju i transakciju nisu propisana odgovarajuća
+načela i pravila odredbama ovog pravilnika, poslovni subjekt može primeniti kriterijume za
+priznavanje i vrednovanje imovine, obaveza, prihoda i rashoda i rezultata poslovanja koji
+su propisani MSFI, odnosno MSFI za MSP.
+Računovodstvene procene podrazumevaju procenu iznosa neke stavke finansijskih
+izveštaja u odsustvu preciznog načina za merenje. Kao posledica neizvesnosti, koje su sastavni
+deo poslovnih aktivnosti, veliki broj pozicija u finansijskim izveštajima nije moguće tačno
+izmeriti, već one mogu samo da se procene. Korišćenje adekvatnih procena je bitan deo pripreme
+finansijskih izveštaja i ne ugrožava njihovu pouzdanost.
+Promena računovodstvene procene su usaglašavanja knjigovodstvene vrednosti
+imovine ili obaveza, ili iznosa periodičnog trošenja sredstva, koja proizlazi iz procene
+sadašnjeg stanja i očekivanih budućih koristi i obaveza povezanih s tom imovinom i obavezama.
+Promene računovodstvenih procena rezultat su novih informacija ili novih
+događaja i, shodno tome, nisu ispravke grešaka.
+Greške iz prethodnog perioda su značajna izostavljanja iz finansijskih
+izveštaja ili značajna pogrešna prikazivanja u finansijskim izveštajima poslovnog subjekta
+za jedan ili više perioda koji proizilaze iz neupotrebljavanja ili pogrešne upotrebe pouzdanih
+informacija:
+1) koje su bile dostupne kada su finansijski izveštaji za date periode
+bili odobreni za objavljivanje, i
+2) za koje se moglo razumno očekivati da budu dobijene i uzete u obzir
+pri sastavljanju i prezentaciji tih finansijskih izveštaja.
+U takve greške ubrajaju se efekti matematičkih grešaka, grešaka pri primenjivanju
+računovodstvenih politika, pogrešnog tumačenja činjenica, prevare ili previda.
+Promene računovodstvenih politika
+Član 8
+Promenu računovodstvene politike poslovni subjekt može vršiti samo ako
+je ta promena zahtevana izmenama računovodstvenih propisa, ili ako promena obezbeđuje pouzdanije
+i relevantnije informacije o finansijskom položaju i rezultatima poslovanja.
+U promene računovodstvenih politika ne spadaju:
+1) primena neke računovodstvene politike za transakcije, druge događaje
+ili uslove koji su u osnovi različiti od postojećih;
+2) primena nove računovodstvene politike za transakcije, druge događaje
+ili uslove koji ranije nisu postojali ili su beznačajni.
+Promena računovodstvene politike primenjuje se na sledeći način:
+1) kada je promena računovodstvene politike nastala kao posledica prve
+primene nekog računovodstvenog propisa, odnosno standarda, ta promena iskazuje se u skladu
+sa tim propisom, odnosno standardom;
+2) kada se računovodstvene politike menjaju dobrovoljno ili kada je promena
+računovodstvenih politika rezultat početne (prve) primene nekog računovodstvenog propisa,
+odnosno standarda, koji ne sadrži prelazne odredbe o načinu primene te promene i kada je
+moguće odrediti efekte promene računovodstvene politike za određeni period ili kumulativne
+efekte promene, takvu promenu računovodstvene politike treba primeniti retrospektivno.
+Po mogućnosti, retrospektivnom primenom promenjene računovodstvene politike
+poslovni subjekt će uskladiti svaku komponentu kapitala, na koju se ta promena odražava,
+početno stanje za najranije prikazani period i druge uporedne iznose objavljene za svaki
+prezentovani period, kao da se nova računovodstvena politika oduvek primenjivala.
+U slučaju kada nije moguće utvrditi efekte ili kumulativne efekte izmenjene
+računovodstvene politike u prethodnim periodima, poslovni subjekt će primeniti novu računovodstvenu
+politiku na knjigovodstvene iznose imovine i obaveza sa stanjem na početku najranijeg perioda
+za koji je moguća retrospektivna primena, što može biti i tekući period.
+Odgovarajuća usklađivanja poslovni subjekt će sprovesti na svakoj komponenti
+kapitala na koju se usklađivanje odnosi.
+Usklađivanje se obično sprovodi na stavci neraspoređene dobiti ili nepokrivenog
+gubitka.
+Računovodstvene politike primenjene pri sastavljanju finansijskih izveštaja,
+koje su važne za njihovo razumevanje, poslovni subjekt treba da objavi u Napomenama uz finansijske
+izveštaje ukoliko ih sastavlja u skladu sa Zakonom.
+Promena računovodstvenih procena
+Član 9
+Veliki broj stavki u finansijskim izveštajima zahteva procenu njihove vrednosti
+jer ih nije moguće na drugi način tačno meriti (npr. sumnjiva i sporna potraživanja, zastarele
+zalihe, fer vrednost finansijske imovine ili obaveza, vek upotrebe imovine, obaveze po osnovu
+jemstva i dr.). To podrazumeva da je korišćenje adekvatnih metoda procena bitan deo sastavljanja
+finansijskih izveštaja i ne umanjuje njihovu pouzdanost. Korišćena procena će zahtevati izmene
+ako se promene okolnosti na kojima se zasnivala ili zbog novih informacija i većeg iskustva.
+Po svojoj prirodi promena procene ne odnosi se na prethodne periode i ne predstavlja ispravku
+greške.
+U promenu računovodstvene procene ne spada promena ranije primenjene osnovice
+merenja, već takva promena spada u promenu računovodstvene politike.
+Kada je teško razlikovati promenu računovodstvene politike od promene računovodstvene
+procene, promena se smatra promenom računovodstvene procene.
+U meri u kojoj iz promene računovodstvene procene proizilaze promene u
+imovini i obavezama ili se odnosi na neku stavku kapitala, takvu promenu treba priznati usklađivanjem
+knjigovodstvenih iznosa odgovarajuće stavke imovine, obaveza ili kapitala u periodu nastale
+promene.
+U drugim slučajevima, osim slučaja iz stava 4. ovog člana, efekat promene
+računovodstvene procene, priznaje se uključivanjem u dobitak ili gubitak u:
+1) periodu promene, ako promena utiče samo na taj period; ili
+2) periodu promene i budućim periodima, ako promena utiče na oba perioda.
+Promena računovodstvene procene može uticati samo na dobitak ili gubitak
+tekućeg perioda, ili na dobitak i gubitak tekućeg i budućih perioda. U Napomenama uz finansijske
+izveštaje obelodanjuju se promene računovodstvenih procena i njihovi efekti na vrednost bilansnih
+pozicija.
+Ispravke računovodstvenih grešaka
+Član 10
+Materijalno značajno izostavljanje ili pogrešno prikazivanje stavki u finansijskim
+izveštajima postoji kada one pojedinačno ili zbirno, mogu uticati na odluke korisnika donete
+na osnovu tih izveštaja.
+Značajnost zavisi od veličine izostavljene ili pogrešno prikazane stavke
+o čemu se prosuđuje u konkretnim okolnostima.
+Veličina ili vrsta stavke ili njihova kombinacija mogu biti odlučujući
+činilac za utvrđivanje značajnosti greške.
+Konkretne kriterijume za utvrđivanje materijalno značajne greške poslovni
+subjekt uređuje svojom računovodstvenom politikom.
+Materijalno značajne greške u finansijskim izveštajima poslovnog subjekta
+iz prethodnog perioda ispravljaju se korekcijom početnog stanja neraspoređenog dobitka, odnosno
+gubitka u periodu u kome su utvrđene.
+Ispravke grešaka iz ranijih perioda koje se u skladu sa računovodstvenom
+politikom poslovnog subjekta ne smatraju materijalno značajnim greškama, vrše se korekcijom
+prihoda i rashoda za period u kojem su te greške ustanovljene.
+4. Događaji nakon datuma bilansa
+Član 11
+Poslovni subjekt obavezan je da uskladi iznose koje je priznao u finansijskim
+izveštajima sa događajima koji su nastali od datuma bilansa do datuma pod kojim je odobreno
+objavljivanje finansijskih izveštaja, u sledećim slučajevima:
+1) kada sudska presuda doneta nakon datuma bilansa potvrđuje da je na datum
+bilansa postojala sadašnja obaveza;
+2) kada informacija dobijena nakon datuma bilansa potvrđuje da je vrednost
+nekog sredstva na datum bilansa bila umanjena ili da je iznos prethodno priznatog gubitka
+od obezvređenja tog sredstva potrebno uskladiti, kao što je:
+(1) stečaj kupca nastao posle datuma Bilansa stanja obično potvrđuje
+da je gubitak na računu potraživanja već postojao na datum bilansa stanja i da poslovni subjekt
+treba da koriguje knjigovodstvenu vrednost potraživanja od kupca, i
+(2) prodaja zaliha posle datuma Bilansa stanja može da pruži dokaz
+o njihovoj prodajnoj ceni umanjenoj za troškove dovršenja i prodaje na datum Bilansa stanja,
+(3) naplata potraživanja od kupaca koja su bila obezvređena na
+datum Bilansa stanja;
+4) utvrđivanje, posle datuma Bilansa stanja, nabavne vrednosti imovine
+koja je kupljena pre datuma Bilansa stanja, ili utvrđivanje novčanih priliva od prodaje imovine
+pre datuma Bilansa stanja;
+5) utvrđivanje visine dobiti za raspodelu ili isplatu naknada posle datuma
+Bilansa stanja, ako je poslovni subjekt na datum Bilansa stanja imao sadašnju zakonsku ili
+izvedenu obavezu za svaku takvu isplatu kao rezultat događaja nastalih pre tog datuma, i
+6) otkrivanje prevare ili greške zbog kojih su finansijski izveštaji neispravni.
+Poslovni subjekt ne može iznose priznate u finansijskim izveštajima uskladiti
+sa događajima nakon datuma bilansa koji ne zahtevaju usklađivanje. Primeri nekorektivnih
+događaja su:
+1) opadanje tržišne vrednosti investicije između datuma Bilansa stanja
+i datuma na koji su finansijski izveštaji odobreni za objavljivanje, jer pad tržišne vrednosti
+obično se ne odnosi na stanje investicije na datum Bilansa stanja, ali održava okolnosti
+koje nastaju u narednom periodu. Prema tome, poslovni subjekt ne koriguje iznose investicija
+priznatih u njegovim finansijskim izveštajima;
+2) ako poslovni subjekt objavi isplatu dividendi, odnosno učešća u dobiti
+po osnovu raspodele dobiti vlasnicima instrumenata kapitala posle datuma Bilansa stanja,
+ove dividende ne treba priznati kao obavezu na datum Bilansa stanja, jer ne ispunjavaju kriterijume
+postojanja sadašnje obaveze.
+Poslovni subjekt koji sastavlja Napomene uz finansijske izveštaje, dužan
+je da u Napomenama objavi datum na koji je odobreno objavljivanje finansijskih izveštaja,
+jer događaji nastali nakon tog datuma ne zahtevaju usklađivanje.
+III VREDNOVANJE POZICIJA BILANSA STANJA
+1. Imovina
+Član 12
+Imovina je resurs koji kontroliše poslovni subjekt kao rezultat proteklih
+događaja i od kojeg očekuje priliv budućih ekonomskih koristi i ako se njegova vrednost može
+utvrditi.
+Imovina se priznaje u finansijskim izveštajima kada je priliv ekonomskih
+koristi u privredni subjekt verovatan i ako se njena vrednost može pouzdano odmeriti.
+a) Upisani, a neuplaćeni kapital
+Član 13
+Upisani, a neuplaćeni kapital procenjuje se u visini nominalnog iznosa
+potraživanja po osnovu upisa kapitala.
+b) Dugoročna nematerijalna imovina
+Priznavanje nematerijalne imovine
+Član 14
+Nematerijalnom imovinom, u smislu ovog pravilnika, smatraju se ulaganja
+u nemonetarna sredstva bez fizičkog sadržaja, koja služe za proizvodnju ili isporuku dobara
+i usluga, za iznajmljivanje drugim licima ili se koriste u administrativne svrhe, čiji efekti
+se očekuju u periodu dužem od jedne godine, kao što su koncesije, patenti, licence, zaštitni
+znaci, softver i slična prava, plaćeni avansi za pribavljanje nematerijalne imovine, kao
+i kupovinom stečeni gudvil.
+Nematerijalna imovina ispunjava uslov za priznavanje samo ako:
+1) postoji verovatnoća priliva budućih ekonomskih koristi koje se mogu
+pripisati tom sredstvu u poslovni subjekt; i
+2) ukoliko može pouzdano da se izmeri njegova nabavna vrednost ili cena
+koštanja.
+Poslovni subjekt procenjuje verovatnoću budućih ekonomskih koristi koristeći
+razumne i prihvatljive pretpostavke koje predstavljaju najbolju procenu uprave poslovnog
+subjekta ukupnih ekonomskih uslova koji će postojati tokom veka trajanja te imovine.
+Nematerijalna imovina obuhvata: izdatke za razvoj, patente, licence, koncesije,
+zaštitne znake, softver, dozvolu za ribarenje, franšize i ostala prava, gudvil, avanse za
+nematerijalnu imovinu i ostalu nematerijalnu imovinu.
+Nematerijalna imovina koja se koristi po osnovu finansijskog lizinga kojim
+se na korisnika lizinga prenose svi značajni rizici i koristi povezane sa korišćenom imovinom
+klasifikuje se kao dugoročna nematerijalna imovina.
+Nematerijalna imovina koja proističe iz razvoja (ili iz faze razvoja internog
+projekta) se priznaje kao imovina ako, i samo ako, poslovni subjekt može da dokaže sledeće:
+1) tehničku izvodljivost završavanja nematerijalne imovine, tako da će
+ona biti raspoloživa za korišćenje ili prodaju;
+2) svoju nameru da završi nematerijalnu imovinu i da je koristi ili proda;
+3) svoju sposobnost korišćenja ili prodaje nematerijalne imovine;
+4) kako će nematerijalna imovina generisati verovatne buduće ekonomske
+koristi. Između ostalog, poslovni subjekt može da demonstrira postojanje tržišta za proizvod
+nematerijalne imovine ili samu nematerijalnu imovinu ili, ukoliko se koristi interno, upotrebljivost
+nematerijalne imovine;
+5) raspoloživost adekvatnih tehničkih, finansijskih i drugih resursa za
+završavanje razvoja i korišćenje ili prodaju nematerijalne imovine.
+6) njegovu sposobnost pouzdanog odmeravanja izdataka koji se mogu pripisati
+nematerijalnoj imovini tokom njenog razvoja.
+Troškovi koji proističu iz istraživanja (ili iz faze istraživanja internog
+projekta) se ne priznaju kao nematerijalna imovina. Izdaci po osnovu istraživanja (ili u
+fazi istraživanja internog projekta) se priznaju kao rashod u trenutku njihovog nastanka.
+Interno stečeni gudvil i interno generisani zaštitni znakovi, impresumi,
+izdavački naslovi liste kupaca i stavke slične sadržine se ne priznaju kao nematerijalna
+imovina.
+Vrednovanje nematerijalne imovine
+Član 15
+Za odmeravanje nematerijalne imovine poslovni subjekt svojom računovodstvenom
+politikom opredeljuje model nabavne vrednosti ili model revalorizacije. Ukoliko se nematerijalna
+imovina računovodstveno obuhvata primenom modela revalorizacije, sva druga imovina iz njene
+grupe se takođe odmerava primenom istog modela, osim ako ne postoji aktivno tržište za tu
+drugu imovinu.
+Model nabavne vrednosti podrazumeva da se nakon početnog priznavanja, nematerijalna
+imovina vrednuje po svojoj nabavnoj vrednosti (ceni koštanja) umanjenoj za akumuliranu amortizaciju
+i eventualne akumulirane gubitke od obezvređenja.
+Nabavna vrednost (cena koštanja) posebno stečene nematerijalne imovine
+se sastoji od:
+1) fakturne cene uključujući uvozne dažbine i porez plaćen pri nabavci
+koji se ne može povratiti, nakon odbitka trgovinskih popusta i rabata; i
+2) bilo kakvih direktno pripisivih troškova pripreme imovine za namenjenu
+upotrebu.
+Primeri direktno pripisivih troškova su:
+1) troškovi primanja zaposlenih nastalih direktno u procesu dovođenja imovine
+u radno stanje;
+2) profesionalne naknade nastale direktno u procesu dovođenja imovine u
+radno stanje; i
+3) troškovi testiranja pravilnog funkcionisanja imovine.
+Primeri izdataka koji ne čine deo nabavne vrednosti nematerijalne imovine
+su:
+1) troškovi uvođenja novog proizvoda ili usluge (uključujući troškove reklamiranja
+i promovisanja);
+2) troškovi vođenja posla na novoj lokaciji ili sa novom grupom kupaca
+(uključujući troškove obuke osoblja); i
+3) administrativni i drugi opšti režijski troškovi.
+Priznavanje troškova u knjigovodstvenoj vrednosti nematerijalne imovine
+prestaje kada se imovina nalazi u stanju potrebnom da bi mogla da funkcioniše na način koji
+je uprava predvidela. Stoga, troškovi koji nastanu tokom korišćenja ili ponovnog raspoređivanja
+nematerijalne imovine ne uključuju se u knjigovodstvenu vrednost te imovine. U knjigovodstvenu
+vrednost nematerijalne imovine nisu uključeni sledeći troškovi:
+1) troškovi koji nastaju kada imovina koja može da funkcioniše na način
+koji je uprava predvidela tek treba da se stavi u upotrebu;
+2) početni gubici poslovanja, kao što su gubici nastali u vreme kada raste
+potražnja za proizvodima te imovine.
+Troškovi pozajmljivanja koji su direktno pripisivi sticanju nematerijalnog
+sredstva koje se kvalifikuje (kojem je obavezno potreban značajan vremenski period da bi
+bilo spremno za svoju nameravanu upotrebu ili prodaju) uključuju se u nabavnu vrednosti tog
+sredstva. Izdaci u vezi sa sredstvom koje se kvalifikuje uključuju samo izdatke koji su imali
+za rezultat gotovinske isplate, transfere drugih sredstava ili preuzimanje obaveza na koje
+se zaračunava kamata.
+Poslovni subjekt treba da započne kapitalizaciju troškova pozajmljivanja
+na datum kada se prvi put kumulativno ispune sledeći uslovi:
+1) poslovni subjekt je imao izdatke za sredstvo;
+2) imao troškove pozajmljivanja; i
+3) preduzeo aktivnosti neophodne da bi se sredstvo pripremilo za planiranu
+upotrebu ili prodaju.
+Poslovni subjekt treba da prestane sa kapitalizacijom troškova pozajmljivanja
+kada su u suštini završene sve aktivnosti neophodne da bi se sredstvo pripremilo za planiranu
+upotrebu ili prodaju.
+Model revalorizacije podrazumeva da se nakon početnog priznavanja po nabavnoj
+vrednosti, nematerijalna imovina vrednuje po revalorizovanoj vrednosti, što je njena fer
+vrednost na dan revalorizacije, umanjena za naknadno akumuliranu amortizaciju i naknadno
+akumulirane gubitke od umanjenja vrednosti. Za potrebe revalorizacije fer vrednost se odmerava
+pozivanjem na aktivno tržište. Revalorizacija se vrši toliko redovno da se knjigovodstvena
+vrednost nematerijalne imovine na kraju izveštajnog perioda bitno ne razlikuje od njene fer
+vrednosti.
+Kada se nematerijalna imovina revalorizuje, knjigovodstvena vrednost te
+imovine se koriguje na revalorizovanu vrednost. Na datum revalorizacije, nematerijalna imovina
+se tretira na jedan od sledećih načina:
+1) bruto knjigovodstvena vrednost se koriguje na način koji je dosledan
+revalorizaciji knjigovodstvene vrednosti imovine, tako što se knjigovodstvena vrednost imovine
+nakon revalorizacije iskazuje po njenoj revalorizovanoj vrednosti; ili
+2) akumulirana amortizacija se eliminiše, u odnosu na bruto knjigovodstvenu
+vrednost imovine.
+Ako se nematerijalna imovina iz grupe revalorizovane nematerijalne imovine
+ne može revalorizovati zbog toga što ne postoji aktivno tržište za ovu imovinu, imovina se
+evidentira po nabavnoj vrednosti (ceni koštanja) umanjenoj za eventualnu amortizaciju i gubitke
+od umanjenja vrednosti.
+Ako se fer vrednost revalorizovane nematerijalne imovine više ne može odmeriti
+pozivanjem na aktivno tržište, knjigovodstvena vrednost imovine je revalorizovana vrednost
+na dan poslednje revalorizacije sprovedene s pozivanjem na aktivno tržište, umanjena za eventualnu
+naknadnu akumuliranu amortizaciju i naknadne akumulirane gubitke od umanjenja vrednosti.
+Ako se knjigovodstvena vrednost nematerijalne imovine poveća kao rezultat
+revalorizacije, to uvećanje se priznaje u kapitalu u okviru pozicije revalorizacione rezerve.
+Međutim, povećanje se priznaje u Bilansu uspeha u iznosu u kom poništava revalorizaciono
+umanjenje iste imovine prethodno priznate u Bilansu uspeha.
+Ako se knjigovodstvena vrednost smanji kao rezultat revalorizacije, to
+smanjenje se priznaje u Bilansu uspeha. Međutim, smanjenje zbog revalorizacije se priznaje
+u iznosu potražnog salda u revalorizacionoj rezervi za tu imovinu.
+Kumulirane revalorizacione rezerve uključene u kapital se mogu prenositi
+direktno u neraspoređenu dobit kada se te rezerve realizuju. Cela ova rezerva se može realizovati
+prilikom rashodovanja ili otuđenja imovine. Međutim, neke rezerve se mogu realizovati dok
+poslovni subjekt koristi imovinu; u takvom slučaju, ostvareni iznos rezerve je razlika između
+amortizacije obračunate na osnovu revalorizovane knjigovodstvene vrednosti imovine i amortizacije
+koja bi se priznala na osnovu istorijskog troška (nabavne vrednosti - cene koštanja) imovine.
+Prenos iz revalorizacionih rezervi u neraspoređenu dobit se ne vrši kroz Bilans uspeha.
+U slučaju sticanja nematerijalne imovine putem državnih davanja, ona može
+biti stečena bez naknade, ili uz minimalnu naknadu putem državne pomoći. Poslovni subjekt
+može odlučiti da ovu imovinu početno vrednuje po fer vrednosti ili po nabavnoj vrednosti.
+Amortizacija i prestanak priznavanja nematerijalne imovine
+Član 16
+Računovodstveno obuhvatanje nematerijalne imovine se bazira na njenom korisnom
+veku trajanja.
+Iznos nematerijalne imovine sa konačnim vekom trajanja koji se amortizuje
+se alocira sistematski tokom njenog veka trajanja.
+Obračun amortizacije započinje kada imovina postane raspoloživa za upotrebu,
+odnosno kada se nalazi na lokaciji i u stanju spremnom za poslovanje na način koji je rukovodstvo
+predvidelo.
+Amortizacija prestaje na raniji od sledeća dva datuma:
+1) datum na koji se imovina klasifikuje kao imovina koja se drži za prodaju
+(ili na koji se uključuje u grupu za otuđenje klasifikovanu kao grupa koja se drži za prodaju),
+ili
+2) datum na koji prestaje priznavanje imovine.
+Korišćeni metod amortizacije odražava dinamiku kojom se očekuje da će poslovni
+subjekt trošiti buduće ekonomske koristi od imovine. Ako se dinamika ne može pouzdano utvrditi,
+koristi se pravolinijski (linearni) metod. Troškovi amortizacije za svaki period se priznaju
+u Bilansu uspeha.
+Međutim, ponekad se buduće ekonomske koristi sadržane u imovini apsorbuju
+prilikom proizvodnje druge imovine. U ovom slučaju, troškovi amortizacije predstavljaju deo
+cene koštanja druge imovine i uključuju se u njenu knjigovodstvenu vrednost. Amortizacija
+nematerijalne imovine koja se koristi u proizvodnom procesu uključuje se u knjigovodstvenu
+vrednost zaliha.
+Pretpostavlja se da je rezidualna vrednost nematerijalne imovine sa konačnim
+vekom trajanja nula, osim ako:
+1) ne postoji obaveza treće strane da kupi imovinu na kraju njenog veka
+trajanja; ili
+2) ne postoji aktivno tržište za imovinu, i:
+(1) rezidualna vrednost se može utvrditi pozivanjem na to tržište;
+i
+(2) verovatno je da će takvo tržište postojati na kraju veka trajanja
+imovine.
+Iznos koji se amortizuje za neku imovinu utvrđuje se posle odbitka njegovog
+ostatka vrednosti (rezidualne vrednosti).
+Svaka rezidualna vrednost osim nule implicira da poslovni subjekt očekuje
+da otuđi nematerijalnu imovinu pre kraja njenog ekonomskog veka.
+Korisni vek nematerijalne imovine koja nastaje iz ugovornih ili drugih
+zakonskih prava ne treba da bude duži od perioda ugovornih ili drugih zakonskih prava, ali
+može da bude kraći, zavisno od perioda u kojem poslovni subjekt očekuje da koristi tu imovinu.
+Ako korisni vek nematerijalne imovine, ne može pouzdano da se ustanovi,
+vek trajanja treba da se utvrdi na osnovu najbolje procene rukovodstva, ali ne treba da bude
+duži od deset godina.
+Amortizacioni period i metod amortizacije treba da se proveravaju najmanje
+na kraju svake finansijske godine. Ukoliko se očekivani vek trajanja imovine značajno razlikuje
+od prethodnih procena, amortizacioni period treba promeniti u skladu sa tim. Ukoliko je došlo
+do promene u očekivanom obrascu korišćenja budućih ekonomskih koristi od imovine, metod amortizacije
+se menja da bi se odrazio promenjeni obrazac. Takve promene se računovodstveno obuhvataju
+kao promene računovodstvenih procena.
+Tokom upotrebe nematerijalne imovine, može postati očigledno da je procena
+njenog veka trajanja neadekvatna. Priznavanje gubitka od umanjenja vrednosti može ukazati
+da treba promeniti amortizacioni period.
+Tokom vremena se obrazac budućih ekonomskih koristi za koje se očekuje
+da će priticati poslovnom subjektu od nematerijalne imovine može promeniti, tj. može postati
+očigledno da je degresivni metod odgovarajući, a ne pravolinijski metod. Drugi primer je
+ako je korišćenje prava u obliku licence odloženo zbog aktivnosti na drugim komponentama
+poslovnog (biznis) plana. U takvom slučaju, ekonomske koristi koje proističu iz imovine mogu
+da se ne povrate sve do kasnijih perioda.
+Priznavanje nematerijalne imovine prestaje:
+1) prilikom otuđenja; ili
+2) kada se ne očekuju buduće ekonomske koristi od njenog korišćenja ili
+otuđenja.
+Dobitak ili gubitak koji nastaje iz prestanka priznavanja nematerijalne
+imovine se određuje kao razlika između neto prihoda od otuđenja, ako ih ima, i knjigovodstvene
+vrednosti imovine. Dobitak ili gubitak se priznaje u Bilansu uspeha kada imovina prestane
+da se priznaje.
+v) Dugoročna materijalna imovina
+Priznavanje dugoročne materijalne imovine
+Član 17
+Dugoročna materijalna imovina je ona koju poslovni subjekt poseduje:
+1) za korišćenje u proizvodnji proizvoda ili isporuci roba i usluga, za
+davanje u operativni lizing ili za obavljanje administrativnih poslova;
+2) za koju se očekuje da će se koristiti duže od jedne godine; i
+3) za korišćenje na trajnoj osnovi u svrhu aktivnosti poslovnog subjekta.
+Dugoročna materijalna imovina se priznaje kao sredstvo samo, ako:
+1) je verovatno da će buduće ekonomske koristi povezane sa tim sredstvom
+priticati u poslovni subjekt; i
+2) se nabavna vrednost, odnosno cena koštanja tog sredstva može pouzdano
+izmeriti.
+Stavke kao što su rezervni delovi, alat i inventar priznaju se kao dugoročna
+materijalna imovina kada ispunjavaju uslove za priznavanje dugoročne materijalne imovine.
+U suprotnom, takve stavke se klasifikuju kao zalihe.
+Privredni subjekt u svojim računovodstvenim politikama propisuje jedinicu
+mere za priznavanje dugoročne materijalne imovine u zavisnosti od okolnosti koje su specifične
+za svaki entitet. Može biti pogodno da se agregiraju pojedinačne beznačajne stavke i da se
+na zbirnu vrednost primene kriterijumi.
+Primalac lizinga po ugovoru o finansijskom lizingu, u okviru dugoročne
+materijalne imovine iskazuje vrednost predmeta lizinga i obavezu u iznosu jednakom fer vrednosti
+uzete u lizing dugoročne materijalne imovine.
+Davaoci lizinga priznaju dugoročnu materijalnu imovinu datu u finansijski
+lizing kao potraživanje u iznosu koji je jednak neto ulaganju u finansijski lizing.
+Materijalna imovina čija je vrednost iskazana po istorijskom trošku u stranoj
+valuti se prevodi korišćenjem kursa na datum transakcije na svaki datum Bilansa stanja.
+Kod početnog priznavanja, transakciju u stranoj valuti potrebno je evidentirati
+u funkcionalnoj valuti, primenjujući na iznos u stranoj valuti kurs između funkcionalne i
+strane valute važeći na datum transakcije.
+Vrednovanje dugoročne materijalne imovine
+Član 18
+Nakon početnog priznavanja poslovni subjekt se opredeljuje ili za model
+nabavne vrednosti ili za model revalorizacije, kada bira svoju računovodstvenu politiku i
+primenjuje tu politiku na grupu određene dugoročne materijalne imovine.
+Model nabavne vrednosti podrazumeva da se nakon početnog priznavanja dugoročna
+materijalna imovina vrednuje po nabavnoj vrednosti umanjenoj za ukupnu akumuliranu amortizaciju
+i ukupne akumulirane gubitke zbog umanjenja vrednosti.
+Dugoročna materijalna imovina koja ispunjava uslove za priznavanje kao
+sredstvo, početno se meri po nabavnoj vrednosti, odnosno ceni koštanja.
+Nabavna vrednost (cena koštanja) dugoročne materijalne imovine obuhvata:
+1) fakturnu cenu, uključujući uvozne carine i druge dažbine, poreske obaveze
+koje se ne mogu povratiti, nakon oduzimanja trgovačkih popusta i rabata;
+2) sve troškove koji se mogu direktno pripisati dovođenju sredstva na lokaciju
+i u stanje koje je neophodno da bi sredstvo moglo funkcionisati, na način na koji to očekuje
+uprava;
+3) inicijalnu procenu troškova demontaže, uklanjanja sredstva i obnove
+područja na kojem je sredstvo locirano, što je obaveza koja se poslovnom subjektu nameće
+bilo kada se sredstvo nabavi ili kao posledica korišćenja sredstva u toku određenog perioda
+za sve druge svrhe osim za proizvodnju zaliha u tom periodu.
+Troškovi koji se mogu direktno pripisati su:
+1) troškovi zarada i drugih primanja zaposlenih koji nastaju direktno u
+izgradnji ili nabavci nekretnine, postrojenja i opreme;
+2) troškovi pripreme terena;
+3) inicijalni troškovi isporuke i manipulativni troškovi;
+4) troškovi instaliranja i montaže;
+5) troškovi provere da li sredstvo normalno funkcioniše, umanjeni za neto
+prihode od prodaje bilo kog sredstva proizvedenog tokom dovođenja sredstva na datu lokaciju
+i u dato stanje (kao što su uzorci proizvedeni prilikom testiranja opreme); i
+6) naknade za rad stručnjaka.
+Troškovi pozajmljivanja koji su direktno pripisivi sticanju ili proizvodnji
+materijalnog sredstva koje se kvalifikuju (kojem je obavezno potreban značajan vremenski
+period da bi bilo spremno za svoju nameravanu upotrebu ili prodaju) se uključuju u nabavnu
+vrednosti tog sredstva. Izdaci u vezi sa sredstvom koje se kvalifikuje uključuju samo izdatke
+koji su imali za rezultat gotovinske isplate, transfere drugih sredstava ili preuzimanje
+obaveza na koje se zaračunava kamata.
+Poslovni subjekt treba da započne kapitalizaciju troškova pozajmljivanja
+na datum kada se prvi put kumulativno ispune sledeći uslovi:
+1) poslovni subjekt je imao izdatke za sredstvo;
+2) imao troškove pozajmljivanja; i
+3) preduzeo aktivnosti neophodne da bi se sredstvo pripremilo za planiranu
+upotrebu ili prodaju.
+Poslovni subjekt treba da prestane sa kapitalizacijom troškova pozajmljivanja
+kada su u suštini završene sve aktivnosti neophodne da bi se sredstvo pripremilo za planiranu
+upotrebu ili prodaju.
+U slučaju sticanja dugoročne materijalne imovine putem državnih davanja,
+ona može biti stečena bez naknade, ili uz minimalnu naknadu putem državne pomoći. Poslovni
+subjekt može odlučiti da ovu imovinu početno vrednuje po fer vrednosti ili po nabavnoj vrednosti.
+Model revalorizacije podrazumeva da se dugoročna materijalna imovina čija
+se fer vrednost može pouzdano odmeriti, vrednuje po revalorizovanom iznosu, koji predstavlja
+njihovu fer vrednost na datum revalorizacije umanjenu za naknadnu akumuliranu amortizaciju
+i naknadne akumulirane gubitke zbog umanjenja vrednosti. Revalorizacija se vrši dovoljno
+redovno, kako bi se obezbedilo da se knjigovodstvena vrednost bitno ne razlikuje od vrednosti
+do koje bi se došlo korišćenjem fer vrednost na kraju izveštajnog perioda.
+Fer vrednost zemljišta i drugih nekretnina obično je njihova tržišna vrednost
+utvrđena procenom koju uobičajeno obavljaju profesionalno kvalifikovani procenitelji. Fer
+vrednost predmeta postrojenja i opreme obično je njihova tržišna vrednost utvrđena procenom.
+Učestalost revalorizacije zavisi od promena fer vrednosti predmeta dugoročne
+materijalne imovine koji se revalorizuju. Kad se fer vrednost revalorizovane imovine znatno
+razlikuje od njene knjigovodstvene vrednosti, tada je potrebna dalja revalorizacija.
+Kada se revalorizuje neka nekretnina, postrojenje i oprema, knjigovodstvena
+vrednost tog sredstva se koriguje na revalorizovani iznos. Na dan revalorizacije, imovina
+se tretira na jedan od sledećih načina:
+1) bruto knjigovodstvena vrednost se koriguje na način koji je dosledan
+revalorizaciji knjigovodstvene vrednosti tog sredstva, tako što se knjigovodstvena vrednost
+sredstva nakon revalorizacije iskazuje po njenoj revalorizovanoj vrednosti; ili
+2) akumulirana amortizacija eliminiše se iz bruto knjigovodstvene vrednosti
+sredstva.
+Iznos usklađivanja, koji se dobije prepravljanjem ili isključivanjem ispravke
+vrednosti, čini deo povećanja ili smanjenja knjigovodstvene vrednosti.
+Ako se vrši revalorizacija određene nekretnine, postrojenja i opreme, revalorizuje
+se celokupna grupa nekretnina, postrojenja i opreme kojoj to sredstvo pripada.
+Ako se knjigovodstvena vrednost sredstva poveća kao rezultat revalorizacije,
+to povećanje se priznaje u kapitalu, u okviru revalorizacione rezerve. Međutim, povećanje
+se priznaje u Bilansu uspeha u iznosu u kom poništava revalorizaciono umanjenje iste imovine
+prethodno priznate u Bilansu uspeha.
+Ako se knjigovodstvena vrednost sredstva smanji kao rezultat revalorizacije,
+to smanjenje se priznaje kao rashod. Međutim, smanjenje se priznaje u kapitalu do iznosa
+postojećih revalorizacionih rezervi koje se odnosi na to sredstvo. Smanjenje priznato u kapitalu
+smanjuje iznos akumuliran u kapitalu u okviru pozicije revalorizacione rezerve.
+Revalorizacione rezerve koje su sastavni deo kapitala koji se odnosi na
+nekretnine, postrojenja i opremu, mogu se preneti direktno na neraspoređenu dobit, kada sredstvo
+prestane da se priznaje. To može podrazumevati prenos celokupnog ostatka, kada sredstvo prestane
+da se priznaje u poslovnim knjigama ili otuđi. Međutim, neke rezerve mogu biti prenete i
+dok se sredstvo koristi. U tom slučaju, iznos prenete rezerve predstavlja razliku između
+amortizacije zasnovane na revalorizovanoj knjigovodstvenoj vrednosti sredstva i amortizacije
+zasnovane na prvobitnoj nabavnoj vrednosti sredstva. Prenošenje revalorizacionih rezervi
+u neraspoređenu dobit ne vrši se preko Bilansa uspeha.
+Amortizacija i prestanak priznavanja dugoročne materijalne imovine
+Član 19
+Poslovni subjekt je obavezan da utvrdi trošak amortizacije odvojeno za
+svaki značajan deo stavke materijalne imovine. Svaki deo neke nekretnine, postrojenja i opreme,
+čija je nabavna vrednost, odnosno cena koštanja značajna u odnosu na ukupnu nabavnu vrednost
+datog sredstva se amortizuje posebno.
+Poslovni subjekt raspoređuje iznos koji je početno priznat za neku nekretninu,
+postrojenje i opremu na njihove značajne delove i posebno amortizuje svaki takav deo.
+Jedan materijalno značajan deo nekretnine, postrojenja i opreme može imati
+isti korisni vek i metod amortizacije kao i drugi materijalno značajan deo tog sredstva.
+Prilikom utvrđivanja troškova amortizacije, takvi delovi se mogu grupisati.
+U istoj meri u kojoj poslovni subjekt posebno amortizuje neke delove nekretnine,
+postrojenja i opreme, on posebno amortizuje i ostatak tog sredstva. Ostatak se sastoji od
+delova koji pojedinačno nisu značajni. Ako poslovni subjekt ima različita očekivanja od ovih
+delova, mogu biti neophodne tehnike aproksimacije da bi se ostatak amortizovao na način kojim
+bi se obrazac potrošnje i/ili korisni vek delova verno predstavili.
+Poslovni subjekt može izabrati da posebno amortizuje one delove sredstva
+čija nabavna vrednost nije značajna u odnosu na ukupnu nabavnu vrednost tog sredstva.
+Trošak amortizacije za svaki period, priznaje se u Bilansu uspeha, osim
+ako nije uključen u knjigovodstvenu vrednost drugog sredstva.
+Iznos koji se amortizuje, alocira se na sistematskoj osnovi u toku korisnog
+veka sredstva.
+Rezidualna vrednost i korisni vek sredstva se proveravaju na kraju svake
+finansijske godine.
+Amortizacija se priznaje čak i ako tržišna vrednost sredstva premašuje
+njegovu knjigovodstvenu vrednost, pod uslovom da rezidualna vrednost nije veća od njegove
+knjigovodstvene vrednosti.
+Popravke i održavanje sredstva ne negiraju potrebu njegovog amortizovanja.
+Iznos koji se amortizuje utvrđuje se nakon oduzimanja rezidualne vrednosti
+sredstva. Rezidualna vrednost je procenjeni iznos koji bi poslovni subjekt primio danas ako
+bi otuđio sredstvo, nakon odbijanja procenjenih troškova otuđenja i pod pretpostavkom da
+je sredstvo već na kraju svog korisnog veka i u stanju koje se očekuje na kraju njegovog
+korisnog veka. Rezidualna vrednost sredstva je u praksi često beznačajna i u takvim okolnostima
+nije bitna kod izračunavanja iznosa koji se amortizuje.
+Rezidualna vrednost sredstva se može povećati na iznos koji je jednak knjigovodstvenoj
+vrednosti sredstva ili veći od nje. Ako se to dogodi, trošak amortizacije sredstva je nula,
+osim i dok se njegova rezidualna vrednost naknadno ne smanji na iznos koji je niži od knjigovodstvene
+vrednosti sredstva.
+Amortizacija sredstva započinje kada ono postane raspoloživo za korišćenje,
+to jest kada se nalazi na lokaciji i u stanju koje je neophodno da sredstvo funkcioniše na
+način na koji to predviđa uprava.
+Amortizacija sredstva prestaje na datum ranijeg događaja: datum kada je
+sredstvo klasifikovano kao ono koje se drži za prodaju (ili je uključeno u grupu za otuđenje
+koja se klasifikuje kao grupa sredstava koja se drže za prodaju) ili datum prestanka priznavanja
+sredstva. Dakle vršenje amortizacije ne prestaje kada se sredstvo ne koristi ili kada se
+ne koristi aktivno, osim ako je ono u potpunosti amortizovano. Međutim, prema funkcionalnom
+metodu amortizacije, trošak amortizacije može biti nula ako nema proizvodnje.
+Poslovni subjekt troši ekonomske koristi sadržane u nekom sredstvu uglavnom
+putem korišćenja sredstva. Međutim, ostali faktori, kao što su tehnološka ili komercijalna
+zastarelost i habanje dok se sredstvo ne upotrebljava, često dovode do smanjenja ekonomskih
+koristi koje su se mogle dobiti od sredstva. Zato je pri utvrđivanju korisnog veka trajanja
+sredstva, potrebno razmotriti sve sledeće faktore:
+1) očekivana iskorišćenost sredstva se procenjuje na osnovu očekivanog
+kapaciteta sredstva ili fizičkih učinaka;
+2) očekivano fizičko habanje koje zavisi od faktora poslovanja, kao što
+su broj smena u kojima će se sredstvo koristiti, program popravljanja i odražavanja, i briga
+o sredstvu i njegovo održavanje dok se ono ne koristi.
+3) tehnička ili komercijalna zastarelost koja nastaje zbog promena ili
+poboljšanja u proizvodnji, ili zbog promene u tržišnoj potražnji za proizvodom ili uslugom
+koji se pružaju uz pomoć tog sredstva.
+4) zakonska ili slična ograničenja korišćenja sredstva, kao što je istek
+roka lizinga.
+Korisni vek trajanja sredstva definiše se pomoću njegove očekivane koristi
+za poslovni subjekt.
+Politika upravljanja sredstvima nekog poslovnog subjekta može povlačiti
+za sobom otuđenje sredstava nakon određenog vremena ili nakon utroška određenog dela ekonomskih
+koristi sadržanih u sredstvu. Zbog toga korisni vek trajanja sredstva može biti kraći od
+njegovog ekonomskog veka trajanja.
+Procena korisnog veka sredstva, je stvar prosuđivanja zasnovanog na iskustvu
+poslovnog subjekta sa sličnim sredstvima.
+Zemljište i druge nepokretnosti su posebna sredstva koja se obračunavaju
+posebno, čak i kada su zajedno pribavljeni. Uz određene izuzetke, kao što su kamenolomi i
+tereni koji se koriste kao deponije, zemljište ima neograničeni korisni vek trajanja i zbog
+toga se ne amortizuje.
+Objekti imaju ograničeni korisni vek trajanja i zbog toga su sredstva koja
+se amortizuju.
+Povećanje vrednosti zemljišta na kojem se nalazi neki objekat, ne utiče
+na utvrđivanje korisnog veka trajanja tog objekta.
+Ako nabavna vrednost zemljišta uključuje i troškove demontaže, uklanjanja
+i obnove, taj deo zemljišta se amortizuje tokom perioda u kojem su koristi stečene nastajanjem
+ovih troškova. U nekim slučajevima, samo zemljište može imati ograničen korisni vek trajanja
+i tada se ono amortizuje dinamikom koja odražava koristi koje se od njega dobijaju.
+Korišćeni metod amortizacije odražava način očekivanog trošenja budućih
+ekonomskih koristi od sredstva.
+Metod amortizacije, koji se primenjuje na neko sredstvo, proverava se najmanje
+jednom, na kraju svake finansijske godine, i ako postoje značajne promene u očekivanoj dinamici
+trošenja budućih ekonomskih koristi koje su sadržane u sredstvu, metod se menja da bi se
+odrazila promenjena dinamika. Takvu promenu treba obračunati kao promenu računovodstvene
+procene.
+Različiti metodi amortizacije se mogu koristiti za alokaciju iznosa koji
+se amortizuje sistematski tokom korisnoga veka trajanja sredstva. Ovi metodi obuhvataju pravolinijski
+metod, degresivni metod i funkcionalni metod.
+Pravolinijski metod za rezultat ima konstantne troškove u toku korisnog
+veka trajanja sredstva, ukoliko se rezidualna vrednost ne menja.
+Degresivni metod za rezultat ima smanjenje troškova tokom korisnoga veka
+trajanja sredstva.
+Funkcionalni metod za rezultat ima troškove koji se zasnivaju na očekivanom
+korišćenju ili učincima.
+Poslovni subjekt se opredeljuje za metod koji najvernije odražava očekivanu
+dinamiku trošenja budućih ekonomskih koristi sadržanih u sredstvu. Taj metod se konzistentno
+primenjuje iz perioda u period osim ako ne dođe do promene očekivane dinamike trošenja tih
+budućih ekonomskih koristi.
+Da bi se utvrdilo da li je vrednost neke stavke nekretnina, postrojenja
+i opreme umanjenja, poslovni subjekt proverava knjigovodstvenu vrednost svojih sredstava,
+kada i utvrđuje nadoknadivu vrednost sredstva i kada priznaje ili poništava priznavanje gubitka
+usled umanjenja vrednosti.
+Umanjenje vrednosti ili gubitak nekretnine, postrojenja i opreme, povezana
+potraživanja ili plaćanje naknada od trećih strana i sve naknadne nabavke ili izgradnja sredstava
+za zamenu, predstavljaju posebne ekonomske događaje i obračunavaju se posebno, na sledeći
+način:
+Knjigovodstvena vrednost nekretnine, postrojenja i opreme prestaje da se
+priznaje:
+1) prilikom otuđenja; ili
+2) kada se od njihovog korišćenja ili otuđenja ne očekuju buduće ekonomske
+koristi.
+Dobitak ili gubitak koji nastane prilikom prestanka priznavanja nekretnine,
+postrojenja i opreme se uključuje u dobitak ili gubitak u Bilansu uspeha onda kada to sredstvo
+prestaje da se priznaje.
+Ako je za merenje osnovnih sredstava primenjen model revalorizacije tada
+osnovicu za amortizaciju čini revalorizovana nabavna vrednost umanjena za rezidualnu vrednost,
+koja se prilikom revalorizacije ponovo procenjuje, tako da osnovicu čini revalorizovana nabavna
+vrednost umanjena za revalorizovanu rezidualnu vrednost.
+Za sredstva koja se revalorizuju u godini u kojoj se vrši revalorizacija
+pre revalorizacije se obračunava amortizacija za tu godinu, a revalorizovana vrednost je
+osnovica za obračun amortizacije u narednim godinama.
+g) Investicione nekretnine
+Član 20
+Investicione nekretnine su nekretnine (zemljište ili zgrade - ili deo zgrade
+- ili i jedno i drugo), koje vlasnik ili korisnik lizinga, po osnovu finansijskog lizinga
+drži radi ostvarivanja zarade od izdavanja nekretnine ili radi uvećanja vrednosti kapitala
+ili radi i jednog i drugog, a ne radi:
+1) upotrebe za proizvodnju ili snabdevanje robom ili pružanje usluga ili
+za administrativne svrhe; ili
+2) prodaje u okviru redovnog poslovanja.
+Nekretnine sa mešovitom upotrebom treba da se razdvoje na investicione
+nekretnine i nekretnine, postrojenja i opremu. Međutim, ako fer vrednost komponente investicionih
+nekretnina ne može pouzdano da se odmeri bez nepotrebnih troškova i napora, celokupna imovina
+treba da se računovodstveno obuhvata kao nekretnine, postrojenja i oprema u skladu sa čl.
+17, 18. i 19. ovog pravilnika.
+Prilikom početnog priznavanja investiciona nekretnina se vrednuje po nabavnoj
+vrednosti, odnosno ceni koštanja.
+Nakon početnog priznavanja, investiciona nekretnina se može procenjivati
+po fer vrednosti ako se fer vrednost može pouzdano utvrditi bez nepotrebnih troškova i napora,
+a promene fer vrednosti se priznaju kao dobitak ili gubitak u Bilansu uspeha.
+Fer vrednost je cena koja bi se naplatila za prodaju sredstva ili platila
+za prenos obaveze u redovnoj transakciji između učesnika na tržištu na datum odmeravanja.
+Samo investicione nekretnine čija se fer vrednost može pouzdano meriti
+bez nepotrebnih troškova ili napora, na stalnoj osnovi, procenjuje se po fer vrednosti kroz
+Bilans uspeha.
+Sve druge investicione nekretnine se vrednuju po nabavnoj vrednosti koristeći
+model troškova amortizacije i obezvređenja na način propisan za dugoročnu materijalnu imovinu
+(nekretnine, postrojenja i opremu) u skladu sa čl. 18. i 19. ovog pravilnika.
+Prilikom utvrđivanja knjigovodstvene vrednosti investicione nekretnine
+po modelu fer vrednosti, poslovni subjekt sredstva ili obaveze priznate kao odvojena sredstva
+ili obaveze ne računa duplo kao npr.:
+1) oprema poput liftova ili klima uređaja je često sastavni deo objekta
+i generalno se uključuje u fer vrednost investicione nekretnine, a ne priznaje se zasebno
+kao nekretnina, postrojenje i oprema.
+2) ako se kancelarija izdaje nameštena, u fer vrednosti kancelarije generalno
+ulazi i fer vrednost nameštaja, zato što je prihod od zakupnine prihod od nameštene kancelarije.
+Kada u fer vrednost investicione nekretnine ulazi vrednost nameštaja, onda entitet ne priznaje
+nameštaj kao zasebno sredstvo.
+Kod prenosa nekretnine sa investicione nekretnine uknjižene po fer vrednosti,
+na nekretninu koju koristi vlasnik ili zalihe, pretpostavljena nabavna vrednost nekretnine
+za kasniji obračun je njena fer vrednost na datum promene namene.
+Ako nekretnina koju koristi vlasnik postane investiciona nekretnina koja
+će se knjižiti po fer vrednosti, poslovni subjekt primenjuje knjigovodstvenu vrednost sve
+do datuma promene namene. Poslovni subjekt će na taj datum razliku između knjigovodstvene
+vrednosti nekretnine i njene fer vrednosti priznati kao revalorizacionu rezervu.
+Investicione nekretnine prestaju da se priznaju (eliminišu se iz Bilansa
+stanja) po otuđenju ili kada se investiciona nekretnina trajno povuče iz upotrebe i ne očekuju
+se nikakve buduće ekonomske koristi od njegovog otuđenja.
+d) Biološka sredstva
+Član 21
+Biološka sredstva obuhvataju žive životinje i biljke koja se ne troše u
+jednogodišnjem proizvodnom ciklusu, kao što su:
+1) osnovno stado za obavljanje delatnosti, odnosno živa stoka od koje se
+dobija mleko, vuna i drugi proizvodi;
+2) vinova loza od koje se dobija grožđe;
+3) voćnjaci od kojih se dobija voće;
+4) drveće od kojeg se seče deo stabla za ogrev, ali se ne seče i celo drvo
+i dr.
+Dugoročna biološka sredstva su obnovljiva sredstva, za razliku od poljoprivrednih
+proizvoda čijim ubiranjem i odvajanjem od biološkog sredstva prestaje životni proces biološkog
+sredstva.
+Obnovljivost biološkog sredstva zasniva se na biološkoj transformaciji
+koja obuhvata proces rasta, promene osobina, proizvodnju i reprodukciju koji dovode do kvantitativnih
+i kvalitativnih promena na biološkom sredstvu. Za razliku od drugih osnovnih (stalnih) sredstava,
+efekti promena vrednosti bioloških sredstava, na kraju obračunskog perioda u odnosu na prethodni
+period, ili u odnosu na početno vrednovanje ako su pribavljena u toku perioda, iskazuju se
+kao prihodi, odnosno rashodi u Bilansu uspeha. Prema tome, kvantitativne, kvalitativne i
+tržišne promene vrednosti bioloških sredstava nastale u toku i na kraju obračunskog perioda
+predstavljaju osnov za utvrđivanje prihoda i rashoda u poljoprivrednoj delatnosti.
+Biološka sredstva se vrednuju prilikom početnog priznavanja i na datum
+svakog Bilansa stanja po fer vrednosti umanjenoj za procenjene troškove prodaje, osim u slučaju
+kada se fer vrednost ne može pouzdano izmeriti.
+Biološka sredstva čija se fer vrednost ne može lako utvrditi bez nepotrebnih
+troškova i napora, vrednuju se po nabavnoj ceni, odnosno ceni koštanja umanjenoj za akumuliranu
+amortizaciju i akumulirane gubitke zbog obezvređenja. Kada se biološka sredstva vrednuju
+po metodu nabavne vrednosti, poslovni subjekt obelodanjuje sledeće:
+1) opis svake klase svojih bioloških sredstava;
+2) objašnjenje zašto se fer vrednost ne može pouzdano izmeriti;
+3) metod amortizacije;
+4) korisni vek trajanja ili stope amortizacije; i
+5) bruto knjigovodstvenu vrednost i akumuliranu amortizaciju (zajedno sa
+akumuliranim gubicima od umanjenja vrednosti) na početku i na kraju perioda.
+đ) Finansijski instrumenti
+Priznavanje finansijskih instrumenata
+Član 22
+Finansijski instrument je svaki ugovor na osnovu koga nastaje finansijsko
+sredstvo jednog poslovnog subjekta i finansijska obaveza ili vlasnički instrument drugog
+poslovnog subjekta.
+Poslovni subjekt treba da prizna finansijsko sredstvo ili finansijsku obavezu
+u svom Bilansu stanja samo onda kada poslovni subjekt postane jedna od ugovornih strana u
+instrumentu.
+Finansijska sredstva obuhvataju sledeće vrste imovine:
+1) udele i akcije kod povezanih subjekata;
+2) zajmove povezanim subjektima;
+3) ulaganja u pridružene subjekte;
+4) ulaganja u hartije od vrednosti;
+5) date kredite i depozite;
+6) ostalu finansijsku imovinu.
+Poslovni subjekt klasifikuje finansijska sredstva na osnovu sledeća dva
+kriterijuma:
+1) svog poslovnog modela upravljanja finansijskim sredstvima; i
+2) karakteristika finansijskog sredstva u vezi sa ugovorenim novčanim tokovima
+povezanim sa tim sredstvom - npr. u grupu finansijska sredstva koja se vrednuju po amortizovanom
+trošku ne mogu biti svrstane akcije, jer one nemaju rok dospeća.
+Poslovni subjekt finansijska sredstva klasifikuje u sledeće grupe:
+1) finansijska sredstva po amortizovanoj vrednosti;
+2) finansijska sredstva po fer vrednosti kroz ostali rezultat u okviru
+kapitala; i
+3) finansijska sredstva po fer vrednosti kroz Bilans uspeha.
+Na početku priznavanja finansijska sredstva i finansijske obaveze vrednuju
+se po njihovoj fer vrednosti plaćene ili dobijene nadoknade. Ako su u pitanju finansijska
+sredstva i finansijske obaveze koji nisu klasifikovani u one koji se priznaju i vrednuju
+po fer vrednosti kroz Bilans uspeha, poslovni subjekt treba da ih odmerava po njihovoj fer
+vrednosti uvećanoj ili umanjenoj za troškove transakcije koji se mogu direktno pripisati
+sticanju ili emitovanju finansijskog sredstva ili finansijske obaveze (transakcioni troškovi
+kod finansijskih sredstava uvećavaju početnu vrednost, a kod finansijskih obaveza je umanjuju).
+Vrednovanje finansijskih sredstava
+Član 23
+Finansijsko sredstvo može da se odmerava po amortizovanoj vrednosti, ako
+su ispunjena oba navedena uslova:
+1) finansijsko sredstvo se drži u okviru poslovnog modela čiji cilj je
+držanje finansijskih sredstava radi naplate ugovornih tokova gotovine; i
+2) uslovi ugovora finansijskog sredstva na naznačene datume uzrokuju tokove
+gotovine koji su isključivo otplate glavnice i kamate na neizmireni iznos glavnice.
+Amortizovana vrednost finansijskog sredstva na svaki datum izveštavanja
+je neto suma sledećih iznosa:
+1) iznosa po kom se finansijsko sredstvo odmerava prilikom početnog priznavanja;
+2) umanjenog za sve otplate glavnice;
+3) uvećanog ili umanjenog za kumulativnu amortizaciju korišćenjem metoda
+efektivne kamate svih razlika između iznosa prilikom početnog priznavanja i iznosa na dospeću;
+4) umanjenog, u slučaju finansijskog sredstva, za sva smanjenja (direktno
+ili korišćenjem računa ispravke vrednosti) za umanjenje vrednosti ili nenaplativost.
+Finansijska sredstva koja nemaju iskazanu kamatnu stopu, koje se ne odnose
+na aranžman koji predstavlja finansijsku transakciju i koji su klasifikovani kao kratkoročna
+sredstva se na početku odmeravaju po nediskontovanom iznosu bez uvećanja ili umanjenja za
+kumulativnu amortizaciju korišćenjem metoda efektivne kamate svih razlika između iznosa prilikom
+početnog priznavanja i iznosa na dospeću.
+Finansijsko sredstvo treba da se odmerava po fer vrednosti kroz ostali
+rezultat u okviru kapitala ako su ispunjena oba sledeća uslova:
+1) finansijsko sredstvo se drži u okviru poslovnog modela čiji cilj se
+postiže naplatom ugovornih tokova gotovine i prodajom finansijskih sredstava; i
+2) uslovi ugovora finansijskog sredstva na naznačene datume uzrokuju tokove
+gotovine koji su isključivo otplate glavnice i kamate na neizmireni iznos glavnice.
+Fer vrednost finansijskog sredstva je cena koja bi bila dobijena za prodaju
+finansijskog sredstva u redovnoj transakciji između učesnika na tržištu na datum odmeravanja.
+Finansijsko sredstvo treba da se odmerava po fer vrednosti kroz Bilans
+uspeha osim ukoliko se ne odmerava po amortizovanoj vrednosti ili po fer vrednosti kroz ostali
+rezultat u okviru kapitala. Međutim, poslovni subjekt može da izvrši neopozivi odabir pri
+početnom priznavanju za određene investicije u instrumente kapitala koji bi se u suprotnom
+odmeravali po fer vrednosti kroz Bilans uspeha da prezentuje naknadne promene fer vrednosti
+u ostalom rezultatu u okviru kapitala.
+Promene fer vrednosti finansijskog sredstva koje je klasifikovano kroz
+ostali rezultat u okviru kapitala, iskazuju se kao nerealizovani dobici ili gubici u okviru
+kapitala. Kada subjekt prestane sa priznavanjem finansijskog sredstva vrednovanog po fer
+vrednosti kroz ostali rezultat u okviru kapitala, kumulativni dobitak ili gubitak prethodno
+priznat u ostalom rezultatu reklasifikuje iz kapitala u Bilans uspeha, priznavanjem dobitaka
+ili gubitaka.
+Pri početnom priznavanju finansijskog sredstva ili finansijske obaveze,
+poslovni subjekt treba da ih odmerava po ceni transakcije (uključujući troškove transakcije
+osim kod početnog odmeravanja finansijskog sredstva ili finansijske obaveze koji se naknadno
+odmeravaju po fer vrednosti kroz Bilans uspeha) osim ukoliko aranžman u stvari predstavlja
+finansijsku transakciju ili za poslovni subjekt (za finansijsku obavezu) ili za drugu stranu
+(za finansijsko sredstvo) u aranžmanu. Aranžman predstavlja finansijsku transakciju ako se
+plaćanje odlaže van uobičajenih poslovnih uslova, npr. davanje beskamatnog kredita kupcu
+za prodaju robe, ili se finansira po kamatnoj stopi koja nije tržišna stopa, npr. beskamatni
+ili zajam sa kamatnom stopom nižom od tržišne koji se daje zaposlenom. Ako aranžman predstavlja
+finansijsku transakciju, poslovni subjekt treba da odmerava finansijsko sredstvo ili finansijsku
+obavezu po sadašnjoj vrednosti budućih plaćanja diskontovanih po tržišnoj kamatnoj stopi
+za sličan dužnički instrument kao što je utvrđeno na početnom priznavanju.
+Na kraju svakog izveštajnog perioda, poslovni subjekt treba da odmerava
+sve finansijske instrumente po fer vrednosti i da priznaje promene fer vrednosti u Bilansu
+uspeha, osim instrumenata kapitala kojima se ne trguje javno i čija fer vrednost ne može
+inače da se pouzdano odmeri, bez nepotrebnih troškova ili napora i ugovora povezanih sa takvim
+instrumentima koji će, ako se izvrše, za rezultat imati isporuku takvih instrumenata, treba
+da se odmeravaju po nabavnoj vrednosti umanjenoj za umanjenje vrednosti.
+Reklasifikacija finansijskih sredstava
+Član 24
+Kada subjekt reklasifikuje finansijsko sredstvo iz finansijskih sredstava
+vrednovanih po amortizovanom trošku u finansijska sredstva koja se vrednuju po fer vrednosti
+kroz ostali rezultat u okviru kapitala, dužan je da na datum reklasifikacije utvrdi njegovu
+fer vrednost. Dobitak ili gubitak utvrđen kao razlika između prethodno amortizovanog troška
+i procenjene fer vrednosti subjekt priznaje u ostalom rezultatu kao nerealizovani dobitak
+ili gubitak.
+Kada subjekt reklasifikuje finansijsko sredstvo iz finansijskih sredstava
+vrednovanih po amortizovanom trošku u finansijska sredstva koja se vrednuju po fer vrednosti
+kroz Bilans uspeha, dužan je da na datum reklasifikacije utvrdi njegovu fer vrednost. Dobitak
+ili gubitak utvrđen kao razlika između prethodno amortizovanog troška i procenjene fer vrednosti
+subjekt priznaje u Bilansu uspeha.
+Kada subjekt reklasifikuje finansijsko sredstvo iz finansijskih sredstava
+vrednovanih po fer vrednosti kroz ostali rezultat u okviru kapitala u finansijska sredstva
+koja se vrednuju po amortizovanom trošku, finansijsko sredstvo se reklasifikuje po vrednosti
+koju bi sredstvo imalo da je od njegovog početnog priznavanja vrednovano po amortizovanom
+trošku. Pri promeni vrednosti sredstva prestaje i priznavanje kumuliranih dobitaka ili gubitaka
+koji su u vezi sa tim sredstvom priznati u ostalom rezultatu u okviru kapitala. Svaki iznos
+razlike pri ovoj reklasifikaciji priznaje se u Bilansu uspeha.
+Kada subjekt reklasifikuje finansijsko sredstvo iz finansijskih sredstava
+vrednovanih po fer vrednosti kroz ostali rezultat u okviru kapitala u finansijska sredstva
+koja se vrednuju po fer vrednosti kroz bilans uspeha, finansijsko sredstvo se i dalje vrednuje
+po fer vrednosti. Kumulirani dobici ili gubici prethodno priznati u ostalom rezultatu u okviru
+kapitala reklasifikuju se na datum reklasifikacije iz kapitala u Bilans uspeha.
+Kada subjekt reklasifikuje finansijsko sredstvo iz finansijskih sredstava
+vrednovanih po fer vrednosti kroz Bilans uspeha u finansijska sredstva koja se vrednuju po
+amortizovanom trošku, njegova fer vrednost na datum reklasifikacije postaje njegova nova
+knjigovodstvena vrednost.
+Kada subjekt reklasifikuje finansijsko sredstvo iz finansijskih sredstava
+vrednovanih po fer vrednosti kroz Bilans uspeha u finansijska sredstva koja se vrednuju po
+fer vrednosti kroz ostali rezultat u okviru kapitala, finansijsko sredstvo se i dalje vrednuje
+po fer vrednosti.
+Prestanak priznavanja finansijskih sredstava
+Član 25
+Poslovni subjekt prestaje da priznaje finansijsko sredstvo isključivo kada:
+1) isteknu ugovorna prava na novčane tokove od finansijskog sredstva; ili
+2) prenese finansijsko sredstvo, a taj prenos ispunjava uslove za prestanak
+priznavanja (ako subjekt prenese gotovo sve rizike i koristi vlasništva nad finansijskim
+sredstvom, prestaje sa njegovim priznavanjem i priznaje kao zasebno sredstvo ili obavezu
+sva prava i obaveze nastale ili zadržane u okviru tog prenosa).
+e) Zalihe
+Član 26
+Zalihe su kratkoročna materijalna imovina:
+1) koja se drži zbog prodaje u redovnom toku poslovanja;
+2) koja se drži u procesu proizvodnje za navedenu prodaju; ili
+3) u obliku osnovnog i pomoćnog materijala koji se troši u proizvodnom
+procesu ili prilikom pružanja usluga.
+U toku reprodukcionog ciklusa pojavljuju se sledeće vrste zaliha:
+1) zalihe sirovina i drugog materijala koji ulazi u supstancu gotovog proizvoda;
+2) zalihe rezervnih delova i drugog materijala koji ne ulazi u supstancu
+gotovih proizvoda;
+3) zalihe nedovršene proizvodnje, poluproizvoda i nedovršenih usluga;
+4) zalihe gotovih proizvoda;
+5) zalihe trgovačke robe;
+6) kratkotrajna biološka sredstva i dr.
+Zalihe se mere po nabavnoj ceni, odnosno ceni koštanja ili po neto tržišnoj
+vrednosti u zavisnosti koja je vrednost niža. U nabavnu vrednost zaliha uključuju se svi
+troškovi nabavke i drugi troškovi koji su nastali dovođenjem zaliha na sadašnju lokaciju
+i sadašnje stanje.
+Nabavna vrednost zaliha obuhvata fakturnu cenu, uvozne carine i druge dažbine
+(osim onih koje subjekt može kasnije da povrati od poreskih organa, kao npr. PDV koji se
+može odbiti kao prethodni) i troškove prevoza, manipulativne i druge troškove koji se mogu
+direktno pripisati proizvodnji gotovih proizvoda, nabavci materijala i uslugama.
+Trgovački popusti, rabati i druge slične stavke se oduzimaju pri određivanju
+troškova nabavke.
+Troškovi konverzije zaliha se sastoje od troškova direktnog rada i opštih
+troškova proizvodnje. Oni takođe obuhvataju sistematski raspored fiksnih i varijabilnih opštih
+troškova proizvodnje, nastalih prilikom konverzije materijala u gotove proizvode.
+Raspoređivanje fiksnih opštih troškova proizvodnje na učinke zasniva se
+na normalnom kapacitetu proizvodnje.
+Normalni kapacitet proizvodnje se definiše kao količina proizvodnje koja
+se može ostvariti u proseku tokom određenog broja perioda ili sezona u normalnim uslovima
+uzimajući u obzir planirano održavanje.
+Neraspoređeni fiksni opšti troškovi priznaju se kao rashod perioda u kojem
+su nastali. Ovi troškovi se odnose na neiskorišćenost kapaciteta.
+Kada se u proizvodnom procesu proizvodi više proizvoda, a troškovi konverzije
+svakog proizvoda se ne mogu direktno identifikovati, potrebno ih je racionalno i dosledno
+raspoređivati na proizvode.
+Osnovica raspoređivanja može biti relativna vrednost prodaje svakog proizvoda
+u fazi proizvodnog procesa kada se proizvodi mogu zasebno utvrditi ili po završetku proizvodnje.
+Najveći deo sporednih proizvoda, po svojoj prirodi, nije materijalno značajan.
+Kada je to slučaj, entitet ih odmerava po ceni prodaje umanjenoj za troškove dovršenja i
+prodaje, a ovaj iznos treba da se oduzme od cene koštanja glavnog proizvoda. Kao rezultat
+ovoga, knjigovodstvena vrednost glavnog proizvoda ne razlikuje se značajno od njegove cene
+koštanja.
+Ostali troškovi se uključuju u trošak zaliha samo u meri u kojoj su stvarno
+nastali u vezi dovođenja zaliha na sadašnju lokaciju i u sadašnje stanje, kao npr. opšti
+neproizvodni troškovi ili troškovi dizajniranja proizvoda za određene kupce.
+Troškovi koji se ne priznaju u cenu koštanja zaliha, a priznaju se kao
+rashod perioda u kojem su nastali su:
+1) neuobičajeni troškovi otpadnog materijala, rada ili drugih proizvodnih
+troškova;
+2) troškovi skladištenja, osim ako nisu nužno sastavni deo proizvodnog
+procesa pre iduće proizvodne faze;
+3) administrativni opšti troškovi koji ne doprinose dovođenju zaliha na
+sadašnju lokaciju i sadašnje stanje;
+4) troškovi prodaje.
+Troškovi pozajmljivanja koji su direktno pripisivi sticanju ili proizvodnji
+zaliha koje se kvalifikuju (za čiju proizvodnju je potreban značajan vremenski period da
+bi bile spremne za upotrebu ili prodaju) se uključuju u nabavnu vrednost. Troškovi pozajmljivanja
+u vezi sa zalihama koje se kvalifikuju uključuju samo izdatke koji su imali za rezultat gotovinske
+isplate, transfere drugih sredstava ili preuzimanje obaveza na koje se zaračunava kamata.
+Poslovni subjekt treba da započne kapitalizaciju troškova pozajmljivanja
+na datum kada se prvi put kumulativno ispune sledeći uslovi:
+1) poslovni subjekt je imao izdatke za zalihe;
+2) imao troškove pozajmljivanja; i
+3) preduzeo aktivnosti neophodne da bi se zalihe pripremile za planiranu
+upotrebu ili prodaju.
+Poslovni subjekt treba da prestane sa kapitalizacijom troškova pozajmljivanja
+kada su u suštini završene sve aktivnosti neophodne da bi se zalihe pripremile za planiranu
+upotrebu ili prodaju.
+Obračun izlaza vrednosti zaliha vrši se po sledećim metodama:
+1) metod specifične identifikacije troškova;
+2) FIFO metoda ("prva ulazna jednaka prvoj izlaznoj");
+3) metoda ponderisanog prosečnog troška.
+Specifična identifikacija troškova znači, da se specifični troškovi pripisuju
+identifikovanim predmetima zaliha. Po ovoj metodi trošak utrošenog ili prodatog sredstva
+jednak je njegovoj nabavnoj vrednosti, odnosno ceni koštanja. To je primereni pristup za
+stavke koje se izdvajaju za određeni projekat, bez obzira da li su kupljene ili proizvedene,
+kao i za sredstva koja se mogu pojedinačno evidentirati i gde je to ekonomski isplativo.
+Metod "prva ulazna jednaka prvoj izlaznoj" podrazumeva postupak
+da se stavka zaliha koja je prva stečena prva upotrebi ili proda, tako da su stavke koje
+ostaju na zalihama na kraju perioda one, koje su poslednje nabavljene ili proizvedene.
+Metod prosečne cene podrazumeva postupak po kojem se trošak neke stavke
+određuje na osnovu prosečnog ponderisanog troška svih stavki na početku perioda i troška
+sličnih stavki koje su nabavljene ili proizvedene u tom periodu. Prosek se može izračunati
+periodično ili po dobijanju svake dodatne nabavke, odnosno proizvodnje u zavisnosti od uslova
+u kojima poslovni subjekt posluje.
+Na kraju izveštajnog perioda subjekt treba da proveri da li su zalihe obezvređene.
+Poslovni subjekt zalihe na datum bilansa vrednuje po nižoj od sledeće dve
+vrednosti:
+1) nabavnoj vrednosti, odnosno ceni koštanja; ili
+2) procenjenoj prodajnoj ceni umanjenoj za troškove dovršenja i prodaje.
+Utvrđivanje kurentnosti zaliha je potrebno, jer se može dogoditi da cena
+koštanja zaliha ne može biti nadoknađena u celosti, ako su zalihe oštećene ili u celosti
+ili delimično zastarele ili ako je smanjena njihova prodajna cena.
+Nemogućnost nadoknade cene koštanja, odnosno nabavne vrednosti zaliha može
+biti prisutna, ako je došlo do povećanja procenjenih troškova dovršenja ili procenjenih troškova
+koji tek treba da nastanu zbog prodaje.
+Smanjenje vrednosti zaliha ispod nabavne vrednosti, odnosno cene koštanja
+do neto tržišne vrednosti u skladu je sa zahtevom da se imovina ne može iskazati po vrednosti
+većoj od one koja će se ostvariti njihovom prodajom ili upotrebom.
+Smanjenje vrednosti zaliha do njihove neto tržišne vrednosti sprovodi se
+uobičajeno predmet po predmet. Međutim, u nekim okolnostima može biti adekvatnije grupisati
+slične ili povezane predmete zaliha.
+Neto tržišna vrednost je procenjena cena prodaje u okviru redovnog poslovanja,
+umanjena za procenjene troškove dovršenja i procenjene troškove neophodne za realizaciju
+prodaje.
+Procena neto tržišne vrednosti zasniva se na najnovijim dokazima koji postoje
+u vreme procene vrednosti zaliha za koje se očekuje da će biti realizovane. Ove procene uzimaju
+u obzir promene cena ili troškova direktno povezanih sa događajima nakon datuma bilansa u
+meri u kojoj ti događaji potvrđuju uslove koji su postojali na kraju perioda.
+Materijal i druge zalihe namenjene proizvodnji zaliha ne otpisuju se ispod
+troška nabavke, ako se očekuje da će gotovi proizvodi u koje će biti ugrađene biti prodati
+po ceni u visini ili iznad cene koštanja. Međutim, kad smanjenje cene materijala upućuje
+na to da će cena koštanja gotovih proizvoda biti veća od neto tržišne vrednosti, vrednost
+materijala se otpisuje do neto tržišne vrednosti.
+Neto tržišna vrednost procenjuje se ponovo u svakom sledećem periodu. Ako
+su neke okolnosti u ranijem periodu uticale na smanjenje vrednosti zaliha ispod troškova
+nabavke, a te okolnosti više ne postoje, ili ako postoji nedvosmisleni dokaz o povećanju
+neto tržišne vrednosti zbog promene ekonomskih uslova, poništava se ranije proknjiženo smanjenje
+vrednosti zaliha do iznosa koji je prethodno bio priznat kao rashod. Iznos bilo kojeg poništenja
+smanjenja vrednosti zaliha kao posledica povećanja neto tržišne vrednosti treba priznati
+kao prihod, uz istovremeno povećanje zaliha, do visine prethodno priznatog rashoda, odnosno
+do prvobitno priznate nabavne vrednosti, odnosno cene koštanja.
+Zalihe poljoprivrednih proizvoda
+Član 27
+Izuzetno od člana 26. ovog pravilnika, zalihe poljoprivrednih proizvoda
+proizvedenih kao rezultat sopstvenih bioloških sredstava poslovnog subjekta, mere se po fer
+vrednosti umanjenoj za troškove prodaje u momentu ubiranja, odnosno sakupljanja. Ovako utvrđena
+vrednost predstavlja nabavnu vrednost na taj datum, od kada se ove zalihe vrednuju kao ostale
+materijalne zalihe u skladu sa članom 26. ovog pravilnika.
+Troškovi prodaje su procenjeni troškovi koji sadrže: prevozne i druge troškove
+potrebne da poljoprivredni proizvodi budu dopremljeni na dato tržište, naknade brokerima
+i dilerima, takse nadzornim organizacijama i robnim berzama, porezi, carine i druge dažbine.
+Poljoprivredni proizvodi su proizvodi bioloških sredstava kao što su: mleko,
+meso, voće, vuna, posečena stabla, pamuk i sl.
+Ako postoji aktivno tržište poljoprivrednih proizvoda, cena koja se kotira
+na tom tržištu je odgovarajuća osnova za određivanje fer vrednosti tog sredstva. Ako poslovni
+subjekt ima pristup različitim aktivnim tržištima, koristi se najrelevantnije tržište. Ako
+poslovni subjekt ima pristup na dva aktivna tržišta, koristi cene sa onog tržišta koje planira
+da koristi.
+Ako ne postoji aktivno tržište, poslovni subjekt pri određivanju fer vrednosti
+koristi jednu ili, kada je to moguće, više sledećih alternativa:
+1) cenu poslednje tržišne transakcije, pod uslovom da nije bilo značajne
+promene ekonomskih okolnosti od datuma te transakcije do datuma Bilansa stanja;
+2) tržišne cene za slična sredstva koje se koriguju kako bi se odrazile
+razlike; i
+3) sektorske repere, kao što je vrednost voćnjaka izražena po gajbi, bušelu
+(merici, vagonu) ili hektaru prinosa i vrednost stada izražena po kilogramu mesa.
+Dobitak ili gubitak koji nastaje pri početnom priznavanju poljoprivrednog
+proizvoda po fer vrednosti umanjenoj za procenjene troškove prodaje uključuje se u dobitak
+ili gubitak u Bilansu uspeha za period u kom nastaje.
+ž) Stalna imovina namenjena prodaji i prestanak poslovanja
+Član 28
+Stalna imovina namenjena prodaji (ili grupa za otuđenje) je imovina koja
+se drži za prodaju ako se njena knjigovodstvena vrednost može povratiti prevashodno prodajnom
+transakcijom, a ne daljim korišćenjem. Stalna imovina namenjena prodaji klasifikuje se kao
+kratkoročna imovina.
+Prestanak poslovanja predstavlja deo poslovnog subjekta koji je ili otuđen,
+ili je klasifikovan kao deo koji se drži za prodaju, i
+1) predstavlja odvojenu značajnu liniju poslovanja ili geografsku oblast
+poslovanja,
+2) deo je jednog koordiniranog plana za otuđenje odvojene značajne linije
+poslovanja ili geografske oblasti poslovanja ili
+3) je zavisni poslovni subjekt stečen isključivo u cilju ponovne prodaje.
+Poslovni subjekt odmerava stalnu imovinu (ili grupu za otuđenje) klasifikovanu
+kao imovina koje se drži za prodaju, po nižem od sledeća dva iznosa: po knjigovodstvenoj
+vrednosti ili fer vrednost umanjenoj za troškove prodaje.
+Stalna imovina namenjena prodaji (ili grupa za otuđenje) mora da bude dostupna
+za momentalnu prodaju u svom trenutnom stanju isključivo pod uslovima koji su uobičajeni
+za prodaju takve imovine (ili grupa za otuđenje) i njena prodaja mora biti vrlo verovatna
+u roku od jedne godine od datuma priznavanja, osim u slučaju produženja perioda za dovršenje
+prodaje usled događaja i okolnosti koje su izvan kontrole poslovnog subjekta.
+Kada poslovni subjekt stekne stalnu imovinu (ili grupu za otuđenje) isključivo
+u cilju naknadnog otuđenja, on treba da klasifikuje tu stalnu imovinu (ili grupu za otuđenje)
+kao imovinu koja se drži za prodaju na datum sticanja samo ako je ispunjen jednogodišnji
+zahtev za njenu prodaju osim u slučaju produženja perioda za dovršenje prodaje usled događaja
+i okolnosti koje su izvan kontrole poslovnog subjekta.
+Kada se očekuje da se prodaja dogodi posle jedne godine, poslovni subjekt
+odmerava troškove prodaje po njihovoj sadašnjoj vrednosti. Svako povećanje sadašnje vrednosti
+troškova prodaje koje se javlja zbog protoka vremena se prezentuje u bilansu uspeha kao trošak
+finansiranja.
+Poslovni subjekt priznaje gubitak od umanjenja vrednosti za svako početno
+ili naknadno smanjenje vrednosti imovine (ili grupe za otuđenje) na fer vrednosti umanjenu
+za troškove prodaje.
+Poslovni subjekt priznaje dobitak za svako naknadno povećanje fer vrednosti
+umanjene za troškove prodaje imovine (ili grupe za otuđenje), ali ne u obliku prekoračenja
+kumulativnih troškova od umanjenja vrednosti koji su prethodno priznati za ovu imovinu.
+Gubitak od umanjenja vrednosti (ili svaki naknadni dobitak) priznat za
+grupu za otuđenje smanjuje (ili povećava) knjigovodstvenu vrednost stalne imovine u grupi
+koja je namenjena prodaji.
+Poslovni subjekt ne amortizuje stalnu imovinu dok je ona klasifikovana
+kao imovina koja se drži za prodaju ili dok je deo grupe za otuđenje klasifikovane kao grupa
+koja se drži za prodaju. Kamata i drugi rashodi koji se mogu pripisati obavezama grupe za
+otuđenje klasifikovane kao grupa koja se drži za prodaju, priznaju se i dalje.
+Svaka stalna imovina koja ne zadovoljava kriterijume držanja za prodaju
+prestaje da se klasifikuje kao imovina koja se drži za prodaju.
+Poslovni subjekt odmerava stalnu imovinu (ili grupu za otuđenje) koja prestaje
+da se klasifikuje kao imovina koja se drži za prodaju po nižoj od sledeće dve vrednosti:
+1) knjigovodstvene vrednosti pre nego što je imovina (ili grupa za otuđenje)
+klasifikovana kao imovina koje se drži za prodaju, korigovane za amortizaciju ili revalorizaciju
+koja bi bila priznata da imovina (ili grupa za otuđenje) nije klasifikovana kao imovina koje
+se drži za prodaju, i
+2) njene nadoknadive vrednosti na datum naknadne odluke da se ona ne proda
+ili ne raspodeli.
+z) Kratkoročni plasmani i potraživanja
+Član 29
+Kratkoročni plasmani i potraživanja su finansijski instrumenti sa rokom
+dospelosti za naplatu do godinu dana od dana početnog priznavanja.
+Kratkoročni krediti i zajmovi procenjuju se po nominalnoj vrednosti, umanjenoj
+indirektno za procenjene gubitke zbog obezvređenja, a direktno za nastala i dokumentovana
+smanjenja vrednosti.
+Hartije od vrednosti i otkupljene akcije i udeli drugih pravnih lica procenjuju
+se po nabavnoj vrednosti ili po tržišnoj vrednosti ako je ona niža.
+Otkupljene sopstvene akcije i otkupljeni sopstveni udeli iskazuju se po
+nominalnoj vrednosti, a razlika između otkupne i nominalne vrednosti se iskazuje na poziciji
+emisione premije.
+Potraživanja za prodatu robu kupcima na kratkoročni kredit, priznaju se
+u nominalnom (nediskontovanom) iznosu novčanog potraživanja, a to je fakturna vrednost.
+Kratkoročna potraživanja procenjuju se po nominalnoj vrednosti, umanjenoj
+indirektno za procenjeni iznos verovatne nenaplativosti potraživanja, a direktno ako je nemogućnost
+naplate izvesna i dokumentovana.
+Finansijski plasmani i potraživanja u stranoj valuti vrednuju se po srednjem
+kursu strane valute u skladu sa zakonom kojim se uređuje devizno poslovanje, a plasmani i
+potraživanja sa valutnom klauzulom vrednuju se po ugovorenom kursu strane valute na dan sastavljanja
+finansijskih izveštaja, umanjeni indirektno za procenjeni iznos verovatne nenaplativosti,
+a direktno ako je nemogućnost naplate izvesna i dokumentovana.
+i) Gotovinski ekvivalenti i gotovina
+Član 30
+Gotovinskim ekvivalentima i gotovinom smatraju se hartije od vrednosti,
+depoziti po viđenju, gotovina, plemeniti metali i predmeti od plemenitih metala.
+Hartije od vrednosti imaju karakter gotovinskog ekvivalenta ako su neposredno
+unovčive uz beznačajan rizik smanjenja vrednosti i u poznate iznose gotovine.
+Hartije od vrednosti kao gotovinski ekvivalenti, depoziti po viđenju i
+gotovina procenjuju se po nominalnoj vrednosti.
+Plemeniti metali i predmeti od plemenitih metala procenjuju se u visini
+vrednosti izvedene iz cene plemenitih metala na svetskom tržištu.
+Hartije od vrednosti, depoziti po viđenju i gotovina u stranoj valuti procenjuju
+se po srednjem kursu strane valute na dan sastavljanja finansijskih izveštaja.
+j) Aktivna vremenska razgraničenja
+Član 31
+Računi aktivnih vremenskih razgraničenja predstavljaju specifične pozicije
+bilansa na kojima se iskazuju vremenski razgraničeni rashodi i prihodi između dva obračunska
+perioda, odnosno između Bilansa uspeha tekuće i narednih godina. U cilju utvrđivanja realnog
+finansijskog rezultata, pre izrade godišnjih finansijskih izveštaja i zaključka poslovnih
+knjiga vrši se razgraničenje rashoda i prihoda na obračunske periode kojima ekonomski pripadaju,
+bez obzira na momenat plaćanja rashoda, odnosno naplate prihoda.
+Računi aktivnih i pasivnih vremenskih razgraničenja zasnivaju se na načelu
+nastanka poslovnog događaja. Po ovom načelu, učinci poslovnih promena i drugih događaja se
+priznaju u momentu nastanka (a ne kada se gotovina ili njen ekvivalent primi ili isplati)
+i evidentiraju u poslovnim knjigama i uključuju u finansijske izveštaje u periodima na koji
+se odnose.
+Finansijski izveštaji pripremljeni na načelu nastanka poslovnog događaja
+informišu korisnike ne samo o poslovnim promenama iz prethodnog perioda, koje uključuju isplatu
+i prijem gotovine, već takođe i o obavezama za isplatu gotovine u budućem periodu i o resursima
+koji predstavljaju gotovinu koja će biti primljena u budućem periodu. Zbog toga ti izveštaji
+obezbeđuju takvu vrstu informacija o prošlim poslovnim promenama i ostalim događajima koje
+su najkorisnije za korisnike pri donošenju ekonomskih odluka.
+U aktivna vremenska razgraničenja spadaju sledeće stavke: unapred plaćeni,
+odnosno fakturisani troškovi narednog perioda, zarađeni prihodi za koje nisu izdate fakture
+i ostala aktivna vremenska razgraničenja.
+2. Kapital i obaveze
+a) Kapital
+Član 32
+Kapital, u smislu ovog pravilnika, je sopstveni izvor finansiranja imovine
+koji predstavlja ostatak vrednosti imovine poslovnog subjekta posle odbitka svih njegovih
+obaveza.
+Kapital se sastoji od: upisanog osnovnog kapitala (akcijski kapital, udeli,
+ulozi, državni kapital, društveni kapital, zadružni udeli, emisiona premija), ostali kapital,
+neuplaćeni upisani kapital, rezerve (zakonske, statutarne i druge rezerve), dobitak iz ranijih
+godina i dobitak iz tekuće godine, umanjen za porez na dobit.
+Gubitak iz ranijih godina i gubitak iz tekuće godine predstavljaju ispravku
+vrednosti kapitala.
+Kapital i gubitak unose se u finansijske izveštaje u nominalnom iznosu,
+odnosno u visini knjigovodstvene vrednosti.
+Upisani kapital je novčano izražena vrednost ulaganja koje je uneto kao
+kapital u poslovni subjekt i koji je upisan u registar privrednih subjekata.
+Emisiona premija je deo kapitala koji poslovni subjekt ostvaruje realizacijom
+akcija, odnosno udela iznad nominalne vrednosti upisanog kapitala, odnosno iznad troškova
+sticanja sopstvenih akcija, odnosno udela.
+Rezerve su deo kapitala koje se formiraju iz dobiti poslovnog subjekta
+ili dodatnom uplatom osnivača.
+Neraspoređena dobit ili nepokriveni gubitak je deo dobiti prethodnih perioda
+koja ostaje poslovnom subjektu nakon raspoređivanja u rezerve, isplate dividende ili udela
+u dobiti umanjena za gubitke prethodnih perioda.
+Dobitak, odnosno gubitak tekućeg obračunskog perioda je deo kapitala kao
+rezultat viška prihoda nad rashodima, odnosno viška rashoda na prihodima ostvarenih u tekućem
+obračunskom periodu nakon obračuna poreza na dobit.
+S obzirom na to da kapital predstavlja ostatak imovine poslovnog subjekta
+nakon odbitka svih obaveza, priznavanje kapitala neposredno je povezano sa priznavanjem imovine
+i obaveza.
+Merenje kapitala u finansijskim izveštajima vrši se merenjem pojedinih
+vrsta imovine i obaveza koje utiču na promenu vrednosti kapitala.
+b) Dugoročna rezervisanja
+Član 33
+Rezervisanja predstavljaju obaveze po osnovu kojih će se vršiti isplate
+u narednim obračunskim periodima, a odnose se naročito na:
+1) rezervisanja za troškove u garantnom roku;
+2) rezervisanja za obnavljanje prirodnih bogatstava;
+3) rezervisanja za zadržane kaucije i depozite;
+4) rezervisanja za ostale verovatne troškove koji će nastati, a odnose
+se na sadašnje učinke (rezervisanja za sudske sporove, za izdate garancije i druga jemstva
+i druga rezervisanja).
+Rezervisanja iz stava 1. ovog člana procenjuju se u visini očekivanih izdataka
+po osnovu kojih će se isplate vršiti u narednim obračunskim periodima.
+Vrednovanje dugoročnih rezervisanja vrši se na osnovu verodostojne tehničke,
+knjigovodstvene i druge dokumentacije, na način uređen opštim aktom poslovnog subjekta.
+Član 34
+Nastali izdaci po osnovu izvršenih dugoročnih rezervisanja terete iznos
+rezervisanja.
+Izdaci preko iznosa izvršenih rezervisanja iskazuju se kao rashodi, a neiskorišćeni
+deo rezervisanja se ukida i iskazuje kao prihod.
+v) Obaveze
+Član 35
+Obaveza je sadašnja obaveza poslovnog subjekta, proizašla iz prošlih događaja
+i za čije se izmirenje očekuje odliv resursa. Obaveza se priznaje kada je izvesno da će zbog
+isplate sadašnje obaveze, doći do odliva resursa poslovnog subjekta i kada se iznos za njenu
+isplatu može pouzdano izmeriti.
+Obaveze se klasifikuju kao kratkoročne i dugoročne.
+Dugoročnim obavezama smatraju se obaveze prema matičnim, zavisnim i drugim
+povezanim pravnim licima, obaveze po dugoročnim kreditima i zajmovima, obaveze po hartijama
+od vrednosti i ostale dugoročne obaveze, koje dospevaju u roku dužem od godinu dana od dana
+sastavljanja finansijskih izveštaja, ili u trajanju poslovnog ciklusa ako je on duži od godinu
+dana.
+Obaveza po osnovu finansijskog lizinga, na prvi dan trajanja lizinga odmerava
+po sadašnjoj vrednosti svih plaćanja u vezi sa lizingom koja nisu izvršena na taj dan. Ta
+plaćanja treba da se diskontuju po kamatnoj stopi sadržanoj u lizingu ako ta stopa može lako
+da se utvrdi. U slučajevima kad ta kamatna stopa ne može lako da se utvrdi, korisnik lizinga
+primenjuje kamatnu stopu koju bi morao da plati da u sličnom roku i uz slične garancije pozajmi
+sredstva neophodna za nabavku imovine slične vrednosti kao imovine sa pravom korišćenja u
+sličnom ekonomskom okruženju.
+Kratkoročna obaveza je sadašnja obaveza koja dospeva za izmirenje u roku
+od dvanaest meseci od dana sastavljanja finansijskih izveštaja.
+Finansijske obaveze obuhvataju obaveze po osnovu kratkoročnih i dugoročnih
+kredita. Ove obaveze se iskazuju po amortizovanoj vrednosti. Obaveze po osnovu kredita sadrže
+i troškove transakcije, odnosno troškove obrade kreditnog zahteva i druge obaveze koje zajmoprimac
+otplaćuje banci ili drugom kreditoru. Troškovi transakcije koji su dodati obavezi po osnovu
+kredita se amortizuju u toku otplate kredita, obično u jednakom iznosu koji se izračunava
+tako što se iznos troškova podeli sa brojem rata.
+Deo dugoročnih obaveza koji dospeva u roku kraćem od godinu dana od dana
+sastavljanja finansijskih izveštaja, iskazuje se kao kratkoročna obaveza.
+U finansijske obaveze spadaju i obaveze po osnovu emitovanih dugoročnih
+i kratkoročnih hartija od vrednosti i te obaveze se iskazuju po amortizovanoj vrednosti.
+Obaveze se procenjuju u visini nominalne vrednosti proistekle iz odgovarajuće
+poslovne i finansijske transakcije, prema verodostojnim ispravama.
+Obaveze u stranoj valuti vrednuju se po srednjem kursu strane valute u
+skladu sa zakonom kojim se uređuje devizno poslovanje, a obaveze sa valutnom klauzulom vrednuju
+se po ugovorenom kursu strane valute na dan sastavljanja finansijskih izveštaja, a utvrđene
+pozitivne i negativne razlike i efekti iskazuju se u okviru finansijskih prihoda i rashoda
+u Bilansu uspeha.
+Državna davanja dobijena pre ispunjavanja kriterijuma priznavanja priznaju
+se kao obaveza.
+Član 36
+Obaveze kod kojih je istekao rok zastarelosti unose se u ostale prihode
+u momentu kada više ne zadovoljavaju definiciju obaveze iz člana 35. stav 1. ovog pravilnika.
+Obaveze po osnovu hartija od vrednosti iskazuju se zajedno sa kamatom koja
+je obračunata do dana sastavljanja finansijskih izveštaja.
+Kamata za buduće periode nakon dana sastavljanja finansijskih izveštaja
+ne iskazuje se u Bilansu stanja.
+Član 37
+Izmirenje sadašnje obaveze uglavnom znači da se poslovni subjekt odriče
+resursa koji sadrže ekonomske koristi da bi izmirio potraživanja druge strane.
+Izmirenje sadašnje obaveze može se izvršiti na više načina, kao što su:
+1) plaćanjem u gotovini;
+2) prenosom druge imovine;
+3) pružanjem usluga;
+4) zamenom te obaveze sa drugom obavezom; ili
+5) konverzijom obaveze u kapital.
+Obaveza se takođe može poništiti na druge načine, kao što je slučaj kada
+se poverilac odrekne svojih prava ili ih proglasi nevažećim.
+g) Pasivna vremenska razgraničenja
+Član 38
+U okviru pasivnih vremenskih razgraničenja iskazuju se unapred naplaćeni
+prihodi i troškovi tekućeg perioda za koje nije primljena isprava ili kad obaveza plaćanja
+nastaje u budućem periodu.
+U okviru pasivnih vremenskih razgraničenja iskazuju se odloženi prihodi
+i primljene donacije sa namenom utvrđenom ugovorom.
+IV VREDNOVANJE POZICIJA BILANSA USPEHA
+Prihodi i rashodi
+Član 39
+Prihod predstavlja bruto priliv ekonomskih koristi u toku obračunskog perioda
+koji proizlazi iz redovnih aktivnosti poslovnog subjekta, kada ti prilivi imaju za posledicu
+povećanje kapitala, osim povećanja kapitala koje se odnosi na uplate vlasnika kapitala.
+Prihod nastaje u toku redovnih aktivnosti poslovnog subjekta i ima različite
+nazive kao što su prihod od prodaje proizvoda, robe i usluga, provizije, kamate, dividende,
+tantijeme, zakupnine i sl.
+Rashod predstavlja smanjenje ekonomskih koristi u toku obračunskog perioda
+u obliku odliva ili potrošnje imovine ili stvaranja obaveza koji dovodi do smanjenja kapitala,
+osim smanjenja kapitala koje se odnosi na isplatu učešća u dobiti (dividende) vlasnicima
+kapitala.
+Rashodi koji nastaju u toku redovnog poslovanja poslovnog subjekta uključuju:
+troškove prodaje proizvoda i robe, zarade, amortizaciju, proizvodne usluge, nematerijalne
+troškove i sl.
+Prihodi i rashodi u finansijskom izveštaju se klasifikuju kao poslovni
+prihodi i rashodi, finansijski prihodi i rashodi i ostali prihodi i rashodi.
+a) Poslovni prihodi i rashodi
+Član 40
+Poslovne prihode čine prihodi od prodaje robe, proizvoda i usluga, prihodi
+od aktiviranja učinaka, prihodi od subvencija, dotacija, donacija, regresa, kompenzacija
+i povraćaja dažbina po osnovu prodaje robe, proizvoda i usluga i drugi poslovni prihodi koji
+su obračunati u knjigovodstvenoj ispravi, nezavisno od vremena naplate.
+Prihodi po osnovu prodaje robe, proizvoda i usluga priznaju se kada i u
+meri u kojoj je poslovni subjekt ispunio svoju obavezu po osnovu ugovora prenosom dogovorene
+robe ili pružanjem usluge kupcu - prenos je urađen kada je kupac stekao (ili u meri u kojoj
+je stekao) kontrolu nad tom robom ili uslugom. Poslovni subjekt u toku izveštajnog perioda
+a obavezno na kraju izveštajnog perioda utvrđuje stepen ispunjenosti činjenja iz ugovora
+sa kupcem.
+Prihodi od prodaje robe, proizvoda i usluga vrednuju se po fakturnoj vrednosti,
+po odbitku datih rabata i drugih popusta, PDV-a i drugih poreskih oblika poput poreza po
+odbitku.
+Poslovni subjekt uključuje u prihod priliv ekonomskih koristi koje je primio
+ili potražuje za svoj račun. U prihod se ne uključuju iznosi primljeni za račun trećih strana.
+Prihodima od aktiviranja učinaka smatraju se prihodi po osnovu upotrebe
+robe, proizvoda i usluga za nematerijalna ulaganja, osnovna sredstva, učešća u kapitalu,
+materijal, inventar i rezervne delove, prirast osnovnog stada i sopstveni transport radi
+nabavke materijala i robe, uključujući i troškove utovara, istovara i za reprezentaciju.
+Prihodima od aktiviranja učinaka smatraju se i prihodi po osnovu prenosa sopstvenih proizvoda
+na zalihe robe radi dalje prodaje.
+Prihodi iz stava 3. ovog člana vrednuju se i priznaju po ceni koštanja,
+koja obuhvata direktne troškove materijala i rada i alocirane opšte troškove proizvodnje.
+Poslovni prihodi se na kraju obračunskog perioda uvećavaju za povećanje
+stanja zaliha nedovršene proizvodnje i gotovih proizvoda na kraju perioda u odnosu na početno
+stanje u tom periodu.
+Prihodi od državnih davanja priznaju se na sistematskoj osnovi u Bilansu
+uspeha tokom perioda u kojima poslovni subjekt priznaje kao rashod povezane troškove koje
+treba pokriti iz tih davanja. Priznavanje državnih davanja u Bilansu uspeha vrši se u saglasnosti
+sa računovodstvenim načelom uzročnosti prihoda i rashoda iz člana 4. stav 1. tačka 9) ovog
+pravilnika.
+Pri početnom priznavanju državnog davanja povezanog sa sredstvima, uključujući
+i nemonetarna davanja po fer vrednosti, priznaje se davanje u Bilansu stanja kao odloženi
+prihod po osnovu davanja (tj. kao pasivno vremensko razgraničenje). Istovremeno priznaje
+i dobijena sredstva (po njihovoj fer vrednosti) ili, eventualno, smanjenje obaveza.
+Državno davanje koje se prima kao nadoknada za nastale rashode ili gubitke
+ili u svrhu pružanja direktne finansijske podrške poslovnom subjektu sa kojom nisu povezani
+budući troškovi priznaje se u Bilansu uspeha u periodu u kojem se prima.
+Član 41
+Poslovne rashode čine rashodi direktnog materijala, nabavna vrednost prodate
+robe i drugi poslovni rashodi (troškovi ostalog materijala, proizvodne usluge, rezervisanja,
+amortizacija, nematerijalni troškovi, porezi i doprinosi poslovnog subjekta nezavisni od
+rezultata, bruto zarade i ostali lični rashodi, nezavisno od momenta plaćanja).
+Poslovni rashodi se na kraju obračunskog perioda uvećavaju za smanjenje
+stanja zaliha nedovršene proizvodnje i gotovih proizvoda na kraju perioda u odnosu na početno
+stanje u tom periodu.
+Troškovi direktnog materijala i prodate robe vrednuju se i priznaju po
+nabavnoj vrednosti.
+Troškovi zarada se iskazuju u visini stvarno obračunatih zarada.
+Drugi poslovni rashodi se priznaju po fakturnoj vrednosti, odnosno vrednosti
+utvrđenoj na osnovu računovodstvene isprave.
+b) Finansijski prihodi i rashodi
+Član 42
+Finansijske prihode čine prihodi od kamata, pozitivne kursne razlike, pozitivni
+efekti po osnovu valutne klauzule, dividende i ostali finansijski prihodi.
+Prihodi od kamate se priznaju u iznosima obračunatim primenom ugovorene
+ili zatezne kamatne stope za korišćena sredstva od strane lica kome su sredstva data na raspolaganje
+do dana sastavljanja finansijskih izveštaja.
+Prihodi od dividendi priznaju se u momentu kada skupština društva koje
+isplaćuje dividendu donese odluku o raspodeli dobiti i izdvajanju za dividende.
+Odredba stava 3. ovog člana odnose se i na isplatu dobiti članovima društva
+sa ograničenom odgovornošću.
+Član 43
+Finansijske rashode čine rashodi po osnovu kamata, negativne kursne razlike,
+negativni efekti po osnovu valutne klauzule, kao i ostali finansijski rashodi.
+Rashodi kamata se iskazuju u iznosima obračunatim primenom ugovorene i
+zatezne kamatne stope za korišćena primljena sredstva do dana sastavljanja finansijskih izveštaja.
+Ostali finansijski rashodi se iskazuju u visini isplaćenih iznosa.
+v) Ostali prihodi i rashodi
+Član 44
+Ostale prihode predstavljaju dobici od prodaje nematerijalnih ulaganja
+i osnovnih sredstava, učešća u kapitalu, dobici od prodaje dugoročnih hartija od vrednosti,
+dobici od prodaje materijala, viškovi, prihodi od smanjenja obaveza, prihodi od naplaćenih
+otpisanih potraživanja, prihodi po osnovu efekata ugovorene zaštite od rizika, osim efekata
+po osnovu valutne klauzule, prihodi od ukidanja neiskorišćenih dugoročnih rezervisanja.
+Ostali prihodi priznaju se u vrednosti obračunatih iznosa koji su zasnovani
+na verodostojnoj dokumentaciji.
+Prihode po osnovu usklađivanja vrednosti imovine čine pozitivni efekti
+po osnovu vrednosnog usklađivanja do iznosa ranije izvršenog obezvređenja nematerijalnih
+ulaganja, osnovnih sredstava, zaliha potraživanja i finansijskih plasmana, u skladu sa ovim
+pravilnikom.
+Član 45
+Poslovne rashode predstavljaju gubici po osnovu prodaje i rashodovanja
+nematerijalnih ulaganja i osnovnih sredstava, gubici po osnovu prodaje dugoročnih hartija
+od vrednosti i učešća u kapitalu, gubici od prodaje materijala, manjkovi, rashodi po osnovu
+efekata ugovorene zaštite od rizika, osim efekata po osnovu valutne klauzule, rashodi direktnih
+otpisa potraživanja i rashodi po osnovu otpisa (rashodovanja) zaliha.
+Poslovni rashodi, priznaju se po obračunatim iznosima zasnovanim na verodostojnoj
+dokumentaciji.
+Rashode po osnovu obezvređenja imovine čine negativni efekti po osnovu
+obezvređenja nematerijalnih ulaganja, osnovnih sredstava, zaliha i potraživanja i finansijskih
+plasmana, u skladu sa ovim pravilnikom.
+V NAPOMENE UZ FINANSIJSKE IZVEŠTAJE
+Član 46
+Napomene uz finansijske izveštaje sastavljaju poslovni subjekti u skladu
+sa Zakonom, u kojima treba da:
+1) pruže informacije o osnovima za sastavljanje finansijskih izveštaja
+i o specifičnim računovodstvenim politikama u skladu sa ovim pravilnikom koje su korišćene
+za sastavljanje finansijskih izveštaja;
+2) obelodane informacije koje nisu prikazane u finansijskim izveštajima;
+i
+3) pruže dodatne informacije koje nisu prikazane u finansijskim izveštajima,
+ali su relevantne za njihovo razumevanje.
+Napomene se, sve dok je to izvodljivo, prikazuju na sistematski način.
+U određivanju sistematskog načina, poslovni subjekt treba da razmotri efekte na razumljivost
+i uporedivost njegovih finansijskih izveštaja. Svaka stavka prikazana u Bilansu stanja i
+Bilansu uspeha, treba da ima oznaku koja upućuje na informacije u vezi sa njom u Napomenama.
+Primeri za sistematizovan redosled i grupisanje Napomena uključuju:
+1) isticanje oblasti aktivnosti poslovnog subjekta koje poslovni subjekt
+smatra najrelevantnijima za razumevanje njegovih finansijskih performansi i finansijske pozicije,
+kao što je grupisanje informacija o određenim poslovnim aktivnostima;
+2) grupisanje informacija o stavkama koje su odmerene na sličan način kao
+što je imovina odmerena po fer vrednosti; ili
+3) praćenje redosleda bilansnih pozicija u Bilansu uspeha, kao što su:
+(1) izjava o usaglašenosti sa odredbama ovog pravilnika i usvojenim
+računovodstvenim politikama;
+(2) značajne primenjene računovodstvene politike;
+(3) dodatne informacije o stavkama prikazanim u Bilansu stanja
+i Bilansu uspeha po redosledu po kome su svaki finansijski izveštaj i svaka bilansna pozicija
+prezentovani; i ostala obelodanjivanja.
+Napomene koje pružaju informacije o osnovi za sastavljanje finansijskih
+izveštaja i određenim računovodstvenim politikama predstavljaju zasebnu komponentu finansijskih
+izveštaja.
+Poslovni subjekt obelodanjuje svoje značajne računovodstvene politike,
+uključujući:
+1) osnovu (ili osnove) za odmeravanje korišćenu prilikom sastavljanja finansijskih
+izveštaja;
+2) ostale korišćene računovodstvene politike, relevantne za razumevanje
+finansijskih izveštaja.
+Za korisnike je veoma važno da budu obavešteni o osnovi ili osnovama za
+odmeravanje, korišćenim u finansijskim izveštajima (npr. istorijski trošak, tekući trošak,
+neto ostvariva vrednost, fer vrednost ili nadoknadivi iznos), jer osnova u skladu sa kojom
+se sastavljaju finansijski izveštaji značajno utiče na njihovu analizu. Ako se u finansijskim
+izveštajima koristi više od jedne osnove za odmeravanje, (npr. kada je revalorizovana određena
+grupa sredstava), dovoljno je označiti kategorije sredstava i obaveza na koje se svaka osnova
+za odmeravanje primenjuje.
+U odlučivanju da li treba obelodaniti određenu računovodstvenu politiku,
+rukovodstvo razmatra da li bi to obelodanjivanje pomoglo korisnicima u razumevanju načina
+na koji se transakcije, ostali događaji i okolnosti, odražavaju na finansijske performanse
+i finansijsku poziciju u izveštajima. Svaki poslovni subjekt razmatra prirodu svog poslovanja
+i politike koje korisnici njegovih finansijskih izveštaja očekuju da budu obelodanjene za
+taj tip poslovnog subjekta. Za korisnike je naročito korisno obelodanjivanje određenih računovodstvenih
+politika koje su odabrane kao dozvoljene alternative. Primer je obelodanjivanje toga da li
+poslovni subjekt primenjuje model fer vrednosti ili metod nabavne vrednosti za svoje investicione
+nekretnine.
+Računovodstvena politika može biti značajna zbog prirode poslovanja poslovnog
+subjekta, čak i kada iznosi u tekućem i u prethodnim periodima nisu materijalno značajni.
+Poslovni subjekt obelodanjuje, zajedno sa značajnim računovodstvenim politikama
+ili u drugim napomenama, okvirne procene, pored onih koje uključuju konkretne procene, koje
+je rukovodstvo izvršilo u procesu primene računovodstvenih politika poslovnog subjekta, a
+koje imaju najznačajniji efekat na iznose priznate u finansijskim izveštajima.
+U postupku primene računovodstvenih politika poslovnog subjekta, rukovodstvo
+vrši brojna prosuđivanja, pored onih koje uključuju konkretne procene, koje mogu značajno
+uticati na iznose priznate u finansijskim izveštajima. Rukovodstvo vrši okvirno vrednovanje
+prilikom utvrđivanja:
+1) kada se suštinski svi značajni rizici i koristi od vlasništva nad finansijskim
+sredstvima i sredstvima u lizingu prenose na druge poslovne subjekte;
+2) da li, u suštini, određene prodaje proizvoda predstavljaju finansijske
+sporazume i zbog toga ne stvaraju prihod; i
+3) da li ugovorni uslovi finansijskog sredstva za rezultat na određene
+datume imaju tokove gotovine koji su isključivo plaćanja glavnice i kamate na neizmireni
+iznos glavnice.
+Poslovni subjekt obelodanjuje u Napomenama informacije o ključnim pretpostavkama
+koje se odnose na budućnost i ostalim ključnim izvorima neizvesnosti konkretnih procena na
+kraju izveštajnog perioda, kod kojih postoji značajan rizik da će, u narednoj finansijskoj
+godini, prouzrokovati materijalno značajna korigovanja knjigovodstvene vrednosti imovine
+i obaveza. U vezi sa ovom imovinom i obavezama, Napomene obuhvataju detalje o:
+1) njihovoj prirodi; i
+2) njihovoj knjigovodstvenoj vrednosti na kraju izveštajnog perioda.
+Utvrđivanje knjigovodstvene vrednosti imovine i obaveza zahteva konkretnu
+procenu efekata neizvesnih budućih događaja na ovu imovinu i obaveze na kraju izveštajnog
+perioda. U nedostatku poslednjih poznatih tržišnih cena korišćenih za odmeravanje sledeće
+imovine i obaveza, potrebno je izvršiti konkretne procene koje su usmerene prema budućnosti,
+kako bi se odmerio nadoknadivi iznos grupa nekretnina, postrojenja i opreme, efekti tehnološke
+zastarelosti zaliha, rezervisanja za buduće ishode sudskih sporova koji su u toku, dugoročne
+obaveze za primanja zaposlenih, kao što su obaveze za penzije. Ove konkretne procene uključuju
+pretpostavke o takvim stavkama, kao što su tokovi gotovine i korišćene diskontne stope u
+koje je ukalkulisan rizik, buduće promene zarada i buduće promene cena koje utiču na ostale
+troškove.
+VI PRELAZAK NA PRIMENU PRAVILNIKA
+Član 47
+Poslovni subjekt koji je ranije primenjivao drugu računovodstvenu regulativu
+vrednovanja stavki u finansijskim izveštajima i koji u skladu sa Zakonom prelazi na primenu
+ovog pravilnika, tu činjenicu treba da objavi u Napomenama uz finansijske izveštaje ukoliko
+je dužan da ih sastavlja u skladu sa Zakonom.
+Ako poslovni subjekt u skladu sa ovim pravilnikom i usvojenom računovodstvenom
+politikom promeni ranije primenjivanu računovodstvenu politiku koja se odnosi na vrednovanje
+pozicija u svojim finansijskim izveštajima te promene treba da prikaže retrospektivno za
+uporedni period u svojim finansijskim izveštajima.
+Ako je za poslovni subjekt neizvodljivo da retrospektivno primeni novu
+računovodstvenu politiku usvojenu u skladu sa ovim pravilnikom ili bi njena primena podrazumevala
+nepotrebne troškove i napore, poslovni subjekt treba da primenjuje novu računovodstvenu politiku
+prospektivno za tekući i naredne obračunske periode. Te činjenice treba da objavi u napomenama
+uz finansijske izveštaje ukoliko ih sastavlja u skladu sa Zakonom.
+VII PRELAZNE I ZAVRŠNE ODREDBE
+Član 48
+Odredbe ovog pravilnika primenjuju se počev od finansijskih izveštaja koji
+se sastavljaju na dan 31. decembra 2021. godine.
+Danom početka primene ovog pravilnika prestaje da važi Pravilnik o načinu
+priznavanja, vrednovanja, prezentacije i obelodanjivanja pozicija u pojedinačnim finansijskim
+izveštajima mikro i drugih pravnih lica ("Službeni glasnik RS", br. 118/13 i 95/14).
+Član 49
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije".

@@ -1,0 +1,1826 @@
+Title: PRAVILNIKO KVALITETU ZAČINA, EKSTRAKATA ZAČINA I MEŠAVINA ZAČINA
+URL: https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zacina-ekstrakata-zacina-mesavina-zacina.html
+Extracted: 2025-07-06T23:10:39.347563
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O KVALITETU ZAČINA, EKSTRAKATA ZAČINA I MEŠAVINA ZAČINA
+("Sl. glasnik RS", br. 72/2014,  23/2015 i 69/2023)
+I UVODNE ODREDBE
+Predmet uređenja
+Član 1
+Ovim pravilnikom bliže se propisuju uslovi u pogledu
+kvaliteta začina namenjenih krajnjem potrošaču, ekstrakata začina i
+mešavine začina (u daljem tekstu: proizvodi), i to za: klasifikaciju,
+kategorizaciju i naziv proizvoda; fizička, fizičko-hemijska i senzorska
+svojstva, kao i sastav proizvoda; fizička, hemijska, fizičko-hemijska i
+senzorska svojstva sirovina, kao i vrstu i količinu sirovina, dodataka
+i drugih supstanci koje se upotrebljavaju u proizvodnji i preradi
+proizvoda; metode ispitivanja kvaliteta proizvoda; elemente bitnih
+tehnoloških postupaka koji se primenjuju u proizvodnji i preradi
+proizvoda; pakovanje i deklarisanje.
+Značenje izraza
+Član 2
+Pojedini izrazi upotrebljeni u ovom pravilniku imaju sledeće značenje:
+1)
+ASTA
+je jedinica za sadržaj obojenih
+materija u skladu sa standardom SRPS ISO 7541. Za preračunavanje
+ukupnih prirodno obojenih materija - C, mlevene paprike, izražene u
+gramima kapsantina po kilogramu uzorka (g/kg) u odnosu na suvu
+materiju, u ASTA jedinice, može se koristi sledeća formula: ASTA =
+0,369 x C x (100 - sadržaj vlage uzorka za ispitivanje, izražen u %
+mase);
+2)
+etarsko ulje "u tragovima"
+je nizak sadržaj etarskog ulja (< 0,5%);
+3)
+ekstrakti začina
+su proizvodi dobijeni iz
+prirodnih začina, začinskih biljaka ili njihovih delova različitim
+postupcima ekstrakcije aromatičnih materija i drugih rastvorljivih
+materija koje nisu štetne za ljudsko zdravlje;
+4)
+začini
+su aromatični delovi začinskih
+biljaka (koren, list, kora, cvet, tučak, cvetni pupoljak, plod, seme i
+dr.), svojstvenog mirisa i ukusa, koji se dodaju hrani da bi se
+postigao odgovarajući miris i ukus i/ili boja koja potiče od samih
+začina, kao i radi čuvanja hrane;
+5)
+začinska biljka
+obuhvata sve delove biljke uključujući i delove koji imaju odgovarajuća aromatična svojstva koja potiču od začina;
+6)
+mešavina začina
+je proizvod dobijen
+mešanjem dva ili više začina ili mešanjem dva ili više ekstrakata
+začina ili mešanjem začina sa ekstraktima začina ili drugim sastojcima
+u skladu sa ovim pravilnikom;
+7)
+srodni proizvodi
+jesu proizvodi čiji se
+naziv ne navodi u ovom pravilniku, a koji su po načinu proizvodnje i
+osobinama slični odgovarajućim proizvodima klasifikovanim u skladu sa
+ovim pravilnikom;
+8)
+začini tretirani toplotom
+su začini koji se
+u procesu prerade izlažu toploti (vodena para, zagrejan vazduh i dr.)
+pri minimalnoj temperaturi 100°C i minimalnom vremenu zadržavanja 15
+sekundi radi redukcije ili uništavanja mikroorganizama u začinima.
+Primena pravilnika
+Proizvođačka specifikacija
+Član 3
+Proizvođačka specifikacija za srodne proizvode i
+proizvode za koje je to ovim pravilnikom propisano, sadrži: evidencioni
+broj, datum donošenja, naziv proizvoda i trgovačko ime (ako ga proizvod
+ima), kratak opis tehnološkog postupka proizvodnje, osnovne zahteve
+kvaliteta, izveštaj o izvršenom ispitivanju kvaliteta (fizička,
+hemijska i senzorna svojstva), datum početka proizvodnje, kao i podatke
+iz deklaracije.
+II USLOVI U POGLEDU KVALITETA PROIZVODA
+Član 4
+Proizvodi moraju u svim fazama proizvodnje, prerade i
+prometa (u daljem tekstu: proizvodnja i promet) da ispunjavaju uslove u
+pogledu kvaliteta, i to za:
+1) klasifikaciju, kategorizaciju i naziv proizvoda (u daljem tekstu: klasifikacija);
+2) fizička, fizičko-hemijska i senzorska svojstva,
+kao i sastav proizvoda; fizička, hemijska, fizičko-hemijska i senzorska
+svojstva sirovina, kao i vrstu i količinu sirovina, dodataka i drugih
+supstanci koje se upotrebljavaju u proizvodnji i preradi proizvoda;
+elemente bitnih tehnoloških postupaka koji se primenjuju u proizvodnji
+i preradi proizvoda (u daljem tekstu: zahtevi kvaliteta);
+3) metode ispitivanja kvaliteta proizvoda;
+4) pakovanje i deklarisanje.
+III KLASIFIKACIJA I ZAHTEVI KVALITETA ZAČINA
+1. Klasifikacija začina
+Član 5
+Začini se klasifikuju i stavljaju u promet pod sledećim nazivima:
+1) anis;
+2) beli luk u prahu ili granulama;
+3) beli biber;
+4) zeleni biber;
+5) crveni biber;
+6) crni biber;
+7) bosiljak;
+8) vanila (vanilija);
+9) vlašac;
+10) đumbir;
+11) estragon;
+12) žalfija;
+13) zvezdasti anis;
+14) iđirot;
+15) isiot;
+16) karanfilić;
+17) kardamom;
+18) kim;
+19) klekove bobe;
+20) komorač;
+21) koriander;
+22) kumin;
+23) kurkuma;
+24) lavanda;
+25) lovor;
+26) majoran;
+27) mirođija;
+28) muskatni orah;
+29) papuanski muskatni orah;
+30) muskatni cvet;
+31) kudrava nana;
+32) pitoma nana;
+33) origano;
+34) mlevena začinska paprika - u kategoriji i pod nazivom iz člana 90. ovog pravilnika;
+35) peršun;
+36) piment;
+37) piskavica;
+38) ruzmarin;
+39) selen;
+40) bela slačica;
+41) crna slačica;
+42) timijan;
+43) celer;
+44) cimet;
+45) crni luk u prahu;
+46) čili;
+47) čubar;
+48) šafran;
+49) šafranika.
+Začini iz stava 1. ovog člana proizvode se od
+aromatičnih delova začinskih biljaka datih u Prilogu - Začinske biljke,
+koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo (u
+daljem tekstu: Prilog).
+2. Opšti zahtevi kvaliteta začina
+Član 6
+Začini se stavljaju u promet u obliku komada, zrna, mahune, većih i manjih delića ili praha.
+Član 7
+Začini, u proizvodnji i prometu, moraju da ispunjavaju sledeće zahteve kvaliteta:
+1) da iz začina nisu ekstrahovane aromatične materije
+i da ne sadrže primese ili ostatke začina iz kojih su ekstrahovane
+aromatične materije;
+2) da začinu nisu dodavana sredstva radi povećanja mase;
+3) da sadržaj stranih primesa kod začinskog bilja
+nije veći od 2%, a kod začina ne veći od 1%, osim ako ovim pravilnikom
+nije drugačije propisano;
+4) da ne sadrže žive i/ili mrtve insekte, kao ni njihove delove, ekstremente glodara, dlake glodara i slično;
+4a) začini tretirani toplotom mogu imati do 40% manji
+sadržaj etarskih ulja u odnosu na sadržaj etarskih ulja propisan ovim
+pravilnikom za isti začin koji nije toplotno tretiran, što se navodi u
+specifikaciji;
+5) da ispunjavaju i druge zahteve kvaliteta u zavisnosti od klasifikacije začina iz člana 5. ovog pravilnika.
+3. Zahtevi kvaliteta za anis
+Stavljanje u promet
+Član 8
+Anis je osušeni, zreo plod začinske biljke anisa (
+Pimpinella anisum
+L.), koji se stavlja u promet kao anis u zrnu i kao mleveni anis.
+Član 9
+Anis se klasifikuje i stavlja u promet kao:
+1) anis I klase;
+2) anis II klase;
+3) anis III klase.
+Anis I klase
+Član 10
+Anis I klase (anis u zrnu i mleveni anis), u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 10% ukupnog pepela ni više od
+2,5% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato na
+suvu materiju;
+3) da sadrži ne manje od 2 ml/100 g isparljivog etarskog ulja anisa u 100 g proizvoda, računato na suvu materiju;
+4) da ne sadrži više od 1% stranih materija.
+Anis I klase (anis u zrnu), pored zahteva kvaliteta
+iz stava 1. ovog člana, u proizvodnji i prometu ne može da sadrži više
+od 3% smežuranih nezrelih, oštećenih i polomljenih zrna.
+Anis II klase
+Član 11
+Anis II klase (anis u zrnu i mleveni anis), u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 10% ukupnog pepela ni više od
+2,5% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato na
+suvu materiju;
+3) da sadrži ne manje od 1,5 ml/100 g isparljivog etarskog ulja anisa u 100 g proizvoda, računato na suvu materiju;
+4) da ne sadrži više od 2% stranih materija.
+Anis II klase (anis u zrnu), pored zahteva kvaliteta
+iz stava 1. ovog člana, u proizvodnji i prometu ne može da sadrži više
+od 4% smežuranih nezrelih, oštećenih i polomljenih zrna.
+Anis III klase
+Član 12
+Anis III klase (anis u zrnu i mleveni anis), u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 10% ukupnog pepela ni više od
+2,5% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato na
+suvu materiju;
+3) da sadrži ne manje od 1,0 ml/100 g isparljivog etarskog ulja anisa u 100g proizvoda, računato na suvu materiju;
+4) da ne sadrži više od 4% stranih materija.
+Anis III klase (anis u zrnu), pored zahteva kvaliteta
+iz stava 1. ovog člana, u proizvodnji i prometu ne može da sadrži više
+od 10% smežuranih nezrelih, oštećenih i polomljenih zrna.
+4. Zahtevi kvaliteta za beli luk u prahu i granulama
+Član 13
+Beli luk u prahu su očišćene, osušene i samlevene do praškaste strukture, ili granula, i to glavice začinske biljke beli luk (
+Allium sativum
+L.), koji u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 8% vode;
+2) da ne sadrži više od 6% ukupnog pepela, kao ni
+više od 0,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 70%, ni više od 90% ekstrakta rastvorljivog u hladnoj vodi, računato na suvu materiju.
+Beli luk u prahu ili granulama, u proizvodnji i prometu, može da sadrži i etarsko ulje "u tragovima".
+5. Zahtevi kvaliteta za beli biber
+Stavljanje u promet
+Član 14
+Beli biber je osušen i obrađen zreo plod začinske biljke biber (
+Piper nigrum
+L.), koji se stavlja u promet kao:
+1) beli biber u zrnu;
+2) mleveni beli biber.
+Beli biber u zrnu
+Član 15
+Beli biber u zrnu, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 14% vode;
+2) da ne sadrži više od 4% ukupnog pepela, računato na suvu materiju;
+3) da ne sadrži manje od 3% piperina, računato na suvu materiju;
+4) da neisparljivi etarski ekstrakt nije manji od 6%, računato na suvu materiju;
+5) da ne sadrži više od 1% stranih primesa;
+6) da ne sadrži manje od 1 ml isparljivog etarskog ulja bibera u 100 g proizvoda, računato na suvu materiju;
+7) da gustina nije manja od 550 g/l.
+Mleveni beli biber
+Član 16
+Mleveni beli biber, u proizvodnji i prometu, mora da
+ispunjava zahteve kvaliteta iz člana 15. tač. 1) do 5) ovog pravilnika,
+kao i da:
+1) ne sadrži manje od 0,7 ml isparljivog etarskog ulja bibera u 100 g proizvoda, računato na suvu materiju;
+2) ne sadrži više od 0,3% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato na suvu materiju;
+3) ne sadrži više od 6,5% sirovih vlakana, računato na suvu materiju.
+6. Zahtevi kvaliteta za zeleni biber
+Stavljanje u promet
+Član 17
+Zeleni biber je osušen i obrađen nedozreo ceo plod začinske biljke biber (
+Piper nigrum
+L.), koji se stavlja u promet kao:
+1) zeleni biber u zrnu;
+2) mleveni zeleni biber.
+Zeleni biber u zrnu
+Član 18
+Zeleni biber u zrnu, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 13% vode, a ako je sušen smrzavanjem da ne sadrži više od 8% vode;
+2) da ne sadrži više od 5% ukupnog pepela, kao ni
+više od 0,3% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 1 ml etarskog ulja bibera u 100 g, računato na suvu materiju.
+Mleveni zeleni biber
+Član 19
+Mleveni zeleni biber, u proizvodnji i prometu, mora da ispunjava zahteve kvaliteta iz člana 18. tač. 1) i 2) ovog pravilnika.
+7. Zahtevi kvaliteta za crveni biber
+Stavljanje u promet
+Član 20
+Crveni biber je osušen i obrađen zreo plod začinske biljke crveni biber (
+Schinus molle
+L.,
+Schinus terebinthifolius
+Raddi), koji se stavlja u promet kao:
+1) crveni biber u zrnu;
+2) mleveni crveni biber.
+Crveni biber u zrnu
+Član 21
+Crveni biber u zrnu, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 14% vode, a ako je sušen smrzavanjem da ne sadrži više od 8% vode;
+2) da ne sadrži više od 7% ukupnog pepela, kao ni
+više od 1,8% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 2 ml etarskog ulja crvenog bibera u 100 g suvog proizvoda, računato na suvu materiju.
+Mleveni crveni biber
+Član 22
+Mleveni crveni biber, u proizvodnji i prometu, mora da ispunjava zahteve kvaliteta iz člana 21. tač. 1) i 2) ovog pravilnika.
+8. Zahtevi kvaliteta za crni biber
+Stavljanje u promet
+Član 23
+Crni biber je osušen, nedozreo ceo plod začinske biljke biber (
+Piper nigrum
+L.), koji se stavlja u promet kao:
+1) crni biber u zrnu;
+2) mleveni crni biber.
+Crni biber u zrnu
+Član 24
+Crni biber u zrnu, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 13% vode;
+2) da ne sadrži više od 7% ukupnog pepela;
+3) da ne sadrži manje od 2% piperina, računato na suvu materiju;
+4) da gustina crnog bibera nije manja od 400 g/l;
+5) da ne sadrži manje od 1 ml isparljivog etarskog ulja bibera u 100 g proizvoda, računato na suvu materiju;
+6) da crni biber u zrnu ne sadrži više od 1,5% stranih primesa.
+Mleveni crni biber
+Član 25
+Mleveni crni biber, u proizvodnji i prometu, mora da
+ispunjava zahteve kvaliteta iz člana 24. tač. 1) do 3) ovog pravilnika,
+kao i da:
+1) da ne sadrži više od 1,2% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato na suvu materiju;
+2) da ne sadrži manje od 0,7 ml etarskog ulja bibera u 100 g proizvoda, računato na suvu materiju;
+3) da ne sadrži više od 17,5% sirovih vlakana, računato na suvu materiju.
+9. Zahtevi kvaliteta za bosiljak
+Član 26
+Bosiljak je osušeni nadzemni deo začinske biljke bosiljak (
+Ocimum basilicum
+L.) koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 16% ukupnog pepela, kao ni
+više od 2% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrži manje od 0,3 ml isparljivog etarskog ulja bosiljka u 100 g proizvoda, računato na suvu materiju.
+10. Zahtevi kvaliteta za vanilu (vanilija)
+Stavljanje u promet
+Član 27
+Vanila (vanilija) je nedozreo, fermentisan, delimično osušen plod tropske začinske biljke vanila (
+Vanilla planifolia
+Andrews syn.
+Vanilla fragrans
+- Salisburi Ames) i njenih hibrida, koja se stavlja u promet kao:
+1) plod vanile (mahuna);
+2) vanila u komadima (sečena vanila);
+3) mlevena vanila (vanila u prahu).
+Ako se stavlja u promet vanila pod nazivom: "burbon vanila", taj začin mora da je dobijen od tropske začinske biljke vanila (
+Vanilla planifolia
+Andrews syn.) koja je poreklom iz regiona "Vanilla ostrva" (Madagaskar, Komori, Reunion, Sejšeli, Mauricijus).
+Klase vanile (vanilije)
+Član 28
+Plod vanile (mahuna) se klasifikuje i stavlja u promet kao:
+1) vanila I klase;
+2) vanila II klase,
+3) vanila III klase;
+4) vanila IV klase.
+U vanilu I klase razvrstavaju se plodovi vanile
+(mahune) koji moraju da budu celi i neoštećeni, ujednačene tamno
+čokoladne do crvenkaste boje i bez naprslina.
+U vanilu II klase razvrstavaju se plodovi (mahune)
+vanile koji moraju da budu celi i neoštećeni, ujednačene tamno
+čokoladne do crvenkaste boje, osim zaraslih naprslina koje ne mogu da
+budu veće od jedne trećine ploda.
+U vanilu III klase razvrstavaju se plodovi (mahune)
+vanile crvenkaste boje sa više zaraslih naprslina koje ne mogu da budu
+veće od jedne polovine ploda i crvenih pruga koje ne prelaze jednu
+trećinu ploda.
+U vanilu IV klase razvrstavaju se plodovi crvenkaste
+boje, suvi, drvenasti, sa naprslinama koje ne mogu da budu veće od
+jedne polovine ploda.
+Vanila I klase i vanila II klase
+Član 29
+Plodovi vanile (mahune) I klase i vanile II klase, u proizvodnji i prometu, moraju da ispunjavaju sledeće zahteve kvaliteta:
+1) da ne sadrže više od 38% vode;
+2) da ne sadrže manje od 1,6% vanilina.
+Vanila III klase
+Član 30
+Plodovi vanile (mahune) III klase, u proizvodnji i prometu, moraju da ispunjavaju sledeće zahteve kvaliteta:
+1) da ne sadrže više od 30% vode;
+2) da ne sadrže manje od 1,6% vanilina.
+Vanila IV klase
+Član 31
+Plodovi vanile (mahune) IV klase, u proizvodnji i prometu, moraju da ispunjavaju sledeće zahteve kvaliteta:
+1) da ne sadrže više od 25% vode;
+2) da ne sadrže manje od 1,6% vanilina.
+Mlevena vanila (vanila u prahu)
+Član 32
+Mlevena vanila (vanila u prahu), u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 20% vode;
+2) da ne sadrži manje od 1,6% vanilina.
+Vanila u komadima (sečena vanila)
+Član 33
+Vanila u komadima (sečena vanila), u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 30% vode;
+2) da ne sadrži manje od 1,6% vanilina.
+11. Zahtevi kvaliteta za vlašac
+Član 34
+Vlašac je osušeni list začinske biljke vlašac (
+Allium schoenoprasum
+) koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 11% vode;
+2) da ne sadrži više od 13% ukupnog pepela, kao ni
+više od 2% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju.
+12. Zahtevi kvaliteta za đumbir
+Stavljanje u promet
+Član 35
+Đumbir je osušeni rizom začinske biljke đumbir (
+Zingiber officinale
+Roscoe), koji se stavlja u promet kao:
+1) ceo đumbir;
+2) mleveni đumbir.
+Ceo đumbir
+Član 36
+Ceo đumbir, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 8% ukupnog pepela, kao ni
+više od 1,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 1,5 ml isparljivog etarskog ulja đumbira u 100 g proizvoda, računato na suvu materiju.
+Mleveni đumbir
+Član 37
+Mleveni đumbir, u proizvodnji i prometu, mora da
+ispunjava zahteve kvaliteta iz člana 36. tač. 1) i 2) ovog pravilnika,
+kao i da ne sadrži manje od 1,0 ml isparljivog etarskog ulja đumbira u
+100 g proizvoda, računato na suvu materiju.
+13. Zahtevi kvaliteta za estragon
+Stavljanje u promet
+Član 38
+Estragon je osušeni list i vrh grančice začinske biljke estragon (
+Artemisia dracunculus
+L.) koji se stavlja u promet kao:
+1) osušeni list estragona;
+2) mleveni estragon.
+Osušeni list estragona
+Član 39
+Osušeni list estragona, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 10% vode;
+2) da ne sadrži više od 12% ukupnog pepela, kao ni
+više od 1,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 0,6 ml isparljivog etarskog ulja estragona u 100 g proizvoda, računato na suvu materiju.
+Mleveni estragon
+Član 40
+Mleveni estragon, u proizvodnji i prometu, mora da
+ispunjava zahteve kvaliteta iz člana 39. ovog pravilnika, kao i da ne
+sadrži manje od 0,5 ml isparljivog etarskog ulja estragona u 100 g
+proizvoda, računato na suvu materiju.
+14. Zahtevi kvaliteta za žalfiju
+Član 41
+Žalfija je osušeni list začinske biljke žalfija (
+Salvia officinalis
+L.) koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 12% ukupnog pepela, kao ni
+više od 2% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrži manje od 1,5 ml etarskog ulja žalfije u 100 g proizvoda, računato na suvu materiju;
+4) da ne sadrži više od 4% ostalih delova biljke.
+15. Zahtevi kvaliteta za zvezdasti anis
+Član 42
+Zvezdasti anis je osušen plod začinske biljke zvezdasti anis (
+Illicium verum
+Hook. f.) koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 10% vode;
+2) da ne sadrži više od 4% ukupnog pepela, kao ni
+više od 0,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 7 ml etarskog ulja zvezdastog anisa u 100 g proizvoda, računato na suvu materiju.
+16. Zahtevi kvaliteta za iđirot
+Ceo iđirot i mleveni iđirot
+Član 43
+Iđirot je osušeni rizom začinske biljke iđirot (
+Acorus calamus
+L.), koji se stavlja u promet kao:
+1) ceo iđirot;
+2) mleveni iđirot.
+Iđirot iz stava 1. ovog člana, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 14% vode;
+2) da ne sadrži više od 10% pepela, računato na suvu materiju;
+3) da sadrži ne manje od 1,5 ml isparljivog etarskog ulja iđirota u 100 g proizvoda, računato na suvu materiju;
+4) da je osušeni rizom iđirota bez korenčića i da ne sadrži više od 1% stranih materija.
+17. Zahtevi kvaliteta za isiot
+Ceo isiot i isiot isečen na kriške i kolutove
+Član 44
+Isiot je osušeni rizom začinske biljke isiot (
+Curcuma zedoariae
+Rose C.), koji se stavlja u promet kao:
+1) ceo isiot
+2) isiot isečen na kriške ili kolutove.
+Isiot iz stava 1. ovog člana, u proizvodnji i prometu mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 14% vode;
+2) da ne sadrži više od 8% ukupnog pepela, kao ni
+više od 5% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrži manje od 1,0 ml isparljivog etarskog ulja isiota u 100 g proizvoda, računato na suvu materiju.
+18. Zahtevi kvaliteta za karanfilić
+Stavljanje u promet
+Član 45
+Karanfilić je osušeni cvetni pupoljak začinske biljke karanfilić (
+Syzygium aromaticum
+L. Merr. et Perry syn.
+Eugenia Caryophyllus
+(Sprengel) Bullock et S. Harrison), koji se stavlja u promet kao:
+1) karanfilić u zrnu;
+2) mleveni karanfilić.
+Karanfilić u zrnu
+Član 46
+Karanfilić u zrnu, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži manje od 15 ml isparljivog etarskog ulja karanfilića u 100 g proizvoda, računato na suvu materiju;
+3) da ne sadrži više od 8% drugih delova biljke.
+Mleveni karanfilić
+Član 47
+Mleveni karanfilić, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 10% vode;
+2) da ne sadrži više od 7% ukupnog pepela, kao ni
+više od 0,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 14 ml isparljivog etarskog ulja karanfilića u 100 g proizvoda, računato na suvu materiju.
+19. Zahtevi kvaliteta za kardamom
+Stavljanje u promet
+Član 48
+Kardamom, je osušeni plod začinske biljke kardamom (
+Elettaria cardamomum
+L. Maton var.
+minuscula
+Burkill,
+Elettaria cardamomum
+L. Maton var.
+major
+Thwaites), koji se stavlja u promet kao:
+1) ceo plod kardamoma;
+2) mleveni kardamom.
+Ceo plod kardamoma
+Član 49
+Ceo plod kardamoma, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 9% ukupnog pepela, kao ni
+više od 2,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 3,5 ml etarskog ulja kardamoma u 100 g proizvoda, računato na suvu materiju.
+Mleveni kardamom
+Član 50
+Mleveni kardamom, u proizvodnji i prometu, mora da ispunjava zahteve kvaliteta iz člana 49. tač. 1) i 2) ovog pravilnika.
+20. Zahtevi kvaliteta za kim
+Kim u zrnu i mleveni kim
+Član 51
+Kim je osušeni plod začinske biljke kim (
+Carum carvi
+L.), koji se stavlja u promet kao:
+1) kim u zrnu;
+2) mleveni kim.
+Kim iz stava 1. ovog člana, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 13% vode;
+2) da ne sadrži više od 8% ukupnog pepela, kao ni
+više od 1,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da kim u zrnu ne sadrži manje od 2,5 ml etarskog
+ulja kima u 100 g proizvoda, računato na suvu materiju, a mleveni kim
+da ne sadrži manje od 1,2 ml etarskog ulja kima u 100 g proizvoda,
+računato na suvu materiju.
+21. Zahtevi kvaliteta za klekove bobe
+Klekove bobe u zrnu i mlevene klekove bobe
+Član 52
+Klekove bobe su zreli plodovi začinske biljke klekove bobe (
+Juniperus communis
+L.), koji se stavljaju u promet kao:
+1) klekove bobe u zrnu;
+2) mlevene klekove bobe.
+Klekove bobe iz stava 1. ovog člana, u proizvodnji i prometu, moraju da ispunjavaju sledeće zahteve kvaliteta:
+1) da ne sadrže više od 16% vode;
+2) da ne sadrže više od 4% ukupnog pepela, kao ni
+više od 1% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrže manje od 1 ml isparljivog etarskog ulja kleke u 100 g proizvoda, računato na suvu materiju.
+22. Zahtevi kvaliteta za komorač
+Komorač u zrnu i mleveni komorač
+Član 53
+Komorač (morač) je osušeni plod začinske biljke komorač (
+Foeniculum vulgare
+P. Miller var.
+vulgare
+), koji se stavlja u promet kao:
+1) komorač u zrnu;
+2) mleveni komorač.
+Komorač iz stava 1. ovog člana, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 10% ukupnog pepela, kao ni
+više od 2% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrži manje od 1 ml etarskog ulja komorača u 100 g proizvoda, računato na suvu materiju.
+23. Zahtevi kvaliteta za koriander
+Stavljanje u promet
+Član 54
+Koriander je osušeni zreo plod začinske biljke koriander (
+Coriandrum sativum
+L.), koji se stavlja u promet kao:
+1) koriander u zrnu;
+2) mleveni koriander;
+3) osušeni list koriandera.
+Koriander u zrnu klasifikuje i stavlja u promet kao:
+1) koriander I klase;
+2) koriander II klase.
+Koriander u zrnu i mleveni koriander
+Član 55
+Koriander u zrnu (koriander I klase i koriander II
+klase), u proizvodnji i prometu, mora da ispunjava sledeće zahteve
+kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 7% ukupnog pepela, kao ni
+više od 1,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju.
+Koriander u zrnu I klase, pored zahteva kvaliteta iz
+stava 1. ovog člana, ne može da sadrži manje od 0,5 ml etarskog ulja
+koriandera u 100 g proizvoda, računato na suvu materiju.
+Koriander u zrnu II klase, pored zahteva kvaliteta iz stava 1. ovog člana, može da sadrži i etarsko ulje "u tragovima".
+Mleveni koriander, u proizvodnji i prometu, mora da ispunjava zahteve kvaliteta iz st. 1. do 3. ovog člana.
+Osušeni list koriandera
+Član 56
+Osušeni list koriandera u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 8% vode;
+2) da ne sadrži više od 15% ukupnog pepela, kao ni
+više od 1% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju.
+24. Zahtevi kvaliteta za kumin
+Stavljanje u promet
+Član 57
+Kumin je osušeni plod začinske biljke kumin (
+Cuminum cyminum
+L.), koji se stavlja u promet kao:
+1) kumin u zrnu;
+2) mleveni kumin.
+Kumin u zrnu
+Član 58
+Kumin u zrnu, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 12% ukupnog pepela, kao ni
+više od 4% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrži manje od 1,5 ml etarskog ulja kumina u 100 g proizvoda, računato na suvu materiju.
+Mleveni kumin
+Član 59
+Mleveni kumin, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 9,5% ukupnog pepela, kao ni
+više od 1,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 1,3 ml etarskog ulja kumina u 100 g proizvoda, računato na suvu materiju.
+25. Zahtevi kvaliteta za kurkumu
+Stavljanje u promet
+Član 60
+Kurkuma je osušeni rizom začinske biljke kurkuma (
+Curcuma longa
+L.), koja se stavlja u promet kao:
+1) cela kurkuma;
+2) mlevena kurkuma.
+Cela kurkuma
+Član 61
+Cela kurkuma, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži manje od 2,5 ml etarskog ulja kurkume u 100 g proizvoda, računato na suvu materiju.
+Mlevena kurkuma
+Član 62
+Mlevena kurkuma, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 10% vode;
+2) da ne sadrži više od 9% ukupnog pepela, kao ni
+više od 1,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 1,5 ml etarskog ulja kurkume u 100 g proizvoda, računato na suvu materiju.
+26. Zahtevi kvaliteta za lavandu
+Član 63
+Lavanda je osušeni cvet i pupoljak začinske biljke lavanda (
+Lavandula angustifolia
+Mill.,
+Lavandula spica
+L.) koja, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 10% ukupnog pepela, kao ni
+više od 2% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrži manje od 0,6 ml isparljivog etarskog ulja lavande u 100 g proizvoda, računato na suvu materiju;
+4) da ne sadrži više od 2,5% drugih delova biljke, kao ni više od 2,5% ostalih primesa.
+27. Zahtevi kvaliteta za lovor
+Stavljanje u promet
+Član 64
+Lovor je osušeni list začinske biljke lovor (
+Laurus nobilis
+L.), koji se stavlja u promet kao:
+1) ceo list lovora;
+2) mleveni list lovora.
+Ceo list lovora
+Član 65
+Ceo list lovora, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 8% vode;
+2) da ne sadrži više od 7% ukupnog pepela, kao ni
+više od 2% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrži manje od 1,0 ml etarskog ulja lovora u 100 g proizvoda, računato na suvu materiju;
+4) da ne sadrži više od 30% sirovih vlakana, računato na suvu materiju.
+Mleveni list lovora
+Član 66
+Mleveni list lovora, u proizvodnji i prometu, mora da
+ispunjava zahteve kvaliteta iz člana 65. tač. 1), 2) i 4) ovog
+pravilnika, kao i da ne sadrži manje od 0,6 ml etarskog ulja lovora u
+100 g proizvoda, računato na suvu materiju.
+28. Zahtevi kvaliteta za majoran
+Stavljanje u promet
+Član 67
+Majoran je osušeni list začinske biljke majoran (
+Majorana hortensis
+Moench syn.
+Origanum majorana
+L.), koji se stavlja u promet kao:
+1) ceo list majorana;
+2) mleveni list majorana.
+Ceo list majorana
+Član 68
+Ceo list majorana, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 16% ukupnog pepela, kao ni
+više od 4,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 0,7 ml etarskog ulja majorana u 100 g proizvoda, računato na suvu materiju;
+4) da ne sadrži više od 10% delova stabljika i peteljki majorana.
+Mleveni list majorana
+Član 69
+Mleveni list majorana, u proizvodnji i prometu, mora
+da ispunjava zahteve kvaliteta iz člana 68. tač. 1), 2) i 4) ovog
+pravilnika, kao i da ne sadrži manje od 0,3 ml etarskog ulja majorana u
+100 g proizvoda, računato na suvu materiju.
+29. Zahtevi kvaliteta za mirođiju
+Stavljanje u promet
+Član 70
+Mirođija je osušen plod začinske biljke mirođija (
+Anethum graveolens
+L.), koja se stavlja u promet kao:
+1) mirođija u zrnu;
+2) mlevena mirođija.
+Mirođija može da se stavlja u promet i kao osušeni nadzemni deo mirođije (list i stabljika mirođije).
+Mirođija u zrnu
+Član 71
+Mirođija u zrnu, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 10% ukupnog pepela, kao ni
+više od od 2,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da plod mirođije ne sadrži manje od 1,0 ml etarskog ulja u 100 g proizvoda, računato na suvu materiju.
+Mlevena mirođija
+Član 72
+Mlevena mirođija u proizvodnji i prometu, mora da ispunjava zahteve kvaliteta iz člana 71. ovog pravilnika.
+Osušeni nadzemni deo mirođije (list i stabljika mirođije)
+Član 73
+Osušeni nadzemni deo mirođije (list i stabljika
+mirođije), u proizvodnji i prometu, mora da ispunjava sledeće zahteve
+kvaliteta:
+1) da ne sadrže više od 8% vode;
+2) da ne sadrže više od 15% ukupnog pepela, kao ni
+više od 2,0% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju.
+Osušeni nadzemni deo mirođije (list i stabljika
+mirođije), pored zahteva kvaliteta iz stava 1. ovog člana, može da
+sadrži i etarsko ulje "u tragovima".
+30. Zahtevi kvaliteta za muskatni orah
+Stavljanje u promet
+Član 74
+Muskatni orah je jezgro semena muskatnog drveta (
+Myristica fragrans
+Houttuyn), koji se stavlja u promet kao:
+1) ceo muskatni orah;
+2) mleveni muskatni orah.
+Ceo muskatni orah
+Član 75
+Ceo muskatni orah, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 10% vode;
+2) da ne sadrži više od 3% ukupnog pepela, kao ni
+više od 0,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 5 ml etarskog ulja muskatnog oraha u 100 g proizvoda, računato na suvu materiju;
+4) da ne sadrži više od 0,35% kalcijuma, izražen kao CaO, na suvu materiju.
+Mleveni muskatni orah
+Član 76
+Mleveni muskatni orah, u proizvodnji i prometu, mora
+da ispunjava zahteve kvaliteta iz člana 75. tač. 1), 2) i 4) ovog
+pravilnika, kao i da ne sadrži manje od 3,6 ml etarskog ulja u 100 g
+proizvoda, računato na suvu materiju.
+31. Zahtevi kvaliteta za papuanski muskatni orah
+Stavljanje u promet
+Član 77
+Papuanski muskatni orah je jezgro semena muskatnog drveta (
+Myristica argentea
+Warb.), koji se stavlja u promet kao:
+1) ceo papuanski muskatni orah;
+2) mleveni papuanski muskatni orah.
+Ceo papuanski muskatni orah
+Član 78
+Ceo papuanski muskatni orah, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 8% vode;
+2) da ne sadrži više od 5% ukupnog pepela, kao ni
+više od 1% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ceo papuanski muskatni orah ne sadrži manje od
+3 ml etarskog ulja papuanskog muskatnog oraha u 100 g proizvoda,
+računato na suvu materiju;
+4) da ne sadrži više od 0,5% ostalih delova ploda papuanskog miskatnog oraha;
+5) da ne sadrži više od 0,35% kalcijuma, izražen kao CaO, na suvu materiju.
+Mleveni papuanski muskatni orah
+Član 79
+Mleveni papuanski muskatni orah, u proizvodnji i
+prometu, mora da ispunjava zahteve kvaliteta iz člana 78. tač. 1), 2),
+4) i 5) ovog pravilnika, kao i da ne sadrži manje od 2 ml isparljivog
+ulja u 100 g proizvoda, računato na suvu materiju.
+32. Zahtevi kvaliteta za muskatni cvet
+Stavljanje u promet
+Član 80
+Muskatni cvet je osušeni omotač semena svih vrsta muskatnog drveta (
+Myristica fragrans
+Houtt.,
+Myristica argentea
+L.), koji se stavlja u promet kao:
+1) ceo muskatni cvet;
+2) mleveni muskatni cvet.
+Ceo muskatni cvet
+Član 81
+Ceo muskatni cvet, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 10% vode;
+2) da ne sadrži više od 4% ukupnog pepela, kao ni
+više od 0,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 5 ml etarskog ulja muskatnog cveta u 100 g proizvoda, računato na suvu materiju;
+4) da ne sadrži više od 2,5% drugih delova ploda muskatnog cveta.
+Mleveni muskatni cvet
+Član 82
+Mleveni muskatni cvet, u proizvodnji i prometu, mora da ispunjava zahteve kvaliteta iz člana 81. ovog pravilnika.
+33. Zahtevi kvaliteta za kudravu nanu
+Član 83
+Kudrava nana je osušeni list začinske biljke nana (
+Mentha spicata
+L.syn.
+Mentha viridis
+L.) koja, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 13% vode;
+2) da ne sadrži više od 12% ukupnog pepela, kao ni
+više od 2,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 0,5 ml etarskog ulja nane u 100 g proizvoda, računato na suvu materiju.
+34. Zahtevi kvaliteta za pitomu nanu
+Stavljanje u promet
+Član 84
+Pitoma nana je osušeni list začinske biljke nana (
+Mentha piperita
+L.), koja se stavlja u promet kao:
+1) ceo list pitome nane,
+2) usitnjena pitoma nana (veličine manje od 5,6 mm).
+Ceo list pitome nane
+Član 85
+Ceo list pitome nane, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) ne sadrži više od 13% vode;
+2) da ne sadrži više od 13% ukupnog pepela, računajući na suvu materiju;
+3) da ne sadrži više od 2% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato na suvu materiju;
+4) da ne sadrži manje od 1,0 ml etarskog ulja pitome nane u 100 g proizvoda, računato na suvu materiju;
+5) da ne sadrži više od 5% ostalih delova biljke.
+Usitnjena pitoma nana
+Član 86
+Usitnjena pitoma nana, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 14% vode;
+2) da ne sadrži više od 15% ukupnog pepela, računajući na suvu materiju;
+3) da ne sadrži više od 2% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato na suvu materiju;
+4) da ne sadrži manje od 0,8 ml etarskog ulja pitome nane u 100 g proizvoda, računato na suvu materiju;
+5) da ne sadrži više od 5% ostalih delova biljke.
+35. Zahtevi kvaliteta za origano
+Stavljanje u promet
+Član 87
+Origano je osušeni list začinske biljke origana u cvetu (
+Origanum vulgare
+L.,
+Origanum heracleoticum
+L.) koji se stavlja u promet kao:
+1) ceo list origana;
+1a) sečeni list origana (100% prolazi kroz sito veličine otvora 3,6 mm);
+2) mleveni list origana (100% prolazi kroz sito veličine otvora 500 µm).
+Ceo list origana
+Član 88
+Ceo list origana, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 10% ukupnog pepela, računato na suvu materiju;
+3) da ne sadrži više od 2,0% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato na suvu materiju;
+4) da ne sadrži manje od 1,5 ml etarskog ulja origana u 100 g proizvoda, računato na suvu materiju;
+5) da ne sadrži više od 10% ostalih delova biljke.
+Mleveni i sečeni list origana
+Član 89
+Mleveni i sečeni list origana, u proizvodnji i
+prometu, mora da ispunjava zahteve kvaliteta iz člana 88. tač. 1) i 5)
+ovog pravilnika, kao i da:
+1) ne sadrži više od 10% pepela (sečeni list), odnosno 12% pepela (mleveni list), računato na suvu materiju;
+2) ne sadrži manje od 1,5 ml (sečeni list), odnosno
+1,3 ml (mleveni list) etarskog ulja origana u 100 g proizvoda, računato
+na suvu materiju;
+3) da ne sadrži više od 2% pepela (sečeni list),
+odnosno 2,5% pepela (mleveni list) nerastvorljivog u hlorovodoničnoj
+kiselini, računato na suvu materiju.
+36. Kategorizacija, naziv i zahtevi kvaliteta za mlevenu začinsku papriku
+Član 90
+Mlevena začinska paprika je proizvod dobijen mlevenjem zrelih plodova začinske biljke paprike (
+Capsicum annuum
+L.),
+pri čemu se melju perikarp i seme.
+Mlevena začinska paprika, kategorizuje se i stavlja se u promet pod nazivima i sa zahtevima kvaliteta koje mora da ispunjava u proizvodnji i prometu, datim u Tabeli 1 - Mlevena začinska paprika - uslovi kvaliteta.
+Tabela 1
+Mlevena začinska paprika - uslovi kvaliteta
+NAZIV PROIZVODA
+ZAHTEVI KVALITETA
+Vlaga
+maks. %
+Pepeo
+u odnosu na suvu materiju maks. %
+Pesak
+u odnosu na suvu materiju maks. %
+Etarski ekstrakt
+u odnosu na suvu materiju maks. %
+Kapsaicin
+%
+Boja kao kapsantin
+min.ASTA/na suvu materiju
+Crvena slatka mlevena začinska paprika
+11,0
+10, 0
+1,0
+25,0
+≤ 0,003
+60
+Crvena ljuta mlevena začinska paprika
+11,0
+10,0
+1,6
+/
+> 0,003
+30
+Nazivi mlevene začinske paprike date u Tabeli 1 - Mlevena začinska paprika - uslovi kvaliteta, mogu se dopuniti rečima: "delikates ekstra" u slučaju kada je sadržaj boje kao kapsantin min. 120 ASTA, računato na suvu materiju, odnosno "delikates", kada je sadržaj boje kao kapsantin min. 100 ASTA računato na suvu materiju.
+37. Zahtevi kvaliteta za peršun
+Peršun list i plod peršuna
+Član 91
+Peršun list je osušeni list začinske biljke peršun (
+Petroselinum crispum
+(Miller), Nyman ex. A. W. Hill syn.
+Petroselinum hortense
+auct. syn.
+Petroselinum sativum
+Hoffm.) koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 7,5% vode;
+2) da ne sadrži više od 14% ukupnog pepela, kao ni
+više od 1,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju.
+Plod peršuna, u proizvodnji i prometu, ne može da sadrži više od 10% vode.
+38. Zahtevi kvaliteta za piment
+Stavljanje u promet
+Član 92
+Piment je osušeni plod pimentovog drveta (
+Pimenta officinalis
+), koji se stavlja u promet kao:
+1) piment u zrnu;
+2) mleveni piment.
+Piment u zrnu
+Član 93
+Piment u zrnu, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 5% ukupnog pepela, kao ni
+više od 1% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrži manje od 2 ml isparljivog etarskog ulja pimenta u 100 g proizvoda, računato na suvu materiju.
+Mleveni piment
+Član 94
+Mleveni piment, u proizvodnji i prometu, mora da
+ispunjava zahteve kvaliteta iz člana 93. tač. 1) i 2) ovog pravilnika,
+kao i da ne sadrži manje od 1 ml isparljivog etarskog ulja pimenta u
+100 g proizvoda, računato na suvu materiju.
+39. Zahtevi kvaliteta za piskavicu
+Piskavica u zrnu i mlevena piskavica
+Član 95
+Piskavica (grčko seme) je osušeno seme začinske biljke piskavica (
+Trigonella foenum-graecum
+L.), koja se stavlja u promet kao:
+1) piskavica u zrnu;
+2) mlevena piskavica.
+Piskavica iz stava 1. ovog člana, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 11% vode;
+2) da ne sadrži više od 7% ukupnog pepela, kao ni
+više od 1,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju.
+Piskavica, pored zahteva kvaliteta iz stava 2. ovog člana, može da sadrži i etarsko ulje "u tragovima".
+40. Zahtevi kvaliteta za ruzmarin
+Stavljanje u promet
+Član 96
+Ruzmarin je osušeni list i vrh grančice začinske biljke ruzmarin (
+Rosmarinus officinalis
+L.), koji se stavlja u promet kao:
+1) ceo ruzmarin;
+2) usitnjeni ruzmarin;
+3) mleveni ruzmarin.
+Ceo ruzmarin
+Član 97
+Ceo ruzmarin, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 11% vode;
+2) da ne sadrži više od 8% ukupnog pepela, kao ni
+više od 1% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrži manje od 1 ml etarskog ulja ruzmarina u 100 g proizvoda, računato na suvu materiju.
+Usitnjeni ruzmarin
+Član 98
+Usitnjeni ruzmarin, u proizvodnji i prometu, mora da
+ispunjava zahteve kvaliteta iz člana 97. tač. 1) i 2) ovog pravilnika,
+kao i da ne sadrži manje od 0,8 ml etarskog ulja ruzmarina u 100 g
+proizvoda, računato na suvu materiju.
+Mleveni ruzmarin
+Član 99
+Mleveni ruzmarin, u proizvodnji i prometu, mora da
+ispunjava zahteve kvaliteta iz člana 97. tač. 1) i 2) ovog pravilnika,
+kao i da ne sadrži manje od 0,6 ml etarskog ulja ruzmarina u 100 g
+proizvoda, računato na suvu materiju.
+41. Zahtevi kvaliteta za selen
+Član 100
+Selen je osušeni list i koren začinske biljke selen (
+Levisticum officinale
+Koch) koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 16% ukupnog pepela, računato na suvu materiju;
+3) da ne sadrži više od 10% delova stabljike selena.
+Selen, pored zahteva kvaliteta iz stava 1. ovog člana, može da sadrži i etarsko ulje "u tragovima".
+42. Zahtevi kvaliteta za belu slačicu
+Član 101
+Bela slačica je osušeno seme začinske biljke bela slačica (
+Sinapis alba
+L) koja, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 10% vode;
+2) da ne sadrži više od 6,5% ukupnog pepela, kao ni
+više od 1% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrži manje od 28% neisparljivog etarskog ekstrakta, računato na suvu materiju.
+43. Zahtevi kvaliteta za crnu slačicu
+Crna slačica u zrnu i mlevena crna slačica
+Član 102
+Crna slačica je osušeno seme začinske biljke crna slačica (
+Brassica nigra
+L.W.D.J.Koch), koja se stavlja u promet kao:
+1) crna slačica u zrnu;
+2) mlevena crna slačica.
+Crna slačica iz stava 1. ovog člana mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 10% vode;
+2) da ne sadrži više od 6,5% ukupnog pepela, kao ni
+više od 1% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrži manje od 28% neisparljivog etarskog ekstrakta, računato na suvu materiju.
+44. Zahtevi kvaliteta za timijan
+Stavljanje u promet
+Član 103
+Timijan je osušeni list začinske biljke timijan (
+Thymus vulgaris
+L.), koji se stavlja u promet kao:
+1) ceo list timijana;
+2) mleveni list timijana.
+Ceo list timijana
+Član 104
+Ceo list timijana, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12% vode;
+2) da ne sadrži više od 14% ukupnog pepela, kao ni
+više od 3,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 1,0 ml etarskog ulja timijana u 100 g proizvoda, računato na suvu materiju;
+4) da ne sadrži više od 5% delova stabljike timijana.
+Mleveni list timijana
+Član 105
+Mleveni list timijana, u proizvodnji i prometu, mora
+da ispunjava zahteve kvaliteta iz člana 104. tač. 1), 2) i 4) ovog
+pravilnika, kao i da ne sadrži manje od 0,5 ml etarskog ulja timijana u
+100 g proizvoda, računato na suvu materiju.
+45. Zahtevi kvaliteta za celer
+Celer list i plod celera
+Član 106
+Celer je osušeni list začinske biljke celer (
+Apium graveolens
+L.) koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 8% vode;
+2) da ne sadrži više od 20% ukupnog pepela, kao ni
+više od 1% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju.
+Plod celera je osušeni plod celera začinske biljke celer (
+Apium graveolens
+L.) koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 11% vode;
+2) da ne sadrži više od 3% ukupnih nečistoća;
+3) da ne sadrži više od 12% ukupnog pepela, kao ni
+više od 3% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+4) da ne sadrži manje od 1,5 ml isparljivog etarskog ulja semena celera u 100 g proizvoda, računato na suvu materiju.
+46. Zahtevi kvaliteta za cimet
+Stavljanje u promet
+Član 107
+Cimet je osušena kora cimetovog drveta (
+Cinnamomum zeylanicum
+Blume;
+Cinnamomum
+aromaticum
+(Nees)
+syn. Cinnamomum
+cassia
+(Nees) ex Blume,
+Cinnamomum
+burmanii
+(C.G. Nees) Blume and
+Cinnamomum loureirii Nees - "Cassia"
+), koji se stavlja u promet kao:
+1) cimet u kori;
+2) mleveni cimet.
+Cimet u kori
+Član 108
+Cimet u kori, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 15% vode;
+2) da ne sadrži više od 7% ukupnog pepela, kao ni
+više od 2% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da sadržaj etarskog ulja nije manji od 0,7 ml/100 g proizvoda, računato na suvu materiju.
+Mleveni cimet
+Član 109
+Mleveni cimet, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 14% vode;
+2) da ne sadrži više od 7% ukupnog pepela, kao ni
+više od 2% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da sadržaj etarskog ulja nije manji od 0,3 ml/100 g proizvoda, računato na suvu materiju;
+4) da sadržaj etarskog ulja kod mešavine koja potiče
+od najmanje dve botaničke vrste cimeta navedene u Prilogu - Začinske
+biljke, mora da bude najmanje 0,3 ml/100 g proizvoda, računato na suvu
+materiju.
+47. Zahtevi kvaliteta za crni luk u prahu
+Član 110
+Crni luk u prahu jesu očišćene, isečene, osušene i do praškaste strukture samlevene glavice začinske biljke crni luk (
+Allium cepa
+L.) koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 8% vode;
+2) da ne sadrži više od 5% ukupnog pepela, kao ni
+više od 0,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju.
+48. Zahtevi kvaliteta za čili
+Čili - ceo plod i mleveni čili
+Član 111
+Čili je osušeni zreo plod tropske vrste paprike (
+Capsicum annuum
+L. i
+Capsicum frutescens
+L. i njihove podvrste
+C. Chinense, C. pubescens,
+i
+C. pendulum
+), koji se stavlja u promet kao:
+1) čili - ceo plod;
+2) mleveni čili.
+Čili iz stava 1. ovog člana, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 11% vode;
+2) da ne sadrži više od 10% ukupnog pepela, kao ni
+više od 1,6% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju;
+3) da ne sadrži manje od 0,1% kapsaicina.
+49. Zahtevi kvaliteta za čubar
+Stavljanje u promet
+Član 112
+Čubar je osušeni nadzemni deo začinske biljke čubar (
+Satureja hortensis
+L.), koji se stavlja u promet kao:
+1) stabljika čubra;
+2) list čubra.
+Stabljika čubra
+Član 113
+Stabljika čubra, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 13% vode;
+2) da ne sadrži više od 12% ukupnog pepela, kao ni
+više od 1% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+3) da ne sadrži manje od 0,3 ml etarska ulja u 100 g proizvoda, računato na suvu materiju.
+List čubra
+Član 114
+List čubra, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 13% vode;
+2) da ne sadrži više od 11% ukupnog pepela, kao ni
+više od 1% pepela nerastvorljivog u hlorovodoničnoj kiselini, računato
+na suvu materiju;
+5) da ne sadrži manje od 0,5 ml isparljivog etarskog ulja čubra u 100 g proizvoda, računato na suvu materiju.
+50. Zahtevi kvaliteta za šafran
+Stavljanje u promet
+Član 115
+Šafran jeste osušeni tučak cveta začinske biljke šafran (
+Crocus sativus
+L.), koji se stavlja u promet kao:
+1) ceo šafran;
+2) usitnjen šafran;
+3) šafran u prahu.
+Ceo šafran i usitnjeni šafran
+Član 116
+Ceo šafran i usitnjeni šafran, u proizvodnji i prometu, moraju da ispunjavaju sledeće zahteve kvaliteta:
+1) da ne sadrže više od 12% vode;
+2) da ne sadrže više od 8% pepela, kao ni više od 1%
+pepela nerastvorljivog u hlorovodoničnoj kiselini, računato na suvu
+materiju;
+3) da ne sadrže više od 65% ekstrakta rastvorljivog u hladnoj vodi, računato na suvu materiju.
+Šafran u prahu
+Član 117
+Šafran u prahu, u proizvodnji i prometu, mora da
+ispunjava zahteve kvaliteta iz člana 116. tač. 2) i 3) ovog pravilnika,
+kao i da ne sadrži više od 10% vode.
+51. Zahtevi kvaliteta za šafraniku
+Član 118
+Šafranika je osušeni cvetni list začinske biljke šafranika - divlji šafran (
+Carthamus tinctorius
+L.) koja, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži više od 12,5% vode;
+2) da ne sadrži više od 8% ukupnog pepela, kao ni
+više od 1,5% pepela nerastvorljivog u hlorovodoničnoj kiselini,
+računato na suvu materiju.
+IV KLASIFIKACIJA I ZAHTEVI KVALITETA EKSTRAKTA ZAČINA
+Član 119
+Ekstrakti začina mogu da se proizvode samo iz začinskih biljaka datih u Prilogu ovog pravilnika.
+1. Klasifikacija ekstrakta začina
+Član 120
+Ekstrakti začina se klasifikuju i stavljaju se u promet kao:
+1) koncentrati začinskih ekstrakata - oleorezini;
+2) alkoholni ili drugi ekstrakti začina;
+3) ekstrakti naneseni na odgovarajuće nosače ili pomešani sa odgovarajućim nosačima kao što su:
+(1) natrijum-hlorid;
+(2) prirodne biljne gume (karuba, gvajak, alginati kalijuma, natrijuma i kalcijuma i prirodni pektini);
+(3) šećeri i derivati šećera (dekstrin).
+Za ekstrakte začina za koje ovim pravilnikom nisu
+propisani zahtevi kvaliteta donosi se proizvođačka specifikacija iz
+člana 3. ovog pravilnika.
+2. Opšti zahtevi kvaliteta ekstrakta začina
+Rastvarači za ekstrakciju začina
+Član 121
+Za ekstrakciju aromatičnih materija iz začina mogu da
+se koriste rastvarači u skladu sa posebnim propisom kojim se uređuju
+pomoćna sredstva u proizvodnji prehrambenih proizvoda.
+Aditivi i drugi dodaci u ekstraktima začina
+Član 122
+Radi sprečavanja oksidacionih promena, ekstraktima
+začina mogu se dodati antioksidansi u skladu sa posebnim propisom kojim
+se uređuju prehrambeni aditivi.
+Ekstraktima začina mogu se dodavati šećer ili derivati šećera (dekstrin) da bi se postigla odgovarajuća konzistencija.
+Za upotrebu aditiva u proizvodima, izuzev ako ovim
+pravilnikom nije drugačije propisano, primenjuje se posebni propis
+kojim se uređuju prehrambeni aditivi.
+3. Posebni zahtevi kvaliteta ekstrakata začina
+Oleorezin anisa
+Član 123
+Oleorezin anisa je proizvod dobijen ekstrakcijom aromatičnih materija iz lišća začinske biljke anisa (
+Pimpinella anisum
+L.) koji, u proizvodnji i prometu, mora da sadrži najmanje 2 ml isparljivog etarskog ulja anisa u 100 g proizvoda.
+Ekstrakt belog luka
+Član 124
+Ekstrakt belog luka je proizvod dobijen ekstrakcijom aromatičnih materija belog luka (
+Allium sativum
+L.) koji, u proizvodnji i prometu, mora da sadrži najmanje 32 ml isparljivih etarskih ulja belog luka u 100 g proizvoda.
+Oleorezin belog bibera
+Član 125
+Oleorezin belog bibera je koncentrat ekstrakta aromatičnih (isparljivih i neisparljivih) materija začinske biljke bibera (
+Piper nigrum
+L.) koji, u proizvodnji i prometu mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži manje od 8 ml isparljivih etarskih ulja bibera u 100 g proizvoda;
+2) da ne sadrži manje od 25% piperina.
+Oleorezin crnog bibera
+Član 126
+Oleorezin crnog bibera je koncentrat ekstrakta aromatičnih (isparljivih i neisparljivih) materija začinske biljke biber (
+Piper nigrum
+L.) koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži manje od 8 ml isparljivih etarskih ulja bibera u 100 g proizvoda;
+2) da ne sadrži manje od 25% piperina.
+Oleorezin bosiljka
+Član 127
+Oleorezin bosiljka je ekstrakt aromatičnih (isparljivih i neisparljivih) materija začinske biljke bosiljak (
+Ocimum basilicum
+L.) koji, u proizvodnji i prometu, mora da sadrži najmanje 20 ml isparljivih etarskih ulja bosiljka u 100 g proizvoda.
+Oleorezin đumbira
+Član 128
+Oleorezin đumbira je ekstrakt isparljivih i
+neisparljivih aromatičnih materija đumbira, slatkog i oštrog ukusa,
+dobijen ekstrakcijom rizoma začinske biljke đumbir (
+Zingiber officinale
+Roscoe) koji, u proizvodnji i prometu, mora da sadrži najmanje 12 ml isparljivog etarskog ulja đumbira u 100 g proizvoda.
+Oleorezin žalfije
+Član 129
+Oleorezin žalfije je proizvod dobijen ekstrakcijom aromatičnih materija začinske biljke žalfija (
+Salvia officinalis
+L.) koja, kad se stavlja u promet, mora da ispunjava sledeće zahteve kvaliteta:
+1) da je u obliku tamnozelene slabo viskozne tečnosti;
+2) da ne sadrži manje od 6% isparljivih etarskih ulja žalfije.
+Oleorezin karanfilića
+Član 130
+Oleorezin karanfilića je ekstrakt isparljivih i
+neisparljivih aromatičnih materija dobijen ekstrakcijom začinske biljke
+karanfilić (
+Syzygium aromaticum
+L. Merr. et Perry syn.
+Eugenia Caryophyllus
+(Sprengel) Bullock et S. Harrison) koji, u proizvodnji i prometu, mora
+da sadrži najmanje 40 ml isparljivog etarskog ulja karanfilića u 100 g
+proizvoda.
+Oleorezin kardamoma
+Član 131
+Oleorezin kardamoma je ekstrakt aromatičnih materija kardamoma dobijen ekstrakcijom plodova biljke kardamom (
+Elettaria cardamomum
+L. Maton var.
+minuscula
+Burkill,
+Elettaria cardamomum
+L. Maton var.
+major
+Thwaites) koji, u proizvodnji i prometu, mora da sadrži najmanje 20 ml etarskog ulja kardamoma u 100 g proizvoda.
+Oleorezin kima
+Član 132
+Oleorezin kima je ekstrakt aromatičnih materija kima dobijen ekstrakcijom ploda začinske biljke kim (
+Carum carvi
+L.) koji, u proizvodnji i prometu, mora da sadrži najmanje 20 ml etarskog ulja u 100 g proizvoda.
+Oleorezin komorača
+Član 133
+Oleorezin komorača je proizvod dobijen ekstrakcijom aromatičnih materija iz ploda začinske biljke komorač (
+Foeniculum vulgare
+P. Miller var.
+vulgare
+) koji, u proizvodnji i prometu, mora da sadrži najmanje 8 ml etarskog ulja ploda komorača u 100 g proizvoda.
+Oleorezin koriandera
+Član 134
+Oleorezin koriandera je ekstrakt aromatičnih materija dobijen ekstrakcijom ploda začinske biljke koriander (
+Coriandrum sativum
+L.) koji, u proizvodnji i prometu, mora da sadrži najmanje 15 ml etarskog ulja koriandera u 100 g proizvoda.
+Oleorezin kurkume
+Član 135
+Oleorezin kurkume je ekstrakt aromatičnih materija dobijenih, ekstrakcijom iz gomoljastog rizoma začinske biljke kurkum (
+Curcuma longa
+L.) koji, u proizvodnji i prometu, mora da sadrži najmanje kurkumina 500, izraženo u jedinicama boje.
+Oleorezin lovora
+Član 136
+Oleorezin lovora je proizvod dobijen ekstrakcijom aromatičnih materija lista začinske biljke lovor (
+Laurus nobilis
+L.) koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da je u obliku tamnozelene tečnosti koja može imati i pastoznu konzistenciju;
+2) da ne sadrži manje od 8 ml isparljivih etarskih ulja lista lovora u 100 g proizvoda.
+Oleorezin majorana
+Član 137
+Oleorezin majorana je ekstrakt aromatičnih materija dobijen ekstrakcijom začinske biljke majoran (
+Majorana hortensis
+Moench syn.
+Origanum majorana
+L.) koji, u proizvodnji i prometu, mora da sadrži najmanje 5 ml etarskog ulja majorana u 100 g proizvoda.
+Oleorezin mirođije
+Član 138
+Oleorezin mirođije je proizvod dobijen ekstrakcijom aromatičnih materija iz ploda začinske biljke mirođija (
+Anethum graveolens
+L.) koji, u proizvodnji i prometu, mora da sadrži najmanje 11 ml etarskog ulja mirođije u 100 g proizvoda.
+Oleorezin muskata
+Član 139
+Oleorezin muskata je ekstrakt aromatičnih materija dobijen ekstrakcijom muskatnog oraha (
+Myristica fragrans
+Houttuyn) koji, u proizvodnji i prometu, mora da sadrži najmanje 30 ml etarskog ulja muskata u 100 g proizvoda.
+Oleorezin origana
+Član 140
+Oleorezin origana je proizvod dobijen ekstrakcijom aromatičnih materija lista začinske biljke origana (
+Origanum vulgare
+L.,
+Origanum heracleoticum
+L.) koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da je u obliku pastozne tečnosti tamne, smeđezelene boje;
+2) da ne sadrži manje od 10 ml isparljivih etarskih ulja origana u 100 g proizvoda.
+Ekstrakt od paprike
+Član 141
+Ekstrakt od paprike je proizvod koji se dobija
+ekstrakcijom mlevene paprike, a sadrži prirodnu boju i druge osnovne
+začinske sastojke koji su rastvoreni u prirodnom ulju paprike. Ekstrakt
+od paprike može se proizvoditi i stavljati u promet i u vidu paste.
+Deklaracija za ekstrakt od paprike, pored podataka
+propisanih posebnim propisom kojim se uređuje deklarisanje, označavanje
+i reklamiranje hrane, mora da sadrži i podatak o sadržaju boje i
+kapsaicina.
+Oleorezin peršuna
+Član 142
+Oleorezin peršuna je proizvod dobijen ekstrakcijom aromatičnih materija iz ploda i lista začinske biljke peršun (
+Petroselinum crispum
+(Miller), Nyman ex. A. W. Hill syn.
+Petroselinum hortense
+auct. syn.
+Petroselinum sativum
+Hoffm.) koji, u proizvodnji i prometu, mora da sadrži najmanje 6 ml isparljivog etarskog ulja peršuna u 100 g proizvoda.
+Oleorezin celera
+Član 143
+Oleorezin celera je proizvod dobijen ekstrakcijom lišća i semena začinske biljke celer (
+Apium graveolens
+L.) koji, u proizvodnji i prometu, mora da sadrži najmanje 4 ml isparljivih etarskih ulja celera u 100 g proizvoda.
+Oleorezin cimeta
+Član 144
+Oleorezin cimeta je ekstrakt kore cimetovog drveta (
+Cinnamomum zeylanicum
+Blume;
+Cinnamomum
+aromaticum
+(Nees)
+syn. Cinnamomum
+cassia
+(Nees) ex Blume,
+Cinnamomum
+burmanii
+(C.G. Nees)
+Blume and
+Cinnamomum loureirii
+Nees-"Cassia") koji, u proizvodnji i prometu, mora da ispunjava sledeće zahteve kvaliteta:
+1) da ne sadrži manje od 30 ml isparljivog etarskog ulja cimeta u 100 g proizvoda;
+2) da ne sadrži manje od 18% cimet-aldehida.
+Ekstrakt crnog luka
+Član 145
+Ekstrakt crnog luka je ekstrakt aromatičnih materija dobijen ekstrakcijom sušenog ili svežeg crnog luka (
+Allium cepa
+L.) koji, u proizvodnji i prometu, mora da sadrži najmanje 40% suve materije.
+Ekstrakt prženog crnog luka je ekstrakt aromatičnih
+materija dobijen ekstrakcijom prženog crnog luka, koji, u proizvodnji i
+prometu, mora da sadrži najmanje 60% suve materije.
+V ZAHTEVI KVALITETA MEŠAVINE ZAČINA
+Sastojci mešavine začina
+Član 146
+Mešavine začina mogu da sadrže sastojke, i to šećer
+ili derivate šećera, so, kao i aditive u skladu sa posebnim propisom
+kojim se uređuju prehrambeni aditivi.
+Vanila-šećer i vanilin-šećer
+Član 147
+Vanila-šećer je mešavina šećera i vanile (vanilije) u
+prahu koja, u proizvodnji i prometu, mora da sadrži od 0,5% do 10%
+vanile u prahu.
+Vanila-šećeru, mogu da se dodaju ekstrakti začina, prirodne arome i/ili komadići vanile.
+Kao vanilin-šećer može se stavljati u promet mešavina
+šećera i vanilina, s tim što ta mešavina mora da sadrži najmanje 1,0%
+vanilina. Umesto vanilina može da se upotrebiti odgovarajuća količina
+0,33% etil-vanilina.
+Vanilin-šećeru mogu da se dodaju arome u skladu propisom kojim se uređuju arome.
+VI METODE ISPITIVANJA KVALITETA PROIZVODA
+Član 148
+Usaglašenost proizvoda sa zahtevima kvaliteta
+propisanim ovim pravilnikom utvrđuje se metodama datim u Tabeli 3 -
+Analitičke metode, kao i drugim međunarodno priznatim metodama.
+Tabela 2
+Analitičke metode
+Red. broj
+Oznaka
+Naslov
+1
+SRPS ISO 948
+Začini - Uzimanje uzoraka
+2
+SRPS ISO 2825
+Začini - Priprema mlevenog uzorka za analizu
+3
+SRPS EN ISO 927
+Začini i začinske mešavine - Određivanje sadržaja stranih materija
+4
+SRPS ISO 928
+Začini - Određivanje ukupnog pepela
+5
+SRPS ISO 930
+Začini - Određivanje pepela nerastvorljivog u kiselini
+6
+SRPS ISO 939
+Začini - Određivanje sadržaja vlage - Metoda sa prenosom
+7
+SRPS ISO 941
+Začini - Određivanje ekstrakta rastvorljivog u hladnoj vodi
+8
+SRPS ISO 1108
+Začini - Određivanje neisparljivog etarskog ekstrakta
+9
+SRPS EN ISO 6571
+Začini, začinske mešavine i biljke - Određivanje sadržaja isparljivog ulja (metoda destilacije vodenom parom)
+10
+SRPS EN ISO 7541
+Začini i začinske mešavine - Spektrofotometrijsko određivanje boje ekstrahovati iz paprike
+11
+SRPS EN ISO 7540, prilog A
+Mlevena paprika (
+Capsicum annuum
+L.) - Specifikacija, Prilog A (normativan) - Određivanje sadržaja vlage
+VII PAKOVANJE I DEKLARISANJE PROIZVODA
+Pakovanje proizvoda
+Član 149
+Za pakovanje proizvoda mora da se koristiti
+odgovarajuća ambalaža koja obezbeđuje očuvanje kvaliteta proizvoda do
+momenta otvaranja.
+Deklarisanje i označavanje proizvoda
+Član 150
+Proizvodi koji ispunjavaju uslove u pogledu kvaliteta
+propisane ovim pravilnikom, a koji se stavljaju u promet i namenjeni su
+prodaji krajnjem potrošaču moraju da budu deklarisani u skladu sa
+posebnim propisom kojim se uređuje deklarisanje, označavanje i
+reklamiranje hrane.
+Član 150a
+Zahtevi ovog pravilnika ne primenjuju se na proizvode
+koji su zakonito stavljeni na tržište ostalih zemalja Evropske unije
+ili Republike Turske, odnosno zakonito proizvedeni u državi potpisnici
+EFTA Sporazuma, ukoliko proizvod ispunjava zahteve koji se odnose na
+bezbednost hrane.
+Izuzetno od stava 1. ovog člana, može da se ograniči
+stavljanje na tržište ili povući sa tržišta proizvod iz stava 1. ovog
+člana, ukoliko se posle sprovedenog postupka iz Uredbe EK broj
+2019/515, utvrdi da takav proizvod ne može da ispuni zahteve
+ekvivalentne zahtevima koji su propisani ovim propisom.
+VIII ZAVRŠNE ODREDBE
+Prestanak važenja ranijeg propisa
+Član 151
+Danom početka primene ovog pravilnika prestaje da važi:
+1) Pravilnik o kvalitetu začina, ekstrakata začina i
+mešavina začina ("Službeni list SFRJ", br. 4/85 i 84/87 i "Službeni
+list SCG", br. 56/03 - dr. pravilnik i 4/04 - dr. pravilnik i "Službeni
+glasnik RS", broj 43/13 - dr. pravilnik);
+2) Pravilnik o kvalitetu proizvoda od voća, povrća i
+pečurki i pektinskih preparata ("Službeni list SFRJ", br. 1/79, 20/82,
+39/89 - dr. pravilnik, 74/90 i 46/91 - dr. pravilnik i "Službeni list
+SRJ", br. 33/95 - dr. pravilnik i 58/95 i "Službeni list SCG", br.
+56/03 - dr. pravilnik, 4/04 - dr. pravilnik i 12/05 - dr. pravilnik i
+"Službeni glasnik RS", broj 43/13 - dr. pravilnik) u delu koji se
+odnosi na mlevenu začinsku papriku i ekstrakt od paprike.
+Stupanje na snagu
+Član 152
+Ovaj pravilnik stupa na snagu osmog dana od dana
+objavljivanja u "Službenom glasniku Republike Srbije", a primenjuje se
+od 15. oktobra 2014. godine.
+Samostalni član Pravilnika o izmenama i dopunama
+Pravilnika o kvalitetu začina, ekstrakata začina i mešavina začina
+("Sl. glasnik RS", br. 23/2015)
+Član 18
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Prilog
+ZAČINSKE BILJKE
+Začinske biljke od čijih aromatičnih delova se dobiju začini propisanim ovim pravilnikom su:
+1)
+anis
+(
+Pimpinella anisum
+L.)
+2)
+beli luk u prahu
+(
+Allium sativum
+L.)
+3)
+biber
+beli
+(
+Piper nigrum
+L.)
+4)
+biber zeleni
+(
+Piper nigrum
+L.)
+5)
+biber
+crveni
+(
+Schinus molle
+L.,
+Schinus terebinthifolius
+Raddi)
+6)
+biber crni
+(
+Piper nigrum
+L.)
+7)
+bosiljak
+(
+Ocimum basilicum
+L.)
+8)
+vanila (vanilija)
+(
+Vanilla planifolia
+Andrews syn.
+Vanilla fragrans
+Salisburi Ames)
+9)
+vlašac
+(
+Allium schoenoprasum
+)
+10)
+đumbir
+(
+Zingiber officinale
+Roscoe)
+11)
+estragon
+(
+Artemisia dracunculus
+L.)
+12)
+žalfija
+(
+Salvia officinalis
+L.)
+13)
+zvezdasti anis
+(
+Illicium verum
+Hook. f.)
+14)
+iđirot
+(
+Acorus calamus
+L.)
+15)
+isiot
+(
+Curcuma zedoariae
+Rose C.)
+16)
+karanfilić
+(
+Syzygium aromaticum
+L. Merr. et Perry syn.
+Eugenia Caryophyllus
+(Sprengel) Bullock et S. Harrison)
+17)
+kardamom
+(
+Elettaria cardamomum
+L. Maton var.
+minuscula
+Burkill,
+Elettaria cardamomum
+L. Maton var.
+major
+Thwaites)
+18)
+kim
+(
+Carum carvi
+L.)
+19)
+klekove bobe
+(
+Juniperus communis
+L.)
+20)
+komorač
+(
+Foeniculum vulgare
+P. Miller var.
+vulgare
+)
+21)
+koriander
+(
+Coriandrum sativum
+L.)
+22)
+kumin
+(Cuminum cyminum
+L.)
+23)
+kurkuma
+(
+Curcuma longa
+L.)
+24)
+lavanda
+(
+Lavandula angustifolia
+Mill.,
+Lavandula spica
+L.)
+25)
+lovor
+(
+Laurus nobilis
+L.)
+26)
+majoran
+(
+Majorana hortensis
+Moench syn.
+Origanum majorana
+L.)
+27)
+mirođija
+(
+Anethum graveolens
+L.)
+28)
+muskatni orah
+(
+Muristica fragrans
+Houttuyn)
+29)
+muskatni orah papuanski
+(
+Myristica argentea
+Warb.)
+30)
+muskatni cvet
+(
+Myristica fragrans
+Houtt.,
+Myristica argentea
+L.)
+31)
+kudrava nana
+(
+Mentha spicata
+L.syn.
+Mentha viridis
+L.)
+32)
+pitoma nana
+(
+Mentha piperita
+L.)
+33)
+origano
+(
+Origanum vulgare
+L.,
+Origanum heracleoticum
+L.)
+34)
+mlevena
+paprika začinska
+(
+Capsicum annuum
+L.)
+35)
+peršun
+(
+Petroselinum crispum
+(Miller), Nyman ex. A. W. Hill syn.
+Petroselinum hortense
+auct. syn.
+Petroselinum sativum
+Hoffm.)
+36)
+piment
+(
+Pimenta officinalis
+)
+37)
+piskavica
+(
+Trigonella foenum-graecum
+L.)
+38)
+ruzmarin
+(
+Rosmarinus officinalis
+L.)
+39)
+selen
+(
+Levisticum officinale
+Koch)
+40)
+bela slačica
+(
+Sinapis alba
+L.)
+41)
+crna slačica
+(
+Brassica nigra
+L., W.D.J. Koch)
+42)
+timijan
+(
+Thymus vulgaris
+L.)
+43)
+celer
+(
+Apium graveolens
+L.)
+44)
+cimet
+(
+Cinnamomum zeylanicum
+Blume;
+Cinnamomum
+aromaticum
+(Nees) syn.
+Cinnamomum
+cassia
+(Nees) ex Blume,
+Cinnamomum
+burmanii
+(C.G. Nees) Blume
+and
+Cinnamomum loureirii
+Nees-"Cassia")
+45)
+crni luk u prahu
+(
+Allium cepa
+L.)
+46)
+čili
+(
+Capsicum annuum
+L. i
+Capsicum frutescens
+L. i njihove podvrste
+C. Chinense, C.pubescens,
+i
+C. pendulum
+)
+47)
+čubar
+(
+Satureja hortensis
+L.)
+48)
+šafran
+(
+Crocus sativus
+L.)
+49)
+šafranika
+(
+Carthamus tinctorius
+L.)

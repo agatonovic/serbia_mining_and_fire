@@ -1,0 +1,565 @@
+Title: ODLUKAO USLOVIMA I NAČINU SPROVOĐENJA OPERACIJA NA OTVORENOM TRŽIŠTU
+URL: https://www.paragraf.rs/propisi/uslovi-nacin-sprovodjenja-operacija-na-otvorenom-trzistu.html
+Extracted: 2025-07-06T23:08:52.202158
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+ODLUKA
+O USLOVIMA I NAČINU SPROVOĐENJA OPERACIJA NA OTVORENOM TRŽIŠTU
+("Sl. glasnik RS", br. 45/2011,  34/2013,  74/2020,  98/2020 i 4/2022)
+Opšte odredbe
+1. Ovom odlukom utvrđuju se vrste operacija i
+transakcija koje Narodna banka Srbije sprovodi na otvorenom tržištu,
+vrste hartija od vrednosti koje mogu biti predmet tih operacija, uslovi
+pod kojima banke mogu učestvovati u operacijama na otvorenom tržištu,
+kao i drugi uslovi pod kojima i način na koji se sprovode ove
+operacije.
+2. Narodna banka Srbije operacije na otvorenom
+tržištu sprovodi kupovinom i prodajom hartija od vrednosti - radi
+regulisanja likvidnosti bankarskog sektora, uticaja na kretanje
+kratkoročnih kamatnih stopa i davanja signalnog stava o monetarnoj
+politici.
+Vrste operacija i transakcija
+3. Operacije na otvorenom tržištu se, u zavisnosti od njihovih ciljeva, dinamike i načina sprovođenja, razvrstavaju na:
+1) glavne operacije,
+2) operacije dužih ročnosti,
+3) operacije finog podešavanja.
+Narodna banka Srbije operacije iz stava 1. ove tačke
+sprovodi s bankama koje ispunjavaju uslove utvrđene ovom odlukom, na
+aukcijama hartija od vrednosti (u daljem tekstu: aukcija) ili van
+aukcije - bilateralno, i to obavljanjem sledećih vrsta transakcija:
+1) repo transakcija,
+2) trajnih transakcija.
+Repo transakcija, u smislu ove odluke, jeste kupovina
+i prodaja hartija od vrednosti u kojoj je prodavac saglasan da hartije
+od vrednosti proda kupcu, koji je saglasan da prodavcu plati kupovnu
+cenu uz istovremenu obavezu da će kupljene hartije od vrednosti na
+tačno utvrđeni datum prodati prodavcu, koji je obavezan da za te
+hartije od vrednosti plati kupcu unapred utvrđenu reotkupnu cenu.
+Trajna transakcija, u smislu ove odluke, jeste
+kupovina i prodaja hartija od vrednosti bez obaveze njihove ponovne
+prodaje, odnosno kupovine.
+4. Glavne operacije imaju najvažniju ulogu u
+ostvarivanju ciljeva operacija na otvorenom tržištu, i mogu se
+sprovoditi radi obezbeđenja nedostajuće likvidnosti bankarskog sektora
+ili povlačenja viškova likvidnosti iz bankarskog sektora.
+Glavne operacije sprovode se redovno, na standardnim
+aukcijama, prema unapred utvrđenom kalendaru aukcija, i u njihovom
+sprovođenju primenjuje se referentna kamatna stopa Narodne banke
+Srbije.
+Izvršni odbor Narodne banke Srbije posebnom odlukom
+utvrđuje koje se operacije na otvorenom tržištu, odnosno transakcije
+kupovine ili prodaje hartija od vrednosti smatraju glavnim operacijama.
+5. Operacije dužih ročnosti sprovode se prvenstveno
+radi toga da se na duži rok obezbedi nedostajuća likvidnost bankarskog
+sektora, odnosno povuku viškovi likvidnosti iz bankarskog sektora.
+Operacije dužih ročnosti sprovode se, po pravilu, na standardnim aukcijama, a mogu se sprovoditi i bilateralno.
+6. Operacije finog podešavanja sprovode se po
+potrebi, radi sprečavanja ili ublažavanja efekata iznenadnih poremećaja
+likvidnosti bankarskog sektora, a posebno zbog njihovog uticaja na
+kretanje kratkoročnih kamatnih stopa.
+Operacije finog podešavanja sprovode se, po pravilu, na brzim aukcijama, a mogu se sprovoditi i bilateralno.
+Hartije od vrednosti
+7. Narodna banka Srbije može, u smislu ove odluke,
+kupovati i prodavati dinarske hartije od vrednosti, bez devizne
+klauzule, čiji je izdavalac:
+1) Narodna banka Srbije;
+2) Republika Srbija;
+3) međunarodna finansijska organizacija i
+razvojna banka ili finansijska institucija čiji je osnivač strana
+država i čiji je kreditni rejting agencija za procenu rejtinga
+Standard&Poor's ili Fitch-IBCA utvrdila sa "AAA", odnosno Moody's
+sa "Aaa";
+4) domaće privredno društvo čiji je bonitet Agencija za privredne registre ocenila najmanje ocenom "D) Prihvatljiv bonitet"
+ili koje ima drugu ocenu svog boniteta/kreditne sposobnosti koja je
+odgovarajuća oceni boniteta "(D) Prihvatljiv bonitet" i čija je najduža
+originalna ročnost deset godina.
+Pod deviznom klauzulom iz stava 1. ove tačke
+podrazumeva se valutna klauzula u smislu zakona kojim se uređuje
+devizno poslovanje, kao i svaka druga klauzula kojom se utvrđuje
+zaštita od rizika promene kursa dinara.
+U smislu stava 1. ove tačke:
+- međunarodna finansijska organizacija je finansijska
+organizacija u čijem je Republika Srbija članstvu ili s kojom je
+zaključila sporazum kojim se uređuju aktivnosti te finansijske
+organizacije u Republici Srbiji;
+- razvojna banka ili finansijska institucija čiji je
+osnivač strana država je ona banka, odnosno institucija čiji je osnivač
+država članica Evropske unije ili Organizacije za ekonomsku saradnju i
+razvoj (OECD);
+- domaće privredno društvo je privredno društvo ili
+drugo pravno lice koje ima sedište u Republici Srbiji, osim privrednog
+društva i pravnog lica nad kojim Narodna banka Srbije vrši kontrolu,
+odnosno nadzor u skladu sa odredbama zakona kojim se uređuje položaj,
+organizacija, ovlašćenja i funkcije Narodne banke Srbije.
+Pri kupovini i prodaji hartija od vrednosti iz stava
+1. odredba pod 4) ove tačke, Narodna banka Srbije uzima u obzir ukupnu
+nominalnu vrednost tih hartija od vrednosti u portfelju Narodne banke
+Srbije, maksimalnu izloženost prema pojedinačnom izdavaocu tih hartija
+od vrednosti, ročnost tih hartija od vrednosti, kao i druge
+kriterijume, u skladu sa odlukom guvernera.
+8. Radi obezbeđenja naplate potraživanja po osnovu
+kupovine/prodaje hartija od vrednosti, Narodna banka Srbije može u repo
+transakciji u kojoj kupuje hartije od vrednosti primeniti procenat
+umanjenja u odnosu na nominalnu vrednost tih hartija, a u repo
+transakciji u kojoj prodaje hartije od vrednosti može primeniti
+procenat uvećanja u odnosu na nominalnu vrednost tih hartija.
+Ako Narodna banka Srbije u repo transakciji kupuje
+amortizacione kuponske hartije od vrednosti, procenat umanjenja
+primenjuje se na deo nominalne vrednosti tih hartija koji preostaje na
+datum njihovog reotkupa, a ako u ovoj transakciji Narodna banka Srbije
+prodaje amortizacione kuponske hartije od vrednosti - procenat uvećanja
+primenjuje se na preostali deo nominalne vrednosti tih hartija na datum
+njihove prodaje.
+Ako su predmet repo transakcije indeksirane hartije
+od vrednosti, procenat umanjenja/uvećanja primenjuje se na nominalnu
+vrednost tih hartija, odnosno na preostali deo njihove nominalne
+vrednosti koji se utvrđuje u skladu sa stavom 2. ove tačke, koji se
+množi raciom indeksacije važećim na datum prodaje.
+Racio indeksacije iz stava 3. ove tačke utvrđuje se u skladu sa aktom o emisiji indeksiranih hartija od vrednosti.
+Guverner ili lice koje on ovlasti donosi odluku kojom
+utvrđuje visinu procenata iz stava 1. ove tačke, i to po vrstama
+hartija od vrednosti kojima Narodna banka Srbije obavlja repo
+transakcije i njihovoj preostaloj ročnosti, imajući u vidu tržišnu cenu
+ovih hartija i tekuća tržišna i monetarna kretanja.
+Odluka iz stava 5. ove tačke objavljuje se na Internet prezentaciji Narodne banke Srbije.
+Učesnici
+9. U operacijama na otvorenom tržištu može učestvovati banka koja ispunjava sledeće uslove:
+1) da je član Centralnog registra, depoa i kliringa hartija od vrednosti (u daljem tekstu: Centralni registar);
+2) da je s Narodnom bankom Srbije zaključila
+okvirni repo ugovor - ako se obavljaju repo transakcije, odnosno
+okvirni ugovor o trajnim transakcijama - ako se obavljaju trajne
+transakcije;
+3) da joj nije izrečena zabrana obavljanja s
+Narodnom bankom Srbije određenih vrsta transakcija kupovine/prodaje
+hartija od vrednosti u skladu s tačkom 35. ove odluke.
+Banka koja ispunjava uslove iz stava 1. ove tačke kupuje i prodaje hartije od vrednosti u svoje ime i za svoj račun.
+Okvirni repo ugovor iz stava 1. odredba pod 2) ove
+tačke predstavlja ugovor o finansijskom obezbeđenju u smislu zakona
+kojim se uređuje finansijsko obezbeđenje i njim se naročito utvrđuju
+odnosi Narodne banke Srbije i banke u vezi sa obavljanjem poslova repo
+kupovine/prodaje hartija od vrednosti, zaključivanjem posebnog repo
+ugovora o toj kupovini/prodaji, izvršavanjem obaveza ugovornih strana,
+kao i raskidom okvirnog i posebnog repo ugovora.
+Sprovođenje aukcija
+10. Kupovina i prodaja hartija od vrednosti na
+aukcijama, uključujući i dostavljanje saopštenja o održavanju aukcije,
+dostavljanje ponuda banaka za kupovinu/prodaju hartija od vrednosti i
+njihovu obradu, kao i prihvatanje tih ponuda, obavljaju se preko veb
+platforme Monetarne operacije Narodne banke Srbije (u daljem tekstu:
+veb platforma).
+Pristup veb platformi i njeno korišćenje bliže je uređeno korisničkim uputstvom za rad veb platforme.
+Dostavljanje ponuda banaka za kupovinu/prodaju
+hartija od vrednosti i prihvatanje tih ponuda mogu se izuzetno, zbog
+tehničkih problema u radu veb platforme, obaviti i elektronskom poštom
+ili telefaksom.
+Ako zbog tehničkih problema u radu veb platforme
+banka nije u mogućnosti da ponudu dostavi u vremenu utvrđenom u odluci
+o aukciji - guverner ili lice koje on ovlasti može, na zahtev banke,
+produžiti rok za prijem ponuda.
+Ponude koje banke dostavljaju elektronskom poštom ili
+telefaksom u skladu sa stavom 3. ove tačke, kao i zahtev za produženje
+roka za prijem ponuda iz stava 4. te tačke - Narodna banka Srbije uzima
+u obradu samo ako su te ponude, odnosno taj zahtev dostavljeni pre
+isteka roka za dostavljanje ponuda utvrđenog odlukom o organizovanju
+aukcije.
+11. Za aukcije koje se organizuju redovno, guverner
+ili lice koje on ovlasti donosi odluku kojom se utvrđuje kalendar
+aukcija koje Narodna banka Srbije planira da organizuje u određenom
+periodu, i ta se odluka objavljuje na Internet prezentaciji Narodne
+banke Srbije.
+12. Zavisno od vremenskog okvira u kome se sprovode, Narodna banka Srbije može organizovati:
+1) standarne aukcije,
+2) brze aukcije.
+Standarne aukcije sprovode se, po pravilu, narednog radnog dana od dana slanja bankama saopštenja o održavanju aukcije.
+Brze aukcije sprovode se, po pravilu, istog dana kad je bankama poslato saopštenje o održavanju aukcije.
+13. Narodna banka Srbije može organizovati sledeće vrste aukcija:
+1) aukciju po fiksnoj kamatnoj stopi -
+aukciju po kamatnoj stopi koju je Narodna banka Srbije unapred utvrdila
+i saopštila učesnicima;
+2) aukciju po varijabilnoj kamatnoj stopi - aukciju po kamatnoj stopi koju Narodna banka Srbije nije unapred utvrdila.
+Aukcija po varijabilnoj kamatnoj stopi može biti:
+1) aukcija po višestrukoj kamatnoj stopi -
+aukcija na kojoj svaki učesnik čiju je ponudu Narodna banka Srbije
+prihvatila kupuje, odnosno prodaje hartiju od vrednosti po kamatnoj
+stopi koju je ponudio;
+2) aukcija po jedinstvenoj kamatnoj stopi -
+aukcija na kojoj svaki učesnik čiju je ponudu Narodna banka Srbije
+prihvatila kupuje, odnosno prodaje hartiju od vrednosti po istoj
+kamatnoj stopi.
+14. Guverner ili lice koje on ovlasti donosi odluku o organizovanju aukcije, koja sadrži sledeće osnovne podatke:
+1) vrstu operacije;
+2) vrstu transakcije;
+3) vrstu aukcije;
+4) datum održavanja aukcije;
+5) vrstu hartije od vrednosti;
+6) kamatnu stopu - ako se organizuje aukcija po fiksnoj kamatnoj stopi;
+7) datum kupovine/datum prodaje hartija od vrednosti;
+8) rok na koji se zaključuje repo transakcija, odnosno datum reotkupa hartija od vrednosti - ako se obavljaju repo transakcije;
+9) procenat umanjenja/uvećanja koji se
+primenjuje na nominalnu vrednost hartija od vrednosti - ako se
+obavljaju repo transakcije;
+10) najmanji iznos na koji ponuda može da glasi;
+11) broj ponuda koje se mogu dostaviti ako se organizuje aukcija po varijabilnoj kamatnoj stopi;
+12) rok za dostavljanje ponuda.
+Pored podataka iz stava 1. ove tačke, odluka o
+organizovanju aukcije može da sadrži i podatke o najvišem iznosu
+hartija od vrednosti koje Narodna banka Srbije prodaje/kupuje, datumu
+izdavanja/datumu dospeća hartija od vrednosti, najnižoj ili najvišoj
+kamatnoj stopi koju ponuda može da sadrži da bi bila primljena u
+obradu, najvišem iznosu na koji pojedinačna ponuda može da glasi i
+druge podatke značajne za obavljanje transakcija kupovine/prodaje
+hartija od vrednosti.
+15. Narodna banka Srbije objavljuje odluku o
+organizovanju aukcije na svojoj Internet prezentaciji i dostavlja
+bankama saopštenje o održavanju aukcije - i to za standardne aukcije,
+po pravilu, jedan radni dan pre dana održavanja aukcije, a za brze
+aukcije, po pravilu, na dan održavanja aukcije.
+Saopštenje o održavanju aukcije sadrži podatke iz
+odluke o organizovanju aukcije i dostavlja se bankama preko veb
+platforme i elektronskom poštom.
+Narodna banka Srbije može obaveštenje o održavanju aukcije objaviti na svojim stranicama  na elektronskim servisima Refinitiv
+(
+Refinitiv
+)
+i/ili Blumberg
+(
+Bloomberg
+).
+Aukcija po fiksnoj kamatnoj stopi
+16. Na aukciji po fiksnoj kamatnoj stopi, učesnik
+može Narodnoj banci Srbije dostaviti samo jednu ponudu, u kojoj je
+navedena količina hartija od vrednosti koju učesnik namerava da kupi,
+odnosno proda, po kamatnoj stopi koju je Narodna banka Srbije unapred
+utvrdila i objavila.
+Nakon isteka roka za dostavljanje ponuda učesnika,
+guverner ili lice koje on ovlasti odlučuje o ukupnoj nominalnoj
+vrednosti hartija od vrednosti koje se kupuju, odnosno prodaju na
+aukciji.
+Ako je ukupna količina hartija od vrednosti navedena
+u ponudama učesnika veća od ukupne količine hartija od vrednosti koju
+Narodna banka Srbije prodaje/kupuje na aukciji - hartije od vrednosti
+se proporcionalno raspoređuju po pojedinačnom učesniku, srazmerno
+učešću ponude pojedinačnog učesnika u ukupnoj količini hartija od
+vrednosti navedenoj u ponudama.
+17. Ako Narodna banka Srbije u repo transakciji
+prodaje hartije od vrednosti s različitim datumima dospeća, u okviru
+prihvaćenih ponuda rasporediće ih po pojedinačnom kupcu prema
+kriterijumu datuma dospeća ovih hartija i prema kriterijumu količine
+tih hartija navedene u ponudama kupaca, tako da će se hartije od
+vrednosti s najkasnijim datumom dospeća rasporediti na ponude kupaca
+počev od ponuda u kojima je navedena najmanja količina hartija od
+vrednosti.
+Ako se hartije od vrednosti ne mogu rasporediti po
+pojedinačnom kupcu prema kriterijumima iz stava 1. ove tačke -
+rasporediće se i prema vremenu prijema ponude, i to počev od ponude
+koja je poslednja primljena.
+Ako Narodna banka Srbije u repo transakciji kupuje
+hartije od vrednosti s različitim datumima dospeća, u okviru prihvaćene
+ponude pojedinačnog prodavca kupiće ih prema kriterijumu datuma dospeća
+tih hartija, počev od hartija od vrednosti s najranijim datumom dospeća.
+U slučaju iz stava 3. ove tačke, Narodna banka Srbije
+može kupiti hartije od vrednosti i prema redosledu kojim su te hartije
+navedene u ponudama učesnika - ako je takva mogućnost predviđena u
+odluci o organizovanju aukcije.
+Aukcija po varijabilnoj kamatnoj stopi
+18. Na aukciji po varijabilnoj kamatnoj stopi,
+učesnik može Narodnoj banci Srbije dostaviti jednu ili više
+pojedinačnih ponuda, u skladu sa odlukom o organizovanju aukcije, u
+kojoj je navedena količina hartija od vrednosti koju taj učesnik
+namerava da kupi/proda, s kamatnom stopom na te hartije.
+19. Redosled pojedinačnih ponuda učesnika utvrđuje se
+prema kamatnim stopama navedenim u tim ponudama, i to počev od najniže
+do najviše kamatne stope - ako Narodna banka Srbije prodaje hartije od
+vrednosti, a od najviše do najniže kamatne stope - ako Narodna banka
+Srbije kupuje hartije od vrednosti.
+Nakon utvrđivanja redosleda iz stava 1. ove tačke,
+guverner ili lice koje on ovlasti odlučuje o najvišoj, odnosno najnižoj
+kamatnoj stopi koju ponuda može da sadrži da bi bila prihvaćena i o
+ukupnoj nominalnoj vrednosti hartija od vrednosti koje se kupuju,
+odnosno prodaju na aukciji.
+Ukupan iznos hartija od vrednosti raspoređuje se
+prema redosledu iz stava 1. ove tačke. Ako postoji više ponuda sa istom
+najvišom/najnižom kamatnom stopom koja je prihvaćena, a ukupna količina
+hartija od vrednosti navedena u tim ponudama veća je od ukupne količine
+neraspoređenih hartija od vrednosti koje Narodna banka Srbija
+prodaje/kupuje - raspoređivanje se vrši srazmerno učešću tih ponuda u
+ukupnoj količini hartija od vrednosti navedenoj u ponudama po
+najvišoj/najnižoj kamatnoj stopi.
+20. Na aukciji po jedinstvenoj kamatnoj stopi -
+Narodna banka Srbije prodaje hartije od vrednosti po najvišoj
+prihvaćenoj kamatnoj stopi, a kupuje ih po najnižoj prihvaćenoj
+kamatnoj stopi.
+21. Ako Narodna banka Srbije u repo transakciji
+prodaje hartije od vrednosti s različitim datumima dospeća na aukciji
+po višestrukoj kamatnoj stopi, u okviru prihvaćenih pojedinačnih
+ponuda, rasporediće ih po pojedinačnoj ponudi prema kriterijumu datuma
+dospeća tih hartija i prema kriterijumu kamatne stope navedene u
+pojedinačnim ponudama, tako da će se hartije od vrednosti s najkasnijim
+datumom dospeća rasporediti na pojedinačne ponude počev od ponuda u
+kojima je navedena najviša kamatna stopa.
+Ako Narodna banka Srbije u repo transakciji prodaje
+hartije od vrednosti s različitim datumima dospeća na aukciji po
+jedinstvenoj kamatnoj stopi, u okviru prihvaćenih pojedinačnih ponuda
+rasporediće ih po pojedinačnoj ponudi prema kriterijumu datuma dospeća
+ovih hartija i prema kriterijumu količine tih hartija, tako da će se
+hartije od vrednosti s najkasnijim datumom dospeća rasporediti na
+pojedinačne ponude, počev od ponuda u kojima je navedena najmanja
+količina hartija od vrednosti.
+Ako se hartije od vrednosti ne mogu rasporediti po
+pojedinačnoj ponudi prema kriterijumima iz st. 1. i 2. ove tačke -
+raspoređivaće se i prema vremenu prijema ponude, i to počev od ponude
+koja je poslednja primljena.
+22. Ako Narodna banka Srbije u repo transakciji
+kupuje hartije od vrednosti s različitim datumima dospeća na aukciji po
+višestrukoj, odnosno jedinstvenoj kamatnoj stopi, u okviru prihvaćenih
+pojedinačnih ponuda, kupiće ih prema kriterijumu datuma dospeća tih
+hartija, počev od hartija od vrednosti s najranijim datumom dospeća.
+U slučaju iz stava 1. ove tačke, Narodna banka Srbije
+može hartije od vrednosti da kupi i prema redosledu kojim su te hartije
+navedene u ponudama učesnika - ako je takva mogućnost predviđena u
+odluci o organizovanju aukcije.
+Ako Narodna banka Srbije u repo transakciji kupuje
+hartije od vrednosti različite apoenske strukture, nominalna vrednost
+hartija od vrednosti po učesniku zaokružuje se na ceo apoen, tako da
+količina hartija od vrednosti koja se raspoređuje po učesniku može da
+bude manja/veća od iznosa navedenog u pojedinačnoj ponudi učesnika.
+23. Odredbe ove odluke o organizovanju i sprovođenju
+aukcija odnose se na trajne i repo transakcije, s tim što su, u
+zavisnosti od vrste ovih transakcija, pojedina pitanja na drukčiji
+način uređena (elementi ponude za kupovinu/prodaju hartija od
+vrednosti, elementi posebnog ugovora, utvrđivanje cene hartija od
+vrednosti).
+Poseban ugovor i obaveštavanje o rezultatima aukcije
+24. Narodna banka Srbije i banka o svakoj
+pojedinačnoj transakciji kupovine/prodaje hartija od vrednosti na
+aukciji zaključuju poseban ugovor.
+Poseban ugovor iz stava 1. ove tačke smatra se
+zaključenim kad Narodna banka Srbije u potpunosti ili delimično
+prihvati ponudu banke. Ovaj ugovor dostavlja se banci, po pravilu preko
+veb platforme.
+25. Narodna banka Srbije, na osnovu podataka o
+zaključenim ugovorima o kupovini/prodaji hartija od vrednosti, objaviće
+na svojoj Internet prezentaciji zbirni izveštaj o rezultatima aukcije,
+po pravilu istog dana kad je održana aukcija.
+Narodna banka Srbije može zbirni izveštaj o rezultatima aukcije objaviti na elektronskim servisima Refinitiv i/ili Blumberg.
+Bilateralna kupovina/prodaja hartija od vrednosti
+26. Narodna banka Srbije može obavljati bilateralnu
+kupovinu/prodaju hartija od vrednosti tako što će direktno pozvati
+(kontaktirati) jednu ili više banaka da joj dostave ponude za
+prodaju/kupovinu hartija od vrednosti.
+Narodna banka Srbije može obavljati bilateralnu repo
+kupovinu/prodaju hartija od vrednosti i bez direktnog pozivanja
+(kontaktiranja) banke, tako što će:
+1) na osnovu pojedinačnog zahteva banke za
+dostavljanje ponude za repo prodaju/kupovinu hartija od vrednosti -
+dati svoju ponudu za tu kupovinu/prodaju;
+2) prihvatiti ponudu banke za repo prodaju/kupovinu hartija od vrednosti.
+Bilateralna kupovina/prodaja iz ove tačke obavlja se neposredno s bankom, van aukcije.
+27. Kontaktiranje banaka radi obavljanja bilateralne
+kupovine/prodaje hartija od vrednosti, dostavljanje ponuda banaka,
+prihvatanje tih ponuda i razmena potrebnih podataka i obaveštenja -
+mogu se obavljati elektronskom poštom, telefaksom ili u pismenoj formi.
+28. Guverner ili lice koje on ovlasti donosi odluke o obavljanju bilateralne kupovine/prodaje hartija od vrednosti.
+U skladu sa odlukom iz stava 1. ove tačke, zaključuje
+se poseban ugovor o kupovini/prodaji hartija od vrednosti, kojim se
+utvrđuju bliži uslovi kupovine/prodaje tih hartija, a naročito: vrsta
+transakcije, ukupan iznos kupljenih/prodatih hartija od vrednosti,
+vrsta hartije od vrednosti, kamatna stopa, odnosno cena hartija od
+vrednosti, procenat umanjenja/uvećanja u repo transakcijama, način i
+rokovi izvršenja međusobnih obaveza, kao i drugi elementi.
+Ugovor iz stava 2. ove tačke sačinjava se u pismenoj formi, a zaključuje ga guverner ili lice koje on ovlasti.
+Cena, plaćanje i prenos hartija od vrednosti
+29. Cena hartija od vrednosti koje se kupuju i
+prodaju u skladu sa ovom odlukom utvrđuje se zavisno od vrste
+transakcije i izračunava po formulama koje su date u prilogu koji je
+odštampan uz ovu odluku i njen je sastavni deo (Prilog 1).
+30. Kliring i saldiranje obaveza i potraživanja u
+hartijama od vrednosti i novcu, nastalih na osnovu transakcija kupovine
+i prodaje hartija od vrednosti zaključenih u smislu ove odluke, vrši
+Centralni registar - na način utvrđen propisima Centralnog registra.
+Izvršavanje obaveza
+31. Banka je dužna da na datum kupovine, odnosno
+datum reotkupa hartija od vrednosti izvrši novčane obaveze, odnosno
+obaveze po osnovu prenosa ovih hartija u svemu u skladu s posebnim
+ugovorom o kupovini/prodaji hartija od vrednosti.
+Ako u toku trajanja repo transakcije u kojoj je
+Narodna banka Srbije kupila hartije od vrednosti iz tačke 7. stav 1.
+odredba pod 3) ili 4) ove odluke izdavalac kupljenih hartija od
+vrednosti prestane da ispunjava uslov koji se odnosi na kreditni
+rejting ili ocenu boniteta/kreditne sposobnosti utvrđen tim odredbama -
+Narodna banka Srbije može zahtevati od banke da te hartije od vrednosti
+zameni hartijama od vrednosti iz tog stava.
+Narodna banka Srbije, imajući u vidu tekuća tržišna i
+monetarna kretanja i ako proceni da tekuća vrednost kupljenih hartija
+od vrednosti nije dovoljna za obezbeđenje naplate potraživanja Narodne
+banke Srbije po osnovu repo kupovine hartija od vrednosti, može
+zahtevati od banke dodatne hartije od vrednosti iz tačke 7. stav 1. ove
+odluke.
+Banka je dužna da u svemu postupi u skladu sa
+zahtevima Narodne banke Srbije iz st. 2. i 3. ove tačke, i to u
+rokovima navedenim u tim zahtevima. U suprotnom, Narodna banka Srbije
+može postupiti u skladu sa tač. 35. i 36. ove odluke.
+32. Ako banka prodavac hartija od vrednosti u repo
+transakciji na datum reotkupa ovih hartija ne izvrši novčanu obavezu po
+osnovu tog reotkupa, kupljene hartije od vrednosti ostaju u vlasništvu
+Narodne banke Srbije.
+33. Ako banka kupac hartija od vrednosti u repo
+transakciji na datum reotkupa ovih hartija ne izvrši obavezu po osnovu
+prenosa kupljenih hartija od vrednosti, Narodna banka Srbije neće tom
+kupcu platiti reotkupnu cenu, a kupljene hartije od vrednosti ostaju u
+vlasništvu banke.
+34. Kupac hartija od vrednosti, dok traje repo
+transakcija, nesmetano raspolaže kupljenim hartijama od vrednosti, s
+tim da prihod iz tih hartija, kao i iznos isplaćen za vreme trajanja
+repo transakcije po osnovu isplate dela njihove nominalne vrednosti,
+pripada prodavcu u ovoj transakciji.
+Prihod iz stava 1. ove tačke je kamata koju kupljene
+hartije od vrednosti nose, a koja dospeva za naplatu dok traje repo
+transakcija.
+Kupac je dužan da celokupan iznos prihoda iz ove
+tačke, kao i celokupan iznos po osnovu isplate dela nominalne vrednosti
+za vreme trajanja repo transakcije, uplati na račun prodavca istog dana
+kad je izdavalac hartija od vrednosti koje su predmet repo transakcije
+isplatio prihod, odnosno isplatio deo nominalne vrednosti po tim
+hartijama na račun kupca u ovoj transakciji, a tu uplatu može izvršiti
+najkasnije narednog radnog dana, do 12,00 časova.
+Ako banka ne izvrši u potpunosti obavezu uplate
+prihoda, odnosno obavezu uplate iznosa isplaćenog dela nominalne
+vrednosti u skladu sa stavom 3. ove tačke - Narodna banka Srbije će
+utvrditi novu reotkupnu cenu, umanjenu za iznos prihoda, odnosno za
+iznos isplaćenog dela nominalne vrednosti koji banka nije uplatila na
+njen račun.
+35. Ako banka ne izvrši obaveze u skladu sa okvirnim,
+odnosno posebnim ugovorom o kupovini/prodaji hartija od vrednosti -
+Narodna banka Srbije može toj banci ograničiti obavljanje transakcija
+kupovine/prodaje hartija od vrednosti s Narodnom bankom Srbije u smislu
+ove odluke.
+Guverner utvrđuje vrstu transakcija iz stava 1. ove tačke, kao i period na koji se odnosi ograničenje iz tog stava.
+Narodna banka Srbije može javno saopštiti na koje se banke odnosi ograničenje iz ove tačke.
+36. Repo transakcija se može okončati i pre
+ugovorenog datuma reotkupa ako su Narodna banka Srbije i banka
+sporazumno raskinule ugovor o zaključenoj repo transakciji (sporazumni
+raskid repo ugovora).
+Ako banka ne izvrši obaveze u skladu sa okvirnim,
+odnosno posebnim repo ugovorom o kupovini/prodaji hartija od vrednosti
+- Narodna banka Srbije može pismeno raskinuti:
+- okvirni repo ugovor (jednostrani raskid okvirnog repo ugovora), u kom se slučaju raskidaju i svi posebni repo ugovori;
+- poseban repo ugovor, odnosno posebne repo ugovore
+(jednostrani raskid posebnog repo ugovora, odnosno posebnih repo
+ugovora), u kom slučaju ostaje na snazi okvirni repo ugovor.
+Ako je datum raskida repo ugovora pre ugovorenog
+datuma reotkupa, na datum tog raskida utvrđuje se nova reotkupna cena
+hartija od vrednosti, obračunata na osnovu broja dana od datuma
+zaključenja do datuma raskida repo ugovora, i to po kamatnoj stopi koju
+utvrđuje guverner ili lice koje on ovlasti.
+Ako banka, u slučajevima raskida repo ugovora u
+skladu sa ovom odlukom, na datum tog raskida ne izvrši svoje obaveze po
+osnovu prenosa hartija od vrednosti - Narodna banka Srbije neće toj
+banci platiti reotkupnu cenu za hartije od vrednosti, koje u tom
+slučaju ostaju u vlasništvu banke kupca, a ako banka ne izvrši svoje
+novčane obaveze po osnovu reotkupa hartija od vrednosti - kupljene
+hartije od vrednosti ostaju u vlasništvu Narodne banke Srbije.
+37. Narodna banka Srbije doneće uputstvo kojim će
+bliže urediti operativna pitanja u vezi sa sprovođenjem transakcija
+kupovine/prodaje hartija od vrednosti u smislu ove odluke.
+Prelazna odredba i završne odredbe
+38. Obaveze po zaključenim okvirnim i pojedinačnim
+ugovorima o kupovini/prodaji hartija od vrednosti između Narodne banke
+Srbije i banke koje nisu dospele do dana primene ove odluke - izvršiće
+se u skladu s tim ugovorima.
+39. Danom primene ove odluke prestaje da važi Odluka
+o uslovima i načinu na koji Narodna banka Srbije sprovodi operacije na
+otvorenom tržištu ("Službeni glasnik RS", br. 133/2004, 8/2005,
+39/2006, 64/2006, 116/2006 i 73/2008).
+40. Ova odluka stupa na snagu osmog dana od dana
+objavljivanja u "Službenom glasniku RS", a primenjuje se od 1. jula
+2011. godine.
+Samostalna odredba Odluke 
+  o izmenama i dopunama
+Odluke o uslovima i načinu sprovođenja operacija na otvorenom tržištu
+("Sl. glasnik RS", br. 34/2013)
+7. Ova odluka stupa na snagu osmog dana od dana
+objavljivanja u "Službenom glasniku Republike Srbije" i primenjuje se
+od 14. maja 2013. godine.
+Samostalna odredba Odluke o izmeni i dopunama
+Odluke o uslovima i načinu sprovođenja operacija na otvorenom tržištu
+("Sl. glasnik RS", br. 74/2020)
+3. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Samostalna odredba Odluke o izmenama i dopunama
+Odluke o uslovima i načinu sprovođenja operacija na otvorenom tržištu
+("Sl. glasnik RS", br. 4/2022)
+6. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Prilog 1
+FORMULE ZA IZRAČUNAVANJE CENE HARTIJA OD VREDNOSTI PREMA VRSTI TRANSAKCIJE
+I. TRAJNE TRANSAKCIJE
+1. Cena kratkoročnih diskontnih hartija od vrednosti
+gde je:
+D - cena HoV po komadu
+N - nominalna vrednost HoV po komadu
+p - godišnja kamatna stopa
+d - broj dana od dana kupovine/prodaje do dana dospeća HoV
+G
+d
+- broj dana u godini (360 dana)
+2. Cena dugoročnih hartija od vrednosti s periodičnom isplatom kamate
+a) cena bez pripadajuće kamate - "čista" cena
+b) cena s pripadajućom kamatom - "prljava" cena
+gde je:
+D - cena HoV po komadu
+N - nominalna vrednost HoV po komadu
+p
+k
+- godišnja kuponska stopa
+f - broj kupona u toku godine
+p - tražena godišnja stopa prinosa pri kupovini/prodaji HoV
+K- ukupan broj kupona koji dospevaju od dana kupovine/prodaje do dana dospeća HoV
+d
+1
+- broj dana od dana kupovine/prodaje do dana dospeća sledećeg kupona
+d
+2
+- broj dana od početka kuponskog perioda kome pripada datum kupovine/prodaje do dana kupovine/prodaje HoV
+d - broj dana u kuponskom periodu kome pripada datum kupovine/prodaje HoV
+3. Cena dugoročnih beskamatonosnih hartija od vrednosti
+gde je:
+D - cena HoV po komadu
+N - nominalna vrednost HoV po komadu
+p - tražena godišnja stopa prinosa pri kupovini/prodaji HoV
+d
+1
+- broj dana od dana kupovine/prodaje do dana dospeća HoV
+G
+d
+- broj dana u godini (365 dana)
+II. REPO TRANSAKCIJE
+1. Kupovna cena hartija od vrednosti
+a) Narodna banka Srbije - kupac hartija od vrednosti
+gde je:
+D - kupovna cena HoV po komadu
+N - nominalna vrednost HoV po komadu
+U
+m
+- procenat umanjenja
+b) Narodna banka Srbije - prodavac hartija od vrednosti
+gde je:
+D - kupovna cena HoV po komadu
+N - nominalna vrednost HoV po komadu
+U
+v
+- procenat uvećanja
+2. Reotkupna cena hartija od vrednosti
+gde je:
+R - reotkupna cena HoV po komadu
+D - kupovna cena HoV po komadu
+p - godišnja kamatna (repo) stopa
+d - broj dana trajanja repo ugovora
+G
+d
+- broj dana u godini (360 dana)

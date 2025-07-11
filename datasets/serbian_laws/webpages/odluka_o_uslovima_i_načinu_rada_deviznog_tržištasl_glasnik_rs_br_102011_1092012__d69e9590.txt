@@ -1,0 +1,627 @@
+Title: ODLUKAO USLOVIMA I NAČINU RADA DEVIZNOG TRŽIŠTA
+URL: https://www.paragraf.rs/propisi/uslovi-i-nacin-rada-deviznog-trzista.html
+Extracted: 2025-07-06T23:08:51.100669
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+ODLUKA
+O USLOVIMA I NAČINU RADA DEVIZNOG TRŽIŠTA
+("Sl. glasnik RS", br. 10/2011,  109/2012,
+   55/2014, 51/2015, 17/2016, 91/2016, 82/2017,  37/2018,  86/2018, 67/2020 i 21/2025)
+Opšte odredbe
+1. Ovom odlukom propisuju se uslovi i način rada deviznog tržišta, kao i način formiranja zvaničnog srednjeg kursa dinara prema stranim valutama.
+2. Na deviznom tržištu mogu se kupovati i prodavati devize i efektivni strani novac u skladu sa odlukom Narodne banke Srbije kojom se utvrđuju vrste deviza i efektivnog stranog novca koji se kupuju i prodaju na deviznom tržištu.
+3. Na deviznom tržištu obavlja se spot, terminska i svop kupovina i prodaja deviza, kao i kupovina i prodaja deviza s datumom izvršenja kraćim od spot valute.
+Spot kupovina i prodaja deviza, u smislu ove odluke, jeste kupovina i prodaja deviza za dinare s datumom izvršenja dva radna dana od dana zaključenja kupoprodajnog ugovora, odnosno dana trgovanja (spot valuta).
+Terminska kupovina i prodaja deviza, u smislu ove odluke, jeste kupovina i prodaja deviza za dinare s datumom izvršenja na određeni dan posle spot valute.
+Svop kupovina i prodaja deviza, u smislu ove odluke, jeste istovremeno ugovaranje kupovine deviza za dinare i prodaje deviza za dinare s različitim datumima izvršenja.
+4. Poslovi kupovine i prodaje deviza i efektivnog stranog novca između učesnika na deviznom tržištu mogu se obavljati elektronski, telefonom, telefaksom, u pismenoj formi, kao i u direktnom kontaktu prisutnih lica.
+Učesnici na deviznom tržištu su dužni da se, pri obavljanju poslova kupovine i prodaje deviza i efektivnog stranog novca, pridržavaju načela savesnosti i poštenja, dobrih poslovnih običaja, kao i opšteprihvaćenog kodeksa postupanja učesnika na deviznom tržištu.
+Međubankarsko devizno tržište
+5. Međubankarsko devizno tržište (u daljem tekstu: MDT) jeste deo deviznog tržišta, na kome se obavljaju poslovi kupovine i prodaje deviza i efektivnog stranog novca između Narodne banke Srbije i banaka, odnosno između banaka.
+6. Za organizovanje neposredne aukcijske kupoprodaje
+  deviza u smislu tačke 7. stav 1. ove odluke, Narodna banka Srbije naplaćuje
+  bankama naknadu utvrđenu odlukom kojom se utvrđuje jedinstvena tarifa po kojoj
+Narodna banka Srbije naplaćuje naknadu za izvršene usluge.
+7. Narodna banka Srbije može kupovinu i prodaju deviza
+  za dinare, u smislu ove odluke, obavljati neposredno s bankama - aukcijskom
+kupovinom/prodajom deviza ili bilateralnim poslovima kupovine/prodaje deviza.
+Narodna banka Srbije može kupovinu i prodaju efektivnog stranog novca za dinare, u smislu ove odluke, obavljati neposredno s bankama - bilateralnim poslovima kupovine/prodaje efektivnog stranog novca, u skladu sa odlukom guvernera.
+8. Narodna banka Srbije će kupovinu/prodaju deviza obavljati
+  s bankom koja je s Narodnom bankom Srbije zaključila ugovor o obavljanju poslova
+  kupovine/prodaje deviza, i to okvirni ugovor o spot kupovini/prodaji deviza
+  - ako se obavlja neposredna spot kupovina/prodaja deviza i okvirni svop ugovor
+  - ako se obavlja svop kupovina/prodaja deviza, i to na način i pod uslovima
+utvrđenim propisima kojima se uređuje obavljanje tih poslova.
+Narodna banka Srbije će poslove iz stava 1. ove tačke obavljati s bankom kojoj nije izrečena zabrana obavljanja određenih vrsta poslova kupovine/prodaje deviza s Narodnom bankom Srbije u skladu s tačkom 10. ove odluke.
+9. Ugovor o kupovini ili prodaji deviza i efektivnog stranog
+  novca na MDT-u se, po pravilu, smatra zaključenim u trenutku kad ponudilac
+primi prihvat ponude.
+Nakon zaključenja ugovora o kupovini ili prodaji deviza na MDT-u u kome je Narodna banka Srbije jedna od ugovornih strana - ugovorne strane su dužne da međusobno razmene SWIFT poruke MT300.
+10. Narodna banka Srbije može banci ograničiti obavljanje poslova kupovine/prodaje deviza s Narodnom bankom Srbije u smislu ove odluke:
+- ako banka ne izvrši obaveze po osnovu ugovora o kupovini/prodaji deviza s Narodnom bankom Srbije;
+- ako se banka ne pridržava kodeksa postupanja iz tačke 4. stav 2. te odluke;
+- ako banka ne dostavi izveštaj iz tačke 20. stav 2. te odluke (Obrazac 4aa i/ili Obrazac 4ab), kao i ako u tom izveštaju dostavi netačne i/ili nepotpune podatke.
+Guverner utvrđuje vrstu posla kupovine/prodaje deviza, kao i period na koji se odnosi ograničenje iz stava 1. ove tačke.
+Narodna banka Srbije može javno saopštiti na koje se banke odnosi ograničenje iz ove tačke.
+Formiranje kurseva i objavljivanje kursnih lista
+11. Banke i Narodna banka Srbije kupuju i prodaju devize na MDT-u po kursevima koje slobodno formiraju (kotiraju) na osnovu ponude i tražnje.
+12.
+(brisana)
+13. Banka jednom dnevno, na početku svakog svog radnog dana, slobodno formira i objavljuje svoju kursnu listu za devize i kursnu listu za efektivni strani novac - primenom principa pravilno ukrštenih kurseva i u skladu s međuvalutnim odnosima na inostranim tržištima koji važe u vreme formiranja tih kursnih lista. Formirana kursna lista banke važi do objavljivanja njene naredne kursne liste.
+14. Narodna banka Srbije svakog svog radnog dana utvrđuje zvanični srednji kurs dinara prema evru - na osnovu podataka o zaključenoj spot prodaji deviza (evra) i zaključenoj prodaji deviza (evra) s datumom izvršenja kraćim od spot valute tog radnog dana na MDT-u.
+Kursom dinara prema evru, u smislu ove odluke, smatra se protivvrednost jedinice strane valute - evra u dinarima.
+Narodna banka Srbije objavljuje podatak o zvaničnom srednjem kursu dinara prema evru na svojoj Internet prezentaciji, po pravilu do 18,00 časova svakog svog radnog dana, a koji se primenjuje od 8,00 časova narednog radnog dana.
+Narodna banka Srbije, na početku svakog svog radnog dana, utvrđuje zvanični srednji kurs dinara prema drugim valutama utvrđenim odlukom Narodne banke Srbije kojom se propisuju vrste deviza i efektivnog stranog novca koji se kupuju i prodaju na deviznom tržištu - na osnovu zvaničnog srednjeg kursa dinara prema evru, primenom principa pravilno ukrštenih kurseva i u skladu s međuvalutnim odnosima na inostranim tržištima koji važe u vreme utvrđivanja tog kursa.
+Kursom dinara prema drugim valutama, u smislu ove odluke, smatra se protivvrednost odgovarajuće jedinice strane valute u dinarima.
+Narodna banka Srbije, na početku svakog svog radnog dana, za zvanični srednji kurs dinara formira kursnu listu, koja se objavljuje i primenjuje od 8,00 časova tog radnog dana - do objavljivanja naredne kursne liste.
+15. Narodna banka Srbije, istovremeno s formiranjem kursne liste za zvanični srednji kurs dinara, formira svoju kursnu listu za devize i kursnu listu za efektivni strani novac, koje objavljuje i primenjuje od 8,00 časova tog radnog dana - do objavljivanja naredne kursne liste za devize, odnosno za efektivni strani novac.
+Kupovni i prodajni kursevi Narodne banke Srbije za devize, odnosno za efektivni strani novac formiraju se oduzimanjem, odnosno dodavanjem marži za devize, odnosno za efektivni strani novac u odnosu na zvanični srednji kurs dinara, pri čemu visinu tih marži guverner utvrđuje odlukom.
+16. Ovlašćeni menjač i javni poštanski operator - rezident koji menjačke poslove obavlja na osnovu posebnog zakona kojim se uređuje njegova delatnost (u daljem tekstu: javni poštanski operator) svoju kursnu listu za efektivni strani novac formiraju  jednom dnevno, na početku svog radnog dana, u skladu s kursnom listom za efektivni strani novac banke, odnosno banaka s kojima imaju zaključen ugovor o obavljanju menjačkih poslova, i ona važi do objavljivanja naredne kursne liste tog ovlašćenog menjača, odnosno javnog poštanskog operatora.
+U kursnoj listi ovlašćenog menjača i javnog poštanskog operatora kupovni kurs po jedinici strane valute - evra ne može da bude niži od zvaničnog srednjeg kursa dinara prema evru koji važi na taj dan za više od 1,25%, odnosno prodajni kurs po jedinici strane valute - evra ne može da bude viši od zvaničnog srednjeg kursa dinara prema evru koji važi na taj dan za više od 1,25%.
+Primena kurseva banaka, Narodne banke Srbije, ovlašćenih menjača i javnog poštanskog operatora
+17. Banka kupovinu i prodaju deviza, odnosno efektivnog stranog novca s rezidentima i nerezidentima obavlja po kursevima u rasponu kupovnih i prodajnih kurseva za devize zaključno sa datumom spot valute, odnosno za efektivni strani novac iz svoje važeće kursne liste.
+18. Narodna banka Srbije kupuje od banaka efektivni strani novac i prodaje ga bankama primenom kupovnog, odnosno prodajnog kursa za efektivni strani novac iz svoje važeće kursne liste.
+Narodna banka Srbije s rezidentima koji na osnovu zakona imaju devizne račune kod Narodne banke Srbije - pri kupovini i prodaji deviza i efektivnog stranog novca primenjuje kupovne i prodajne kurseve iz svoje važeće kursne liste, odnosno zvanični srednji kurs dinara iz važeće kursne liste ako je to utvrđeno međunarodnim ugovorima/sporazumima kojima se odobravaju donacije ili krediti za finansiranje budžetskog deficita (podrška budžetu).
+Kad Narodna banka Srbije obavlja terminsku i/ili svop kupovinu i prodaju deviza s rezidentima iz stava 2. ove tačke, primenjuju se ugovoreni kursevi za terminsku, odnosno svop kupovinu/prodaju deviza u zavisnosti od tekućih tržišnih i monetarnih kretanja, kao i od ročnosti transakcije kupovine/prodaje deviza.
+18a. Izuzetno od odredbe tačke 18. stav 2. ove odluke, Narodna banka Srbije s rezidentima koji na osnovu zakona imaju devizne račune kod Narodne banke Srbije - pri kupovini i prodaji deviza i efektivnog stranog novca u okviru mera podrške građanima i privredi za ublažavanje posledica pandemije COVID-19 izazvane virusom SARS-CoV-2 primenjuje zvanični srednji kurs dinara iz važeće kursne liste.
+19. Ovlašćeni menjač i javni poštanski operator kupuju i prodaju efektivni strani novac primenom kupovnog, odnosno prodajnog kursa iz svoje važeće kursne liste - u rasponu između kupovnog i prodajnog kursa.
+Izveštavanje
+20. Banke su dužne da Narodnoj banci Srbije elektronski, u skladu sa uputstvom kojim se uređuju izrada i elektronsko dostavljanje podataka Narodnoj banci Srbije, svakog radnog dana do 10,00 časova dostavljaju sledeće podatke:
+a) za prethodni radni dan:
+- deviznu poziciju banke (Obrazac 2),
+- izveštaj o spot kupovini/prodaji deviza od rezidenata i nerezidenata (Obrazac 3a),
+- izveštaj o kupovini/prodaji deviza od rezidenata i nerezidenata s datumom izvršenja različitim od spot valute (Obrazac 3b),
+- izveštaj o svop kupovini/prodaji deviza od rezidenata i nerezidenata (Obrazac 3v),
+- izveštaj o kupovini/prodaji efektivnog stranog novca od rezidenata i nerezidenata (Obrazac 3g),
+- izveštaj o neposrednoj spot prodaji drugoj banci deviza i efektivnog stranog novca (Obrazac 4a),
+- izveštaj o neposrednoj prodaji drugoj banci deviza i efektivnog stranog novca s datumom izvršenja različitim od spot valute (Obrazac 4b),
+- izveštaj o neposrednoj svop prodaji drugoj banci deviza i efektivnog stranog novca (Obrazac 4v),
+- izveštaj o stanju na dinarskim računima nerezidenata (Obrazac 6a),
+- izveštaj o promenama i osnovama promena po dinarskim računima
+  nerezidenata (Obrazac 6b),
+- izveštaj o prometu po platnim karticama koji utiče na deviznu
+  poziciju banke (Obrazac 7),
+- izveštaj o valutno indeksiranim kreditima banaka (Obrazac
+8a),
+- izveštaj o valutno indeksiranim depozitima banaka (Obrazac
+  8b);
+b) za tekući radni dan - formirane kursne liste za devize i efektivni strani novac.
+Banke su dužne da, za tekući radni dan, Narodnoj banci Srbije dostave:
+- izveštaj o neposrednoj spot trgovini i trgovini s datumom izvršenja kraćim od spot valute - prodaji drugoj banci i kupovini od druge banke deviza (evra), koje su zaključene od 9,00 do 12,30 časova (Obrazac 4aa) - najkasnije do 13,30 časova;
+- izveštaj o neposrednoj spot trgovini i trgovini s datumom izvršenja kraćim od spot valute - prodaji drugoj banci i kupovini od druge banke deviza (evra), koje su zaključene od 12,30 do 16,00 časova (Obrazac 4ab) - najkasnije do 17,00 časova.
+Banke su dužne da Narodnoj banci Srbije elektronski,
+  u skladu sa uputstvom kojim se uređuju izrada i elektronsko dostavljanje podataka
+  Narodnoj banci Srbije, svakog 20. u mesecu za prethodni mesec dostavljaju izveštaj
+  o ispravkama vrednosti za devizne kredite i valutno indeksirane kredite banaka
+(Obrazac 8v).
+Ako je 20. u mesecu neradni dan, banke će izveštaj iz stava
+  3. ove tačke dostaviti Narodnoj banci Srbije prvog narednog radnog dana.
+Banke su dužne da, pored kursne liste za efektivni strani novac, Narodnoj banci Srbije, svakog radnog dana do 9,00 časova, dostave i podatke o najmanjem iznosu koji se plaća pri otkupu efektivnog stranog novca, odnosno najvećem iznosu koji se naplaćuje pri prodaji tog novca kod obavljanja menjačkih poslova, i to za sve valute iz svoje kursne liste.
+21. Obrasci iz ove odluke odštampani su uz tu odluku i njen su sastavni deo.
+22. Narodna banka Srbije, svakog svog radnog dana, po pravilu do 14,00
+časova, na svojoj Internet prezentaciji objavljuje podatak o kursu dinara prema evru izračunatom
+na osnovu podataka o spot prodaji deviza (evra) i prodaji deviza (evra) s datumom izvršenja
+kraćim od spot valute koja je zaključena od 9,00 do 12,30 časova tog radnog dana (indikativni
+kurs dinara prema evru), kao i podatke iz tačke 20. stav 5. ove odluke.
+23. Narodna banka Srbije može na svojoj Internet prezentaciji objavljivati podatke o indikativnom kursu dinara prema dolaru. Ovi podaci mogu se objavljivati dva puta u toku radnog dana, i to:
+- podatak o indikativnom kursu dinara prema dolaru koji je izračunat na osnovu podatka o indikativnom kursu dinara prema evru iz tačke 22. ove odluke i podatka o međuvalutnom odnosu evra prema dolaru na inostranim tržištima - objavljuje se po pravilu do 14,00 časova;
+- podatak o indikativnom kursu dinara prema dolaru, koji je izračunat na osnovu podatka o zvaničnom srednjem kursu dinara prema evru iz tačke 14. stav 1. ove odluke i podatka o međuvalutnom odnosu evra prema dolaru na inostranim tržištima - objavljuje se po pravilu do 18,00 časova.
+Završne odredbe
+24.
+(brisana)
+25. Danom stupanja na snagu ove odluke prestaje da važi Odluka o uslovima i načinu rada deviznog tržišta ("Službeni glasnik RS", br. 34/2009, 20/2010, 36/2010 i 40/2010).
+26. Ova odluka objavljuje se u "Službenom glasniku RS" i stupa na snagu 1. marta 2011. godine.
+Samostalna odredba Odluke o izmenama
+Odluke o uslovima i načinu rada deviznog tržišta
+("Sl. glasnik RS", br. 109/2012)
+3. Ova odluka objavljuje se u "Službenom glasniku Republike Srbije" i stupa na snagu 3. decembra 2012. godine.
+Samostalna odredba Odluke o dopuni
+Odluke o uslovima i načinu rada deviznog tržišta
+("Sl. glasnik RS", br. 55/2014)
+2. Ova odluka stupa na snagu danom objavljivanja u "Službenom glasniku Republike Srbije".
+Samostalne odredbe Odluke o izmenama
+Odluke o uslovima i načinu rada deviznog tržišta
+("Sl. glasnik RS", br. 51/2015)
+6. Banke će izveštaj o kupovini/prodaji efektivnog stranog novca od rezidenata i nerezidenata dostavljati na novom Obrascu 3g počev od izveštaja za 1. jul 2015. godine.
+7. Ova odluka objavljuje se u "Službenom glasniku Republike Srbije" i stupa na snagu 1. jula 2015. godine.
+Samostalna odredba Odluke o dopuni
+Odluke o uslovima i načinu rada deviznog tržišta
+("Sl. glasnik RS", br. 17/2016)
+2. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Samostalne odredbe Odluke o dopuni
+Odluke o uslovima i načinu rada deviznog tržišta
+("Sl. glasnik RS", br. 91/2016)
+2. Banke će prve izveštaje u skladu sa ovom odlukom dostaviti 2. decembra 2016. godine, i to s podacima za 1. decembar 2016. godine.
+3. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Samostalna odredba Odluke o izmenama
+Odluke o uslovima i načinu rada deviznog tržišta
+("Sl. glasnik RS", br. 82/2017)
+4. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Samostalne odredbe Odluke o izmenama i dopunama
+Odluke o uslovima i načinu rada deviznog tržišta
+("Sl. glasnik RS", br. 37/2018)
+12. Obrasci iz tačke 6. ove odluke odštampani su uz tu odluku.
+13. Ova odluka objavljuje se u "Službenom glasniku Republike
+  Srbije" i stupa na snagu 1. juna 2018. godine.
+Samostalna odredba Odluke o izmeni i dopuni
+Odluke o uslovima i načinu rada deviznog tržišta
+("Sl. glasnik RS", br. 86/2018)
+2. Ova odluka objavljuje se u "Službenom glasniku Republike Srbije" i stupa na snagu osmog dana od dana objavljivanja, a primenjuje se od 1. januara 2019. godine.
+Samostalna odredba Odluke o izmenama
+Odluke o uslovima i načinu rada deviznog tržišta
+("Sl. glasnik RS", br. 67/2020)
+3. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije".
+Samostalna odredba Odluke o izmenama
+Odluke o uslovima i načinu rada deviznog tržišta
+("Sl. glasnik RS", br. 21/2025)
+2. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije" i primenjuje se od 2. juna 2025. godine.
+Obrazac 2
+DEVIZNA POZICIJA BANKE
+sa stanjem na dan
+(u hiljadama evra po tekućem kursu)
+Naziv stavke
+IZNOS
+Devizna sredstva
+1. Efektivni strani novac
+2. Gotovinski ekvivalenti
+3. Devize na računima u inostranstvu
+4. Kratkoročni plasmani inostranstvu
+5. Hartije od vrednosti (domaće i strane)
+6. Potraživanja od NBS u stranoj valuti
+7. Kratkoročni plasmani u zemlji bankama
+8. Kratkoročni plasmani u zemlji ostalim pravnim licima
+9. Dugoročni plasmani u inostranstvu
+10. Dugoročni plasmani u zemlji bankama
+11. Dugoročni plasmani u zemlji pravnim licima
+12. Ukupni plasmani stanovništvu
+13. Ukupna disponibilna sredstva 13=(1+2+3+4+5)
+14. Ukupna devizna sredstva 14=(6+7+8+9+10+11+12+13)
+Devizne obaveze
+1. Kratkoročne obaveze prema domaćim pravnim licima
+2. Dugoročne obaveze prema domaćim pravnim licima
+3. Kratkoročne obaveze prema domaćim bankama
+4. Dugoročne obaveze prema domaćim bankama
+5. Kratkoročne obaveze prema stranim bankama
+6. Kratkoročne obaveze prema drugim stranim pravnim licima
+7. Dugoročne obaveze prema stranim bankama
+8. Dugoročne obaveze prema drugim stranim pravnim licima
+9. Devizne obaveze prema stanovništvu
+10. Ukupne obaveze 10=(1+2+3+4+5+6+7+8+9)
+Obrazac 3a
+IZVEŠTAJ O SPOT KUPOVINI/PRODAJI DEVIZA OD REZIDENATA I NEREZIDENATA
+na dan _______________
+Oznaka
+rezidenti
+ili
+nerezidenti
+Oznaka
+pravno
+ili
+fizičko lice
+Oznaka putem
+mobilnog bankarstva
+ili putem
+elektronskog bankarstva
+ili
+ostalo
+Identifikacija
+rezidenta
+ili
+nerezidenta
+Oznaka valute
+Spot kupovina/prodaja između banke i rezidenta/nerezidenta
+Datum izvršenja plaćanja
+Kupljeno
+Prodato
+iznos u originalnoj valuti
+kupovni kurs za transakcije u datoj valuti
+iznos u originalnoj valuti
+prodajni kurs za transakcije u datoj valuti
+Identifikacija
+rezidenta
+ili
+nerezidenta
+-
+matični broj
+- za rezidenta, ako rezident nema matični broj - SWIFT kod banke kod koje se obavlja plaćanje/naplata,
+-
+SWIFT kod
+- za nerezidente banke i finansijske institucije, ako nerezident nema SWIFT kod - SWIFT kod banke kod koje se obavlja plaćanje/naplata
+Obrazac 3b
+IZVEŠTAJ O KUPOVINI/PRODAJI DEVIZA OD REZIDENATA I NEREZIDENATA SA DATUMOM IZVRŠENJA RAZLIČITIM OD SPOT VALUTE
+na dan _______________
+Oznaka
+rezidenti
+ili
+nerezidenti
+Oznaka
+pravno
+ili
+fizičko lice
+Oznaka putem
+mobilnog bankarstva
+ili putem
+elektronskog bankarstva
+ili
+ostalo
+Identifikacija
+rezidenta
+ili
+nerezidenta
+Oznaka valute
+Kupoprodaja između banke i rezidenta/nerezidenta s datumom izvršenja različitim od spot valute
+Datum izvršenja plaćanja
+Kupljeno
+Prodato
+iznos u originalnoj valuti
+kupovni kurs za transakcije u datoj valuti
+iznos u originalnoj valuti
+prodajni kurs za transakcije u datoj valuti
+Identifikacija
+rezidenta
+ili
+nerezidenta
+-
+matični broj
+- za rezidenta, ako rezident nema matični broj - SWIFT kod banke kod koje se obavlja plaćanje/naplata,
+-
+SWIFT kod
+- za nerezidente banke i finansijske institucije, ako nerezident nema SWIFT kod - SWIFT kod banke kod koje se obavlja plaćanje/naplata
+Obrazac 3v
+IZVEŠTAJ O SVOP KUPOVINI/PRODAJI DEVIZA OD REZIDENATA I NEREZIDENATA
+na dan _______________
+Oznaka
+rezidenti
+ili
+nerezidenti
+Identifikacija
+rezidenta
+ili
+nerezidenta
+Oznaka valute
+Svop kupoprodaja između banke i rezidenta
+Kupljeno
+Prodato
+iznos u originalnoj valuti
+kupovni kurs za transakcije u datoj valuti
+datum izvršenja plaćanja
+iznos u originalnoj valuti
+prodajni kurs za transakcije u datoj valuti
+datum izvršenja plaćanja
+Identifikacija
+rezidenta
+ili
+nerezidenta
+-
+matični broj
+- za rezidenta
+-
+SWIFT kod
+- za nerezidente banke i finansijske institucije, ako nerezident nema SWIFT kod - SWIFT kod banke kod koje se obavlja plaćanje/naplata
+Obrazac 3g
+IZVEŠTAJ O KUPOVINI/PRODAJI EFEKTIVNOG STRANOG NOVCA OD REZIDENATA I NEREZIDENATA
+na dan _______________
+(u evrima po tekućem kursu)
+BANKA
+OVLAŠĆENI MENJAČI
+JAVNI POŠTANSKI OPERATOR
+Kupljeno
+Prodato
+Kupljeno od fizičkih lica rezidenata i nerezidenata
+Prodato fizičkim licima rezidentima i nerezidentima
+Kupljeno od fizičkih lica rezidenata i nerezidenata
+Prodato fizičkim licima rezidentima i nerezidentima
+Od rezidenata pravnih lica
+Od fizičkih lica - rezidenata i nerezidenata
+Od ovlašćenih menjača
+Od javnog poštanskog operatora
+Rezidentima pravnim licima
+Fizičkim licima rezidentima i nerezidentima
+Ovlašćenim menjačima
+Javnom poštanskom operatoru
+Obrazac 4a
+IZVEŠTAJ O NEPOSREDNOJ SPOT PRODAJI DRUGOJ BANCI DEVIZA I EFEKTIVNOG STRANOG NOVCA
+na dan ______________*
+Banka kupac
+Oznaka
+valute
+Devize/
+Efektiva
+Iznos u
+originalnoj valuti
+Spot kurs
+Datum izvršenja plaćanja
+* Banka unosi spot prodaju  prema datumu zaključenja kupoprodajnog
+ugovora.
+Obrazac 4aa
+IZVEŠTAJ O NEPOSREDNOJ SPOT TRGOVINI I TRGOVINI S DATUMOM IZVRŠENJA KRAĆIM OD SPOT VALUTE - PRODAJI DRUGOJ BANCI I KUPOVINI OD DRUGE BANKE DEVIZA (EVRA), KOJE SU ZAKLJUČENE OD 9.00 DO 12.30 ČASOVA
+na dan _______________*
+Transakcije iz SPOT trgovine
+Transakcije s datumom izvršenja PRE SPOT valute
+Poslovno ime banke kupca/
+Poslovno ime banke prodavca
+Iznos transakcije
+Spot kurs
+Poslovno ime banke kupca/
+Poslovno ime banke prodavca
+Iznos transakcije
+Kurs transakcije
+SPOT PRODAJE
+PRODAJE S DATUMOM IZVRŠENJA PRE SPOT VALUTE
+SPOT KUPOVINE
+KUPOVINE S DATUMOM IZVRŠENJA PRE SPOT VALUTE
+* Banka unosi  prodaje i kupovine (zaključene u EVRIMA)
+prema datumu zaključenja kupoprodajnog ugovora.
+Obrazac 4ab
+IZVEŠTAJ O NEPOSREDNOJ SPOT TRGOVINI I TRGOVINI S DATUMOM IZVRŠENJA KRAĆIM OD SPOT VALUTE - PRODAJI DRUGOJ BANCI I KUPOVINI OD DRUGE BANKE DEVIZA (EVRA), KOJE SU ZAKLJUČENE OD 12.30 DO 16.00 ČASOVA
+na dan _______________*
+Transakcije iz SPOT trgovine
+Transakcije s datumom izvršenja PRE SPOT valute
+Poslovno ime banke kupca/
+Poslovno ime banke prodavca
+Iznos transakcije
+Spot kurs
+Poslovno ime banke kupca/
+Poslovno ime banke prodavca
+Iznos transakcije
+Kurs transakcije
+SPOT PRODAJE
+PRODAJE S DATUMOM IZVRŠENJA PRE SPOT VALUTE
+SPOT KUPOVINE
+KUPOVINE S DATUMOM IZVRŠENJA PRE SPOT VALUTE
+* Banka unosi  prodaje i kupovine (zaključene u EVRIMA)
+prema datumu zaključenja kupoprodajnog ugovora.
+Obrazac 4b
+IZVEŠTAJ O NEPOSREDNOJ PRODAJI DRUGOJ BANCI DEVIZA I EFEKTIVNOG STRANOG NOVCA S DATUMOM IZVRŠENJA RAZLIČITIM OD SPOT VALUTE
+na dan ___________ *
+Banka kupac
+Oznaka
+valute
+Devize/
+Efektiva
+Iznos u
+originalnoj valuti
+Kurs
+Datum
+izvršenja
+plaćanja
+I. PRE SPOT VALUTE
+II. POSLE SPOT VALUTE
+* Banka unosi prodaju  prema datumu zaključenja kupoprodajnog
+ugovora.
+Obrazac 4v
+IZVEŠTAJ O NEPOSREDNOJ SVOP PRODAJI DRUGOJ BANCI DEVIZA I EFEKTIVNOG STRANOG NOVCA *
+na dan _______________ **
+Banka kupac deviza iz transakcije koja prva dospeva i prodavac deviza iz transakcije koja druga dospeva
+Oznaka
+valute
+Devize/
+Efektiva
+Iznos u
+originalnoj valuti
+Kurs iz transakcije koja prva dospeva
+Kurs iz transakcije koja druga dospeva
+Datum izvršenja plaćanja za transakciju koja prva dospeva
+Datum izvršenja plaćanja za transakciju koja druga dospeva
+* Prijavu svop posla vrši banka čija prodaja deviza prva dospeva.
+** Banka unosi svop prodaju prema datumu zaključenja kupoprodajnog ugovora.
+Obrazac 5
+(Brisan)
+Obrazac 6a
+IZVEŠTAJ O STANJU NA DINARSKIM RAČUNIMA NEREZIDENATA
+na dan _____________________
+Datum
+Identifikacija
+nerezidenta
+Stanje na dinarskom računu
+nerezidenta - neoročeno
+(u RSD)
+Stanje na dinarskom računu
+nerezidenta - oročeno
+(u RSD)
+Identifikacija
+nerezidenta
+-
+SWIFT kod
+- za nerezidente banke i finansijske institucije, a ako nerezident nema SWIFT kod - SWIFT kod banke kod koje se obavlja plaćanje/naplata
+Obrazac 6b
+IZVEŠTAJ O PROMENAMA I OSNOVAMA PROMENA NA DINARSKIM RAČUNIMA NEREZIDENATA
+na dan ___________________
+Datum
+Identifikacija
+nerezidenta
+Iznos promene na dinarskom
+računu nerezidenta
+(+) priliv / (-) odliv
+(u RSD)
+Osnov promene na dinarskom računu nerezidenta
+Identifikacija
+nerezidenta
+-
+SWIFT kod
+- za nerezidente banke i finansijske instltucije, a ako nerezident nema SWIFT kod - SWIFT kod banke kod koje se obavlja plaćanje/naplata
+Osnov promene na dinarskom računu nerezidenta
+-
+FXT
+- transakcije na deviznom tržištu (spot / kraće od spot / duže od spot valute)
+-
+FXS
+- devizne svop transakcije (prilivi na / odlivi sa dinarskih računa po osnovu deviznih svop transakcija),
+-
+SEC1
+- transakcije dinarskim HoV na primarnom tržištu (kupovina/dospeća),
+-
+SEC2
+- transakcije dinarskim HoV na sekundarnom tržištu,
+-
+COP
+- naplata kupona,
+-
+POZ1
+- po osnovu kolateralizovanih pozajmica (odobravanje/dospeće),
+-
+POZ2
+- po osnovu nekolateralizovanih pozajmica (odobravanje/dospeće),
+-
+DEP
+- polaganje/povlačenje oročenih depozita,
+-
+DIV
+- naplata dobiti po osnovu vlasništva,
+-
+OST
+- ostale promene.
+Obrazac 7
+Naziv banke
+IZVEŠTAJ O PROMETU PO PLATNIM KARTICAMA KOJI UTIČE NA DEVIZNU POZICIJU BANKE na dan __________
+(u evrima)
+Promet po platnim karticama izdatim u inostranstvu
+        kojima se vrše dinarska plaćanja u zemlji
+Promet po platnim karticama izdatim u zemlji
+        kojima se vrše plaćanja u stranoj valuti u inostranstvu
+NAPOMENE:
+- Promet po platnim karticama
+izdatim u inostranstvu kojima se vrše dinarska plaćanja u zemlji
+obuhvata poslove sa platnim karticama koje su izdale banke i drugi ovlašćeni izdavaoci van teritorije Republike Srbije, po kojima se vrše dinarska plaćanja ili podižu dinari sa bankomata u Republici Srbiji, a koji imaju uticaj na deviznu poziciju banke.
+- Promet po platnim karticama
+izdatim u zemlji kojima se vrše plaćanja u
+  stranoj valuti u inostranstvu
+obuhvata poslove sa platnim karticama koje
+  su izdale banke i drugi ovlašćeni izdavaoci u Republici Srbiji, po kojima se
+  vrše plaćanja u stranoj valuti ili podiže strana valuta sa bankomata u inostranstvu,
+  a koji imaju uticaj na deviznu poziciju banke.
+- Promet se iskazuje u evrima, u originalnom iznosu ili preračunato (ako je u pitanju druga valuta) po zvaničnim srednjim kursevima dinara iz kursne liste koja važi na dan saldiranja i transakcije, odnosno na dan uticaja na deviznu poziciju banke.
+Obrazac 8a
+IZVEŠTAJ O VALUTNO INDEKSIRANIM KREDITIMA BANAKA
+na dan _________________
+u valuti indeksacije
+Identifikacija klijenta
+Oznaka valute indeksacije
+Odobreni iznos
+    valutno indeksiranog kredita
+Datum dospeća odobrenog
+    valutno indeksiranog kredita
+Vraćeni iznos valutno
+    indeksiranog kredita
+Datum odobrenja
+    vraćenog valutno indeksiranog kredita
+Napomene:
+Identifikacija klijenta:
+- za
+rezidente - pravna lica
+čiji je iznos kredita
+jednak
+    ili veći
+od protivvrednosti
+1.000.000 evra
+dostavlja se
+matični
+    broj klijenta;
+- za
+rezidente - pravna lica
+čiji je iznos kredita
+manji
+od
+  protivvrednosti
+1.000.000 evra
+dostavlja se zbirni podatak (ne po klijentima)
+  uz oznaku
+SUM;
+- za
+rezidente - fizička lica
+dostavlja se zbirni podatak
+  uz oznaku
+FIZIČKA LICA.
+Obrazac 8b
+IZVEŠTAJ O VALUTNO INDEKSIRANIM DEPOZITIMA BANAKA
+na dan _______________
+u valuti indeksacije
+Identifikacija klijenta
+Oznaka valute indeksacije
+Položeni iznos
+    valutno indeksiranog depozita
+Datum dospeća položenog
+    valutno indeksiranog depozita
+Povučeni iznos
+    valutno indeksiranog depozita
+Datum polaganja
+    vraćenog valutno indeksiranog depozita
+Napomene:
+Identifikacija klijenta:
+- za
+rezidente - pravna lica
+čiji je iznos depozita
+jednak
+    ili veći
+od protivvrednosti
+1.000.000 evra
+dostavlja se
+matični
+    broj klijenta;
+- za
+rezidente - pravna lica
+čiji je iznos depozita
+manji
+od
+  protivvrednosti
+1.000.000 evra
+dostavlja se zbirni podatak (ne po klijentima)
+  uz oznaku
+SUM;
+- za
+rezidente - fizička lica
+dostavlja se zbirni podatak
+  uz oznaku
+FIZIČKA LICA.
+Obrazac 8v
+IZVEŠTAJ O ISPRAVKAMA VREDNOSTI ZA DEVIZNE KREDITE
+  I VALUTNO INDEKSIRANE KREDITE BANAKA
+za period od __________ do __________ godine
+u valuti indeksacije, odnosno u originalnoj valuti za devizne
+kredite
+Identifikacija klijenta
+Oznaka valute indeksacije (za valutno
+    indeksirane kredite)/originalne valute (za devizne kredite)
+Povećanje ispravke
+    vrednosti
+Smanjenje ispravke
+    vrednosti
+Tip kredita
+Napomene:
+1) Identifikacija klijenta:
+- za
+rezidente - pravna lica
+čiji je iznos ispravke
+  vrednosti
+jednak ili veći
+od protivvrednosti
+500.000 evra
+dostavlja
+  se
+matični broj klijenta;
+- za
+rezidente - pravna lica
+čiji je iznos ispravke vrednosti
+manji
+od
+  protivvrednosti
+500.000 evra
+dostavlja se zbirni podatak (ne po klijentima)
+  uz oznaku
+SUM;
+- za
+rezidente - fizička lica
+dostavlja se zbirni podatak
+  uz oznaku
+FIZIČKA LICA.
+2) Tip kredita:
+- D - za devizni kredit;
+- I - za valutno indeksirani kredit.

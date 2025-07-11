@@ -1,0 +1,464 @@
+Title: PRAVILNIKO SPREČAVANJU, RANOM OTKRIVANJU I SUZBIJANJU BOLNIČKIH
+INFEKCIJA
+URL: https://www.paragraf.rs/propisi/pravilnik-sprecavanju-ranom-otkrivanju-suzbijanju-bolnickih-infekcija.html
+Extracted: 2025-07-06T23:13:59.023102
+================================================================================
+
+Sve informacije o propisu nađite
+OVDE
+.
+Tweet
+Prijavite se na
+mailing listu
+!
+PRAVILNIK
+O SPREČAVANJU, RANOM OTKRIVANJU I SUZBIJANJU BOLNIČKIH
+INFEKCIJA
+("Sl. glasnik RS", br. 1/2020)
+I UVODNE ODREDBE
+Član 1
+Ovim pravilnikom propisuju se stručne, organizacione i druge propisane
+mere koje sprovode zdravstvene ustanove, privatna praksa, socijalne ustanove u kojima se
+obavlja i zdravstvena delatnost i druga pravna lica koja mogu obavljati i zdravstvenu delatnost
+u skladu sa zakonom, radi sprečavanja pojave, kao i radi ranog otkrivanja i suzbijanja bolničkih
+infekcija unutar ustanova, način i postupak za njihovo sprečavanje, kao i način obrazovanja
+i rada komisije za zaštitu od bolničkih infekcija.
+Član 2
+Bolnička infekcija je infekcija nastala kod pacijenata i osoblja u ustanovama
+iz člana 1. ovog pravilnika, a koja mora da ispunjava i jedan od sledećih uslova:
+1) da su se simptomi infekcije pojavili najranije trećeg dana tekuće hospitalizacije
+ili kasnije (dan prijema = prvi dan), ili su se simptomi infekcije javili na dan prijema,
+pri čemu je od prethodnog otpusta iz bolnice za akutne poremećaje zdravlja proteklo manje
+od 48 sati;
+2) da je pacijent hospitalizovan sa simptomima infekcije operativnog mesta
+(ili su se simptomi manifestovali tokom prva dva dana od početka hospitalizacije) ili je
+pacijent primljen sa antimikrobnom terapijom infekcije operativnog mesta koja se ispoljila
+u roku od 30 dana od dana operacije, pod uslovom da pacijentu nije ugrađen implantat, ili
+da pacijent ima duboku infekciju operativnog mesta, odnosno infekciju organa ili prostora
+koja se ispoljila u roku 90 dana od dana operacije, pod uslovom da je pacijentu implantat
+ugrađen;
+3) da je pacijent hospitalizovan sa simptomima infekcije izazvanom bakterijom
+Clostridium difficile
+(ili su se simptomi javili tokom prva dva dana od dana početka hospitalizacije),
+pri čemu je od prethodnog otpusta iz bolnice za akutne poremećaje zdravlja proteklo manje
+od 28 dana;
+4) ako je neko invazivno medicinsko pomagalo (trahealni tubus, centralni
+ili periferni venski kateter, urinarni kateter) plasirano prvog ili drugog dana od prijema,
+a simptomi infekcije povezani sa plasiranim invazivnim medicinskim pomagalom su se razvili
+pre trećeg dana hospitalizacije.
+II EPIDEMIOLOŠKI NADZOR NAD BOLNIČKIM INFEKCIJAMA
+Član 3
+Epidemiološki nadzor nad bolničkim infekcijama (u daljem tekstu: epidemiološki
+nadzor) podrazumeva sistematsko prikupljanje, analizu i tumačenje podataka o bolničkim infekcijama,
+kao i povratnu informaciju o rezultatima nadzora zdravstvenom osoblju organizacione jedinice
+u kojoj je nadzor vršen, komisiji za zaštitu od bolničkih infekcija (u daljem tekstu: komisija),
+i nadležnim ustanovama.
+Epidemiološki nadzor omogućava identifikaciju bolesnika koji imaju infekciju
+ili kolonizaciju, kao i sagledavanje faktora rizika koji su doprineli njenom nastanku.
+U epidemiološkom nadzoru koriste se definicije bolničkih infekcija koje
+objavljuje Zavod za javno zdravlje osnovan za teritoriju Republike Srbije.
+Član 4
+Epidemiološki nadzor iz člana 3. stav 1. ovog pravilnika obavljaju zdravstveni
+radnici nadležni za sprovođenje nadzora.
+Obim i vrstu epidemiološkog nadzora određuje komisija ustanove iz člana
+1. ovog pravilnika prema vrsti zdravstvene delatnosti koju obavlja u skladu sa zakonom.
+U privatnoj praksi i pravnom licu koje obavlja i određene poslove zdravstvene
+delatnosti u skladu sa zakonom, obim i vrstu epidemiološkog nadzora određuje lice odgovorno
+za nadzor nad bolničkim infekcijama. Zdravstvene ustanove koje obavljaju zdravstvenu delatnost
+na sekundarnom i tercijarnom nivou zdravstvene zaštite sprovode nadzor kontinuirano, praćenjem
+incidencije. Nadzor nad infekcijama izazvanim bakterijom Clostridium difficile i infekcijama
+operativnog mesta se vrši prema metodu Evropskog centra za prevenciju i kontrolu bolesti.
+Povremeno se, prema epidemiološkim indikacijama, sprovodi studija prevalencije u organizacionim
+jedinicama sa povišenim rizikom od nastanka bolničkih infekcija.
+Studija prevalencije sprovodi se u zdravstvenim ustanovama i drugim subjektima
+iz člana 1. ovog pravilnika na teritoriji Republike Srbije, periodično na pet godina, u skladu
+sa planom koji priprema Zavod za javno zdravlje osnovan za teritoriju Republike Srbije, u
+saradnji sa Republičkom stručnom komisijom za nadzor nad bolničkim infekcijama.
+1. Organizacija epidemiološkog nadzora
+Član 5
+Zdravstvena ustanova i drugi subjekti iz člana 1. ovog pravilnika, donosi
+program za prevenciju i suzbijanje bolničkih infekcija (u daljem tekstu: program) i godišnji
+plan za prevenciju i suzbijanje bolničkih infekcija (u daljem tekstu: plan).
+Programom se utvrđuju dugoročni ciljevi, aktivnosti i metod rada, vrsta
+i obim epidemiološkog nadzora, način organizovanja sprovođenja i kontrole sprovođenja epidemiološkog
+nadzora, učesnici u sprovođenju programa i njihovi zadaci.
+Planom se utvrđuju aktivnosti za zaštitu od pojave bolničkih infekcija
+u toku jedne kalendarske godine.
+Član 6
+U zdravstvenim ustanovama i socijalnim ustanovama u kojima se obavlja i
+zdravstvena delatnost, predlog programa i plana sačinjava komisija, a donosi ga direktor
+ustanove.
+U privatnoj praksi i pravnom licu koje obavlja i određene poslove zdravstvene
+delatnosti u skladu sa zakonom, program i plan donosi lice odgovorno za nadzor nad bolničkim
+infekcijama.
+Program iz st. 1. i 2. ovog člana revidira se jednom u tri godine i dostavlja
+se nadležnom institutu, odnosno zavodu za javno zdravlje.
+Plan iz st. 1. i 2. ovog člana za narednu godinu, donosi se najkasnije
+do 31. decembra tekuće godine.
+2. Komisija za zaštitu od bolničkih infekcija
+Član 7
+Zdravstvena ustanova i socijalna ustanova u kojoj se obavlja i zdravstvena
+delatnost formira komisiju i ima zdravstvene radnike nadležne za nadzor nad bolničkim infekcijama.
+Privatna praksa i pravno lice koje obavlja i određene poslove zdravstvene
+delatnosti u skladu sa zakonom, umesto komisije ima lice odgovorno za nadzor nad bolničkim
+infekcijama.
+Univerzitetski klinički centri pored komisije iz stava 1. ovog člana mogu
+obrazovati i komisije na nivou organizacionih jedinica sa povećanim rizikom od nastanka bolničkih
+infekcija u skladu sa programom ustanove.
+Član 8
+Komisiju čine predsednik komisije i članovi.
+Predsednik komisije imenuje zamenika predsednika i članove komisije.
+Članove komisije koja se obrazuje na nivou organizacionih jedinica iz člana
+7. stav 3. ovog pravilnika imenuje rukovodilac organizacione jedinice.
+Rad komisije se uređuje poslovnikom o radu.
+Sednicama komisije pored članova mogu prisustvovati i druga lica po pozivu
+predsednika komisije a u skladu sa dnevnim redom sednice.
+Član 9*
+U zdravstvenim ustanovama koje obavljaju zdravstvenu delatnost na primarnom
+nivou zdravstvene zaštite i u socijalnoj ustanovi u kojoj se obavlja i zdravstvena delatnost,
+komisiju čine:
+1) rukovodioci organizacionih jedinica ustanove ili zaposleni koje predlože
+rukovodioci organizacionih jedinica;
+2) doktor medicine specijalista epidemiologije;
+3) zaposleni koji je odgovoran za upravljanje medicinskim otpadom;
+4) glavna sestra ustanove;
+5) zdravstveni radnik zadužen za prevenciju i suzbijanje bolničkih infekcija
+koji ima srednje obrazovanju u trajanju od četiri godine ili zdravstveni radnik sa višim,
+odnosno visokim obrazovanjem na studijama prvog stepena (osnovne strukovne, osnovne akademske
+ili specijalističke strukovne studije).
+Ako u zdravstvenim ustanovama koje obavljaju zdravstvenu delatnost na primarnom
+nivou zdravstvene zaštite i u socijalnoj ustanovi u kojoj se obavlja i zdravstvena delatnost,
+nema zaposlenog doktora medicine specijaliste epidemiologije, za člana komisije može se imenovati
+drugi doktor medicine specijalista epidemiologije, edukovan iz oblasti bolničkih infekcija,
+u skladu sa zakonom.
+Član 10*
+U zdravstvenim ustanovama koje obavljaju zdravstvenu delatnost na sekundarnom
+i tercijarnom nivou zdravstvene zaštite, komisiju čine:
+1) rukovodioci organizacionih jedinica iz oblasti hirurgije, anesteziologije
+i interne medicine;
+2) doktor medicine specijalista epidemiologije;
+3) doktor medicine specijalista mikrobiologije;
+4) doktor medicine specijalista za infektivne bolesti;
+5) doktor medicine specijalista higijene;
+6) doktor medicine specijalista klinički farmakolog;
+7) glavna sestra zdravstvene ustanove;
+8) zdravstveni radnik zadužen za prevenciju i suzbijanje bolničkih infekcija
+koji ima srednje obrazovanje u trajanju od četiri godine ili zdravstveni radnik sa višim,
+odnosno visokim obrazovanjem na studijama prvog stepena (osnovne strukovne, osnovne akademske
+ili specijalističke strukovne studije);
+9) zaposleni koji je odgovoran za upravljanje medicinskim otpadom.
+Ako zdravstvena ustanova iz stava 1. ovog člana nema zaposlenog doktora
+medicine specijalistu epidemiologije, za člana komisije može se imenovati drugi doktor medicine
+specijalista epidemiologije, sa edukacijom iz oblasti bolničkih infekcija u skladu sa zakonom.
+Ako zdravstvena ustanova iz stava 1. ovog člana, nema zaposlenog doktora
+medicine specijaliste iz stava 1. tač. 3)-6) ovog člana, za člana komisije može se imenovati
+drugi zaposleni doktor medicine druge specijalnosti.
+Član 11
+U zdravstvenim ustanovama koje obavljaju zdravstvenu delatnost na više
+nivoa zdravstvene zaštite, komisiju čine:
+1) rukovodioci organizacionih jedinica ustanove ili zaposleni koje predlože
+rukovodioci organizacionih jedinica;
+2) doktor medicine specijalista epidemiologije odnosno drugi doktor medicine,
+specijalista, u skladu sa programom te ustanove;
+3) zaposleni koji je odgovoran za upravljanje medicinskim otpadom;
+4) zdravstveni radnik koji ima srednje obrazovanje u trajanju od četiri
+godine ili zdravstveni radnik sa višim, odnosno visokim obrazovanjem na studijama prvog stepena
+(osnovne strukovne, osnovne akademske ili specijalističke strukovne studije).
+Član 12
+Zdravstvena ustanova i socijalna ustanova u kojoj se obavlja i zdravstvena
+delatnost, o sastavu komisije obaveštava nadležni institut, odnosno zavod za javno zdravlje.
+Član 13
+Komisija obavlja sledeće poslove:
+1) donosi i periodično revidira program i stručno- metodološka uputstva
+za mere prevencije i suzbijanja bolničkih infekcija;
+2) dostavlja uputstva u pismenoj ili elektronskoj formi svim organizacionim
+jedinicama;
+3) donosi godišnji plan rada komisije kojim:
+(1) određuje stručne prioritete u suzbijanju bolničkih infekcija
+prema epidemiološkoj situaciji, kao i postupke u okviru mera za prevenciju i suzbijanje bolničkih
+infekcija u skladu sa preporukama i uputstvima Republičke stručne komisije za nadzor nad
+bolničkim infekcijama;
+(2) određuje metod u praćenju bolničkih infekcija prema preporuci
+doktora medicine specijaliste epidemiologije;
+(3) prati primenu preporuka i mera za prevenciju i suzbijanje bolničkih
+infekcija;
+(4) analizira kretanje bolničkih infekcija i utvrđuje prioritete
+u epidemiološkom nadzoru;
+(5) analizira i prati potrošnju lekova koji se koriste u terapiji
+infekcija i daje preporuke za racionalnu i efikasnu prevenciju i terapiju bolničkih infekcija;
+(6) sarađuje sa nadležnim institutima, odnosno zavodima za javno
+zdravlje;
+(7) razmatra periodične izveštaje koje priprema organizaciona jedinica
+za bolničke infekcije u zdravstvenim ustanovama, na sekundarnom i tercijarnom nivou zdravstvene
+zaštite, odnosno zdravstveni radnik zadužen za prevenciju i suzbijanje bolničkih infekcija
+koji ima srednje obrazovanje u trajanju od četiri godine ili zdravstveni radnik sa višim,
+odnosno visokim obrazovanjem na studijama prvog stepena (osnovne strukovne, osnovne akademske
+ili specijalističke strukovne studije) u saradnji sa doktorom medicine specijalistom epidemiologije;
+(8) podnosi periodične izveštaje odgovornom licu - direktoru ustanove
+i nadležnom institutu, odnosno zavodu za javno zdravlje.
+Rad komisije odvija se na sastancima koji se organizuju najmanje dva puta
+godišnje, a po potrebi i češće, zavisno od epidemiološke situacije u pogledu bolničkih infekcija.
+Članovi komisije za svoj rad odgovorni su direktoru zdravstvene, odnosno
+socijalne ustanove u kojoj se obavlja i zdravstvena delatnost.
+Direktor ustanove odgovoran je za sprovođenje mera prevencije i suzbijanja
+bolničkih infekcija.
+Član 14
+Zdravstvena ustanova na sekundarnom i tercijarnom nivou zdravstvene zaštite
+ima organizacionu jedinicu za bolničke infekcije (služba, odeljenje, grupa, odsek, kabinet
+i sl.).
+Zdravstvene ustanove na primarnom nivou, zdravstvene ustanove koje obavljaju
+zdravstvenu delatnost na više nivoa zdravstvene zaštite socijalne ustanove u kojima se obavlja
+i zdravstvena delatnost, privatna praksa i druga pravna lica koja obavljaju i određene poslove
+iz zdravstvene delatnosti u skladu sa zakonom, u obavezi su da imaju jednog zdravstvenog
+radnika koji ima srednje obrazovanje u trajanju od četiri godine ili zdravstvenog radnika
+sa višim, odnosno visokim obrazovanjem na studijama prvog stepena (osnovne strukovne, osnovne
+akademske ili specijalističke strukovne studije) iz člana 9. stav 1. tačka 5) ovog pravilnika
+koji obavlja i poslove vezane za prevenciju i suzbijanje bolničkih infekcija, i koji je edukovan
+iz oblasti bolničkih infekcija u skladu sa zakonom.
+Ako privatna praksa, u skladu sa zakonom, nema zaposleno lice iz stava
+2. ovog člana, poslove vezane za prevenciju i praćenje bolničkih infekcija, obavlja njen
+osnivač.
+3. Organizaciona jedinica za bolničke infekcije
+Član 15*
+Organizacione jedinice za bolničke infekcije se formiraju u skladu sa zakonom.
+Organizacionu jedinicu za bolničke infekcije iz člana 14. stav 1. ovog
+pravilnika, čine zaposleni doktor medicine specijalista epidemiologije i zdravstveni radnik
+iz člana 10. stav 1. tač. 2) i 8) ovog pravilnika koji obavljaju poslove vezane za prevenciju
+i suzbijanje bolničkih infekcija, edukovani iz oblasti bolničkih infekcija u skladu sa zakonom.
+Broj zaposlenih u organizacionoj jedinici za bolničke infekcije zavisi
+od broja postelja u ustanovi u skladu sa zakonom.
+Organizaciona jedinica treba da ima jednog doktora medicine specijalistu
+epidemiologije na najmanje 400 bolničkih postelja, sa uvećanjem za jednog epidemiologa na
+svakih narednih 600 postelja koji je dodatno osposobljen u najmanje jednom semestru postdiplomskog
+obrazovanja u oblasti epidemiološkog nadzora, prevencije i kontrole bolničkih infekcija ili
+koji je dodatno osposobljen kroz teoretski i praktični rad u najmanje 300 sati nastave.
+Organizaciona jedinica treba da ima jednog zdravstvenog radnika zaduženog
+za prevenciju i suzbijanje bolničkih infekcija koji ima srednje obrazovanje u trajanju od
+četiri godine ili zdravstvenog radnika sa višim odnosno, visokim obrazovanjem na studijama
+prvog stepena (osnovne strukovne, osnovne akademske ili specijalističke strukovne studije)
+koji obavlja poslove vezane za prevenciju i suzbijanje bolničkih infekcija na svakih 200
+bolničkih postelja koji je dodatno osposobljen u trajanju od najmanje 300 sati nastave u
+obliku teoretskog ili praktičkog rada pri čemu se praktički rad mora obaviti u visoko rizičnim
+odeljenjima u bolnici sa razvijenom praksom u prevenciji i kontroli bolničkih infekcija.
+Ako zdravstvena ustanova iz člana 14. stav 1. ovog pravilnika nema zaposlenog
+doktora medicine specijalistu epidemiologije, poslove iz stava 2. ovog člana, može obavljati
+drugi doktor medicine specijalista epidemiologije, edukovan iz oblasti bolničkih infekcija
+u skladu sa zakonom.
+Član 16
+Organizaciona jedinica za bolničke infekcije iz člana 14. ovog pravilnika,
+prati zdravstveno stanje hospitalizovanih pacijenata, predlaže i prati sprovođenje mera prevencije
+i suzbijanja bolničkih infekcija.
+Član 17
+Poslovi doktora medicine specijaliste epidemiologije iz člana 10. stav
+1. tačka 2) ovog pravilnika u okviru organizacione jedinice za bolničke infekcije su:
+1) praćenje epidemiološke situacije u pogledu bolničkih infekcija primenom
+epidemiološkog metoda koji je po vrsti i obimu utvrđen planom i programom ustanove iz člana
+6. ovog pravilnika, postavljanje dijagnoze bolničkih infekcija u skladu sa članom 3. ovog
+pravilnika;
+2) analiziranje epidemiološke situacije na osnovu prikupljenih podataka
+i periodično, najmanje jednom kvartalno, izveštavanje komisije ili komisije na nivou organizacionih
+jedinica iz člana 7. ovog pravilnika u skladu sa pravilnikom ustanove;
+3) učestvovanje u pripremi preporuka i stručno metodoloških uputstava za
+prevenciju i suzbijanje bolničkih infekcija;
+4) praćenje primene preporuka i stručno metodoloških uputstava za prevenciju
+i suzbijanje bolničkih infekcija, kao i procene efikasnosti primenjenih mera;
+5) registrovanje i evidentiranje bolničkih infekcija, odnosno kolonizacija
+prema utvrđenim prioritetima i izolatima bakterija od epidemiološkog značaja.
+6) prikupljanje prijava pojedinačnih bolničkih infekcija na propisanom
+obrascu potpisanom od strane lekara koji je bolničku infekciju registrovao i slanje nadležnom
+institutu, odnosno zavodu za javno zdravlje u skladu sa zakonom;
+7) vođenje knjige evidencije bolničkih infekcija registrovanih i prijavljenih
+na nivou ustanove u skladu sa zakonom;
+8) pružanje stručne pomoći doktorima medicine u svakodnevnom radu;
+9) prijavljivanje sumnje na epidemiju bolničkih infekcija doktoru medicine
+specijalisti epidemiologije nadležnog instituta, odnosno zavoda za javno zdravlje na način
+i u roku predviđenim zakonom;
+10) saradnja sa doktorom medicine specijalistom epidemiologije nadležnog
+instituta, odnosno zavoda za javno zdravlje, pri istraživanju epidemije i utvrđivanju preporuka
+i mera za suzbijanje epidemije u skladu sa zakonom;
+11) davanje preporuka zaduženim licima pri planiranju građevinskih radova
+u ustanovi sa aspekta prevencije i suzbijanja bolničkih infekcija;
+12) davanje preporuka zaduženim licima za javne nabavke u ustanovi pri
+planiranju nabavke sredstava za dezinfekciju, sterilizaciju, medicinskog i drugog pribora
+i opreme sa aspekta prevencije i suzbijanja bolničkih infekcija;
+13) organizovanje kontinuirane edukacije za zaposlena lica u zdravstvenoj
+ustanovi, u skladu sa zakonom;
+14) bezbedno čuvanje podataka, u skladu sa zakonom;
+15) pripremanje periodičnih izveštaja koji se, nakon usvajanja od strane
+komisije, dostavljaju nadležnom institutu, odnosno zavodu za javno zdravlje.
+Član 18
+Poslovi zdravstvenog radnika zaduženog za prevenciju i suzbijanje bolničkih
+infekcija iz člana 10. stav 1. tačka 8) ovog pravilnika, u okviru organizacione jedinice
+za bolničke infekcije su:
+1) dnevno prikupljanje podataka o pacijentima koji su u riziku za nastanak
+bolničkih infekcija prema programu i planu ustanove, upisivanje podataka u obrazac za nadzor
+koji je prihvatila i odobrila komisija ustanove i obaveštavanje doktora medicine specijalistu
+epidemiologije iz člana 10. stav 1. tačka 2) ovog pravilnika nadležnog za bolničke infekcije
+o prikupljenim podacima;
+2) učestvovanje u pripremi preporuka i stručno metodoloških uputstava za
+prevenciju i suzbijanje bolničkih infekcija sa aspekta izvođenja sestrinskih procedura;
+3) praćenje primene preporuka i stručno metodoloških uputstava za prevenciju
+i suzbijanje bolničkih infekcija;
+4) dnevni uvid u izdate nalaze mikrobiološke laboratorije;
+5) uvid u rezultate kontrole sterilizacije;
+6) praćenje bolničke infekcije, odnosno kolonizacije prema utvrđenim prioritetima
+i izolatima bakterija od epidemiološkog značaja;
+7) pružanje stručne pomoći zaposlenim licima u svakodnevnom radu;
+8) pružanje pomoći doktoru medicine specijalisti epidemiologije iz člana
+10. stav 1. tačka 2) ovog pravilnika, pri istraživanju epidemije bolničke infekcije i pri
+utvrđivanju preporuka i mera za suzbijanje epidemije;
+9) učestvovanje u kontinuiranoj edukaciji za zaposlena lica u zdravstvenoj
+ustanovi;
+10) bezbedno čuvanje podataka, u skladu sa zakonom.
+Zdravstveni radnik iz stava 1. ovog člana, koji obavlja poslove vezane
+za prevenciju i suzbijanje bolničkih infekcija, za svoj rad neposredno odgovara doktoru medicine
+specijalisti epidemiologije iz člana 10. stav 1. tačka 2) ovog pravilnika.
+Član 19
+Poslovi zdravstvenog radnika iz člana 9. stav 1. tačka 5) i člana 11. stav
+1. tačka 4) ovog pravilnika koji obavlja poslove vezane za prevenciju i suzbijanje bolničkih
+infekcija u ustanovama koje nemaju organizacionu jedinicu za bolničke infekcije su:
+1) učestvovanje u pripremi preporuka za prevenciju i suzbijanje bolničkih
+infekcija;
+2) praćenje primene preporuka, postupaka i mera za prevenciju i suzbijanje
+bolničkih infekcija;
+3) uvid u rezultate kontrole sterilizacije;
+4) praćenje primena mera bezbednog upravljanja opasnim otpadom;
+5) učestvovanje u kontinuiranoj edukaciji za zaposlena lica u zdravstvenoj
+ustanovi.
+4. Uloga instituta, odnosno zavoda za javno zdravlje u epidemiološkom
+nadzoru nad bolničkim infekcijama
+Član 20
+Institut, odnosno zavod za javno zdravlje, organizuje epidemiološki nadzor
+nad bolničkim infekcijama u zdravstvenim ustanovama i drugim subjektima iz člana 1. ovog
+pravilnika na teritoriji za koju je osnovan.
+Institut, odnosno zavod za javno zdravlje:
+1) pruža potrebnu stručno-metodološku pomoć zdravstvenim ustanovama ili
+drugom subjektu iz člana 1. ovog pravilnika tokom organizovanja i izvođenja epidemiološkog
+nadzora nad bolničkim infekcijama;
+2) učestvuje u radu komisije;
+3) prikuplja i analizira dostavljene prijave i izveštaje o bolničkim infekcijama
+iz ustanova na teritoriji svoje nadležnosti;
+4) vrši ispitivanje epidemija bolničkih infekcija u saradnji sa organizacionom
+jedinicom za bolničke infekcije odnosno zdravstvenim radnikom koji obavlja poslove vezane
+za prevenciju i suzbijanje bolničkih infekcija i Komisijom ustanove na teritoriji svoje nadležnosti;
+5) predlaže mere za sprečavanje prenošenja bolničkih infekcija u epidemiji;
+6) organizuje kontinuiranu edukaciju iz oblasti bolničkih infekcija, u
+skladu sa zakonom;
+7) sačinjava izveštaje o bolničkim infekcijama u ustanovama na teritoriji
+svoje nadležnosti i dostavlja ih Zavodu za javno zdravlje osnovanom za teritoriju Republike
+Srbije.
+5. Uloga Zavoda za javno zdravlje osnovanog za teritoriju
+Republike Srbije u epidemiološkom nadzoru nad bolničkim infekcijama
+Član 21
+Zavod za javno zdravlje osnovan za teritoriju Republike Srbije, organizuje
+epidemiološki nadzor nad bolničkim infekcijama u zdravstvenim ustanovama i drugim subjektima
+iz člana 1. stav 2. ovog pravilnika i prati kretanje bolničkih infekcija na teritoriji Republike
+Srbije na osnovu izveštaja instituta, odnosno zavoda za javno zdravlje.
+Zavod za javno zdravlje osnovan za teritoriju Republike Srbije:
+1) organizuje epidemiološki nadzor nad bolničkim infekcijama na teritoriji
+Republike Srbije;
+2) pruža stručnu pomoć u oblasti bolničkih infekcija institutima, odnosno
+zavodima za javno zdravlje na teritoriji Republike Srbije;
+3) koordinira i učestvuje u proceni efikasnosti mera prevencije i nadzora
+nad bolničkim infekcijama na teritoriji Republike Srbije;
+4) priprema izveštaje dva puta godišnje o kretanju bolničkih infekcija
+na osnovu podataka instituta, odnosno zavoda za javno zdravlje na teritoriji Republike Srbije
+i dostavlja ih Republičkoj stručnoj komisiji za nadzor nad bolničkim infekcijama i ministarstvu
+nadležnom za poslove zdravlja;
+5) priprema republičke programe, planove, preporuke (vodiče) i stručno
+metodološka uputstva za njihovu primenu iz oblasti prevencije bolničkih infekcija i nadzora
+nad bolničkim infekcijama u saradnji sa institutima, odnosno zavodima za javno zdravlje,
+referentnim zdravstvenim ustanovama i Republičkom stručnom komisijom za nadzor nad bolničkim
+infekcijama u skladu sa zakonom;
+6) organizuje kontinuiranu edukaciju iz oblasti prevencije i suzbijanja
+bolničkih infekcija, u skladu sa zakonom;
+7) pruža neophodne informacije ministarstvu nadležnom za poslove zdravlja
+u pogledu bolničkih infekcija u zdravstvenim ustanovama i drugim subjektima iz člana 1. stav
+2. ovog pravilnika.
+8) obavlja stručne, administrativne, tehničke i informativne poslove za
+potrebe Republičke stručne komisije za nadzor nad bolničkim infekcijama, u skladu sa zakonom.
+6. Uloga Republičke stručne komisije za nadzor nad bolničkim
+infekcijama
+Član 22
+Republičku stručnu komisiju za nadzor nad bolničkim infekcijama, na predlog
+Zavoda za javno zdravlje osnovanog za teritoriju Republike Srbije i referentnih zdravstvenih
+ustanova, obrazuje ministar u skladu sa zakonom.
+Republička stručna komisija za nadzor nad bolničkim infekcijama iz stava
+1. ovog člana:
+1) učestvuje u pripremi republičkih programa, planova, preporuka (vodiča)
+i stručno metodoloških uputstava iz oblasti prevencije bolničkih infekcija i nadzora nad
+bolničkim infekcijama,
+2) razmatra godišnje izveštaje o kretanju bolničkih infekcija koje priprema
+Zavod za javno zdravlje osnovan za teritoriju Republike Srbije,
+3) razmatra uspešnost sprovođenja mera prevencije bolničkih infekcija i
+nadzora nad bolničkim infekcijama i uspešnost realizovanih republičkih programa, planova
+i stručno metodoloških uputstava i daje zaključke i preporuke za unapređenje zaštite stanovništva
+od bolničkih infekcija,
+4) pruža neophodne informacije ministarstvu nadležnom za poslove zdravlja,
+u vezi sa bolničkim infekcijama u zdravstvenim ustanovama.
+III MERE ZA PREVENCIJU I SUZBIJANJE BOLNIČKIH INFEKCIJA
+Član 23
+Prevencija i suzbijanje bolničkih infekcija predstavlja skup aktivnosti
+u oblasti bezbednosti pacijenata tokom pružanja zdravstvene zaštite, kao i bezbednosti zaposlenih
+lica. U sprovođenju tih aktivnosti odgovorni su svi zaposleni u zdravstvenoj ustanovi i drugim
+subjektima iz člana 1. ovog pravilnika.
+Član 24
+Mere za prevenciju i suzbijanje bolničkih infekcija koje se sprovode u
+skladu sa zakonom i sadržane su u procedurama i stručno metodološkim uputstvima su:
+1) pregled, trijaža i sanitarna obrada bolesnika pri prijemu na bolničko
+lečenje i prema kliničkim indikacijama, mikrobiološka i epidemiološka obrada bolesnika;
+2) sprovođenje sanitarno-higijenskih postupaka pri radu, propisano ponašanje
+zaposlenih, bolesnika i posetilaca unutar zdravstvene ustanove i drugih subjekata iz člana
+1. ovog pravilnika;
+3) čišćenje, pranje, dezinfekcija svih radnih površina i pripadajuće opreme
+i provetravanje radnih prostorija;
+4) higijena ruku, radne odeće i obuće;
+5) dezinfekcija instrumenata i medicinskog pribora;
+6) sterilizacija opreme i pribora za medicinske postupke;
+7) aseptični postupci pri radu;
+8) prikupljanje, razvrstavanje, pranje, sterilizacija i transport rublja
+na način da se izbegne ukrštanje puteva "čisto-nečisto";
+9) obezbeđivanje zdravstvene bezbednosti namirnica, uključujući vodu za
+piće, i redovnu kontrolu njene zdravstvene ispravnosti, kao i obezbeđivanje sanitarno-tehničkih
+i higijenskih uslova prilikom prijema, čuvanja i podele hrane;
+10) obezbeđivanje zdravstvene ispravnosti i kvaliteta vode za potrebe hemodijalize;
+11) obezbeđivanje kvaliteta vazduha;
+12) dezinfekcija, dezinsekcija i deratizacija u ustanovi i neposrednoj
+okolini;
+13) bezbedno upravljanje medicinskim otpadom;
+14) rano otkrivanje i lečenje obolelih od bolničkih infekcija, izolacija
+obolelih, odnosno kolonizovanih prema epidemiološkim indikacijama i prioritetima;
+15) prikupljanje podataka, evidentiranje bolničkih infekcija, prijavljivanje
+bolničkih infekcija, analiza i izveštavanje o bolničkim infekcijama;
+16) praćenje i suzbijanje rezistencije pojedinih vrsta mikroorganizama
+na antimikrobne lekove, praćenje potrošnje antibiotika i protokolisana upotreba antibiotika;
+17) upisivanje rezultata lekarskog pregleda, epidemiološke i mikrobiološke
+obrade u izveštaj, a u otpusnoj listi pacijenta upisivanje prisustvo mikroorganizama sa značajnim
+oblicima rezistencije, kao uzročnika infekcije ili kolonizacije, kao i preporuka o daljem
+lečenju ili zaštiti pacijenta;
+18) sprovođenje preventivnih i specifičnih mera kod pacijenata i zdravstvenih
+radnika, zdravstvenih saradnika i drugih zaposlenih lica (imunizacija, hemoprofilaksa, seroprofilaksa);
+19) zbrinjavanje, prijavljivanje i praćenje zdravstvenih radnika, zdravstvenih
+saradnika i drugih zaposlenih lica, prilikom ozleda oštrim predmetima u zdravstvenoj ustanovi
+i drugom subjektu iz člana 1. stav 2. ovog pravilnika i kontaminacije kože i sluzokože biološkim
+materijalom, posebno onih lica koja su profesionalno izložena potencijalno infektivnom materijalu;
+20) obezbeđivanje sanitarno-higijenske i tehničke ispravnosti objekta,
+opreme i instalacija prema medicinskim potrebama;
+21) kontinuirana edukacija edukatora - članova organizacione jedinice za
+bolničke infekcije o epidemiologiji bolničkih infekcija, metodologiji epidemiološkog nadzora
+i savremenim metodama prevencije i suzbijanja bolničkih infekcija baziranim na dokazima,
+kao i nadzora nad sanitarno-higijenskim uslovima;
+22) kontinuirana edukacija zaposlenih lica o savremenim metodama prevencije
+i suzbijanja bolničkih infekcija baziranim na dokazima, u skladu sa zakonom.
+Član 25
+Procedure i stručno metodološka uputstva sprovođenja mera iz člana 24.
+ovog pravilnika sastavni su deo programa iz člana 5. stav 1. ovog pravilnika.
+IV PRELAZNA I ZAVRŠNA ODREDBA
+Član 26
+Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o sprečavanju,
+ranom otkrivanju i suzbijanju bolničkih infekcija ("Službeni glasnik RS", broj
+77/15).
+Član 27
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+glasniku Republike Srbije" a odredbe člana 9. stav 2, člana 10. stav 2. i člana 15.
+stav 6. ovog pravilnika važe do 31. decembra 2025. godine.
