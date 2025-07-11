@@ -836,6 +836,81 @@
                 display: none; /* Hide coffee button on very small screens */
             }
         }
+
+        /* Collapsible panel styles */
+        .collapsible-panel {
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+            padding: 0.5em 1em 1em 1em;
+            margin: 0.5em;
+            max-width: 90vw;
+            z-index: 1000;
+            position: fixed;
+            left: 0.5em;
+            top: 1.5em;
+            transition: transform 0.3s, opacity 0.3s;
+        }
+        .panel-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: bold;
+            padding-bottom: 0.3em;
+        }
+        .collapse-btn {
+            background: none;
+            border: none;
+            font-size: 1.2em;
+            cursor: pointer;
+            border-radius: 4px;
+            width: 2em;
+            height: 2em;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .show-panel-btn {
+            position: fixed;
+            left: 0.5em;
+            top: 1.5em;
+            z-index: 1001;
+            background: #fff;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            width: 2.2em;
+            height: 2.2em;
+            font-size: 1.3em;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+        }
+        .legend-panel {
+            left: unset;
+            right: 0.5em;
+            top: unset;
+            bottom: 1.5em;
+            max-width: 80vw;
+        }
+        .legend-btn {
+            left: unset;
+            right: 0.5em;
+            top: unset;
+            bottom: 1.5em;
+        }
+        @media (max-width: 600px) {
+            .collapsible-panel, .legend-panel {
+                max-width: 95vw;
+                font-size: 0.95em;
+                padding: 0.3em 0.5em 0.7em 0.5em;
+            }
+            .show-panel-btn {
+                width: 2em;
+                height: 2em;
+                font-size: 1.1em;
+            }
+        }
     </style>
 </head>
 <body>
@@ -859,10 +934,13 @@
     <!-- Floating toggle button -->
     <button id="floatingToggle" class="floating-toggle" onclick="toggleInfoBar()">ℹ️ Informacije</button>
     
-    <div class="control-panel">
-        <button class="control-panel-toggle" onclick="toggleControlPanel()" title="Sakrij/Prikaži kontrole">◀</button>
-        <h3>🎛️ Kontrole</h3>
-        
+    <!-- Add collapsible control panel -->
+    <div id="control-panel" class="collapsible-panel">
+      <div id="control-panel-header" class="panel-header">
+        <span>Kontrole</span>
+        <button id="collapse-control-panel" class="collapse-btn" aria-label="Sakrij kontrole">&#x25C0;</button>
+      </div>
+      <div id="control-panel-content">
         <div class="control-group">
             <label>🗺️ Tip mape:</label>
             <select id="tileSelector" onchange="changeTileLayer()">
@@ -892,9 +970,17 @@
             <div id="dateRangeSlider"></div>
         </div>
         <!-- Removed Dodaj požar button -->
+      </div>
     </div>
+    <button id="show-control-panel" class="show-panel-btn" style="display:none;" aria-label="Prikaži kontrole">&#x25A1;</button>
     
-    <div class="legend">
+    <!-- Only keep the new collapsible legend-panel and its button -->
+    <div id="legend-panel" class="collapsible-panel legend-panel">
+      <div id="legend-panel-header" class="panel-header">
+        <span>Legenda</span>
+        <button id="collapse-legend-panel" class="collapse-btn" aria-label="Sakrij legendu">&#x25C0;</button>
+      </div>
+      <div id="legend-panel-content">
         <h4>Legenda</h4>
         <div class="legend-item">
             <div class="legend-color" style="background-color: #4CAF50;"></div>
@@ -904,7 +990,9 @@
             <div class="legend-color" style="background-color: transparent; font-size: 20px;">🔥</div>
             <span>Prijave požara</span>
         </div>
+      </div>
     </div>
+    <button id="show-legend-panel" class="show-panel-btn legend-btn" style="display:none;" aria-label="Prikaži legendu">&#x25A1;</button>
 
     <!-- GPS Input Modal -->
     <div id="gpsModal" class="modal">
@@ -1661,6 +1749,32 @@
             infoBar.classList.toggle('collapsed');
             floatingToggle.classList.toggle('visible');
         }
+
+        // Collapsible control panel logic
+        const controlPanel = document.getElementById('control-panel');
+        const collapseControlBtn = document.getElementById('collapse-control-panel');
+        const showControlPanelBtn = document.getElementById('show-control-panel');
+        collapseControlBtn.onclick = function() {
+            controlPanel.style.display = 'none';
+            showControlPanelBtn.style.display = 'flex';
+        };
+        showControlPanelBtn.onclick = function() {
+            controlPanel.style.display = 'block';
+            showControlPanelBtn.style.display = 'none';
+        };
+
+        // Collapsible legend logic
+        const legendPanel = document.getElementById('legend-panel');
+        const collapseLegendBtn = document.getElementById('collapse-legend-panel');
+        const showLegendPanelBtn = document.getElementById('show-legend-panel');
+        collapseLegendBtn.onclick = function() {
+            legendPanel.style.display = 'none';
+            showLegendPanelBtn.style.display = 'flex';
+        };
+        showLegendPanelBtn.onclick = function() {
+            legendPanel.style.display = 'block';
+            showLegendPanelBtn.style.display = 'none';
+        };
 
         // Control Panel Toggle for Mobile
         function toggleControlPanel() {
