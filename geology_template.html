@@ -708,7 +708,7 @@
       <div class="info-bar-content">
         <button class="info-bar-toggle" id="infoBarToggle" onclick="toggleInfoBar()" title="Sakrij/Prikaži info">⮝</button>
         <div class="info-bar-title">
-          🇷🇸 Interaktivna mapa sa lokacijama rudarskih istraživanja i požarima. 📊 Podaci: Geo Srbija (geologija) + NASA FIRMS (požari)
+          🇷🇸 Interaktivna mapa sa lokacijama rudarskih istražnih radnji i požarima. 📊 Podaci: Geo Srbija (geologija) + NASA FIRMS (požari)
         </div>
         <span class="info-bar-bmc">
           <a href="https://coff.ee/agatonovic" target="_blank" rel="noopener">
@@ -961,8 +961,7 @@
                                 popupContent += `<p><strong>Opis:</strong> ${props.OPIS}</p>`;
                             }
                             
-                            popupContent += `<p><strong>Lokacija:</strong> ${props.latitude?.toFixed(4) || ''}, ${props.longitude?.toFixed(4) || ''}</p>
-                            </div>`;
+                            popupContent += `<p><strong>Lokacija:</strong> ${props.latitude?.toFixed(4) || ''}, ${props.longitude?.toFixed(4) || ''}</p>`;
                             layer.bindPopup(popupContent);
                         }
                     }
