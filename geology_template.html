@@ -941,9 +941,9 @@
                             const props = feature.properties;
                             // Create popup content for geological features
                             let popupContent = `<div style="font-family: Arial, sans-serif; max-width: 350px;">
-                                <h3 style="color: #2c3e50;">🏔️ ${props.NAZIV || 'Geološki objekat'}</h3>
-                                <p><strong>Tip:</strong> ${props.TIP || 'Nije navedeno'}</p>
-                                <p><strong>Kategorija:</strong> ${props.KATEGORIJA || 'Nije navedeno'}</p>`;
+                                <h3 style="color: #2c3e50;">🏔️ ${props.LOKALNOST || 'Geološki objekat'}</h3>
+                                <p><strong>Mineral/Sirovina:</strong> ${props.SIROVINA || 'Nije navedeno'}</p>
+                                <p><strong>Lokalnost:</strong> ${props.LOKALNOST || 'Nije navedeno'}</p>`;
                             
                             if (props.NPO) {
                                 popupContent += `<p><strong>NPO:</strong> ${props.NPO}</p>`;
