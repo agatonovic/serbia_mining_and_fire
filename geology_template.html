@@ -937,7 +937,6 @@
     <!-- Add collapsible control panel -->
     <div id="control-panel" class="collapsible-panel">
       <div id="control-panel-header" class="panel-header">
-        <span>Kontrole</span>
         <button id="collapse-control-panel" class="collapse-btn" aria-label="Sakrij kontrole">&#x25C0;</button>
       </div>
       <div id="control-panel-content">
@@ -977,11 +976,9 @@
     <!-- Only keep the new collapsible legend-panel and its button -->
     <div id="legend-panel" class="collapsible-panel legend-panel">
       <div id="legend-panel-header" class="panel-header">
-        <span>Legenda</span>
         <button id="collapse-legend-panel" class="collapse-btn" aria-label="Sakrij legendu">&#x25C0;</button>
       </div>
       <div id="legend-panel-content">
-        <h4>Legenda</h4>
         <div class="legend-item">
             <div class="legend-color" style="background-color: #4CAF50;"></div>
             <span>Geološki podaci</span>
@@ -1078,8 +1075,15 @@
     </div>
 
     <script>
-        // Initialize main map
-        const map = L.map('map').setView([44.0165, 21.0059], 7);
+        // Initialize main map with custom attribution
+        const map = L.map('map', {
+            attributionControl: false // Disable default attribution
+        }).setView([44.0165, 21.0059], 7);
+
+        // Add custom attribution without Ukrainian flag
+        L.control.attribution({
+            prefix: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
         
         // Tile layer definitions
         const tileLayers = {
