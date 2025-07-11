@@ -13,7 +13,7 @@ An interactive web application for visualizing mining research locations and fir
 ## Demo (GitHub Pages)
 The static frontend is available at:
 ```
-https://YOUR_USERNAME.github.io/YOUR_REPO/
+https://agatonovic.github.io/serbia_mining_and_fire/
 ```
 
 ## Local Development
@@ -21,30 +21,31 @@ https://YOUR_USERNAME.github.io/YOUR_REPO/
 You can test the static HTML/JS frontend locally:
 ```sh
 python -m http.server 8000
-# Then open http://localhost:8000/geology_template.html
 ```
+Then open `http://localhost:8000/geology_template.html` in your browser.
 
-### 2. Backend (API/Streamlit)
-If you want to run the backend (for fire reporting, database, etc):
+### 2. Backend (Streamlit Dashboard)
+For the full backend with data processing:
 ```sh
 pip install -r requirements.txt
-python simple_api_server.py
-# or
 streamlit run main.py
 ```
 
-## Deployment to GitHub Pages
-1. Push all static files (HTML, JS, CSS, images, JSON) to the repo root.
-2. Rename your main HTML file to `index.html` or add a redirect `index.html`:
-```html
-<meta http-equiv="refresh" content="0; url=geology_template.html">
-```
-3. Enable GitHub Pages in repo settings (branch: main, folder: /root).
-4. Visit your published site at the URL above.
+## Project Structure
+- `geology_template.html` - Main interactive map interface
+- `geology_data.json` - Serbian geological data (Geo Srbija)
+- `fire_data.json` - NASA FIRMS fire data
+- `assets/` - Static assets (CSS, JS, images)
+- `datasets/` - Additional Serbian datasets
+- `requirements.txt` - Python dependencies
 
 ## Data Sources
-- [Geo Srbija](https://geosrbija.rs/)
-- [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/)
+- **Geology**: Geo Srbija (Serbian Geological Survey)
+- **Fire Data**: NASA FIRMS (Fire Information for Resource Management System)
+- **Additional Data**: Various Serbian government datasets
+
+## Deployment
+This project is deployed on GitHub Pages. The static frontend is automatically served from the main branch.
 
 ## License
-MIT
+This project is open source and available under the MIT License.
